@@ -1,0 +1,26 @@
+# Mazovia
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = polish
+religion = animism
+clear_scripted_personalities = yes
+capital = 256
+1440.2.8 = {
+	monarch = {
+		name = "Pawel"
+		birth_date = 1424.2.8
+		dynasty = "Kujawski"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 256
+	add_treasury = 6
+	add_prestige = 5
+}

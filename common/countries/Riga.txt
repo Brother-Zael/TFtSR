@@ -1,0 +1,42 @@
+#Country Name: Riga
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 10 9 9 } 
+
+historical_idea_groups = {
+	innovative_ideas
+	strategic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	Olafsson #1" = 40
+	Helgassdottr #1" = 10
+	Rurikovich #0" = 0
+	Oselovich #0" = 10
+	Pskovovich #0" = 0
+}
+
+leader_names = {
+	Helga Holdr Ottar Ullfr
+	}

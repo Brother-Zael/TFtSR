@@ -1,0 +1,37 @@
+# Serbia
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = serbian
+religion = animism
+clear_scripted_personalities = yes
+capital = 1827
+1443.1.1 = {
+	monarch = {
+		name = "Vojislav"
+		birth_date = 1410.1.1
+		dynasty = "Vlastimirovic"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = bold_fighter_personality
+	heir = {
+		name = "Radoslav"
+		monarch_name = "Radoslav"
+		dynasty = "Vlastimirovic"
+		birth_date = 1430.1.1
+		death_date = 1510.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 1827
+	add_treasury = 8
+	add_prestige = 11
+}

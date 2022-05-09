@@ -1,0 +1,30 @@
+#Country Name: Hungary
+#Mission Event Formable Country
+
+graphical_culture = westerngfx
+
+color = { 22 21 21 } 
+
+historical_idea_groups = {
+	influence_ideas
+	aristocracy_ideas
+	quantity_ideas
+	economic_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+
+monarch_names = {
+	Arpad #1" = 40
+	Palaeologus #1" = 0
+	Asen #1" = 0
+}
+
+leader_names = {
+	Alp Bogat Dursac Lehel Apor Kisa Taksony Sur Theodric Justinian John Matthias
+	}

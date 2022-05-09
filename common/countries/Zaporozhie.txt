@@ -1,0 +1,47 @@
+#Country Name: Zaporozhie
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 15 15 14 } 
+
+historical_idea_groups = {
+	aristocracy_ideas
+	humanist_ideas
+	strategic_ideas
+	trade_ideas
+	jurisprudence_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	Zaluzhnyi #1" = 10
+	Zaveski #1" = 10
+	Tukochevsky #0" = 0
+	Savesky #0" = 0
+	Arnulf #0" = 0
+	Jagellion #0" = 0
+	Arpad #0" = 0
+}
+
+leader_names = {
+	Zoltan Piotrsson Kazanak
+	}

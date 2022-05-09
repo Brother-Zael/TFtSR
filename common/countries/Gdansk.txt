@@ -1,0 +1,46 @@
+#Country Name: Gdansk
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 13 13 12 } 
+
+historical_idea_groups = {
+	innovative_ideas
+	naval_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	Auctome #1" = 40
+	Viestars #1" = 10
+	Monte #1" = 10
+	Gediminas #0" = 10
+	Diwanus #0" = 10
+	Rurikovich #0" = 0
+	Sigurdr #0" = 0
+	Piast #0" = 0
+	Somme #0" = 0
+}
+
+leader_names = {
+	Swietopelk Hurko Muntas
+	}

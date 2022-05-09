@@ -1,0 +1,20 @@
+#Country Name: Magyar
+#Starting Country
+
+graphical_culture = nomadicgfx
+
+color = { 22 21 21 } 
+
+historical_idea_groups = {
+	influence_ideas
+}
+
+monarch_names = {
+	Arpad #1" = 40
+	Palaeologus #1" = 0
+	Asen #1" = 0
+}
+
+leader_names = {
+	Alp Bogat Dursac Lehel Apor Kisa Taksony Sur
+	}

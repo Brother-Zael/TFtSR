@@ -1,0 +1,43 @@
+#Country Name: Veneti
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 13 13 13 } 
+
+historical_idea_groups = {
+	offensive_ideas
+	maritime_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	Fritigern #1" = 20
+	Saphrax #1" = 10
+	Monte #0" = 0
+	Auctome #0" = 0
+	Gediminas #0" = 10
+	Rurikovich #0" = 0
+}
+
+leader_names = {
+	Saphrax Vitiges Eraric Teia
+	}

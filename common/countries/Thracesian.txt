@@ -1,0 +1,24 @@
+#Country Name: Thracesians
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 22 22 22 } 
+
+historical_idea_groups = {
+	offensive_ideas
+	humanist_ideas
+	naval_ideas	
+}
+
+monarch_names = {
+	Diogenes #1" = 40
+	Makedonii #1" = 20
+	Tourkos #0" = 0
+	Kontomytes #0" = 0
+	Lachanodrakon #0" = 0
+}
+
+leader_names = {
+	Constantine Justinian Petronas Bardanes Mikael Michael Peter Philip Artabassados
+	}

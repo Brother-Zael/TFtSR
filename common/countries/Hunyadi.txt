@@ -1,0 +1,24 @@
+#Country Name: Hunyadi Militant Order of Christ
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 18 17 17 } 
+
+historical_idea_groups = {
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+
+monarch_names = {
+	Hunyadi #1" = 50
+}
+
+leader_names = {
+	Janos Voyk John Corvinus Ladislaus Matthias 
+	}

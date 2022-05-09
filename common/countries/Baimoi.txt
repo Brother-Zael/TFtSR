@@ -1,0 +1,30 @@
+#Country Name: Baimoi
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 17 16 16 } 
+
+historical_idea_groups = {
+	quantity_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+}
+
+monarch_names = {
+	Agilolfing #1" = 40
+	Žižka #1" = 10
+	Lething #1" = 0
+	Vitt #0" = 0
+	Gepidii #0" = 10
+	Wisgaard #0" = 0
+}
+
+leader_names = {
+	Theodo Gislard Garipald Vuldet Clothar Coltaire
+	}

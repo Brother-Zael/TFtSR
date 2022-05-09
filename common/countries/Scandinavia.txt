@@ -1,0 +1,44 @@
+#Country Name: Scandinavia
+#Formable Country, End Tag
+
+graphical_culture = westerngfx
+
+color = { 1 1 1 } 
+
+historical_idea_groups = {
+	offensive_ideas
+	exploration_ideas
+	religious_ideas
+	quality_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	Cnutson #1" = 40
+	Sigmund #1" = 10
+	Gustav #1" = 20
+	Sigmundson #1" = 10
+	Nygaard #1" = 10
+	Upplandr #0" = 0
+}
+
+leader_names = {
+	Karl Hildr Baldr Scane Aaland Axel Riis Oscarr Nyhus Tranum Trygg Bonde Bell Kron Pihl Ring Hjorth
+	}

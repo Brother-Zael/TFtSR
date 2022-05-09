@@ -1,0 +1,42 @@
+#Country Name: Warszawa
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 12 11 11 } 
+
+historical_idea_groups = {
+	quantity_ideas
+	economic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	Popielid #1" = 40
+	Piast #1" = 10
+	Rurikovich #0" = 0
+	Somme #0" = 0
+	Pskovovich #0" = 0
+}
+
+leader_names = {
+	Mieszko Leszko Henri Władysław
+	}

@@ -1,0 +1,26 @@
+#Country Name: Sweden
+#Formable Country
+
+graphical_culture = gfx
+
+color = { 1 2 1 } 
+
+historical_idea_groups = {
+	
+}
+
+historical_units = {
+
+}
+
+monarch_names = {
+	Gustav #1" = 40
+}
+
+leader_names = {
+	
+	}
+
+ship_names = {
+	
+	}

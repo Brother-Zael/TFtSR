@@ -1,0 +1,37 @@
+# Epirus
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = serbian
+religion = animism
+clear_scripted_personalities = yes
+capital = 4699
+1441.1.1 = {
+	monarch = {
+		name = "Budimir"
+		birth_date = 1415.1.1
+		dynasty = "Petrovic"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = scholar_personality
+	heir = {
+		name = "Uros"
+		monarch_name = "Uros"
+		dynasty = "Petrovic"
+		birth_date = 1436.1.1
+		death_date = 1516.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_heir_personality = careful_personality
+}
+1444.11.11 = {
+	capital = 4699
+	add_treasury = 7
+	add_prestige = 5
+}

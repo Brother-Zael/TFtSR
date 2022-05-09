@@ -1,0 +1,27 @@
+#Country Name: Pechenegs ("The One Who Makes")
+#Starting Country
+
+graphical_culture = nomadicgfx
+
+color = { 25 25 25 } 
+
+historical_idea_groups = {
+	offensive_ideas
+	influence_ideas
+	religious_ideas
+}
+
+monarch_names = {
+	Erdim #1" = 40
+	Čur #1" = 10
+	Yula #1" = 10
+	Suru-Kül #1" = 0
+	Qara-Bey #1" = 0
+	Tolmač #1" = 0
+	Qap(ğ)an #1" = 0
+	Čopan #1" = 0
+}
+
+leader_names = {
+	Bay-ča Küğel Qorqutai Ipa Qaydum Qosta Yazi Bata
+	}

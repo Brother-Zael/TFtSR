@@ -1,0 +1,26 @@
+# Transylvania
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = avar
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 1951
+1437.1.1 = {
+	monarch = {
+		name = "Yani"
+		birth_date = 1403.1.1
+		dynasty = "Yantsukh"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 1951
+	add_treasury = 6
+	add_prestige = 21
+}

@@ -1,0 +1,25 @@
+#Country Name: Nizhny Novgorod
+#Starting Country
+
+graphical_culture = nomdicgfx
+
+color = { 7 7 7 } 
+
+historical_idea_groups = {
+	horde_ideas
+	jurisprudence_ideas
+	trade_ideas	
+}
+
+historical_units = {
+
+}
+
+monarch_names = {
+	altan #1" = 10
+	kultai #0" = 0
+}
+
+leader_names = {
+	Alp Izhkarski Permskya
+	}

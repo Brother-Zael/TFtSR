@@ -1,0 +1,35 @@
+#Country Name: Ostrogothic
+#Mission Event Formable Country
+
+graphical_culture = easterngfx
+
+color = { 19 18 18 } 
+
+historical_idea_groups = {
+	quantity_ideas
+	jurisprudence_ideas
+	offensive_ideas
+	maritime_ideas
+	spy_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+}
+
+monarch_names = {
+	Amali #1" = 40
+	Strabo #1" = 10
+	Uroš #0" = 0
+	Gepid #0" = 0
+	Arpad #0" = 0
+	Lething #0" = 0
+	Agilolfing #1" = 10
+}
+
+leader_names = {
+	Stefan Theodomir Theoderic Zeno Aspar Alric Athalric Theodhad Vitiges Justinian Valamir Antinios Augustus Issac
+	}

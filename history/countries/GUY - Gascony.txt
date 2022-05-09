@@ -1,0 +1,37 @@
+# Gascogne
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = basque
+religion = catholic
+clear_scripted_personalities = yes
+capital = 175
+1443.1.1 = {
+	monarch = {
+		name = "Lope II"
+		birth_date = 1395.1.1
+		dynasty = "de Vasconia"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = conqueror_personality
+	heir = {
+		name = "Ximeno"
+		monarch_name = "Ximeno"
+		dynasty = "de Vasconia"
+		birth_date = 1415.1.1
+		death_date = 1495.1.1
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+	add_heir_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 175
+	add_treasury = 6
+	add_prestige = 4
+}

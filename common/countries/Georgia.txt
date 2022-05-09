@@ -1,0 +1,21 @@
+#Country Name: Georgia (Coptic)
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 25 24 24 } 
+
+historical_idea_groups = {
+	defesnive_ideas
+	maritime_ideas
+	economic_ideas
+	offensive_ideas
+}
+
+monarch_names = {
+	Bagrationi #1" = 40
+}
+
+leader_names = {
+	Tamar George Solomon Erekle Pyotr David Teimuraz Bagrat Heraclius Luarsab
+	}

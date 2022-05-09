@@ -1,0 +1,23 @@
+#Country Name: Yerevan (Coptic)
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 25 25 24 } 
+
+historical_idea_groups = {
+	defesnive_ideas
+	trade_ideas
+	economic_ideas
+	quality_ideas
+}
+
+monarch_names = {
+	Arascid #1" = 20
+	Artaxiad #1" = 10
+	Bagrationi #1" = 0
+}
+
+leader_names = {
+	Artashes Tigrames Erato Artavasedes David Teimuraz Bagrat Heraclius Luarsab
+	}

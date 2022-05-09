@@ -1,0 +1,44 @@
+#Country Name: Saratov
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 8 8 7 } 
+
+historical_idea_groups = {
+	quantity_ideas
+	humanist_ideas
+	strategic_ideas	
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	Yurievski #1" = 40
+	Samaranski #1" =10
+	Rurikovich #1" = 10
+	Kashinski #1" = 10
+	Pskovovich #0" = 0
+	Vologdavich #0" = 0
+}
+
+leader_names = {
+	Rurik Samaran Vasiliey Dmitri Podov
+	}

@@ -1,0 +1,22 @@
+#Country Name: Kariin (armernian coptic)
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 24 24 23 } 
+
+historical_idea_groups = {
+	defesnive_ideas
+	maritime_ideas
+}
+
+monarch_names = {
+	Arascid #1" = 40
+	Artaxiad #0" = 0
+	Afshar #0" = 0
+	
+}
+
+leader_names = {
+	Artashes Tigrames Erato Artavasedes
+	}

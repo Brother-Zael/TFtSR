@@ -1,0 +1,22 @@
+#Country Name: Kariin (armernian coptic)
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 24 24 24 } 
+
+historical_idea_groups = {
+	defesnive_ideas
+	economic_ideas
+	trade_ideas
+	spy_ideas
+	jurisprudence_ideas
+}
+
+monarch_names = {
+	Ayyubid #1" = 40
+}
+
+leader_names = {
+	Al-Nasir Al-Aziz Al-Mansur Al-Adil Al-Kamil As-Salih Shajar Al-Ashraf
+	}

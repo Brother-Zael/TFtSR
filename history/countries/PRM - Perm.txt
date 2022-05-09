@@ -1,0 +1,36 @@
+# Perm
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = komi
+religion = animism
+clear_scripted_personalities = yes
+capital = 305
+1443.1.1 = {
+	monarch = {
+		name = "Omurtag"
+		birth_date = 1413.1.1
+		dynasty = "Permyakid"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = secretive_personality
+	heir = {
+		name = "Omurtag"
+		monarch_name = "Omurtag II"
+		dynasty = "Permyakid"
+		birth_date = 1440.1.1
+		death_date = 1520.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 305
+	add_treasury = 6
+	add_prestige = 6
+}

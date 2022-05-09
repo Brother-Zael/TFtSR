@@ -1,0 +1,25 @@
+#Country Name: Cibyrrhaeots
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 23 23 22 } 
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	maritime_ideas
+	quality_ideas
+}
+
+monarch_names = {
+	Syllaion #1" = 40
+	Makedonii #1" = 0
+	Apsimarus #0" = 0
+	Kontomytes #0" = 20
+	Komnenos #0" = 0
+}
+
+leader_names = {
+	Constantine Justinian Petronas Bardanes Mikael Michael Peter Philip Artabassados Tiberuius
+	}

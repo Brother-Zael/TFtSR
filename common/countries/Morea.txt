@@ -1,0 +1,32 @@
+#Country Name: Morea
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 21 21 21 } 
+
+historical_idea_groups = {
+	aristocracy_ideas
+	innovative_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+
+monarch_names = {
+	Palaeologus #1" = 10
+	Mamertinus #1" = 0
+	Caeserinius #1" = 0
+	Kantakouzenos #1" = 40
+	Stilicho #0" = 0
+	Maniakes #0" = 0
+	Sigurdsson #0" = 0
+}
+
+leader_names = {
+	Diocletian Claudius Decimius Aramis Procupius Donatus Justinian Demetrios Maniakes Harald Rollo Ulfric Ragnar Ivan
+	}

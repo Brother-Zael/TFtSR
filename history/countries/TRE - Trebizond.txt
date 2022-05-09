@@ -1,0 +1,26 @@
+# Trebizond
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = iconoclast
+clear_scripted_personalities = yes
+capital = 330
+1444.1.1 = {
+	monarch = {
+		name = "Konstantios"
+		birth_date = 1424.1.1
+		dynasty = "Krinites"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 330
+	add_treasury = 6
+	add_prestige = 5
+}

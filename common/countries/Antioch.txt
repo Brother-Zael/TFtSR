@@ -1,0 +1,20 @@
+#Country Name: Antioch (Orthodox vassal of Caliph)
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 23 23 23 } 
+
+historical_idea_groups = {
+	quantity_ideas
+	jurisprudence_ideas
+	diplomatic_ideas
+}
+
+monarch_names = {
+	Stylites #1" = 40
+}
+
+leader_names = {
+	Constantine Justinian Petronas Bardanes Mikael Michael Peter Philip Artabassados Tiberuius Vahmanzadegan Khosrau Yosef
+	}

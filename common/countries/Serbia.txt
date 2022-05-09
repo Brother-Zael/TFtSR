@@ -1,0 +1,35 @@
+#Country Name: Srbija
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 18 18 18 } 
+
+historical_idea_groups = {
+	quality_ideas
+	maritime_ideas
+	economic_ideas
+	aristocracy_ideas
+	religious_ideas
+	naval_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+}
+
+monarch_names = {
+	Uroš #1" = 40
+	Gepid #0" = 0
+	Arpad #0" = 0
+	Alexander #0" = 10
+	Nemanjic-Subic #1" = 0
+	Hrebeljanovic #1" = 0
+}
+
+leader_names = {
+	Stefan Stefanus Piotr Mladen Lazar
+	}

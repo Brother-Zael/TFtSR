@@ -1,0 +1,21 @@
+#Country Name: Antioch (Orthodox vassal of Caliph)
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 24 23 23 } 
+
+historical_idea_groups = {
+	defesnive_ideas
+}
+
+monarch_names = {
+	Marwanid #1" = 40
+	Rawadid #1" = 0
+	Ghanmids #0" = 10
+	
+}
+
+leader_names = {
+	Al-Hasan Sharwin Mumahhid Nizam Nasr Nasir
+	}

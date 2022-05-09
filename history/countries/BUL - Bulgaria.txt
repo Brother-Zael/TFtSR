@@ -1,0 +1,37 @@
+# Bulgaria
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = bolghar
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 2750
+1443.1.1 = {
+	monarch = {
+		name = "Telerig"
+		birth_date = 1395.1.2
+		dynasty = "Dulo"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = secretive_personality
+	heir = {
+		name = "Dizeng"
+		monarch_name = "Dizeng"
+		dynasty = "Dulo"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+	add_heir_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 2750
+	add_treasury = 9
+	add_prestige = 97
+}

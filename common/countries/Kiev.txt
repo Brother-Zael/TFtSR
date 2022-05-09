@@ -1,0 +1,41 @@
+#Country Name: Kiev
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 16 16 16 } 
+
+historical_idea_groups = {
+	offensive_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	Rurikovich #1" = 40
+	Cherkasky #0" = 0
+	Oselovich #0" = 0
+	Pskovovich #0" = 0
+	Zhytomyr #0" = 0
+}
+
+leader_names = {
+	Zellyr Hullr Rurik Ulfrik Trygg Helga Holdr Ottar Ullfr
+}

@@ -1,0 +1,32 @@
+#Country Name: Slovakia
+#Starting Country -> Rebuild Samo's Empire! "Samo went on to secure his throne by marriage into the major Wendish families, wedding at least twelve women and fathering twenty-two sons and fifteen daughters" - wikipedia
+
+graphical_culture = easterngfx
+
+color = { 17 17 17 } 
+
+historical_idea_groups = {
+	defensive_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+}
+
+monarch_names = {
+	Samovich #1" = 50
+	Sclaveni #1" = 10
+	Lething #0" = 10
+	Gausi #0" = 0
+	Agilolfing #0" = 0
+	Herulii #0" = 0
+	Gepidii #0" = 0
+	Wisgaard #0" = 0
+}
+
+leader_names = {
+	Theodore
+	}

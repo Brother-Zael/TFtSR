@@ -1,0 +1,27 @@
+#Country Name: Knights of the Rhodian Order (Formed by venice funding a holy order as part of peace deal with pope)
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 22 22 21 } 
+
+historical_idea_groups = {
+	quantity_ideas
+	maritime_ideas
+	economic_ideas
+	defensive_ideas
+}
+
+monarch_names = {
+	Anafesto #1" = 40
+	Ipato #1" = 10
+	Manin #1" = 10
+	DeTours #0" = 0
+	Angevin #0" = 0
+	Wulf #0" = 0
+	
+}
+
+leader_names = {
+	Huberto Porficio Agentio John Calvin Roger Rodric
+	}

@@ -1,0 +1,31 @@
+#Country Name: Sofia
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 20 20 20 } 
+
+historical_idea_groups = {
+	aristocracy_ideas
+	jurisprudence_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+
+monarch_names = {
+	Asen #1" = 40
+	Ivaylovich #1" = 10
+	Arpad #0" = 10
+	Zhivkov #1" = 0
+	Palaeologus #1" = 0
+	
+}
+
+leader_names = {
+	Ivalyo Konstantius Todor Asen Piotr Wullfric
+	}

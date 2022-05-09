@@ -1,0 +1,44 @@
+#Country Name: Pruthenia
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 16 15 15 } 
+
+historical_idea_groups = {
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	Monte #1" = 40
+	Gediminas #1" = 10
+	Diwanus #1" = 10
+	Viestars #0" = 10
+	Auctome #0" = 10
+	Piast #0" = 0
+	Somme #0" = 0
+	Pskovovich #0" = 0
+}
+
+leader_names = {
+	Herkus Skomantas Kleckis
+	}

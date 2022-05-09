@@ -1,0 +1,42 @@
+#Country Name: Ladoga
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 5 4 4 } 
+
+historical_idea_groups = {
+	quantity_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+
+}
+
+monarch_names = {
+	Lodogovich #1" = 40
+	Rurikovich #0" = 0
+	Vladiyovitch #0" = 0
+	Vasiliya #0" = 0
+	Vilana #0" = 0
+}
+
+leader_names = {
+	Rurikovich Rollo Allo
+	}

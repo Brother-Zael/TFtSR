@@ -1,0 +1,27 @@
+#Country Name: Seat of the Ecumenical Patriarch
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 21 21 20 } 
+
+historical_idea_groups = {
+	divine_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+
+monarch_names = {
+	Scholarius #1" = 40
+	Palaeologus #1" = 0
+	Konstantentos #0" = 0
+}
+
+leader_names = {
+	Diocletian Claudius Decimius Aramis Procupius Donatus Justinian Demetrios Maniakes Harald Rollo Ulfric Ragnar Ivan
+	}
