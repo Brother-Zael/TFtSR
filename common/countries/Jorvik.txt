@@ -1,0 +1,22 @@
+#Country Name: Jorvik (Norse)
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 27 26 26 } 
+
+historical_idea_groups = {
+	quality_ideas
+	imperial_ideas
+	jurisprudence_ideas
+}
+
+monarch_names = {
+	Ulfr #1" = 10
+	Sigmundson #1" = 10
+	Cnutson #1" = 10
+}
+
+leader_names = {
+	Karl Hildr Baldr Scane Aaland Axel Riis Oscarr Nyhus Tranum Trygg Bonde Bell Kron Pihl Ring Hjorth
+}

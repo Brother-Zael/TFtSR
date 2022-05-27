@@ -1,0 +1,16 @@
+#Country Name: Connacht (Lollard)
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 28 27 27 } 
+
+historical_idea_groups = {
+	offensive_ideas
+	economic_ideas
+	strategic_ideas
+}
+
+monarch_names = {
+	Conchobair #1" = 40
+}

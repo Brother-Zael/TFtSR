@@ -1,0 +1,20 @@
+#Country Name: Cork (Catholic)
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 29 29 28 } 
+
+historical_idea_groups = {
+	revanchist_ideas
+	trade_ideas
+}
+
+monarch_names = {
+	O'Briain #1" = 10
+	Uí Néill #1" = 10
+	Cholmáin #1" = 10
+	Sligigh #1" = 10
+	Ulfr #1" = 10
+	Constantinus #1" = 10
+}

@@ -1,0 +1,15 @@
+#Country Name: Dublin (Catholic)
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 29 29 29 } 
+
+historical_idea_groups = {
+	quantity_ideas
+	maritime_ideas
+}
+
+monarch_names = {
+	O'Rollo #1" = 10
+}

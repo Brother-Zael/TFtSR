@@ -1,0 +1,14 @@
+#Country Name: Manx (Lollard)
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 27 27 26 } 
+
+historical_idea_groups = {
+	quality_ideas
+}
+
+monarch_names = {
+	Crovan #1" = 40
+}

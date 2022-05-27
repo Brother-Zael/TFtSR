@@ -1,0 +1,23 @@
+#Country Name: Great Britannia (Lollard)
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 26 26 26 } 
+
+historical_idea_groups = {
+	quality_ideas
+	imperial_ideas
+	jurisprudence_ideas
+	exploration_ideas
+	strategic_ideas
+}
+
+monarch_names = {
+	Constantinus #1" = 40
+	Aelfling #1" = 10
+}
+
+leader_names = {
+	Flavius Maximus Martinius Gratian Marcus
+}

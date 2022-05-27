@@ -1,0 +1,15 @@
+#Country Name: Highlands/Gaeldom (Catholic)
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 30 30 30 } 
+
+historical_idea_groups = {
+	offensive_ideas
+	prestige_ideas
+}
+
+monarch_names = {
+	Wallace #1" = 10
+}

@@ -1,0 +1,17 @@
+#Country Name: Scotland (Lollard)
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 27 27 27 } 
+
+historical_idea_groups = {
+	offensive_ideas
+	economic_ideas
+	strategic_ideas
+}
+
+monarch_names = {
+	Brus #1" = 40
+	Wallace #1" = 10
+}

@@ -19,7 +19,7 @@ SWE	= "countries/Sweden.txt"
 DAN	= "countries/Daneland.txt"
 FIN	= "countries/Finland.txt"
 UPP = "countries/Uppland.txt"
-NOR	= "countries/Norgr.txt"
+NRG	= "countries/Norgr.txt"
 SCA	= "countries/Scandinavia.txt"
 
 #Russia and Urals
@@ -104,23 +104,34 @@ SHR = "countries/Shirvan.txt"
 RUM = "countries/Rum.txt"
 
 #British Isles
-ENG	= "countries/England.txt"
-IRE	= "countries/Ireland.txt"
-SCO	= "countries/Scotland.txt"
-GBR	= "countries/GreatBritain.txt"
+ANG = "countries/Angland.txt"
+JOR = "countries/Jorvik.txt"
+MNX = "countries/Manx.txt"
+LOW = "countries/Lallans.txt"
+CON = "countries/Connacht.txt"
+SLG = "countries/Sligo.txt"
+MEA = "countries/Mhí.txt"
+TUA = "countries/Tuadhmhumhain.txt"
+COR = "countries/Cork.txt"
+LUB = "countries/Lublin.txt"
+KIL = "countries/Kildare.txt"
+TIR = "countries/Tirconnell.txt"
 HSC = "countries/Highlands.txt"
 
+BRT	= "countries/Britannia.txt"
+IRE	= "countries/Ireland.txt"
+SCO	= "countries/Scotland.txt"
+GBR	= "countries/GreatBritannia.txt"
+
 #Colonies
-CAM	= "countries/UPCA.txt"
-AUS = "countries/Australia.txt"
-NZL = "countries/Zealandia.txt"
+# TO DO LATER
 
 #Gaul & Aquitania 
 BRI	= "countries/Brittany.txt"
 BUR	= "countries/Burgundy.txt"
 ORL	= "countries/Orleans.txt"
 	
-#HRE
+#Germania
 BAV	= "countries/Bavaria.txt"
 BOH	= "countries/Bohemia.txt"
 GER	= "countries/Germany.txt"
@@ -132,12 +143,12 @@ SIL	= "countries/Silesia.txt"
 WES	= "countries/Westfalia.txt"
 TEU	= "countries/Teutonicorder.txt"
 	
-#Spain
+#Hispania
 SPA	= "countries/Spain.txt"
 ADU = "countries/Andalusia.txt"
 
-#Italy
-ITA	= "countries/Italy.txt"
+#Italia
+ITA	= "countries/Italia.txt"
 PAP	= "countries/Papal.txt"
 SIC	= "countries/Sicily.txt"
 

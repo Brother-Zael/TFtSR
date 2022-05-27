@@ -1,0 +1,20 @@
+#Country Name: Rum (Tengri or Muslim)
+#Starting Country
+
+graphical_culture = anatoliangfx
+
+color = { 26 26 25 } 
+
+historical_idea_groups = {
+	quality_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+monarch_names = {
+	Harika #1" = 40
+}
+
+leader_names = {
+	Arslan
+	}

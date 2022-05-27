@@ -1,0 +1,15 @@
+#Country Name: Kildare (Cathar)
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 30 29 29 } 
+
+historical_idea_groups = {
+	offensive_ideas
+	prestige_ideas
+}
+
+monarch_names = {
+	Cil Dara #1" = 10
+}

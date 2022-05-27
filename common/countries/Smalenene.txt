@@ -1,7 +1,7 @@
 #Country Name: Smalenene
 #Starting Country
 
-graphical_culture = westerngfx
+graphical_culture = easterngfx
 
 color = { 1 2 2 } 
 

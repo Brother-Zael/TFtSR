@@ -1,0 +1,16 @@
+#Country Name: Sligo (Fratecelli)
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 28 28 27 } 
+
+historical_idea_groups = {
+	offensive_ideas
+	economic_ideas
+	strategic_ideas
+}
+
+monarch_names = {
+	Sligigh #1" = 40
+}

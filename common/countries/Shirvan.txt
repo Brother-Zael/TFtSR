@@ -1,0 +1,21 @@
+#Country Name: Shirvan (Zoroastrian)
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 26 25 25 } 
+
+historical_idea_groups = {
+	offensive_ideas
+	religious_ideas
+	diplomatic_ideas
+	trade_ideas
+}
+
+monarch_names = {
+	Sassanid #1" = 40
+}
+
+leader_names = {
+	Artashes Tigrames Erato Artavasedes David Teimuraz Bagrat Heraclius Luarsab
+	}

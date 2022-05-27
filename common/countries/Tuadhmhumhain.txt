@@ -1,0 +1,15 @@
+#Country Name: Tuadhmhumhain (Catholic)
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 29 28 28 } 
+
+historical_idea_groups = {
+	defensive_ideas
+	humanist_ideas
+}
+
+monarch_names = {
+	O'Briain #1" = 40
+}
