@@ -7,10 +7,10 @@ christian = {
 			protestant
 		}
 		country = {
-			tolerance_own = 2
-			stability_cost_modifier = -0.1
+			diplomatic_reputation = 2
+			stability_cost_to_declare_war = 1
 			may_recruit_female_generals = yes
-			female_advisor_chance = 0.2
+			female_advisor_chance = 0.5
 		}
 		country_as_secondary = {
 			yearly_corruption = -0.1
@@ -20,21 +20,17 @@ christian = {
 		
 		heretic = { BOGOMILIST WALDENSIAN FRATICELLI HUSSITE LOLLARD SOCINIAN }
 		
-		uses_church_power = yes				# Uses church power/aspect mechanics
+		uses_anglican_power = yes
+		
 		aspects = {
-			organised_through_bishops_aspect
-			priests_may_marry_aspect
-			adult_baptism_aspect
-			holy_sacraments_aspect
-			saints_accept_prayers_aspect
-			icons_images_aspect
-			legalised_divorces_aspect
-			heretics_deported_aspect
-			parish_registers_aspect
-			individual_creeds_aspect
-			allow_usury_aspect
-			translated_bibles_aspect
+			consolamentum              # ruler dies and you get 1 stab
+			freedom_from_hell          # -20% mp recov and get 1 stab
+			pragmatic_suspensions      # 20% mp recov and lose 1 stab
+			community_efforts          # dev cost -5% and lose 1 stab
+			council_of_perfects        # lose 1 year of income and get 1 stab
 		}
+		
+		aspects_name = CATHAR_ASPECTS
 		
 		on_convert = {
 			change_religion = cathar

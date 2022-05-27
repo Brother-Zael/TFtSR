@@ -4,28 +4,30 @@ christian = {
 		color = { 0.8 0.3 0.5 }
 		icon = 31
 		country = {
-			tolerance_own = 2
+			tolerance_heathen = 3
 			adm_tech_cost_modifier = -0.1
 		}
 		province = {
 			local_missionary_strength = -0.01
 		}
 		country_as_secondary = {
-			adm_tech_cost_modifier = -0.1
-			tolerance_own = 1
+			adm_tech_cost_modifier = -0.05
+			tolerance_heathen = 3
 		}
 		heretic = { ZAMIKAELITES STEPHANITES EUSTATHIANS }
 		
 		misguided_heretic = yes		# Other christians hate them less
 		
-		holy_sites = { 358 1227 2313 1234 419 }
+		holy_sites = { 379 454 4669 280 620 }
 		
 		blessings = {
 			legitimize_government
-			encourage_warriors_of_the_faith
-			send_monks_to_establish_monasteries
 			promote_territorial_rights
-			will_of_the_martyrs
+			ecumenical_vision
+			blessed_suffering
+			walls_towns_steeples
+			donations_of_the_faithful
+			nonchristian_tolerance
 		}
 	}
 }

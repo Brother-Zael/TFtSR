@@ -127,6 +127,7 @@ GBR	= "countries/GreatBritannia.txt"
 # TO DO LATER
 
 #Gaul & Aquitania 
+NRM = "countries/Normandy.txt"
 BRI	= "countries/Brittany.txt"
 BUR	= "countries/Burgundy.txt"
 ORL	= "countries/Orleans.txt"
