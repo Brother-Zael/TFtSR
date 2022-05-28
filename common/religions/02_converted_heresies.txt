@@ -28,6 +28,7 @@ christian = {
 			pragmatic_suspensions      # 20% mp recov and lose 1 stab
 			community_efforts          # dev cost -5% and lose 1 stab
 			council_of_perfects        # lose 1 year of income and get 1 stab
+			free_the_chattel		   # costs 10 aspect power, lose 1 year of income, gain 60 aspect power and cathar provinces with livestock change to 75%grain/20%naval/5%cloth
 		}
 		
 		aspects_name = CATHAR_ASPECTS

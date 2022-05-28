@@ -67,7 +67,7 @@ BAI = "countries/Baimoi.txt"
 LOM = "countries/Lombardii.txt"
 SLO = "countries/Slovakia.txt"
 HNY = "countries/Hunyadi.txt"
-ZZK = "countries/Zizka.txt"
+ZZK = "countries/Zizka.txt" # Marcommani/Czech cultural union, with Jan Zizka in charge because why not do a bit of trolling.
 SER = "countries/Serbia.txt"
 OTG = "countries/Ostrogothia.txt"
 RIJ = "countries/Rijeka.txt"
@@ -128,30 +128,105 @@ GBR	= "countries/GreatBritannia.txt"
 
 #Gaul & Aquitania 
 NRM = "countries/Normandy.txt"
+OLH = "countries/Olegheim.txt"
 BRI	= "countries/Brittany.txt"
-BUR	= "countries/Burgundy.txt"
-ORL	= "countries/Orleans.txt"
-	
+SUI = "countries/Suindinum.txt"
+GNB = "countries/Genabum.txt"
+LTT = "countries/Lutetia.txt"
+DOR = "countries/Durocortorum.txt"
+GLG = "countries/GallicLegion.txt"
+ARM = "countries/AugustaRauracorum.txt"
+AOD = "countries/Augustodunum.txt"
+LMN = "countries/Limonum.txt"
+BRD = "countries/Burdigala.txt"
+VES = "countries/Vesunna.txt"
+ARG = "countries/Argentomagus.txt"
+CAB = "countries/Cabillonum.txt"
+LUG = "countries/Lugdunum.txt"
+VIE = "countries/Vienna.txt" # This is roman vienna, in gaul, north of modern provence.
+DIV = "countries/Divona.txt"
+TOL = "countries/Tolosa.txt"
+SEG = "countries/Segodunum.txt"
+NRB = "countries/NarboMartius.txt"
+NMS = "countries/Nemausus.txt"
+ARE = "countries/Arelate.txt"
+ASX = "countries/AquaeSextiae.txt"
+
+LGD = "countries/Lugdunensis.txt" # formable of north/northeast gaul
+NBI = "countries/Narbonensis.txt" # formable of the med coast of gaul/tolouse
+AQU = "countries/Aquitania.txt" # formable of the west/sw and pacific coast of gaul.
+GAL = "countries/Gaul.txt" #formable for any independent roman or barbarian tech for all of gaul. removes from HRE. meb 3-5 religion-dependent mission and the rest for any religion.
+KRK = "countries/Kelterike.txt" # formable for any norse religion for all of gaul.
+
 #Germania
-BAV	= "countries/Bavaria.txt"
-BOH	= "countries/Bohemia.txt"
-GER	= "countries/Germany.txt"
-HAN	= "countries/Hannover.txt"
-HLR = "countries/HolyRomanEmpire.txt"
-POM	= "countries/Pommerania.txt"
+GRP = "countries/GermaniaProconsular.txt"
+ART = "countries/Argentorate.txt"
+GRS = "countries/GermaniaSuperior.txt"
+RTS = "countries/RhaetiaSuperior.txt"
+RTI = "countries/RhaetiaInferior.txt"
+NRS = "countries/NoricumSuperior.txt"
+NRI = "countries/NoricumInferior.txt"
+RGM = "countries/Regensmarch.txt"
+SBI = "countries/Suebii.txt"
+NGR = "countries/Cherusci.txt"
+SGR = "countries/Alamannia.txt"
 SAX	= "countries/Saxony.txt"
-SIL	= "countries/Silesia.txt"
-WES	= "countries/Westfalia.txt"
-TEU	= "countries/Teutonicorder.txt"
+ANH = "countries/Anhalt.txt"
+
+DIU = "countries/Diutiscia.txt" # Non-roman cultural tag for north germany.
+GRP = "countries/GermaniaPrimus.txt" # Formable for roman tech or christians with romano-german or germanic cultures. Roughly analogous to Lotharingia/Middle Frankia.
+RHA = "countries/Rhaetia.txt" # Formable for tags with Rhaetia as primary culture.
+NCM = "countries/Noricum.txt" # Formable for tags with Noric as primary culture, or in the romano-slovene culture group. "Producer of Roman Weaponry"
+
+POM	= "countries/Pommerania.txt" #releasable
+SIL	= "countries/Silesia.txt" # releasable
 	
 #Hispania
-SPA	= "countries/Spain.txt"
-ADU = "countries/Andalusia.txt"
+BRG = "countries/Brigantium.txt"
+AUS = "countries/Austurica.txt"
+OLS = "countries/Olisipo.txt"
+ALC = "countries/Alcantara.txt"
+CTC = "countries/Celtici.txt"
+EVO = "countries/Evora.txt"
+PXJ = "countries/PaxJulia.txt"
+TDT = "countries/Turdetani.txt"
+SLM = "countries/Salamantica.txt"
+VAC = "countries/Vaccaei.txt"                 # Important Theocracy, maybe change name
+TLT = "countries/Toletum.txt"
+LSS = "countries/Libisosa.txt"
+CRD = "countries/Cordoba.txt"
+TSL = "countries/TheSouthernLeague.txt"
+MLA = "countries/Malaca.txt"
+URC = "countries/Urci.txt"
+CRN = "countries/CartagoNova.txt"
+VAL = "countries/Valentia.txt"               # Trade City under TSL?
+SBG = "countries/Segobriga.txt"
+CPM = "countries/Complutum.txt"
+SGV = "countries/Segovia.txt"
+SEG = "countries/Segontia.txt"
+CLU = "countries/Clunia.txt"
+CNT = "countries/Cantabri.txt"
+HLG = "countries/LegioHispania.txt"
+CAU = "countries/Caesaraugustus.txt"
+AZL = "countries/Azaila.txt"
+DRT = "countries/Dertosa.txt"
+TAR = "countries/Taraco.txt"                 # Trade City under TSL?
+EMR = "countries/Emporiae.txt"
+
+
+HPC = "countries/HispaniaCiterior.txt"       # Formable for NE half of spain, gives claims, Kingdom rank +stay in empire... maybe ideas later on.
+HPU = "countries/HispaniaUlterior.txt"       # Formable for SW half of spain, gives claims, Kingdom rank +stay in empire... maybe ideas later on.
+TRC = "countries/Tarraconensis.txt"          # Formable for NE region (catalonia + aragon)
+GLC = "countries/Gallaecia.txt"              # Formable for NW region (Galicia + Austurias + Leon)
+BAE = "countries/Baetica.txt"                # Formable for SE region (Granada Toledo Valencia)
+LUS = "countries/Lusitania.txt"              # Formable for SW region (Portugal + Sevilla)
+HIS	= "countries/Hispania.txt"               # Formable of all spain. Empire rank and removed from HRE.
 
 #Italia
 ITA	= "countries/Italia.txt"
 PAP	= "countries/Papal.txt"
 SIC	= "countries/Sicily.txt"
+HLR = "countries/HolyRomanEmpire.txt"
 
 #Low Countries
 NED	= "countries/Netherlands.txt"
