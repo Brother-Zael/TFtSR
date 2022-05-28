@@ -99,6 +99,7 @@ KUR = "countries/Kurdistan.txt"
 GEO	= "countries/Georgia.txt"
 YER = "countries/Yerevan.txt"
 PCH = "countries/Pechenegs.txt"
+BAY = "countries/Bayazids.txt"
 SHR = "countries/Shirvan.txt"
 
 RUM = "countries/Rum.txt"
@@ -213,7 +214,6 @@ DRT = "countries/Dertosa.txt"
 TAR = "countries/Taraco.txt"                 # Trade City under TSL?
 EMR = "countries/Emporiae.txt"
 
-
 HPC = "countries/HispaniaCiterior.txt"       # Formable for NE half of spain, gives claims, Kingdom rank +stay in empire... maybe ideas later on.
 HPU = "countries/HispaniaUlterior.txt"       # Formable for SW half of spain, gives claims, Kingdom rank +stay in empire... maybe ideas later on.
 TRC = "countries/Tarraconensis.txt"          # Formable for NE region (catalonia + aragon)
@@ -223,27 +223,127 @@ LUS = "countries/Lusitania.txt"              # Formable for SW region (Portugal 
 HIS	= "countries/Hispania.txt"               # Formable of all spain. Empire rank and removed from HRE.
 
 #Italia
-ITA	= "countries/Italia.txt"
+EMP = "countries/Imperator.txt"              # Reformable
+PRA = "countries/Praetorians.txt"
+VEN = "countries/Venezia.txt"
+BOM = "countries/Mutina.txt"                 # Bishophric of Modena
+BOB = "countries/Bononia.txt"	             # Bishophric of Bononia
+BOF = "countries/ForumAlieni.txt"			 # Bishophric Forum Alieni
+FAU = "countries/TheUnity.txt"               # "Firenze and Urbinas"
 PAP	= "countries/Papal.txt"
-SIC	= "countries/Sicily.txt"
+CRS = "countries/Corsica.txt"                # vassal of pope
+SAR = "countries/Sardinia.txt"
+ARI = "countries/Ariminum.txt"
+SPL = "countries/Spoletum.txt"               # Trade League with Ariminum
+NPL = "countries/Neapolis.txt"               # Archbishopric?
+CPT = "countries/Capitanata.txt"             # Bishop vassal of Ancona
+BRN = "countries/Brundisium.txt"
+PNR = "countries/Panormus.txt"               # Archbishophric? that converted to catharism
+MLG = "countries/LegioMare.txt"
+
+ITA	= "countries/Italia.txt"
+SIC	= "countries/Sicily.txt"                 # Secular formable. kingdom rank while staying in empire as reward from pope for killing cathars
 HLR = "countries/HolyRomanEmpire.txt"
 
 #Low Countries
-NED	= "countries/Netherlands.txt"
+DRS = "countries/DRS.txt"					 # i don't remember. 
+FRS = "countries/Friesland.txt"
+FRL = "countries/FrisianLeague.txt"
+TTB = "countries/Teutobergii.txt"            # germano-roman culture pagan death cult remnants of battle at teutoberg forest, which was a lot more close in this timeline.
+DUT = "countries/Dutchland.txt"              # not colonial in this timeline, only dev to the moooon. Let others bring trade and they siphon off it.
 
-#Arabia	
-ARB = "countries/Arabia.txt"
-RAS = "countries/Rassids.txt"
-SHM = "countries/Shammar.txt"
-HSN = "countries/Ayyubids.txt"
-	
+FRR = "countries/FrisianRepublic             # Netherlands but norse pagans with slightly more raiding and slightly less trading. but still a lot of both.
+FRI = "countries/Frisia.txt"                 # Formable. Jomsvikings of the west, seeking to expand norse faith
+
+#Arabia
+UMY = "countries/Umayyad.txt"
+FAT = "countries/Fatimids.txt"
+BDY = "countries/Bardiyyah.txt"              # Should probably be named after tobruk, the province to it's west... but bardiyyah has a super old mosque
+BRY = "countries/Bahariya.txt"				 # Make into three opms with a "unify the three oasis" tag if there is time
+QUS = "countries/Qus.txt"                    # many Fatimid royal tombs are here
+BGZ = "countries/Benghazi.txt"
+MOS = "countries/Mosul.txt"
+MHZ = "countries/Mahoza.txt"                 # Al Mada'in. Newly established jewish realm named after old kingdom from long ago. Basically ummayyads were like "k jews here you go, your own land. now leave and don't come back."
+KRK = "countries/Kirkuk.txt"
+QAZ = "countries/Qazaniyah.txt"
+LOR = "countries/Lorestan.txt"               # KhorMoa. Vassal of Basra
+IZE = "countries/Izeh.txt"                   # Province is called Malamir in game. Vassal of Basra
+KZR = "countries/Kazerun.txt"				 # Possible vassal of Basra
+BAS = "countries/Basra.txt"
+SHM = "countries/Shammar.txt"                # seriously do not fuck with these guys irl.
+ABS = "countries/Abbasids.txt"               # biggest of only 3 tags following Kharajite religion at start. Hard start but super strong ideas + religion
+BUY = "countries/Buyids.txt"                 # Qawasimid/Suhar provinces.
+RSH = "countries/Rashidun.txt"
+QAS = "countries/Qasimids.txt"               # it's the rassids, just a more specific name
+NIZ = "countries/Nizwa.txt"
+MUS = "countries/Muscat.txt"
+MAS = "countries/Masirah.txt"
+MAH = "countries/Mahra.txt"
+HMY = "countries/Himyarites.txt"
+DAW = "countries/Dawasir.txt"                # releasable
+NAJ = "countries/Najd.txt"                   # releasable
+AYY = "countries/Ayyubids.txt"               # releasable
+ADN = "countries/Aden.txt"                   # releasable
+SOC = "countries/Socotra.txt"                # releasable
+SYR = "countries/Syria.txt"                  # releasable
+ANZ = "countries/Anizah.txt"                 # releasable
+MDN = "countries/Medinah.txt"                # releasable
+
+IRQ = "countries/Iraq.txt"                   # Formable for Muslims of Mashriqi, Kurdish, or Luri cultures.
+YMN = "countries/Yemen.txt"                  # Formable for non-jewish yemeni, hejazi, and mahri cultures.
+HOR = "countries/RubAlKhali.txt"             # Formable for Bedouin Khaleeji and Omani cultures
+BAB = "countries/Mesopotamia.txt"            # Formable for non-muslims within culture group of Levantine or Iranian and capital in Mashriq region
+ARB = "countries/Arabia.txt"                 # Formable for any in levantine culture group.
+
 #Maghreb
+TNG = "countries/Tingitana.txt"
+SAL = "countries/SalaColonia.txt"
+MDR = "countries/Mogador.txt"
+RHY = "countries/Rhysaddir.txt"
+SUS = "countries/Sus.txt"
+CAN = "countries/Canarii.txt"                # tribe in atlas mountains
+LGM = "countries/LegioMauretania.txt"
+CAE = "countries/Caesarae.txt"
+SIT = "countries/Sitifensis.txt"
+ZEU = "countries/Zeugitana.txt"
+EPY = "countries/Empyria.txt"
+SRT = "countries/Syrtica.txt"
+LGN = "countries/LegioNumidia.txt"
+
+GAR = "countries/Garamantes.txt"             # releasable
+MUS = "countries/Musulamii.txt"              # releasable
+MRS = "countries/Maurisii.txt"               # releasable
+
+AFR = "countries/Africa.txt"                 # Formable
+CSP = "countries/CaesaraeProconsularis.txt"  # Formable
+MAU = "countries/Mauretania.txt"             # Formable
 
 #Central Asia
 BUK = "countries/Bukhara.txt"
 
-#Persia	
-PER	= "countries/Persia.txt"
+#Iran
+ARD = "countries/Ardabil.txt"
+AST = "countries/Astara.txt"
+GIL = "countries/Gilan.txt"
+TUR = "countries/Turkistan.txt"
+YAZ = "countries/Yazd.txt"
+ISF = "countries/Isfahan.txt"
+SHR = "countries/Shiraz.txt"
+SRF = "countries/Siraf.txt"
+SBD = "countries/Saidabad.txt"
+ZAR = "countries/Zaranj.txt"
+NBK = "countries/NeoBaktria.txt"
+HPH = "countries/Hephthalites.txt"
+NSH = "countries/Nishapur.txt"               # vassal of Hephthalites
+
+MRV = "countries/Merv.txt"                   # Releasable
+AFG = "countries/Afghanistan.txt"            # Releasable
+KHO = "countries/Khorosan.txt"               # Releasable (Capital is Herat)
+QOM = "countries/Qom.txt"                    # Releasable
+BVD = "countries/Bavandids.txt"              # Releasable
+
+PER = "countries/Persia.txt"                 # Formable by roman or greek tech persian culture group tags
+IRA	= "countries/Iranshahr.txt"              # Formable by any non-roman non-greek persian culture group tag
 
 #Americas
 AZT = "countries/Aztec.txt"
