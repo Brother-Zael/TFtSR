@@ -535,23 +535,43 @@ ANU = "countries/Ainu.txt"
 JAP	= "countries/Japan.txt"
 
 #Let's kill china (I'm Here)
-KHA	= "countries/MongolKhanate.txt"
-MCH	= "countries/Manchu.txt"
+BRY = "countries/Buryats.txt"           #CNS on map because smoothbrain
+UDE = "countries/Udege.txt"
+SKY = "countries/SkyTemple.txt"         #TengriHolyChurch centralized 
+MNG	= "countries/MongolKhanate.txt"
+KHT = "countries/Khitans.txt"
+CIY = "countries/Yakuts"                # Cities of Independent Yakuts
+ULT = "countries/Uilta.txt"             # Oroks independent revanchist realm
+HOI = "countries/Hoifa.txt"             # Manchu dynasty
+ULA = "countries/Ula.txt"               # Manchu dynasty
+DKD = "countries/DKD.txt"               # dunno
+LIA = "countries/Liao.txt"				# Liao dynasty got brrt
 OIR	= "countries/OiratHorde.txt"
 KSD = "countries/Khoshuud.txt"
-CHG	= "countries/ChagataiKhanate.txt"
+BAE = "countries/Baekje.txt"
+YNG = "countries/YangCommandery.txt"    # Based off of the "Generals of the Yang Family" but also the sixteen commanderies of the Song dynasty YSH on map
+WAN = "countries/Wangiyan.txt"          # Jianzhou but weak
+DNM = "countries/DoenomBujog.txt"       # Middle Korean word for Jurchens. Means "Jurchen Bastard Tribe" or "Doom Tribe". Mission tree about overcome slur name and being the new epico rulers NJM on map
+GYJ = "countries/Gyeongju.txt"          # Gyeongju as a jumped up city-state looking to reform Silla kingdom into an empire controlling both japan and korea... and more?
 
-KOR	= "countries/Korea.txt"
+MCH	= "countries/Manchu.txt"
+TGS = "countries/Tonguska.txt"          # animist formable for N. manchuria
+KOR	= "countries/Korea.txt"             # Non-GYJ korean formable
+SLA = "countries/Silla.txt"             # GYJ-only korean formable
+KGN = "countries/Khaganate.txt"         # empire-rank horde formable that leaves southern and central china alone, allowing Hu-Legalist/SEA/Japan alliance
 
 #CHINA NUMBA WAN!
-TIB	= "countries/Tibet.txt"
 
-UTS = "countries/Utsang.txt"
+KIY = "countries/Kiy.txt"
+
+NMY = "countries/Namyue.txt"            # Legalist tyrant of south china. Rival to Yellow Trubans.
+
+
+YAN = "countries/Yan.txt"
 CYI = "countries/Yi.txt"
 MIN = "countries/Min.txt"
-YUE = "countries/Yue.txt"
-WUU = "countries/Wu.txt"
-YAN = "countries/Yan.txt"
+
+UTS = "countries/Utsang.txt"            #TSA on map
 
 TIB	= "countries/Tibet.txt"
 QNG = "countries/Qing.txt"
