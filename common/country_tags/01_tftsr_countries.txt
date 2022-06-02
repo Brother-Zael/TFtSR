@@ -534,7 +534,7 @@ SOO = "countries/So.txt" # Japanese potential pirate daimyo
 ANU = "countries/Ainu.txt"
 JAP	= "countries/Japan.txt"
 
-#Let's kill china (I'm Here)
+#Let's kill china
 BRY = "countries/Buryats.txt"           #CNS on map because smoothbrain
 UDE = "countries/Udege.txt"
 SKY = "countries/SkyTemple.txt"         #TengriHolyChurch centralized 
@@ -561,59 +561,101 @@ SLA = "countries/Silla.txt"             # GYJ-only korean formable
 KGN = "countries/Khaganate.txt"         # empire-rank horde formable that leaves southern and central china alone, allowing Hu-Legalist/SEA/Japan alliance
 
 #CHINA NUMBA WAN!
+KIY = "countries/Kiy.txt"               # Anti-Mongol Horde
+LNZ = "countries/LNZ.txt"               # Trib under mongols
+XIA = "countries/Xialang.txt"           # Chinese Warlord
+WUL = "countries/Wulang.txt"            # Chinese Warlord
+QIN = "countries/Qin.txt"               # Chinese 3rd Power, super dev sichuan confucianist isolationists
+BOZ = "countries/Bozhou.txt"			# Bandits
+TGN = "countries/Tongren.txt"    		# Bandits
+JIA = "countries/Jianchang.txt"         # Bandits
+GUI = "countries/Guiyang.txt"           # Bandits
+YNN = "countries/Yunnan.txt"            # Trying to reform Nanzhao/Animist Crusaders?
+DLI = "countries/Dali.txt"              # Trying to make Dali great again
 
-KIY = "countries/Kiy.txt"
+WSP = "countries/YellowTurbans.txt"     # Yellow turban revolt #5, following religion "Way of Supreme Peace" and at a crossroads. Just started recovering from war and need to choose government, stabilize nation, etc."
+PNM = "countries/NorthMarch.txt"        # Yellow turban north march
+PWM = "countries/WestMarch.txt"         # Yellow turban western march
+PSM = "countries/SouthMarch.txt"        # Yellow turban southern march
+PHZ = "countries/Huangzhou.txt"         # Yellow turban treacherous merchant vassal
+PXZ = "countries/Xianzhou.txt"          # Yellow turban loyal feudal vassal
 
 NMY = "countries/Namyue.txt"            # Legalist tyrant of south china. Rival to Yellow Trubans.
+LIU = "countries/Liuzhou.txt"           # Namyue march
+YLG = "countries/Yuanling.txt"          # Namyue vassal
+CSH = "countries/Changsha.txt"          # Namyue vassal
 
+CWU = "countries/Wu.txt"                # Unlikely 4th option, pawn between yellow turbans and namyue
+YAN = "countries/Yan.txt"               # Releasable
+CYI = "countries/Yi.txt"                # Releasable
+MIN = "countries/Min.txt"               # Releasable
 
-YAN = "countries/Yan.txt"
-CYI = "countries/Yi.txt"
-MIN = "countries/Min.txt"
-
-UTS = "countries/Utsang.txt"            #TSA on map
-
+UTS = "countries/Utsang.txt"            # TSA on map
+KAM = "countries/Kham.txt"              # CHU on map
+GAR = "countries/Garze.txt"             # Bandits
+DEG = "countries/Dege.txt"              # Bandits
+KKR = "countries/KaraKhitan.txt"        # Semi-horde?
 TIB	= "countries/Tibet.txt"
-QNG = "countries/Qing.txt"
+SIK = "countries/Sikkim.txt"            # Tibet Vassal
+
+GTB = "countries/GreatTibet.txt"        # Formable for Tibet culture nations. Super tall in mountains, don't expand outwards.
+DVE = "countries/DivineEmpire.txt"      # Formable for Chinese
 YUA = "countries/GreatYuan.txt"         # Yuan dynasty wouldn't be a thing, so this is place holder for mongol-governed china.
 
-#India
-BNG = "countries/Bengal.txt"
-BAH	= "countries/Bahmanis.txt"
-DLH = "countries/Delhi.txt"
-DEC = "countries/Deccan.txt"
-MAR = "countries/Marathas.txt"
-MUG = "countries/Mughal.txt"
+#India (IM HERE)
+GRK = "countries/Gorkha.txt"            # Owns all of Nepal but 2
+MKW = "countries/Makwanpur.txt"
+DNG = "countries/Dang.txt"
+DOT = "countries/Dotti.txt"             # Vassal of Kangra
+KMA = "countries/Kumaon.txt"            # Vassal of Kangra
+KAN = "countries/Kangra.txt"            # Mountain kingdom looking to push out the huns from the kashmirs, then dominate/replace
+KAD = "countries/Kadraites.txt"         # Tribute under Hephthalites, trying to reassert hunnic rule/old Kadraite order over india
+CMP = "countries/Champaran.txt"
+KBD = "countries/Khairabad.txt"
+JNP = "countries/Jaunpur.txt"
+FBD = "countries/FeyzabadSect.txt"      # Way of Supreme Peace regional sect siezed power after an attempt to snuff them out in a city-state
+DLH = "countries/DelhiConfederacy.txt"	# Republic... peasant?
+LAH = "countries/Lahore.txt"
+
+MUL = "countries/Multan.txt"			# Militarist Hindu realm trying to keep invaders out... by taking over themselves of course
+BHA = "countries/Bhakkar.txt"
+THT = "countries/Thatta.txt"            # Nestorian tryhard that will probably fail. Wants to make prestor john thing a reality in india
+UMR = "countries/Umarkot.txt"
+KUT = "countries/Kutch.txt"
+JHA = "countries/Jhalavad.txt"
+RJK = "countries/Rajkot.txt"
+HLR = "countries/Halar.txt"
+RAN = "countries/Ranpur.txt"
+PAR = "countries/Parsis-desh.txt"       # Gujurat, but Zoroastrian
+UJJ = "countries/Ujjain.txt"
+BUN = "countries/Bundi.txt"
+
+DHK = "countries/Dhakka.txt"            # Pala 1st son
+GDA = "countries/Gauda.txt"             # Pala 2nd son
+CUT = "countries/Cuttack.txt"           # Pala 3rd son
+VEL = "countries/Velanadu.txt"          # Pala 4th son
+SMB = "countries/Soumelpur.txt"         # Peasant republic
+RAI = "countries/Raipur.txt"
+MDL = "countries/Mandala.txt"
+MHK = "countries/Mahakoshal.txt"
+
 MYS = "countries/Mysore.txt"
 VIJ = "countries/Vijaynagara.txt"
-GUJ = "countries/Gujarat.txt"
-MER = "countries/Mewar.txt"
-NPL	= "countries/Nepal.txt"
-ORI = "countries/Orissa.txt"
-PUN = "countries/Punjab.txt"
-DGL = "countries/Maldives.txt"
+MBR = "countries/Malabar.txt"         # Malabar christian kingdom, mostly muslim provinces but based in nestorian maldives and nestorian calicut
 
-GRK = "countries/Gorkha.txt"
-SRH = "countries/Sirhind.txt"
-
+DEC = "countries/Deccan.txt"
+MAR = "countries/Marathas.txt"
 RJP = "countries/Rajputana.txt"
 HIN = "countries/Hindustan.txt"
-
-BLA = "countries/Blackfoot.txt"
-CAD = "countries/Caddo.txt"
-CHY = "countries/Cheyenne.txt"
-COM = "countries/Comanche.txt"
-NAH = "countries/Navajo.txt"
-SHO = "countries/Shoshone.txt"
-SIO = "countries/Sioux.txt"
-WCR = "countries/Cree.txt"
+NPL	= "countries/Nepal.txt"           # Nepalese culture formable
+PAL = "countries/Pala.txt"			  # Pala princes reformable
+GSN = "countries/Gondistan.txt"		  # Gond culture formable
+PUN = "countries/Punjab.txt"
 
 #Indochina Additions
 AVA = "countries/Ava.txt"
 
-# Burma Additions
-
-#Siberian Tribes
+#Burma Additions
 
 #North American Additions
 ARP = "countries/Arapaho.txt"
@@ -632,6 +674,14 @@ TLX = "countries/Tlaxcala.txt"
 TOT = "countries/Totonac.txt"
 WIC = "countries/Wichita.txt"
 XIU = "countries/Xiu.txt"
+BLA = "countries/Blackfoot.txt"
+CAD = "countries/Caddo.txt"
+CHY = "countries/Cheyenne.txt"
+COM = "countries/Comanche.txt"
+NAH = "countries/Navajo.txt"
+SHO = "countries/Shoshone.txt"
+SIO = "countries/Sioux.txt"
+WCR = "countries/Cree.txt"
 
 #Indonesia Additions
 BLM = "countries/Blambangan.txt"
