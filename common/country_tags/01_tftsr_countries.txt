@@ -641,6 +641,15 @@ MHK = "countries/Mahakoshal.txt"
 
 MYS = "countries/Mysore.txt"
 VIJ = "countries/Vijaynagara.txt"
+KNJ = "countries/Karanja.txt"
+BID = "countries/Bidar.txt"
+AAL = "countries/Aalok.txt"           # GOL on map
+GOA = "countries/Goa.txt"
+TDL = "countries/Tondainadu.txt"
+CUD = "countries/Cuddalore.txt"
+TAN = "countries/Tanjore.txt"
+KOT = "countries/Kotte.txt"
+JAF = "countries/Jafnids.txt"         # TRB on map. Nestorian Christian OPM or Ibadi
 MBR = "countries/Malabar.txt"         # Malabar christian kingdom, mostly muslim provinces but based in nestorian maldives and nestorian calicut
 
 DEC = "countries/Deccan.txt"
