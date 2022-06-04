@@ -9,7 +9,7 @@ SML = "countries/Smalenene.txt"
 VAR = "countries/Varmland.txt"
 BHS = "countries/Bohuslan.txt"
 LUN = "countries/Lund.txt"
-JOM = countries/Jomsvikings.txt
+JOM = "countries/Jomsvikings.txt"
 OST = "countries/Osterbotten.txt"
 VST = "countries/Vasterbotten.txt"
 NYL = "countries/Nylaand.txt"
@@ -726,6 +726,8 @@ GSN = "countries/Gondistan.txt"		  # Gond culture formable
 PUN = "countries/Punjab.txt"
 
 #North American Additions (IM HERE!)
+VIN = "countries/Vinland.txt"		  # Vinland Saga but really
+VNR = "countries/Vanaheimr.txt"		  # Atlantis but really
 ARP = "countries/Arapaho.txt"
 CLM = "countries/Colima.txt"
 CNK = "countries/Chinook.txt"
