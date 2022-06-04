@@ -475,6 +475,11 @@ MFY = "countries/Mahafaly.txt"
 ANT = "countries/Antemoro.txt"
 
 #South East Asia
+AVA = "countries/Ava.txt"						# city-state
+KLE = "countries/Kale.txt"						# Snek worshipping cult
+PGN = "countries/Pagan.txt"						# city-state
+SLN = "countries/Salin.txt"						# founded 1119 and "known for its collection of buddhist monasteries and pagoda, a legacy of it's prominent residents who donated these public buildings."
+MNK = "countries/Mongke.txt"					# Mongke dynasty became mercenaries who worked their way south to eventually end up here in pegu
 MKA = "countries/MuangKawng.txt"
 MYA = "countries/MuangYang.txt"
 HSI = "countries/Hsipaw.txt"
@@ -498,21 +503,80 @@ RHA = "countries/Rhade.txt"
 PGU = "countries/Pegu.txt"
 SUK = "countries/Sukhothai.txt"
 AYU	= "countries/Ayutthaya.txt"
-BEI	= "countries/Brunei.txt"
 KHM	= "countries/Khmer.txt"
 LNA	= "countries/LanNa.txt"
 LXA	= "countries/LanXang.txt"
 TRA = "countries/TranNam.txt"                  #influential Tran dynasty of vietnam, vassal under NamViet
 NMV = "countries/NamViet.txt"
 
-SST	= "countries/Shan.txt"                     # Formable
-DAI	= "countries/DaiViet.txt"                  # Formable for TranNam or NamViet
+SST	= "countries/Shan.txt"                     # Formable for shan countries in burma
+DAI	= "countries/DaiViet.txt"         		   # Formable for TranNam or NamViet
+BRM = "countries/Burma.txt"			   	   	   # Formable for non-shan countries in burma
+SIA = "countries/Siam.txt"					   # Formable for Siam region cultures
 
 #Oceania
-MKS	= "countries/Makassar.txt"
-MAJ	= "countries/Majapahit.txt"
+KDH = "countries/Keddah.txt"
+PAT = "countries/Pattani.txt"					# Vassal of Ayutthaya
+PHG = "countries/Pahang.txt"
+SAK = "countries/Siak.txt"						# Nestorian with large jewish and muslim minorities
+LKT = "countries/Langkat.txt"
+JMB = "countries/Jambi.txt"
+PLB = "countries/Palembang.txt"					# Anti-pirate in this timeline
+BKL = "countries/Bengkulu.txt"
+SUN = "countries/Sunda.txt"
+PGR = "countries/Pagarruyung.txt"				# Zoroastrian failing state
+KRJ = "countries/Kutaraja.txt"					# Aceh but more successful and militant
+PSI = "countries/Pasai.txt"
+BEI	= "countries/Brunei.txt"
+MKS	= "countries/Makassar.txt"					# Revanchist unified animist realm. Remove Hinduism! Remove Buddhism! Remove Islam! Ally or Remove Nestorians!
+MAJ	= "countries/Majapahit.txt"					# same, but include assasination succession mechanic/gov't. Very anti-pirate as well
+KTA = "countries/Karta.txt"
+CRB = "countries/Cirebon.txt"
+DAT = "countries/DatuDatu.txt"					# Lehad Datu
+BLG = "countries/Bulungan.txt"
+KTI = "countries/Kutai.txt"						# Rival to Majapahit
+SMR = "countries/Samarinda.txt"					# vassal of Kutai
+SMP = "countries/Sampit.txt"					# vassal of Majapahit (Iron!)
+BAO = "countries/Barito.txt"
+PLP = "countries/Palapo.txt"					# vassal of Majapahit (Iron!)
+MMJ = "countries/Mamuju.txt"					# vassal of Kutai
+BTN = "countries/Buton.txt"
+WAJ = "countries/Wajo.txt"
+BLI = "countries/Bali.txt"						# vassal of Majapahit
+LBK = "countries/Lombok.txt"					# vassal/trib of Majapahit, or soon to be one (Iron!)
+SUM = "countries/Sumbawa.txt"					# wants to join pirate confederacy
+BRU = "countries/Buru.txt"
+TER = "countries/Ternate.txt"
+TID = "countries/Tidore.txt"
+HAL = "countries/Halmahera.txt"
 
-MSA = "countries/Malaya.txt"
+DMK = "countries/Demak.txt"						# Releasable
+BNJ = "countries/Banjar.txt"					# Releasable
+LFA = "countries/Lanfang.txt"					# Event formable as normal
+
+MSA = "countries/Malaya.txt"					# Formable
+
+#Philippines and Pirates
+GPC = "countries/GuandongConfederacy.txt"		# Pirate Confederacy leader
+TGW = "countries/TagawaClan.txt"				# Pirates. Koxinga's mom's clan name. Taiwan starting tag
+MND = "countries/Mindoro.txt"					# Pirates
+SAM = "countries/Sambas.txt"					# Pirates
+SMA = "countries/Samar.txt"						# Pirates
+
+IGO = "countries/Igorot.txt"					# Militant af animist northern filipino tag. Meh navy except galley + navy leader shock
+MNL = "countries/Maynila.txt"
+CEB = "countries/Cebu.txt"
+MGD = "countries/Maguindanao.txt"
+BTU = "countries/Butuan.txt"
+
+TDO = "countries/Tondo.txt"						# Releasable
+PGS = "countries/Pangasinan.txt"				# Releasable
+MAS = "countries/Madyaas.txt"					# Releasable
+
+OPH = "countries/Ophir.txt"						# Formable for jewish philippines
+TWL = "countries/Tawalisi.txt"					# Formable for muslim philippines
+MAI = "countries/Ma-i.txt"						# Formable for hindu/buddhist/animist/chinesereligions/shinto philipphines
+IGE = "countries/IgorotEmpire.txt"				# Formable for Igorot-owned Philippines.
 
 #Daimyos/Japan
 CSK = "countries/Chosokabe.txt"
@@ -573,7 +637,7 @@ GUI = "countries/Guiyang.txt"           # Bandits
 YNN = "countries/Yunnan.txt"            # Trying to reform Nanzhao/Animist Crusaders?
 DLI = "countries/Dali.txt"              # Trying to make Dali great again
 
-WSP = "countries/YellowTurbans.txt"     # Yellow turban revolt #5, following religion "Way of Supreme Peace" and at a crossroads. Just started recovering from war and need to choose government, stabilize nation, etc."
+WSP = "countries/YellowTurbans.txt"     # Yellow turban revolt #5, following religion "Way of Supreme Peace" and at a crossroads. Just started recovering from war and need to choose government, stabilize nation, etc. Follows daoism
 PNM = "countries/NorthMarch.txt"        # Yellow turban north march
 PWM = "countries/WestMarch.txt"         # Yellow turban western march
 PSM = "countries/SouthMarch.txt"        # Yellow turban southern march
@@ -602,7 +666,7 @@ GTB = "countries/GreatTibet.txt"        # Formable for Tibet culture nations. Su
 DVE = "countries/DivineEmpire.txt"      # Formable for Chinese
 YUA = "countries/GreatYuan.txt"         # Yuan dynasty wouldn't be a thing, so this is place holder for mongol-governed china.
 
-#India (IM HERE)
+#India
 GRK = "countries/Gorkha.txt"            # Owns all of Nepal but 2
 MKW = "countries/Makwanpur.txt"
 DNG = "countries/Dang.txt"
@@ -661,12 +725,7 @@ PAL = "countries/Pala.txt"			  # Pala princes reformable
 GSN = "countries/Gondistan.txt"		  # Gond culture formable
 PUN = "countries/Punjab.txt"
 
-#Indochina Additions
-AVA = "countries/Ava.txt"
-
-#Burma Additions
-
-#North American Additions
+#North American Additions (IM HERE!)
 ARP = "countries/Arapaho.txt"
 CLM = "countries/Colima.txt"
 CNK = "countries/Chinook.txt"
@@ -691,31 +750,6 @@ NAH = "countries/Navajo.txt"
 SHO = "countries/Shoshone.txt"
 SIO = "countries/Sioux.txt"
 WCR = "countries/Cree.txt"
-
-#Indonesia Additions
-BLM = "countries/Blambangan.txt"
-BTN = "countries/Buton.txt"
-CRB = "countries/Cirebon.txt"
-DMK = "countries/Demak.txt"
-PGR = "countries/Pagarruyung.txt"
-PLB = "countries/Palembang.txt"
-PSA = "countries/Pasai.txt"
-SAK = "countries/Siak.txt"
-SUN = "countries/Sunda.txt"
-KUT = "countries/Kutai.txt"
-BNJ = "countries/Banjar.txt"
-LFA = "countries/Lanfang.txt"
-LNO = "countries/Lanao.txt"
-LUW = "countries/Luwu.txt"
-MGD = "countries/Maguindanao.txt"
-TER = "countries/Ternate.txt"
-TID = "countries/Tidore.txt"
-MAS = "countries/Madyaas.txt"
-PGS = "countries/Pangasinan.txt"
-TDO = "countries/Tondo.txt"
-MNA = "countries/Maynila.txt"
-CEB = "countries/Cebu.txt"
-BTU = "countries/Butuan.txt"
 
 #South American Additions
 CSU = "countries/Cusco.txt"
@@ -756,15 +790,8 @@ PRY = "countries/Port Royal.txt"
 TOR = "countries/Tortuga.txt"
 LIB = "countries/Libertatia.txt"
 
-# 1.30 New Tags
-LOT = "countries/Lotharingia.txt"
-PGA = "countries/Perugia.txt"
-
-
 # 1.30 Formables
 TTS = "countries/Two Sicilies.txt"
-FKN = "countries/Franconia.txt"
-SWA = "countries/Swabia.txt"
 
 # ???
 JMN = "countries/Jan Mayen.txt"
