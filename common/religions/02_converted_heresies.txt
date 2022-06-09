@@ -582,7 +582,8 @@ muslim = {
 		color = { 0.4 0.8 0.6 }
 		icon = 46
 		country = {
-			improve_relation_modifier = 0.2
+			monthly_piety = 0.1
+			global_trade_goods_size_modifier = 0.1
 			heir_chance = 1.0
 		}
 		province = {

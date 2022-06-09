@@ -1341,6 +1341,7 @@ muslim = {
 		icon = 5
 		country = {
 			cavalry_cost = -0.2
+			cav_to_inf_ratio = 0.5
 			heir_chance = 1.0
 		}
 		country_as_secondary = {
@@ -1380,8 +1381,9 @@ muslim = {
 		color = { 0 102 0 }
 		icon = 16
 		country = {
-			heir_chance = 1.0
 			global_trade_goods_size_modifier = 0.1
+			adm_advisor_cost = -0.1
+			heir_chance = 1.0
 		}
 		country_as_secondary = {
 			global_ship_cost = -0.1
