@@ -1,0 +1,6 @@
+#Country Name: Genabum
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 33 31 31 }

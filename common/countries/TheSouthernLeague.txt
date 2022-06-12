@@ -1,0 +1,6 @@
+#Country Name: The Southern League
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 141 126 253 }

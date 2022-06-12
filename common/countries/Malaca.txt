@@ -1,0 +1,6 @@
+#Country Name: Malaca
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 141 120 54 }

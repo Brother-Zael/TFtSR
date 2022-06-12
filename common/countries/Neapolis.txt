@@ -1,0 +1,6 @@
+#Country Name: Neapolis
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 178 20 166 }

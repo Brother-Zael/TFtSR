@@ -1,0 +1,6 @@
+#Country Name: Mosul
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 102 109 123 }

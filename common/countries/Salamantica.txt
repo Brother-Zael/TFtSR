@@ -1,0 +1,6 @@
+#Country Name: Salamantica
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 28 21 166 }

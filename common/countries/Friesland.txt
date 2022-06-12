@@ -1,0 +1,6 @@
+#Country Name: Friesland
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 100 122 21 }

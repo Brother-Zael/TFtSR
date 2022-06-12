@@ -1,0 +1,6 @@
+#Country Name: Pax Julia
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 128 2 166 }

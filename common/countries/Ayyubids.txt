@@ -1,0 +1,6 @@
+#Country Name: Ayyubids
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 83 249 97 }

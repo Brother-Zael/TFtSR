@@ -1,0 +1,6 @@
+#Country Name: Capitanata
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 28 133 166 }

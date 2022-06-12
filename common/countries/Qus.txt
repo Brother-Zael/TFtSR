@@ -1,0 +1,6 @@
+#Country Name: Qus
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 62 69 243 }

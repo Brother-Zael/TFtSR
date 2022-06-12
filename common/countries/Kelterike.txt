@@ -1,0 +1,6 @@
+#Country Name: Kelterike
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 20 66 20 }

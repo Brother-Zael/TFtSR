@@ -1,0 +1,6 @@
+#Country Name: Libisosa
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 73 89 56 }

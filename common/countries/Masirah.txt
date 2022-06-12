@@ -1,0 +1,6 @@
+#Country Name: Masirah
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 103 229 107 }

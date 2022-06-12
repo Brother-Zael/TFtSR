@@ -1,0 +1,6 @@
+#Country Name: Azaila
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 119 236 121 }

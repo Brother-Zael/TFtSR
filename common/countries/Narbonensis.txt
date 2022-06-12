@@ -1,0 +1,6 @@
+#Country Name: Narbonensis
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 45 33 20 }

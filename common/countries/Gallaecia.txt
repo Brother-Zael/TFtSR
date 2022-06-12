@@ -1,0 +1,6 @@
+#Country Name: Gallaecia
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 63 220 276 }

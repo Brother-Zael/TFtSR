@@ -1,0 +1,6 @@
+#Country Name: Segobriga
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 121 120 54 }

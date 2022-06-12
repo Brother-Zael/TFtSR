@@ -1,0 +1,6 @@
+#Country Name: Tolosa
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 47 31 31 }

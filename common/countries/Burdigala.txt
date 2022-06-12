@@ -1,0 +1,6 @@
+#Country Name: Burdigala
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 40 31 31 }

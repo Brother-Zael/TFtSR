@@ -1,0 +1,6 @@
+#Country Name: Shammar
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 109 250 107 }

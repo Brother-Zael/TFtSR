@@ -1,0 +1,6 @@
+#Country Name: Toletum
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 101 89 56 }

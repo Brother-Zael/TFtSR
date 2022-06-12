@@ -1,0 +1,6 @@
+#Country Name: Cordoba
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 53 233 56 }

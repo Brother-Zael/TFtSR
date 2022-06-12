@@ -1,0 +1,6 @@
+#Country Name: Divona
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 46 31 31 }

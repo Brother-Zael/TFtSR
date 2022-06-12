@@ -1,0 +1,6 @@
+#Country Name: Teutobergii
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 110 109 121 }

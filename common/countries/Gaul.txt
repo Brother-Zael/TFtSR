@@ -1,0 +1,6 @@
+#Country Name: Gaul
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 40 60 20 }

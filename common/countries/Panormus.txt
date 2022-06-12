@@ -1,0 +1,6 @@
+#Country Name: Panormus
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 55 28 89 }

@@ -1,0 +1,6 @@
+#Country Name: Dertosa
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 19 36 21 }

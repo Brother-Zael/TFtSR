@@ -1,0 +1,6 @@
+#Country Name: Ariminum
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 96 90 190 }

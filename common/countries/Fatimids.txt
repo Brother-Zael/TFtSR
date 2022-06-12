@@ -1,0 +1,6 @@
+#Country Name: Fatimids
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 22 169 143 }

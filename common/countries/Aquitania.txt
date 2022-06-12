@@ -1,0 +1,6 @@
+#Country Name: Aquitania
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 20 50 50 }

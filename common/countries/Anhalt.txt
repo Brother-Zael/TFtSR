@@ -1,0 +1,6 @@
+#Country Name: Anhalt
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 130 204 98 }

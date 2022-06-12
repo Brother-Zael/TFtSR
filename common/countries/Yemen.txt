@@ -1,0 +1,6 @@
+#Country Name: Yemen
+#Formable Country
+
+graphical_culture = muslimgfx
+
+color = { 122 129 123 }

@@ -1,0 +1,6 @@
+#Country Name: Nizwa
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 99 192 197 }

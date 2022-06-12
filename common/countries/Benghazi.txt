@@ -1,0 +1,6 @@
+#Country Name: Benghazi
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 132 109 143 }

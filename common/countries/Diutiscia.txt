@@ -1,0 +1,6 @@
+#Country Name: Diutiscia
+#Formable Country
+
+graphical_culture = easterngfx
+
+color = { 130 122 168 }

@@ -1,0 +1,6 @@
+#Country Name: Izeh
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 39 56 27 }

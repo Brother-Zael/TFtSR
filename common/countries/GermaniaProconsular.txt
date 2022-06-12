@@ -1,0 +1,6 @@
+#Country Name: Germania Proconsular
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 50 34 30 }

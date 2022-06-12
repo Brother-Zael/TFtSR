@@ -1,0 +1,6 @@
+#Country Name: Emporiae
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 72 126 124 }

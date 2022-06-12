@@ -1,0 +1,6 @@
+#Country Name: Legio Hispania
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 253 33 201 }

@@ -1,0 +1,6 @@
+#Country Name: Iraq
+#Formable Country
+
+graphical_culture = muslimgfx
+
+color = { 2 129 123 }

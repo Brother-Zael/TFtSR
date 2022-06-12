@@ -1,0 +1,6 @@
+#Country Name: Mahra
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 23 29 107 }

@@ -1,0 +1,6 @@
+#Country Name: Corsica
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 9 90 9 }

@@ -1,0 +1,6 @@
+#Country Name: Suindinum
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 32 31 31 }

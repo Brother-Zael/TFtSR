@@ -1,0 +1,6 @@
+#Country Name: Dawasir
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 23 9 207 }

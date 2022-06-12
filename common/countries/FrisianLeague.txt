@@ -1,0 +1,6 @@
+#Country Name: Frisian League
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 100 122 221 }

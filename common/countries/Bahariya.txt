@@ -1,0 +1,6 @@
+#Country Name: Bahariya
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 22 69 43 }

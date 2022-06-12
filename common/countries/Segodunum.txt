@@ -1,0 +1,6 @@
+#Country Name: Segodunum
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 48 31 31 }

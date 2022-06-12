@@ -1,0 +1,6 @@
+#Country Name: Rhaetia
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 50 36 41 }

@@ -1,0 +1,6 @@
+#Country Name: Mahoza
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 32 19 223 }

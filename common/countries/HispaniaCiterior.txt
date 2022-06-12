@@ -1,0 +1,6 @@
+#Country Name: Hispania Citerior
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 72 226 224 }

@@ -1,0 +1,6 @@
+#Country Name: Cantabri
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 53 233 51 }

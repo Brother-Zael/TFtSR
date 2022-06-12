@@ -1,0 +1,6 @@
+#Country Name: Italia
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 255 28 201 }

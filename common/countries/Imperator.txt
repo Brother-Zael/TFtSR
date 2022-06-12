@@ -1,0 +1,6 @@
+#Country Name: Emperator
+#Starting and Reformable Country
+
+graphical_culture = westerngfx
+
+color = { 255 1 255 }

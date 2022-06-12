@@ -1,0 +1,6 @@
+#Country Name: Cabillonum
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 43 31 31 }

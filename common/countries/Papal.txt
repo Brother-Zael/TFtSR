@@ -1,0 +1,6 @@
+#Country Name: Papal States
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 9 9 9 }

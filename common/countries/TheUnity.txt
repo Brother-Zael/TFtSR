@@ -1,0 +1,6 @@
+#Country Name: The Unity
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 212 80 59 }

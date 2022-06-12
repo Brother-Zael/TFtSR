@@ -1,0 +1,6 @@
+#Country Name: Lugdunum
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 44 31 31 }

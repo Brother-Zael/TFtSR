@@ -1,0 +1,6 @@
+#Country Name: Noricum
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 50 36 42 }

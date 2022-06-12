@@ -1,0 +1,6 @@
+#Country Name: Pommerania
+#Releasable Country
+
+graphical_culture = easterngfx
+
+color = { 183 2 100 }

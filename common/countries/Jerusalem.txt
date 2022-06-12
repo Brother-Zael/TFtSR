@@ -1,0 +1,6 @@
+#Country Name: Jerusalem
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 2 9 1 }

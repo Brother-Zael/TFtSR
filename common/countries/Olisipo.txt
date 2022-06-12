@@ -1,0 +1,6 @@
+#Country Name: Olisipo
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 40 20 3 }

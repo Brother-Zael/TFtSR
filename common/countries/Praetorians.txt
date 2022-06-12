@@ -1,0 +1,6 @@
+#Country Name: Praetorians
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 230 20 190 }

@@ -1,0 +1,6 @@
+#Country Name: Buyids
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 99 20 207 }

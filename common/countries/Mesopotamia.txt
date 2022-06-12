@@ -1,0 +1,6 @@
+#Country Name: Mesopotamia
+#Formable Country
+
+graphical_culture = muslimgfx
+
+color = { 22 19 223 }

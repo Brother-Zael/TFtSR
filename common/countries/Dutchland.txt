@@ -1,0 +1,6 @@
+#Country Name: Dutchland
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 232 209 11 }

@@ -1,0 +1,6 @@
+#Country Name: Lugdunensis
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 40 33 31 }

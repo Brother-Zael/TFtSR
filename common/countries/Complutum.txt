@@ -1,0 +1,6 @@
+#Country Name: Complutum
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 81 91 54 }

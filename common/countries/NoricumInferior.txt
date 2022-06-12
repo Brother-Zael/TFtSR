@@ -1,0 +1,6 @@
+#Country Name: Noricum Inferior
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 60 36 42 }

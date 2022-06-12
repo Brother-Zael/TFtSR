@@ -1,0 +1,6 @@
+#Country Name: Caesaraugustus
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 109 33 151 }

@@ -1,0 +1,6 @@
+#Country Name: Clunia
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 23 83 41 }

@@ -1,0 +1,6 @@
+#Country Name: Hispania Ulterior
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 224 226 76 }

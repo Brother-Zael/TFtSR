@@ -1,0 +1,6 @@
+#Country Name: Suebii
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 13 42 42 }

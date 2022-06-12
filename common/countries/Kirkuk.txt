@@ -1,0 +1,6 @@
+#Country Name: Kirkuk
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 232 129 223 }

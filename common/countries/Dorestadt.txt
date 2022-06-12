@@ -1,0 +1,6 @@
+#Country Name: Dorestadt
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 111 22 21 }

@@ -1,0 +1,6 @@
+#Country Name: Segontia
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 96 103 42 }

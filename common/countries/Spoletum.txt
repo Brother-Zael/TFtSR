@@ -1,0 +1,6 @@
+#Country Name: Spoletum
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 196 190 26 }

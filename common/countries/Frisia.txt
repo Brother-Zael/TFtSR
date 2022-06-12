@@ -1,0 +1,6 @@
+#Country Name: Frisia
+#Formable Country
+
+graphical_culture = easterngfx
+
+color = { 232 229 233 }

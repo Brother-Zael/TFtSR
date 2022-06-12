@@ -1,0 +1,6 @@
+#Country Name: Augusta Rauracorum
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 37 31 31 }

@@ -1,0 +1,6 @@
+#Country Name: Forum Alieni
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 112 210 59 }

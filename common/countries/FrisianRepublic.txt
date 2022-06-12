@@ -1,0 +1,6 @@
+#Country Name: FrisianRepublic
+#Formable Country
+
+graphical_culture = easterngfx
+
+color = { 232 209 211 }

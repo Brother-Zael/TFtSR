@@ -1,0 +1,6 @@
+#Country Name: Cherusci
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 13 22 168 }

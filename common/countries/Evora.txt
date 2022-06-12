@@ -1,0 +1,6 @@
+#Country Name: Evora
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 80 90 6 }

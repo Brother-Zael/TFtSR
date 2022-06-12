@@ -1,0 +1,6 @@
+#Country Name: Venezia
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 20 190 190 }

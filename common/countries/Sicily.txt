@@ -1,0 +1,6 @@
+#Country Name: Sicily
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 75 238 201 }

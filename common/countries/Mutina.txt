@@ -1,0 +1,6 @@
+#Country Name: Mutina
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 120 10 59 }

@@ -1,0 +1,6 @@
+#Country Name: Sardinia
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 90 190 190 }

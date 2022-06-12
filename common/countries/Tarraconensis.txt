@@ -1,0 +1,6 @@
+#Country Name: Tarraconensis
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 20 20 76 }

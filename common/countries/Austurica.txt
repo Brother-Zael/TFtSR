@@ -1,0 +1,6 @@
+#Country Name: Austurica
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 3 20 203 }

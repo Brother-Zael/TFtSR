@@ -1,0 +1,6 @@
+#Country Name: Rashidun
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 199 20 27 }

@@ -1,0 +1,6 @@
+#Country Name: Holy Roman Empire
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 21 2 21 }

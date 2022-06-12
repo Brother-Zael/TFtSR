@@ -1,0 +1,6 @@
+#Country Name: Taraco
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 72 66 124 }

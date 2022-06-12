@@ -1,0 +1,6 @@
+#Country Name: Hispania
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 226 76 226 }

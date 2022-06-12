@@ -1,0 +1,6 @@
+#Country Name: Saxony
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 113 58 168 }

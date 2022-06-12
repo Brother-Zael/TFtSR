@@ -1,0 +1,6 @@
+#Country Name: Najd
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 83 169 207 }

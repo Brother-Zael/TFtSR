@@ -1,0 +1,6 @@
+#Country Name: Muscat
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 199 89 197 }

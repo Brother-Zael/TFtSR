@@ -1,0 +1,6 @@
+#Country Name: Vaccaei
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 128 121 166 }

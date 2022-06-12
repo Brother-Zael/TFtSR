@@ -1,0 +1,6 @@
+#Country Name: Rhaetia Superior
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 50 36 40 }

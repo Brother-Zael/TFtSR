@@ -1,0 +1,6 @@
+#Country Name: Himyarites
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 123 29 207 }

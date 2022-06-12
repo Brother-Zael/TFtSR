@@ -1,0 +1,6 @@
+#Country Name: Socotra
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 183 49 233 }

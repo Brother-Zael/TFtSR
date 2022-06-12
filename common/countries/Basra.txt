@@ -1,0 +1,6 @@
+#Country Name: Basra
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 209 60 207 }

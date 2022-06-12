@@ -1,0 +1,6 @@
+#Country Name: Regensmarch
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 60 42 42 }

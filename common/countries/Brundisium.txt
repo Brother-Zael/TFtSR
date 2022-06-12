@@ -1,0 +1,6 @@
+#Country Name: Brundisium
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 148 23 86 }

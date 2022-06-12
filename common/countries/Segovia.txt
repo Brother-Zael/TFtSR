@@ -1,0 +1,6 @@
+#Country Name: Segovia
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 116 191 4 }

@@ -1,0 +1,6 @@
+#Country Name: Limonum
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 39 31 31 }

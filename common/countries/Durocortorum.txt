@@ -1,0 +1,6 @@
+#Country Name: Durocortorum
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 35 31 31 }

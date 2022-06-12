@@ -1,0 +1,6 @@
+#Country Name: Nemausus
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 50 31 31 }

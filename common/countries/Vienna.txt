@@ -1,0 +1,6 @@
+#Country Name: Vienna (Roman, in caul north of provence
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 45 31 31 }

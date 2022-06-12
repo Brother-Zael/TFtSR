@@ -1,0 +1,6 @@
+#Country Name: Rhub Al Khali
+#Formable Country
+
+graphical_culture = muslimgfx
+
+color = { 22 179 23 }

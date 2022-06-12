@@ -1,0 +1,10 @@
+#Country Name: Brittany (Catholic?)
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 31 31 31 } 
+
+monarch_names = {
+	Celticcus #1" = 40
+}

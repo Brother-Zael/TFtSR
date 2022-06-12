@@ -1,0 +1,6 @@
+#Country Name: Silesia
+#Releasable Country
+
+graphical_culture = easterngfx
+
+color = { 133 200 92 }

@@ -1,0 +1,6 @@
+#Country Name: Urci
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 41 120 54 }

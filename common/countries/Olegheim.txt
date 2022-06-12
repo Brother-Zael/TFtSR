@@ -1,0 +1,10 @@
+#Country Name: Olegheim (Norse)
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 31 31 30 } 
+
+monarch_names = {
+	Olegsson #1" = 40
+}

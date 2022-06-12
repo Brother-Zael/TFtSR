@@ -1,0 +1,6 @@
+#Country Name: Legio Mare
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 155 28 189 }

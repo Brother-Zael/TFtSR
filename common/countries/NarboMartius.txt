@@ -1,0 +1,6 @@
+#Country Name: NarboMartius
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 49 31 31 }

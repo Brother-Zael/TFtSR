@@ -1,0 +1,6 @@
+#Country Name: Turdetani
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 128 210 166 }

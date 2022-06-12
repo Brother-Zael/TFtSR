@@ -1,0 +1,6 @@
+#Country Name: Arabia
+#Formable Country
+
+graphical_culture = muslimgfx
+
+color = { 2 240 240 }

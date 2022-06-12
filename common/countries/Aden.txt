@@ -1,0 +1,6 @@
+#Country Name: Aden
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 183 49 93 }

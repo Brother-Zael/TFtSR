@@ -1,0 +1,6 @@
+#Country Name: Kazerun
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 239 56 127 }

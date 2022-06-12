@@ -1,0 +1,6 @@
+#Country Name: Argentomagus
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 42 31 31 }

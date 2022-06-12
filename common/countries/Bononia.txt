@@ -1,0 +1,6 @@
+#Country Name: Bononia
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 12 10 59 }

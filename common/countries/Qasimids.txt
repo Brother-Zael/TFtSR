@@ -1,0 +1,6 @@
+#Country Name: Qasimids
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 99 92 197 }

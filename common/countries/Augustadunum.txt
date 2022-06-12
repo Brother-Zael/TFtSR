@@ -1,0 +1,6 @@
+#Country Name: Augustadunum
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 38 31 31 }

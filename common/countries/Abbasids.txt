@@ -1,0 +1,6 @@
+#Country Name: Abbasids
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 9 200 207 }

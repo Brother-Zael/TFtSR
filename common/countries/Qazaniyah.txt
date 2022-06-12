@@ -1,0 +1,6 @@
+#Country Name: Qazaniyah
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 32 129 123 }

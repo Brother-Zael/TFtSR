@@ -1,0 +1,6 @@
+#Country Name: Medinah
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 203 239 113 }

@@ -1,0 +1,6 @@
+#Country Name: Syria
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 253 39 213 }

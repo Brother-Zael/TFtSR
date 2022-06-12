@@ -1,0 +1,6 @@
+#Country Name: Cartago Nova
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 41 20 254 }

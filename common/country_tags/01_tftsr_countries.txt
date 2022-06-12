@@ -256,7 +256,7 @@ FRR = "countries/FrisianRepublic             # Netherlands but norse pagans with
 FRI = "countries/Frisia.txt"                 # Formable. Jomsvikings of the west, seeking to expand norse faith
 
 #Arabia
-UMY = "countries/Umayyad.txt"
+UMY = "countries/Umayyad.txt"				 # Maybe swap role with Abbasids
 FAT = "countries/Fatimids.txt"
 BDY = "countries/Bardiyyah.txt"              # Should probably be named after tobruk, the province to it's west... but bardiyyah has a super old mosque
 BRY = "countries/Bahariya.txt"				 # Make into three opms with a "unify the three oasis" tag if there is time

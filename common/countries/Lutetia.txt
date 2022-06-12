@@ -1,0 +1,6 @@
+#Country Name: Lutetia
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 34 31 31 }
