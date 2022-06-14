@@ -1,0 +1,6 @@
+#Country Name: Oirat
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 42 176 180 }

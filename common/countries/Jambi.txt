@@ -1,0 +1,6 @@
+#Country Name: Jambi
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 202 156 89 }

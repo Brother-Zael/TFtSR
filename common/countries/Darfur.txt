@@ -1,0 +1,6 @@
+#Country Name: Darfur
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 32 247 228 }

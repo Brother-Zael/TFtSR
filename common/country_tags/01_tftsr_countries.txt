@@ -330,6 +330,7 @@ TRN = "countries/Turan.txt"
 KSH = "countries/Kushan.txt"                 # Swap position with neo-baktria
 BSH	= "countries/Bashkiria.txt"
 KLM = "countries/Kalmyk.txt"
+
 MGE = "countries/MongolEmpire.txt"
 
 #Iran
@@ -362,11 +363,11 @@ CHE = "countries/Cherokee.txt"
 CHM = "countries/Chimu.txt"
 CRE = "countries/Creek.txt"
 HUR = "countries/Huron.txt"
-INC = "countries/Inca.txt"
 IRO = "countries/Iroquois.txt"
-MAY = "countries/Maya.txt"
 SHA = "countries/Shawnee.txt"
 ZAP = "countries/Zapotec.txt"
+INC = "countries/Inca.txt"
+MAY = "countries/Maya.txt"
 
 #West Africa
 ASH = "countries/Ashanti.txt"
@@ -418,7 +419,7 @@ NER = "countries/Nuer.txt"                   # autonomous tribe
 ORO = "countries/Oromo.txt"                  # newly arrived and organized. Small but ready to invade
 DAR = "countries/Darfur.txt"                 # Rebellious general in Soba
 HAR = "countries/Harar.txt"
-MED = "countries/Medri Bahri.txt"
+MED = "countries/MedriBahri.txt"
 SEM = "countries/Semien.txt                  # local rabbi inspired uprising
 BEJ = "countries/Beja.txt"
 ZEI = "countries/Zeila.txt"
@@ -443,7 +444,6 @@ NUB = "countries/Nubia.txt"                # Formable for nubian primary culture
 AXM = "countries/Aksum.txt"                # Formable for Amhara culture group of coptic faith
 GKW = "countries/GreatKilwa.txt"           # Formable for splintered Kilwa nations
 EOC = "countries/CapeEmpire.txt"           # Formable for anyone capital in cape of good hope trade node.
-
 
 #Kongo, Great Lakes & Central Africa
 KON = "countries/Kongo.txt"

@@ -1,0 +1,6 @@
+#Country Name: Afghanistan
+#Releasable Country
+
+graphical_culture = muslimgfx
+
+color = { 215 17 49 }

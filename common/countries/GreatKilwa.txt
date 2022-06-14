@@ -1,0 +1,6 @@
+#Country Name: GreatKilwa
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 103 207 217 }

@@ -1,0 +1,6 @@
+#Country Name: Stung Trng
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 216 23 214 }

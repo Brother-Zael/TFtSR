@@ -1,0 +1,6 @@
+#Country Name: Musulamii
+#Releasable Country
+
+graphical_culture = westerngfx
+
+color = { 163 146 192 }

@@ -1,0 +1,6 @@
+#Country Name: Legio Mauretania
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 213 204 204 }

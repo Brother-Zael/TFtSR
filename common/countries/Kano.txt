@@ -1,0 +1,6 @@
+#Country Name: Kano
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 77 88 64 }

@@ -1,0 +1,6 @@
+#Country Name: Nishapur
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 131 27 49 }

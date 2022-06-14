@@ -1,0 +1,6 @@
+#Country Name: Mongol Empire
+#Formable Country
+
+graphical_culture = asiangfx
+
+color = { 22 26 105 }

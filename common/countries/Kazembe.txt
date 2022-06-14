@@ -1,0 +1,6 @@
+#Country Name: Kazembe
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 111 72 131 }

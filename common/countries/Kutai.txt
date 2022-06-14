@@ -1,0 +1,6 @@
+#Country Name: Kutai
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 94 92 232 }

@@ -1,0 +1,6 @@
+#Country Name: Sitifensis
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 93 76 4 }

@@ -1,0 +1,6 @@
+#Country Name: Lan Xang
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 182 164 84 }

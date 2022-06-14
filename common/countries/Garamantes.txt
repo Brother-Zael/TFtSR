@@ -1,0 +1,6 @@
+#Country Name: Garmantes
+#Releasable Country
+
+graphical_culture = westerngfx
+
+color = { 63 246 192 }

@@ -1,0 +1,6 @@
+#Country Name: Songhai
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 10 106 113 }

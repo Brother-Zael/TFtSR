@@ -1,0 +1,6 @@
+#Country Name: Creek
+#Starting Country
+
+graphical_culture = northamericagfx
+
+color = { 23 123 148 }

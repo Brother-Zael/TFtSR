@@ -1,0 +1,6 @@
+#Country Name: ChiangRai
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 236 31 151 }

@@ -1,0 +1,6 @@
+#Country Name: Barito
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 134 22 153 }

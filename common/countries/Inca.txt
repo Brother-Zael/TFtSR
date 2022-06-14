@@ -1,0 +1,6 @@
+#Country Name: Inca
+#Starting Country/Reformable
+
+graphical_culture = southamericagfx
+
+color = { 185 13 223 }

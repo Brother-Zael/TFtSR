@@ -1,0 +1,6 @@
+#Country Name: Qom
+#Releasable Country
+
+graphical_culture = muslimgfx
+
+color = { 85 247 209 }

@@ -1,0 +1,6 @@
+#Country Name: Mamuju
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 84 222 193 }

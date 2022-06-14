@@ -1,0 +1,6 @@
+#Country Name: Caesarae Proconsularis
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 32 116 217 }

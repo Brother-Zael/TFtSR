@@ -1,0 +1,6 @@
+#Country Name: Tenkodogo
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 218 95 123 }

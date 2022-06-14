@@ -1,0 +1,6 @@
+#Country Name: Sunda
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 142 136 19 }

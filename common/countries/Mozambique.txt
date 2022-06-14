@@ -1,0 +1,6 @@
+#Country Name: Mozambique
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 23 227 247 }

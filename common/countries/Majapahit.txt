@@ -1,0 +1,6 @@
+#Country Name: Majapahit
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 212 2 32 }

@@ -1,0 +1,6 @@
+#Country Name: Palapo
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 84 22 193 }

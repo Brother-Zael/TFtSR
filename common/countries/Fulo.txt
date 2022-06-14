@@ -1,0 +1,6 @@
+#Country Name: Fulo
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 127 28 44 }

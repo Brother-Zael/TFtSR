@@ -1,0 +1,6 @@
+#Country Name: Pendinga
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 58 5 137 }

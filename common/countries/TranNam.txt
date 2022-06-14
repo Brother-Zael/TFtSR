@@ -1,0 +1,6 @@
+#Country Name: Tran Nam
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 182 64 84 }

@@ -1,0 +1,6 @@
+#Country Name: Kasanje
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 91 137 101 }

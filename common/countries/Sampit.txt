@@ -1,0 +1,6 @@
+#Country Name: Sampit
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 75 222 32 }

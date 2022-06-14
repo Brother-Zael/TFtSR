@@ -1,0 +1,6 @@
+#Country Name: Sala Colonia
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 33 94 53 }

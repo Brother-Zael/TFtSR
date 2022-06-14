@@ -1,0 +1,6 @@
+#Country Name: Iranshahr
+#Formable Country
+
+graphical_culture = muslimgfx
+
+color = { 5 213 213 }

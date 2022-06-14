@@ -1,0 +1,6 @@
+#Country Name: Kanem Bornu
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 6 106 118 }

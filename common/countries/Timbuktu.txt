@@ -1,0 +1,6 @@
+#Country Name: Timbuktu
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 180 16 101 }

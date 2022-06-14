@@ -1,0 +1,6 @@
+#Country Name: Siak
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 222 56 89 }

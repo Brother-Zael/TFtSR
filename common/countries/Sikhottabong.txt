@@ -1,0 +1,6 @@
+#Country Name: Sikhottabong
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 119 231 11 }

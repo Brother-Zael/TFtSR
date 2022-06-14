@@ -1,0 +1,6 @@
+#Country Name: Kalmyk
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 222 66 75 }

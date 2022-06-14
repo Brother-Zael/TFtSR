@@ -1,0 +1,6 @@
+#Country Name: Burundi
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 171 121 83 }

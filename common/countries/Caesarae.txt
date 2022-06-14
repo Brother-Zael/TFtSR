@@ -1,0 +1,6 @@
+#Country Name: Caesarae
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 93 104 4 }

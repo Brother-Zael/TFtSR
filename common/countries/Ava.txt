@@ -1,0 +1,6 @@
+#Country Name: Ava
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 51 161 94 }

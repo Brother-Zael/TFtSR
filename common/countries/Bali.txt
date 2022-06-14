@@ -1,0 +1,6 @@
+#Country Name: Bali
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 154 172 147 }

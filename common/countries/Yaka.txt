@@ -1,0 +1,6 @@
+#Country Name: Yaka
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 211 202 31 }

@@ -1,0 +1,6 @@
+#Country Name: Lanfang
+#Releasable Country
+
+graphical_culture = asiangfx
+
+color = { 137 135 3 }

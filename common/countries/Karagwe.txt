@@ -1,0 +1,6 @@
+#Country Name: Karagwe
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 141 103 103 }

@@ -1,0 +1,6 @@
+#Country Name: Huron
+#Starting Country
+
+graphical_culture = northamericagfx
+
+color = { 20 13 93 }

@@ -1,0 +1,6 @@
+#Country Name: Hausa
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 136 106 13 }

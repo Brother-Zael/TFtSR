@@ -1,0 +1,6 @@
+#Country Name: Luang Namtha
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 16 161 51 }

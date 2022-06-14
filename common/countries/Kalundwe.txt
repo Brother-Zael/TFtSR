@@ -1,0 +1,6 @@
+#Country Name: Kalundwe
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 21 82 31 }

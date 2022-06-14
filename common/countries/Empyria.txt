@@ -1,0 +1,6 @@
+#Country Name: Empyria
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 23 96 144 }

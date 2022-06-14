@@ -1,0 +1,6 @@
+#Country Name: Demak
+#Releasable Country
+
+graphical_culture = asiangfx
+
+color = { 67 235 213 }

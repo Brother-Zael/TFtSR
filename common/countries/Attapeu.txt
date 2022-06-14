@@ -1,0 +1,6 @@
+#Country Name: Attapeu
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 106 63 94 }

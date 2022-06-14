@@ -1,0 +1,6 @@
+#Country Name: Burma
+#Formable Country
+
+graphical_culture = asiangfx
+
+color = { 52 64 19 }

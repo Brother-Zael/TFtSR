@@ -1,0 +1,6 @@
+#Country Name: Mossi
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 122 208 108 }

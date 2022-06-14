@@ -1,0 +1,6 @@
+#Country Name: Zulu
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 93 227 27 }

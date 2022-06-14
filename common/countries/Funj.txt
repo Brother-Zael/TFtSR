@@ -1,0 +1,6 @@
+#Country Name: Funj
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 30 16 92 }

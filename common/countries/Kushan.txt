@@ -1,0 +1,6 @@
+#Country Name: Kushan
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 222 66 175 }

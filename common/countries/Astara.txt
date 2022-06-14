@@ -1,0 +1,6 @@
+#Country Name: Astara
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 39 169 125 }

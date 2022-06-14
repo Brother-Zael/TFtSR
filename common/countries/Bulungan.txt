@@ -1,0 +1,6 @@
+#Country Name: Bulungan
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 194 12 32 }

@@ -1,0 +1,6 @@
+#Country Name: Medri Bahri
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 32 197 188 }

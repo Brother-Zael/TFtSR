@@ -1,0 +1,6 @@
+#Country Name: Kongo
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 23 67 17 }

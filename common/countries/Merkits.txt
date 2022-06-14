@@ -1,0 +1,6 @@
+#Country Name: Merkits
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 2 86 256 }

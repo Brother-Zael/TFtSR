@@ -1,0 +1,6 @@
+#Country Name: Nong Khai
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 119 31 11 }

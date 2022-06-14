@@ -1,0 +1,6 @@
+#Country Name: Hephthalites
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 211 27 149 }

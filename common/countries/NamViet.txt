@@ -1,0 +1,6 @@
+#Country Name: NamViet
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 182 184 194 }

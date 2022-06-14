@@ -1,0 +1,6 @@
+#Country Name: Lan Na
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 152 153 14 }

@@ -1,0 +1,6 @@
+#Country Name: Jenne
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 27 38 14 }

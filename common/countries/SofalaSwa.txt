@@ -1,0 +1,6 @@
+#Country Name: SofalaSwa
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 23 77 47 }

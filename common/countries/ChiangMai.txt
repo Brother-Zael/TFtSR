@@ -1,0 +1,6 @@
+#Country Name: ChiangMai
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 65 131 91 }

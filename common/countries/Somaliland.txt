@@ -1,0 +1,6 @@
+#Country Name: Somaliland
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 12 117 97 }

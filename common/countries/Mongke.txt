@@ -1,0 +1,6 @@
+#Country Name: Mongke
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 11 91 24 }

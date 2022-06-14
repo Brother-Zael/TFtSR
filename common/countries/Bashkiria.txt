@@ -1,0 +1,6 @@
+#Country Name: Bashkiria
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 22 166 175 }

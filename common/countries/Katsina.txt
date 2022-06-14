@@ -1,0 +1,6 @@
+#Country Name: Katsina
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 132 108 135 }

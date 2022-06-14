@@ -1,0 +1,6 @@
+#Country Name: Ternate
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 67 234 247 }

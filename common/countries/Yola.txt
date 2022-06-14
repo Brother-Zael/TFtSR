@@ -1,0 +1,6 @@
+#Country Name: Yola
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 58 15 37 }

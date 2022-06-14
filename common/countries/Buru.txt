@@ -1,0 +1,6 @@
+#Country Name:  Buru
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 67 84 147 }

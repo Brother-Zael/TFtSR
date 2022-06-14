@@ -1,0 +1,6 @@
+#Country Name: Bengkulu
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 82 56 189 }

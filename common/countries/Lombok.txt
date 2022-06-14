@@ -1,0 +1,6 @@
+#Country Name: Lombok
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 154 72 47 }

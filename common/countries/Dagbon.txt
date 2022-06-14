@@ -1,0 +1,6 @@
+#Country Name: Dagbon
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 67 128 244 }

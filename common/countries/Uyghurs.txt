@@ -1,0 +1,6 @@
+#Country Name: Uyghurs
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 2 216 10 }

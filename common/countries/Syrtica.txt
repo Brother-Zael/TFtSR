@@ -1,0 +1,6 @@
+#Country Name: Syrtica
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 123 46 94 }

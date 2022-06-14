@@ -1,0 +1,6 @@
+#Country Name: Samarinda
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 75 22 132 }

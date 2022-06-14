@@ -1,0 +1,6 @@
+#Country Name: Mong Nai
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 56 101 204 }

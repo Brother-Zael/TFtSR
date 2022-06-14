@@ -1,0 +1,6 @@
+#Country Name: Tidore
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 167 214 69 }

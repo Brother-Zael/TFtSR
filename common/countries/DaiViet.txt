@@ -1,0 +1,6 @@
+#Country Name: DaiViet
+#Formable Country
+
+graphical_culture = asiangfx
+
+color = { 192 142 191 }

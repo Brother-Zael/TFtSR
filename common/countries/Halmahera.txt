@@ -1,0 +1,6 @@
+#Country Name: Halmahera
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 242 159 13 }

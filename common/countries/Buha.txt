@@ -1,0 +1,6 @@
+#Country Name: Buha
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 41 113 183 }

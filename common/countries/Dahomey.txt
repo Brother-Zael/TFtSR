@@ -1,0 +1,6 @@
+#Country Name: Dahomey
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 67 28 44 }

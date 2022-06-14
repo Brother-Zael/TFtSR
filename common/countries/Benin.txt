@@ -1,0 +1,6 @@
+#Country Name: Benin
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 118 27 218 }

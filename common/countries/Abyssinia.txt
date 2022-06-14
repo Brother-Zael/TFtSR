@@ -1,0 +1,6 @@
+#Country Name: Abyssinia
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 198 102 128 }

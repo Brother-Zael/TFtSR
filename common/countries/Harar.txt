@@ -1,0 +1,6 @@
+#Country Name: Harar
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 132 247 8 }

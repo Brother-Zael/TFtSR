@@ -1,0 +1,6 @@
+#Country Name: Shawnee
+#Starting Country
+
+graphical_culture = northamericagfx
+
+color = { 118 173 123 }

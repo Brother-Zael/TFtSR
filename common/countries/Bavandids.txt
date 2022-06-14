@@ -1,0 +1,6 @@
+#Country Name: Bavandids
+#Releasable Country
+
+graphical_culture = muslimgfx
+
+color = { 55 197 179 }

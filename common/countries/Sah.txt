@@ -1,0 +1,6 @@
+#Country Name: Sah
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 246 143 174 }

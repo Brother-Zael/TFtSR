@@ -1,0 +1,6 @@
+#Country Name: Cirebon
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 109 12 32 }

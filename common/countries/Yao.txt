@@ -1,0 +1,6 @@
+#Country Name: Yao
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 18 56 11 }

@@ -1,0 +1,6 @@
+#Country Name: Kutaraja
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 12 16 132 }

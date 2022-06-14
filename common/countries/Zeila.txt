@@ -1,0 +1,6 @@
+#Country Name: Zeila
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 132 97 22 }

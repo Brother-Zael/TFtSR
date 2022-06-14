@@ -1,0 +1,6 @@
+#Country Name: Kong
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 107 198 153 }

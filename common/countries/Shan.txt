@@ -1,0 +1,6 @@
+#Country Name: Shan
+#Formable Country
+
+graphical_culture = asiangfx
+
+color = { 2 4 19 }

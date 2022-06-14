@@ -1,0 +1,6 @@
+#Country Name: Keddah
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 222 64 119 }

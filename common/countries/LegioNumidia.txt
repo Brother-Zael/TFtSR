@@ -1,0 +1,6 @@
+#Country Name: Legio Numidia
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 23 246 92 }

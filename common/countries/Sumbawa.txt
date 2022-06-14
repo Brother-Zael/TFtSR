@@ -1,0 +1,6 @@
+#Country Name: Sumbawa
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 54 202 47 }

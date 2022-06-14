@@ -1,0 +1,6 @@
+#Country Name: Ayutthaya
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 2 253 254 }

@@ -1,0 +1,6 @@
+#Country Name: Mong Kuang
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 51 101 4 }

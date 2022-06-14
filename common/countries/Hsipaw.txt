@@ -1,0 +1,6 @@
+#Country Name: Hsipaw
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 211 191 4 }

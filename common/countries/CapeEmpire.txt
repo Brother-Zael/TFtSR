@@ -1,0 +1,6 @@
+#Country Name: CapeEmpire
+#Formable Country
+
+graphical_culture = africangfx
+
+color = { 203 117 117 }

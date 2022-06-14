@@ -1,0 +1,6 @@
+#Country Name: Langkat
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 22 156 89 }

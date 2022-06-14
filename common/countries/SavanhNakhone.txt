@@ -1,0 +1,6 @@
+#Country Name: SavanhNakhone
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 56 143 34 }

@@ -1,0 +1,6 @@
+#Country Name: Banjar
+#Releasable Country
+
+graphical_culture = asiangfx
+
+color = { 237 135 113 }

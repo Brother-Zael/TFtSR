@@ -1,0 +1,6 @@
+#Country Name: Basoga
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 41 193 103 }

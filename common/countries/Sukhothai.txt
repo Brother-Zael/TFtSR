@@ -1,0 +1,6 @@
+#Country Name: sukhothai
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 96 233 254 }

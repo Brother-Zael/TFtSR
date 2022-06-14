@@ -1,0 +1,6 @@
+#Country Name: Iroquois
+#Starting Country
+
+graphical_culture = northamericagfx
+
+color = { 18 113 123 }

@@ -1,0 +1,6 @@
+#Country Name: Pahang
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 52 106 59 }

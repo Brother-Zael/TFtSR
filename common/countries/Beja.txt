@@ -1,0 +1,6 @@
+#Country Name: Beja
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 92 117 98 }

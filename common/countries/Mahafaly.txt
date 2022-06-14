@@ -1,0 +1,6 @@
+#Country Name: Mahafaly
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 221 61 64 }

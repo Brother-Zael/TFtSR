@@ -1,0 +1,6 @@
+#Country Name: Pagarruyung
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 142 16 109 }

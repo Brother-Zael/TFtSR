@@ -1,0 +1,6 @@
+#Country Name: Zapotec
+#Starting Country
+
+graphical_culture = northamericagfx
+
+color = { 98 173 23 }

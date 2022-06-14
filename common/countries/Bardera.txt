@@ -1,0 +1,6 @@
+#Country Name: Bardera
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 162 127 97 }

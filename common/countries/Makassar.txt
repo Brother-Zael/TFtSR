@@ -1,0 +1,6 @@
+#Country Name: Makassar
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 172 112 132 }

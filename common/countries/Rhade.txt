@@ -1,0 +1,6 @@
+#Country Name: Rhade
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 66 83 244 }

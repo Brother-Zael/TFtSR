@@ -1,0 +1,6 @@
+#Country Name: Kale
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 251 61 94 }

@@ -1,0 +1,6 @@
+#Country Name: Semien
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 22 247 248 }

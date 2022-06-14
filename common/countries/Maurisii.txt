@@ -1,0 +1,6 @@
+#Country Name: Maurisii
+#Releasable Country
+
+graphical_culture = westerngfx
+
+color = { 3 6 187 }

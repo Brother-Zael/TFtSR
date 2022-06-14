@@ -1,0 +1,6 @@
+#Country Name: Brakna
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 76 13 31 }

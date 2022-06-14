@@ -1,0 +1,6 @@
+#Country Name: Jarai
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 66 183 44 }

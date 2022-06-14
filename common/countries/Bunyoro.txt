@@ -1,0 +1,6 @@
+#Country Name: Bunyoro
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 161 73 103 }

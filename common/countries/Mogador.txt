@@ -1,0 +1,6 @@
+#Country Name: Mogador
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 133 64 53 }

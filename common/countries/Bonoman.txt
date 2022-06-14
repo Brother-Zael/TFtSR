@@ -1,0 +1,6 @@
+#Country Name: Bonoman
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 6 28 4 }

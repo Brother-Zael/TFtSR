@@ -1,0 +1,6 @@
+#Country Name: Turan
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 2 86 126 }

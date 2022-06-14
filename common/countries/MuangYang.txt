@@ -1,0 +1,6 @@
+#Country Name: MuangYang
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 11 191 94 }

@@ -1,0 +1,6 @@
+#Country Name: Chimu
+#Starting Country
+
+graphical_culture = southamericagfx
+
+color = { 5 23 78 }

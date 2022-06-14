@@ -1,0 +1,6 @@
+#Country Name: Malaya
+#Releasable Country
+
+graphical_culture = asiangfx
+
+color = { 237 5 237 }

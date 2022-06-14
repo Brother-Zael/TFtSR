@@ -1,0 +1,6 @@
+#Country Name: Merina
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 241 3 183 }

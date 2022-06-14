@@ -1,0 +1,6 @@
+#Country Name: Air
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 46 143 174 }

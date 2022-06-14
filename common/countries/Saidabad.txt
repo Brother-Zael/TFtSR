@@ -1,0 +1,6 @@
+#Country Name: Saidabad
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 191 207 189 }

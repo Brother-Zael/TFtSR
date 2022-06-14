@@ -1,0 +1,6 @@
+#Country Name: Loango
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 66 33 29 }

@@ -1,0 +1,6 @@
+#Country Name: Oyo
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 6 87 11 }

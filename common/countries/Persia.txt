@@ -1,0 +1,6 @@
+#Country Name: Persia
+#Formable Country
+
+graphical_culture = muslimgfx
+
+color = { 5 213 213 }

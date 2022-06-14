@@ -1,0 +1,6 @@
+#Country Name: Merv
+#Releasable Country
+
+graphical_culture = muslimgfx
+
+color = { 15 217 149 }

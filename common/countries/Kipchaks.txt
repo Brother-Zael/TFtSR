@@ -1,0 +1,6 @@
+#Country Name: Kipchaks
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 222 211 10 }

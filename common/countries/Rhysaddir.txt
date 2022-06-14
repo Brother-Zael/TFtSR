@@ -1,0 +1,6 @@
+#Country Name: Rhysaddir
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 3 64 153 }

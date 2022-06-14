@@ -1,0 +1,6 @@
+#Country Name: Sibir Khanate
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 42 1 180 }

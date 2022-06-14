@@ -1,0 +1,6 @@
+#Country Name: MuangKawng
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 211 211 214 }

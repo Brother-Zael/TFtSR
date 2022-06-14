@@ -1,0 +1,6 @@
+#Country Name: Champasak
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 16 63 94 }

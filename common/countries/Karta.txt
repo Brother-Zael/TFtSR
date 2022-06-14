@@ -1,0 +1,6 @@
+#Country Name: Karta
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 109 12 232 }

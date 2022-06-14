@@ -1,0 +1,6 @@
+#Country Name: Oromo
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 71 247 128 }

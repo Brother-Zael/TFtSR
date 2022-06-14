@@ -1,0 +1,6 @@
+#Country Name: Rwanda
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 81 82 97 }

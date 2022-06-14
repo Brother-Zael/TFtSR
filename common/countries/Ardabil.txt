@@ -1,0 +1,6 @@
+#Country Name: Ardabil
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 22 66 75 }

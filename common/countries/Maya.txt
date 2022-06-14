@@ -1,0 +1,6 @@
+#Country Name: Maya
+#Starting Country/Reformable
+
+graphical_culture = northamericagfx
+
+color = { 245 13 203 }

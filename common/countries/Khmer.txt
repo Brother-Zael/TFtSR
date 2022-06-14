@@ -1,0 +1,6 @@
+#Country Name: Khmer
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 2 153 154 }

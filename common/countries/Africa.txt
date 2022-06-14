@@ -1,0 +1,6 @@
+#Country Name: Africa
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 132 6 17 }

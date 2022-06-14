@@ -1,0 +1,6 @@
+#Country Name: Zaranj
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 11 27 249 }

@@ -1,0 +1,6 @@
+#Country Name: Mombasa
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 22 167 102 }

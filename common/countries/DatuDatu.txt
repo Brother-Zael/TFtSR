@@ -1,0 +1,6 @@
+#Country Name: Datu Datu
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 19 112 32 }

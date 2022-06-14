@@ -1,0 +1,6 @@
+#Country Name: Pagan
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 11 143 124 }

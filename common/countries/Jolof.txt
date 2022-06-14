@@ -1,0 +1,6 @@
+#Country Name: Jolof
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 66 97 10 }

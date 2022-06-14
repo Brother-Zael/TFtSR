@@ -1,0 +1,6 @@
+#Country Name: Isfahan
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 1 177 189 }

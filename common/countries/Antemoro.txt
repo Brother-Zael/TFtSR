@@ -1,0 +1,6 @@
+#Country Name: Antemoro
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 251 61 64 }

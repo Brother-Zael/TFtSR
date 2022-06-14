@@ -1,0 +1,6 @@
+#Country Name: Nongbua Lamphu
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 65 131 91 }

@@ -1,0 +1,6 @@
+#Country Name: Makuria
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 178 159 178 }

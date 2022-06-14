@@ -1,0 +1,6 @@
+#Country Name: Luba
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 101 180 103 }

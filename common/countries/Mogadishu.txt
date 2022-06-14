@@ -1,0 +1,6 @@
+#Country Name: Mogadishu
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 12 107 92 }

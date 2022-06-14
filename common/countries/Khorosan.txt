@@ -1,0 +1,6 @@
+#Country Name: Khorosan
+#Releasable Country
+
+graphical_culture = muslimgfx
+
+color = { 85 87 209 }

@@ -1,0 +1,6 @@
+#Country Name: Afar
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 198 27 68 }

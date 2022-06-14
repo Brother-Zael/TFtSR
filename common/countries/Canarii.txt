@@ -1,0 +1,6 @@
+#Country Name: Canarii
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 13 204 204 }

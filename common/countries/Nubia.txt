@@ -1,0 +1,6 @@
+#Country Name: Nubia
+#Formable Country
+
+graphical_culture = africangfx
+
+color = { 223 7 247 }

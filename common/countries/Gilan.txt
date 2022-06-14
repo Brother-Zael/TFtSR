@@ -1,0 +1,6 @@
+#Country Name: Gilan
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 139 159 5 }

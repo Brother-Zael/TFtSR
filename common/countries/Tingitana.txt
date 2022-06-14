@@ -1,0 +1,6 @@
+#Country Name: Tingitana
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 200 24 23 }

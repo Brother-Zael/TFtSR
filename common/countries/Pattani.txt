@@ -1,0 +1,6 @@
+#Country Name: Pattani
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 102 64 119 }

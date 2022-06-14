@@ -1,0 +1,6 @@
+#Country Name: Shiraz
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 101 77 189 }

@@ -1,0 +1,6 @@
+#Country Name: Kaabu
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 147 108 164 }

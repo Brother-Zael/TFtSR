@@ -1,0 +1,6 @@
+#Country Name: Yazd
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 1 177 89 }

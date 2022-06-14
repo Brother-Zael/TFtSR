@@ -1,0 +1,6 @@
+#Country Name: Wajo
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 94 82 133 }

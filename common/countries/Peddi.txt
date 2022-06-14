@@ -1,0 +1,6 @@
+#Country Name: Peddi
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 98 95 73 }

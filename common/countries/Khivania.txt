@@ -1,0 +1,6 @@
+#Country Name: Khivania
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 2 186 26 }

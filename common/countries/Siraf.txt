@@ -1,0 +1,6 @@
+#Country Name: Siraf
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 91 177 189 }

@@ -1,0 +1,6 @@
+#Country Name: Tagant
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 116 43 34 }

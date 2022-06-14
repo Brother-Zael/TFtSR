@@ -1,0 +1,6 @@
+#Country Name: Buton
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 124 82 93 }
