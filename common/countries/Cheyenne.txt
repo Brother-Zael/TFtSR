@@ -1,0 +1,6 @@
+#Country Name: Cheyenne
+#Starting Country
+
+graphical_culture = northamericangfx
+
+color = { 145 2 137 }

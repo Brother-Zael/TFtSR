@@ -1,0 +1,6 @@
+#Country Name: Tondainadu
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 242 126 138 }

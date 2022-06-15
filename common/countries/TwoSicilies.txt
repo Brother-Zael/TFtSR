@@ -1,0 +1,6 @@
+#Country Name: Two Sicilies
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 45 162 167 }

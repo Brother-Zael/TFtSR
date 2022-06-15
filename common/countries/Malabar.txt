@@ -1,0 +1,6 @@
+#Country Name: Malabar
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 212 26 182 }

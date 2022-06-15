@@ -1,0 +1,6 @@
+#Country Name: Deccan
+#Formable Country
+
+graphical_culture = indiangfx
+
+color = { 212 226 82 }

@@ -1,0 +1,6 @@
+#Country Name: Punjab
+#Formable Country
+
+graphical_culture = indiangfx
+
+color = { 151 146 2 }

@@ -1,0 +1,6 @@
+#Country Name: Arapaho
+#Starting Country
+
+graphical_culture = northamericangfx
+
+color = { 11 102 12 }

@@ -1,0 +1,6 @@
+#Country Name: Mahakoshal
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 2 67 8 }

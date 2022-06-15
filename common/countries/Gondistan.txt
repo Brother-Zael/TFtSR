@@ -1,0 +1,6 @@
+#Country Name: Gondistan
+#Formable Country
+
+graphical_culture = indiangfx
+
+color = { 251 16 26 }

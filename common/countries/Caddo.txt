@@ -1,0 +1,6 @@
+#Country Name: Caddo
+#Starting Country
+
+graphical_culture = northamericangfx
+
+color = { 125 2 37 }

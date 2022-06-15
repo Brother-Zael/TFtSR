@@ -1,0 +1,6 @@
+#Country Name: Chinook
+#Starting Country
+
+graphical_culture = northamericangfx
+
+color = { 11 202 212 }

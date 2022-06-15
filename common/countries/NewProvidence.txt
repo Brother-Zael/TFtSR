@@ -1,0 +1,6 @@
+#Country Name: New Providence
+#Releasable Country
+
+graphical_culture = westerngfx
+
+color = { 215 222 227 }

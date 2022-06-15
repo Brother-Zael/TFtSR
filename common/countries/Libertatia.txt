@@ -1,0 +1,6 @@
+#Country Name: Libertatia
+#Releasable Country
+
+graphical_culture = westerngfx
+
+color = { 45 32 47 }

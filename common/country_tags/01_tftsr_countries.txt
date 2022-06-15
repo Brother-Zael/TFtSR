@@ -708,7 +708,7 @@ MDL = "countries/Mandala.txt"
 MHK = "countries/Mahakoshal.txt"
 
 MYS = "countries/Mysore.txt"
-VIJ = "countries/Vijaynagara.txt"
+VIJ = "countries/Vijaynagar.txt"
 KNJ = "countries/Karanja.txt"
 BID = "countries/Bidar.txt"
 AAL = "countries/Aalok.txt"           # GOL on map
@@ -723,7 +723,7 @@ MBR = "countries/Malabar.txt"         # Malabar christian kingdom, mostly muslim
 DEC = "countries/Deccan.txt"
 MAR = "countries/Marathas.txt"
 RJP = "countries/Rajputana.txt"
-HIN = "countries/Hindustan.txt"
+HIN = "countries/Hindustan.txt"		  # India formable with branching mission depending on religion
 NPL	= "countries/Nepal.txt"           # Nepalese culture formable
 PAL = "countries/Pala.txt"			  # Pala princes reformable
 GSN = "countries/Gondistan.txt"		  # Gond culture formable
@@ -757,6 +757,8 @@ SHO = "countries/Shoshone.txt"
 SIO = "countries/Sioux.txt"
 WCR = "countries/Cree.txt"
 
+# Add chinese explorer tag in N. America?
+
 #South American Additions
 CSU = "countries/Cusco.txt"
 MCA = "countries/Muisca.txt"
@@ -765,42 +767,42 @@ ARW = "countries/Arawak.txt"
 CAB = "countries/Carib.txt"
 ICM = "countries/Ichma.txt"
 
-#Golden Century Mesoamerican Tags
-MAT = "countries/Matlatzinca.txt"
-COI = "countries/Coixtlahuaca.txt"
-TEO = "countries/Teotitlan.txt"
-XAL = "countries/Xalisco.txt"
-GAM = "countries/Guamar.txt"
-HST = "countries/Huastec.txt"
-CCM = "countries/Chichimeca.txt"
-OTO = "countries/Otomi.txt"
-YOK = "countries/Yokotan.txt"
-LAC = "countries/Lacandon.txt"
-KAQ = "countries/Kaqchikel.txt"
-CTM = "countries/Chactemal.txt"
-KER = "countries/Keres.txt"
-ZNI = "countries/Zuni.txt"
-MSC = "countries/Mescalero.txt"
-LIP = "countries/Lipan.txt"
-CHT = "countries/Chorti.txt"
-MIS = "countries/Miskito.txt"
-TAI = "countries/Tairona.txt"
-CNP = "countries/Can Pech.txt"
-TON = "countries/Tonallan.txt"
-YAQ = "countries/Yaqui.txt"
-YKT = "countries/Yokuts.txt"
+#Golden Century Mesoamerican Tags   TO ADD LATER IF NEEDED
+#MAT = "countries/Matlatzinca.txt"
+#COI = "countries/Coixtlahuaca.txt"
+#TEO = "countries/Teotitlan.txt"
+#XAL = "countries/Xalisco.txt"
+#GAM = "countries/Guamar.txt"
+#HST = "countries/Huastec.txt"
+#CCM = "countries/Chichimeca.txt"
+#OTO = "countries/Otomi.txt"
+#YOK = "countries/Yokotan.txt"
+#LAC = "countries/Lacandon.txt"
+#KAQ = "countries/Kaqchikel.txt"
+#CTM = "countries/Chactemal.txt"
+#KER = "countries/Keres.txt"
+#ZNI = "countries/Zuni.txt"
+#MSC = "countries/Mescalero.txt"
+#LIP = "countries/Lipan.txt"
+#CHT = "countries/Chorti.txt"
+#MIS = "countries/Miskito.txt"
+#TAI = "countries/Tairona.txt"
+#CNP = "countries/Can Pech.txt"
+#TON = "countries/Tonallan.txt"
+#YAQ = "countries/Yaqui.txt"
+#YKT = "countries/Yokuts.txt"
 
 # Pirate tags
-NSS = "countries/New Providence.txt"
-PRY = "countries/Port Royal.txt"
+NSS = "countries/NewProvidence.txt"
+PRY = "countries/PortRoyal.txt"
 TOR = "countries/Tortuga.txt"
 LIB = "countries/Libertatia.txt"
 
 # 1.30 Formables
-TTS = "countries/Two Sicilies.txt"
+TTS = "countries/TwoSicilies.txt"
 
 # ???
-JMN = "countries/Jan Mayen.txt"
+JMN = "countries/JanMayen.txt"
 ROM = "countries/RomanEmpire.txt"
 SYN = "countries/Synthetics.txt"
 

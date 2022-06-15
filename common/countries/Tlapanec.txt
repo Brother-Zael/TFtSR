@@ -1,0 +1,6 @@
+#Country Name: Tlapanec
+#Starting Country
+
+graphical_culture = northamericangfx
+
+color = { 15 124 17 }

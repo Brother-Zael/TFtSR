@@ -1,0 +1,6 @@
+#Country Name: Nepal
+#Formable Country
+
+graphical_culture = indiangfx
+
+color = { 251 76 246 }

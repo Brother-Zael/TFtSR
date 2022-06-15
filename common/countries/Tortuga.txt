@@ -1,0 +1,6 @@
+#Country Name: Tortuga
+#Releasable Country
+
+graphical_culture = westerngfx
+
+color = { 235 212 247 }

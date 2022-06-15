@@ -1,0 +1,6 @@
+#Country Name: Mandala
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 81 107 8 }

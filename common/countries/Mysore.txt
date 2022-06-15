@@ -1,0 +1,6 @@
+#Country Name: Mysore
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 12 6 8 }

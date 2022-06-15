@@ -1,0 +1,6 @@
+#Country Name: Gauda
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 181 175 12 }

@@ -1,0 +1,6 @@
+#Country Name: Rajputana
+#Formable Country
+
+graphical_culture = indiangfx
+
+color = { 242 236 232 }

@@ -1,0 +1,6 @@
+#Country Name: Colima
+#Starting Country
+
+graphical_culture = northamericangfx
+
+color = { 111 22 12 }

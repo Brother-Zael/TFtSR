@@ -1,0 +1,6 @@
+#Country Name: Karanja
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 12 206 208 }

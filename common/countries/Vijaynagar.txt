@@ -1,0 +1,6 @@
+#Country Name: Vijayanagar
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 12 206 8 }

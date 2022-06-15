@@ -1,0 +1,6 @@
+#Country Name: Comanche
+#Starting Country
+
+graphical_culture = northamericangfx
+
+color = { 245 222 237 }

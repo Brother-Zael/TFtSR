@@ -1,0 +1,6 @@
+#Country Name: Pala
+#Formable Country
+
+graphical_culture = indiangfx
+
+color = { 151 176 246 }

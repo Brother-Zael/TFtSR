@@ -1,0 +1,6 @@
+#Country Name: Synthetics
+#Formable Country
+
+graphical_culture = polynesiangfx
+
+color = { 200 200 200 }

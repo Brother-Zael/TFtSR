@@ -1,0 +1,6 @@
+#Country Name: Shoshone
+#Starting Country
+
+graphical_culture = northamericangfx
+
+color = { 135 22 37 }

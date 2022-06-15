@@ -1,0 +1,6 @@
+#Country Name: Port Royal
+#Releasable Country
+
+graphical_culture = westerngfx
+
+color = { 235 222 227 }

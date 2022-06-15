@@ -1,0 +1,6 @@
+#Country Name: Mixtec
+#Starting Country
+
+graphical_culture = northamericangfx
+
+color = { 81 14 227 }

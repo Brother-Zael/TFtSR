@@ -1,0 +1,6 @@
+#Country Name: Jafnids
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 12 226 238 }

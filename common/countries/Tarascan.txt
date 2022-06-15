@@ -1,0 +1,6 @@
+#Country Name: Tarascan
+#Starting Country
+
+graphical_culture = northamericangfx
+
+color = { 1 124 117 }

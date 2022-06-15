@@ -1,0 +1,6 @@
+#Country Name: Kiowa
+#Starting Country
+
+graphical_culture = northamericangfx
+
+color = { 171 14 27 }

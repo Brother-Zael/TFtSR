@@ -1,0 +1,6 @@
+#Country Name: Vanaheimr
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 11 42 142 }

@@ -1,0 +1,6 @@
+#Country Name: Aalok
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 42 126 138 }

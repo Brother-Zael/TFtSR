@@ -1,0 +1,6 @@
+#Country Name: Jan Mayen
+#Releasable Country
+
+graphical_culture = inuitgfx
+
+color = { 1 1 1 }

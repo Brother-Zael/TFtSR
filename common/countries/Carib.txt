@@ -1,0 +1,6 @@
+#Country Name: Carib
+#Starting Country
+
+graphical_culture = southamericangfx
+
+color = { 15 182 27 }

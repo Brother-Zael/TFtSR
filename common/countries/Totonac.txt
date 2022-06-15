@@ -1,0 +1,6 @@
+#Country Name: Totonac
+#Starting Country
+
+graphical_culture = northamericangfx
+
+color = { 25 14 17 }

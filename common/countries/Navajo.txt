@@ -1,0 +1,6 @@
+#Country Name: Navajo
+#Starting Country
+
+graphical_culture = northamericangfx
+
+color = { 35 122 37 }

@@ -1,0 +1,6 @@
+#Country Name: Blackfoot
+#Starting Country
+
+graphical_culture = northamericangfx
+
+color = { 25 24 117 }

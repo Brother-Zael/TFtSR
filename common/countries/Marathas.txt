@@ -1,0 +1,6 @@
+#Country Name: Marathas
+#Formable Country
+
+graphical_culture = indiangfx
+
+color = { 12 216 232 }

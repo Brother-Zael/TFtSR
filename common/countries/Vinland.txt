@@ -1,0 +1,6 @@
+#Country Name: Vinland
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 11 142 142 }

@@ -1,0 +1,6 @@
+#Country Name: Velanadu
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 211 57 82 }

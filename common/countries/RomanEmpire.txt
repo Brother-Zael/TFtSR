@@ -1,0 +1,6 @@
+#Country Name: Roman Empire
+#Formable Country
+
+graphical_culture = westerngfx
+
+color = { 200 1 1 }

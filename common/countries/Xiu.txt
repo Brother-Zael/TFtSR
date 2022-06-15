@@ -1,0 +1,6 @@
+#Country Name: Xiu
+#Starting Country
+
+graphical_culture = northamericangfx
+
+color = { 55 214 57 }

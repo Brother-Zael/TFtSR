@@ -1,0 +1,6 @@
+#Country Name: Guarani
+#Starting Country
+
+graphical_culture = southamericangfx
+
+color = { 135 142 7 }

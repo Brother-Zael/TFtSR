@@ -1,0 +1,6 @@
+#Country Name: Bidar
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 172 26 198 }

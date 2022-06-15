@@ -1,0 +1,6 @@
+#Country Name: Sioux
+#Starting Country
+
+graphical_culture = northamericangfx
+
+color = { 235 22 137 }

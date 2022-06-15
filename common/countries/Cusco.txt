@@ -1,0 +1,6 @@
+#Country Name: Cusco
+#Starting Country
+
+graphical_culture = southamericangfx
+
+color = { 135 42 37 }

@@ -1,0 +1,6 @@
+#Country Name: Cuddalore
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 22 26 138 }
