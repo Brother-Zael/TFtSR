@@ -1,0 +1,6 @@
+#Country Name: Manchu
+#Formable Country
+
+graphical_culture = asiangfx
+
+color = { 214 201 92 }

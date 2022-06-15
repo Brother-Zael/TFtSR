@@ -1,0 +1,6 @@
+#Country Name: Lang Zhao
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 102 91 12 }

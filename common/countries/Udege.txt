@@ -1,0 +1,6 @@
+#Country Name: Udege
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 23 194 196 }

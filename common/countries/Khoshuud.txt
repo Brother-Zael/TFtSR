@@ -1,0 +1,6 @@
+#Country Name: Khoshuud
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 193 141 56 }

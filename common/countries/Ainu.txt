@@ -1,0 +1,6 @@
+#Country Name: Ainu
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 153 104 106 }

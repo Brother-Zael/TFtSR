@@ -1,0 +1,6 @@
+#Country Name: Imagawa
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 112 13 132 }

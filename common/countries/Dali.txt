@@ -1,0 +1,6 @@
+#Country Name: Dali
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 7 1 4 }

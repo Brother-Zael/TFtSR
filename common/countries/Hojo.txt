@@ -1,0 +1,6 @@
+#Country Name: Hojo
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 2 13 132 }

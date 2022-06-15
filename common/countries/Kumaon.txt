@@ -1,0 +1,6 @@
+#Country Name: Kumaon
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 141 17 151 }

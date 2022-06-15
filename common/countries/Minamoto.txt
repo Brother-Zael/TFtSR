@@ -1,0 +1,6 @@
+#Country Name: Minamoto
+#Formable Country
+
+graphical_culture = asiangfx
+
+color = { 53 124 206 }

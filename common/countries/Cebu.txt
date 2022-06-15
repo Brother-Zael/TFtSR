@@ -1,0 +1,6 @@
+#Country Name: Cebu
+#Starting Country
+
+graphical_culture = polynesiangfx
+
+color = { 27 185 182 }

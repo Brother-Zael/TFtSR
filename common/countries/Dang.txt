@@ -1,0 +1,6 @@
+#Country Name: Dang
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 221 47 41 }

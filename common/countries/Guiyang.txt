@@ -1,0 +1,6 @@
+#Country Name: Guiyang
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 247 56 142 }

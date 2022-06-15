@@ -1,0 +1,6 @@
+#Country Name: Tibet
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 91 5 27 }

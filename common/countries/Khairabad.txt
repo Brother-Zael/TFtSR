@@ -1,0 +1,6 @@
+#Country Name: Khairabad
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 211 27 177 }

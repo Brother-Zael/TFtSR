@@ -1,0 +1,6 @@
+#Country Name: Umarkot
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 231 17 72 }

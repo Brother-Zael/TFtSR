@@ -1,0 +1,6 @@
+#Country Name: Madyas
+#Releasable Country
+
+graphical_culture = polynesiangfx
+
+color = { 197 193 32 }

@@ -1,0 +1,6 @@
+#Country Name: Ophir
+#Formable Country
+
+graphical_culture = polynesiangfx
+
+color = { 27 113 232 }

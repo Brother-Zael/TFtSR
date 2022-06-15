@@ -596,7 +596,11 @@ IGS = "countries/Ogasawara.txt"
 SOO = "countries/So.txt" # Japanese potential pirate daimyo
 
 ANU = "countries/Ainu.txt"
-JAP	= "countries/Japan.txt"
+
+TRI = "countries/Taira.txt"             # Formable for Taira clans, nominally SW third of japan
+MNM = "countries/Minamoto.txt"          # Formable for Minamoto clans, nominally middle third of japan
+FUJ = "countries/Fujiwara.txt"          # Formable for the northern clans, nominally top third of japan (inclusive of hokkaido). Ainu-Imperial descent.
+JAP	= "countries/Japan.txt"             # Formable w/ branching mission based off intermediary tag.
 
 #Let's kill china
 BRY = "countries/Buryats.txt"           #CNS on map because smoothbrain
@@ -626,7 +630,7 @@ KGN = "countries/Khaganate.txt"         # empire-rank horde formable that leaves
 
 #CHINA NUMBA WAN!
 KIY = "countries/Kiy.txt"               # Anti-Mongol Horde
-LNZ = "countries/LNZ.txt"               # Trib under mongols
+LNZ = "countries/LangZhao.txt"          # Trib under mongols
 XIA = "countries/Xialang.txt"           # Chinese Warlord
 WUL = "countries/Wulang.txt"            # Chinese Warlord
 QIN = "countries/Qin.txt"               # Chinese 3rd Power, super dev sichuan confucianist isolationists

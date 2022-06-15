@@ -1,0 +1,6 @@
+#Country Name: Garze
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 121 175 7 }

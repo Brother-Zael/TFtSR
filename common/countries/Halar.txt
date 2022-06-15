@@ -1,0 +1,6 @@
+#Country Name: Halar
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 191 45 17 }

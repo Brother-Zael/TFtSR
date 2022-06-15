@@ -1,0 +1,6 @@
+#Country Name: Ranpur
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 91 145 117 }

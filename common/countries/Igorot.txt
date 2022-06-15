@@ -1,0 +1,6 @@
+#Country Name: Igorot
+#Starting Country
+
+graphical_culture = polynesiangfx
+
+color = { 7 115 202 }

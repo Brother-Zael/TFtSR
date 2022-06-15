@@ -1,0 +1,6 @@
+#Country Name: Doenom Bujog
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 93 1 232 }

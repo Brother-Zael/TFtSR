@@ -1,0 +1,6 @@
+#Country Name: Rajkot
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 211 17 167 }

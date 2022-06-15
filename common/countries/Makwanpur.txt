@@ -1,0 +1,6 @@
+#Country Name: Makwanpur
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 21 147 141 }

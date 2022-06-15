@@ -1,0 +1,6 @@
+#Country Name: Namyue
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 205 181 181 }

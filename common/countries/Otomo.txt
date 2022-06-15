@@ -1,0 +1,6 @@
+#Country Name: Otomo
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 24 113 112 }

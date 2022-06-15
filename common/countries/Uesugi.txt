@@ -1,0 +1,6 @@
+#Country Name: Uesugi
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 13 34 16 }

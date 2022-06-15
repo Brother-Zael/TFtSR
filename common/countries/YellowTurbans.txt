@@ -1,0 +1,6 @@
+#Country Name: Yellow Turbans
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 1 255 1 }

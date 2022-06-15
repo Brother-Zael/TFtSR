@@ -1,0 +1,6 @@
+#Country Name: Yi
+#Releasable Country
+
+graphical_culture = asiangfx
+
+color = { 128 225 75 }

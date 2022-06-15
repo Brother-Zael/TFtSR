@@ -1,0 +1,6 @@
+#Country Name: Parsis-desh
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 191 145 117 }

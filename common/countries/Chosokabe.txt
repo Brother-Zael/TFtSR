@@ -1,0 +1,6 @@
+#Country Name: Chosokabe
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 227 213 232 }

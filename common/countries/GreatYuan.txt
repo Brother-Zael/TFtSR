@@ -1,0 +1,6 @@
+#Country Name: Great Yuan
+#Formable Country
+
+graphical_culture = asiangfx
+
+color = { 141 17 51 }

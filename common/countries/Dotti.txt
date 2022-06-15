@@ -1,0 +1,6 @@
+#Country Name: Dotti
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 41 217 51 }

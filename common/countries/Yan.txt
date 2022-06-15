@@ -1,0 +1,6 @@
+#Country Name: Yan
+#Releasable Country
+
+graphical_culture = asiangfx
+
+color = { 128 25 75 }

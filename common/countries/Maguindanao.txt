@@ -1,0 +1,6 @@
+#Country Name: Maguindanao
+#Starting Country
+
+graphical_culture = polynesiangfx
+
+color = { 197 53 182 }

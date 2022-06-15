@@ -1,0 +1,6 @@
+#Country Name: Sikkim
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 9 5 7 }

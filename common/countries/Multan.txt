@@ -1,0 +1,6 @@
+#Country Name: Multan
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 11 17 82 }

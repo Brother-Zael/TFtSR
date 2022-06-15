@@ -1,0 +1,6 @@
+#Country Name: Great Yuan
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 41 17 151 }

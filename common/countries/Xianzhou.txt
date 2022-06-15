@@ -1,0 +1,6 @@
+#Country Name: Xianzhou
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 5 171 171 }

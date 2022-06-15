@@ -1,0 +1,6 @@
+#Country Name: Mindoro
+#Starting Country
+
+graphical_culture = polynesiangfx
+
+color = { 32 35 133 }

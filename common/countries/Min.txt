@@ -1,0 +1,6 @@
+#Country Name: Min
+#Releasable Country
+
+graphical_culture = asiangfx
+
+color = { 155 5 47 }

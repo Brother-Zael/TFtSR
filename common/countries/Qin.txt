@@ -1,0 +1,6 @@
+#Country Name: Qin
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 27 239 12 }

@@ -1,0 +1,6 @@
+#Country Name: Yuanling
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 22 125 195 }

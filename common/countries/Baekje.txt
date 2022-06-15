@@ -1,0 +1,6 @@
+#Country Name: Baekje
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 3 41 254 }

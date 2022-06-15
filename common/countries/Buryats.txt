@@ -1,0 +1,6 @@
+#Country Name: Buryats
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 23 204 26 }

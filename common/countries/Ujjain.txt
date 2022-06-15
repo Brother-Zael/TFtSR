@@ -1,0 +1,6 @@
+#Country Name: Ujjain
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 91 15 67 }

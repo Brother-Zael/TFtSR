@@ -1,0 +1,6 @@
+#Country Name: Korea
+#Formable Country
+
+graphical_culture = asiangfx
+
+color = { 1 1 102 }

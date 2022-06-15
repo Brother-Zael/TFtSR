@@ -1,0 +1,6 @@
+#Country Name: Kadraites
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 211 217 7 }

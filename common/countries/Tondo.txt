@@ -1,0 +1,6 @@
+#Country Name: Tondo
+#Releasable Country
+
+graphical_culture = polynesiangfx
+
+color = { 97 93 82 }

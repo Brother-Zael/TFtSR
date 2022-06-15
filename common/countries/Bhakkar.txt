@@ -1,0 +1,6 @@
+#Country Name: Bhakkar
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 11 117 112 }

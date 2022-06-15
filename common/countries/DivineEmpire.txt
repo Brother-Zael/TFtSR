@@ -1,0 +1,6 @@
+#Country Name: Divine Empire
+#Formable Country
+
+graphical_culture = asiangfx
+
+color = { 11 17 11 }

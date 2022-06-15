@@ -1,0 +1,6 @@
+#Country Name: KaraKhitan
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 91 5 207 }

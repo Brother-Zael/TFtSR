@@ -1,0 +1,6 @@
+#Country Name: Thatta
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 31 117 72 }

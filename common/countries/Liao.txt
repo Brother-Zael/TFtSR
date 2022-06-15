@@ -1,0 +1,6 @@
+#Country Name: Liao
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 163 251 76 }

@@ -1,0 +1,6 @@
+#Country Name: Yang Commandery
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 113 141 132 }

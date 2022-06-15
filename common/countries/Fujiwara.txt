@@ -1,0 +1,6 @@
+#Country Name: Fujiwara
+#Formable Country
+
+graphical_culture = asiangfx
+
+color = { 253 4 26 }

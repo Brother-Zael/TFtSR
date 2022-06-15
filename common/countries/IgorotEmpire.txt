@@ -1,0 +1,6 @@
+#Country Name: Igorot Empire
+#Formable Country
+
+graphical_culture = polynesiangfx
+
+color = { 227 13 232 }

@@ -1,0 +1,6 @@
+#Country Name: Utsang
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 12 105 157 }

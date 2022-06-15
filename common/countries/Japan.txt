@@ -1,0 +1,6 @@
+#Country Name: Japan
+#Formable Country
+
+graphical_culture = asiangfx
+
+color = { 203 4 6 }

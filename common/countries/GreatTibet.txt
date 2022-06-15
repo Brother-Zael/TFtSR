@@ -1,0 +1,6 @@
+#Country Name: Great Tibet
+#Formable Country
+
+graphical_culture = asiangfx
+
+color = { 91 5 27 }

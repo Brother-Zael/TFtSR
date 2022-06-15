@@ -1,0 +1,6 @@
+#Country Name: Yunnan
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 7 156 142 }

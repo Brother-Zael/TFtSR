@@ -1,0 +1,6 @@
+#Country Name: Xialang
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 187 39 112 }

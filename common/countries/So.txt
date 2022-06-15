@@ -1,0 +1,6 @@
+#Country Name: So
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 123 74 6 }

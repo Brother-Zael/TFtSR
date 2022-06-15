@@ -1,0 +1,6 @@
+#Country Name: Huangzhou
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 151 151 21 }

@@ -1,0 +1,6 @@
+#Country Name: Kham
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 12 175 197 }

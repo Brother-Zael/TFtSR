@@ -1,0 +1,6 @@
+#Country Name: DKD
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 163 81 76 }

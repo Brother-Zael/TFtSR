@@ -1,0 +1,6 @@
+#Country Name: Khaganate
+#Formable Country
+
+graphical_culture = asiangfx
+
+color = { 202 1 102 }

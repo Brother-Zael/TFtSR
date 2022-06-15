@@ -1,0 +1,6 @@
+#Country Name: Lahore
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 41 87 82 }

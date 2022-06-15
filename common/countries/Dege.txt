@@ -1,0 +1,6 @@
+#Country Name: Dege
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 121 5 107 }

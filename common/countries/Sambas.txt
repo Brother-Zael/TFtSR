@@ -1,0 +1,6 @@
+#Country Name: Sambas
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 17 15 52 }

@@ -1,0 +1,6 @@
+#Country Name: Gyeongju
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 40 181 192 }

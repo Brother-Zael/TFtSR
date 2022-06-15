@@ -1,0 +1,6 @@
+#Country Name: Tagawa Clan
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 127 235 33 }

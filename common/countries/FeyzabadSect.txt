@@ -1,0 +1,6 @@
+#Country Name: Feyzabad Sect
+#Starting Country
+
+graphical_culture = indiangfx
+
+color = { 121 127 22 }

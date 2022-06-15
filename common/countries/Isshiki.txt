@@ -1,0 +1,6 @@
+#Country Name: Isshiki
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 33 134 46 }

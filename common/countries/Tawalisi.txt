@@ -1,0 +1,6 @@
+#Country Name: Tawalisi
+#Formable Country
+
+graphical_culture = polynesiangfx
+
+color = { 27 213 232 }
