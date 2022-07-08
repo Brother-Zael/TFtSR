@@ -1,10 +1,10 @@
 #Sönderjylland-Slesvig, incl. Slesvig, Haderslev and Flensborg
 
-add_core = SHL
-owner = SHL
-controller = SHL
+add_core = DAN
+owner = DAN
+controller = DAN
 culture = danish
-religion = catholic
+religion = norse
 hre = no
 base_tax = 4
 base_production = 4

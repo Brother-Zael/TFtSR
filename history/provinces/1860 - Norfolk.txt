@@ -1,10 +1,10 @@
 #1860 - Norfolk
 #Includes Suffolk
 
-owner = ENG
-controller = ENG
+owner = SML
+controller = SML
 culture = english
-religion = catholic
+religion = norse
 hre = no
 base_tax = 4
 base_production = 4
@@ -12,7 +12,7 @@ trade_goods = iron
 base_manpower = 2
 capital = "Norwich"
 is_city = yes
-add_core = ENG
+add_core = SML
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

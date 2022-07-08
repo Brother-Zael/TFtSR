@@ -1,0 +1,6 @@
+#Country Name: Trapalanda
+#Releasable/Fake Country
+
+graphical_culture = westerngfx
+
+color = { 222 22 221 } 

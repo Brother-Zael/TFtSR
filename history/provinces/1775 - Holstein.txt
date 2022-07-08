@@ -1,10 +1,10 @@
 #1775 - Holstein
 
-owner = SHL
-controller = SHL
-add_core = SHL
+owner = DAN
+controller = DAN
+add_core = DAN
 culture = lower_saxon
-religion = catholic
+religion = norse
 hre = yes
 base_tax = 4
 base_production = 4

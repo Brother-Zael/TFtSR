@@ -1,8 +1,9 @@
 #Närke
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = UPP
+add_core = VAR
+owner = UPP
+controller = UPP
 culture = swedish
 religion = catholic
 hre = no

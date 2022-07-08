@@ -1,10 +1,12 @@
 #Tröndelag, incl. Trondheim, Frosta, Röros, Steinviksholm
 
-owner = NOR
-controller = NOR
-add_core = NOR
+owner = SML
+controller = SML
+add_core = SML
+add_core = FNN
+add_core = NRG
 culture = norwegian
-religion = catholic
+religion = norse
 hre = no
 base_tax = 3
 base_production = 3

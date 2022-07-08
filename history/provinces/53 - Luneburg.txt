@@ -1,10 +1,10 @@
 #53 - Lüneburg
 
-owner = LUN
-controller = LUN
-add_core = LUN
+owner = DAN
+controller = DAN
+add_core = DAN
 culture = lower_saxon
-religion = catholic
+religion = norse
 capital = "Lüneburg"
 trade_goods = salt
 hre = yes

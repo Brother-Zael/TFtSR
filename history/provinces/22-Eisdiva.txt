@@ -1,10 +1,11 @@
 #Oplandene, incl. Hamar
 
-owner = NOR
-controller = NOR
-add_core = NOR
+owner = SML
+controller = SML
+add_core = SML
+add_core = NRG
 culture = norwegian
-religion = catholic
+religion = norse
 hre = no
 base_tax = 1 
 base_production = 1

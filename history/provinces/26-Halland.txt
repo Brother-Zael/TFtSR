@@ -1,10 +1,10 @@
 #Halland, contains Halmstad, Varberg.
 
-owner = DAN
-controller = DAN
-add_core = DAN
+owner = LUN
+controller = LUN
+add_core = LUN
 culture = danish
-religion = catholic
+religion = norse
 hre = no
 base_tax = 3 
 base_production = 3

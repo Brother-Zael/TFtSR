@@ -1,9 +1,9 @@
 #370 - Reykjavik
 
-owner = NOR
-controller = NOR 
+owner = NRG
+controller = NRG
 culture = icelandic
-religion = catholic
+religion = norse
 hre = no
 base_tax = 1 
 base_production = 1
@@ -12,8 +12,9 @@ base_manpower = 1
 add_local_autonomy = 25
 capital = "Reykjavik"
 is_city = yes 	
-add_core = NOR
+add_core = NRG
 add_core = ICE
+add_core = FNN
 discovered_by = western
 
 

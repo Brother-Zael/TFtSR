@@ -1,11 +1,12 @@
 #371 - Akureyri
 
-owner = NOR
-controller = NOR
-add_core = NOR 
+owner = NRG
+controller = NRG
+add_core = NRG
 add_core = ICE
+add_core = FNN
 culture = icelandic
-religion = catholic
+religion = norse
 hre = no
 base_tax = 1 
 base_production = 1

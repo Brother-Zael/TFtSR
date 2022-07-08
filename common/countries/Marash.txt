@@ -1,0 +1,6 @@
+#Country Name: Marash
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 222 222 21 } 

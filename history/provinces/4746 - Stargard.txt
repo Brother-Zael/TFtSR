@@ -3,8 +3,9 @@
 owner = STE
 controller = STE
 add_core = STE
+add_core = LUN
 culture = pommeranian
-religion = catholic
+religion = norse
 hre = yes
 base_tax = 3
 base_production = 3

@@ -1,10 +1,10 @@
 #Elfsborgs Län
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = BHS
+owner = BHS
+controller = BHS
 culture = swedish
-religion = catholic
+religion = norse
 hre = no
 base_tax = 2
 base_production = 1

@@ -14,7 +14,7 @@ OST = "countries/Osterbotten.txt"
 VST = "countries/Vasterbotten.txt"
 NYL = "countries/Nylaand.txt"
 KAR = "countries/Karelia.txt"
-KOS = "countries/Kildin.txt"
+KDN = "countries/Kildin.txt"
 SWE	= "countries/Sweden.txt"
 DAN	= "countries/Daneland.txt"
 FIN	= "countries/Finland.txt"
@@ -80,7 +80,7 @@ SOP = "countries/Patriarch.txt"
 MOR = "countries/Morea.txt"
 MGY = "countries/Magyars.txt"
 
-BUL	= "countries/Bulgaria.txt"
+BUL	= "countries/Bulgaria.txt"                 # Turn into Dacia - Bulgarians never migrated south.
 BYZ	= "countries/ByzantineEmpire.txt"
 DAL = "countries/Dalmatia.txt"
 RMN	= "countries/Romania.txt"
@@ -93,6 +93,7 @@ THR = "countries/Thracesian.txt"
 OPS = "countries/Opsikion.txt"
 CIB = "countries/Cibyrrhaeots.txt"
 ANI = "countries/Antioch.txt"
+MRH = "countries/Marash.txt"
 AMD = "countries/Amed.txt"
 KRN = "countries/Karin.txt"
 KUR = "countries/Kurdistan.txt"
@@ -101,6 +102,7 @@ YER = "countries/Yerevan.txt"
 PCH = "countries/Pechenegs.txt"
 BAY = "countries/Bayazids.txt"
 SHR = "countries/Shirvan.txt"
+#Alania & Terek opms for shirvan to try to get?
 
 RUM = "countries/Rum.txt"
 
@@ -252,7 +254,7 @@ FRL = "countries/FrisianLeague.txt"
 TTB = "countries/Teutobergii.txt"            # germano-roman culture pagan death cult remnants of battle at teutoberg forest, which was a lot more close in this timeline.
 DUT = "countries/Dutchland.txt"              # not colonial in this timeline, only dev to the moooon. Let others bring trade and they siphon off it.
 
-FRR = "countries/FrisianRepublic             # Netherlands but norse pagans with slightly more raiding and slightly less trading. but still a lot of both.
+FRR = "countries/FrisianRepublic.txt"             # Netherlands but norse pagans with slightly more raiding and slightly less trading. but still a lot of both.
 FRI = "countries/Frisia.txt"                 # Formable. Jomsvikings of the west, seeking to expand norse faith
 
 #Arabia
@@ -420,7 +422,7 @@ ORO = "countries/Oromo.txt"                  # newly arrived and organized. Smal
 DAR = "countries/Darfur.txt"                 # Rebellious general in Soba
 HAR = "countries/Harar.txt"
 MED = "countries/MedriBahri.txt"
-SEM = "countries/Semien.txt                  # local rabbi inspired uprising
+SEM = "countries/Semien.txt"                  # local rabbi inspired uprising
 BEJ = "countries/Beja.txt"
 ZEI = "countries/Zeila.txt"
 SMI = "countries/Somaliland.txt"
@@ -608,7 +610,7 @@ UDE = "countries/Udege.txt"
 SKY = "countries/SkyTemple.txt"         #TengriHolyChurch centralized 
 MNG	= "countries/MongolKhanate.txt"
 KHT = "countries/Khitans.txt"
-CIY = "countries/Yakuts"                # Cities of Independent Yakuts
+CIY = "countries/Yakuts.txt"            # Cities of Independent Yakuts
 ULT = "countries/Uilta.txt"             # Oroks independent revanchist realm
 HOI = "countries/Hoifa.txt"             # Manchu dynasty
 ULA = "countries/Ula.txt"               # Manchu dynasty
@@ -807,8 +809,7 @@ ROM = "countries/RomanEmpire.txt"
 SYN = "countries/Synthetics.txt"
 
 #Converter tags:
-#JOM = countries/Jomsvikings.txt
-#HAH = countries/Hashshashin.txt
-#ISR = countries/Israel.txt
-#TEM = countries/KnightsTemplar.txt
-#TRL = countries/Trapalanda.txt
+# HAH = "countries/Hashshashin.txt"
+# ISR = countries/Israel.txt
+# TEM = countries/KnightsTemplar.txt
+# TRL = countries/Trapalanda.txt

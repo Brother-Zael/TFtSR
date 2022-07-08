@@ -3,6 +3,8 @@
 owner = SWE
 controller = SWE
 add_core = SWE
+add_core = GOT
+add_core = VAR
 culture = swedish
 religion = catholic
 capital = "Mariehamn"

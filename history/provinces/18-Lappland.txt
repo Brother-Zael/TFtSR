@@ -19,6 +19,7 @@ discovered_by = western
 	owner = SWE
 	controller = SWE 
 	add_core = SWE
+	add_core = VAR
 	is_city = yes
 	add_local_autonomy = 70
 	trade_goods = fur

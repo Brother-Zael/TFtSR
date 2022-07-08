@@ -1,0 +1,6 @@
+#Country Name: Hashshashin
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 11 247 252 }

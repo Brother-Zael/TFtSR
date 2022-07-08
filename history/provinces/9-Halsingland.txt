@@ -1,10 +1,12 @@
 #Hälsingland-Gästrikland-Medelpad, from Gävle to Näs
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = UPP
+add_core = VAR
+add_core = VST
+owner = UPP
+controller = UPP
 culture = swedish
-religion = catholic
+religion = norse
 hre = no
 base_tax = 2 
 base_production = 2
@@ -14,6 +16,3 @@ capital = "Gävle"
 is_city = yes
 discovered_by = eastern
 discovered_by = western
-
-
-1527.6.1 = { religion = protestant}

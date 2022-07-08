@@ -1,10 +1,11 @@
 #Western Småland - Tiohärads Lagsaga, ie: Värend, Finnveden och Njudung
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = UPP
+add_core = BHS
+owner = BHS
+controller = BHS
 culture = swedish
-religion = catholic
+religion = norse
 hre = no
 base_tax = 1
 base_production = 1

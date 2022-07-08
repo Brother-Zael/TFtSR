@@ -1,10 +1,10 @@
 #1857 - Lauenburg
 
-owner = LAU
-controller = LAU
-add_core = LAU
+owner = DAN
+controller = DAN
+add_core = DAN
 culture = lower_saxon
-religion = catholic
+religion = norse
 capital = "Lauenburg"
 trade_goods = salt
 hre = yes

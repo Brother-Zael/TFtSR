@@ -1,10 +1,10 @@
 #238 - Essex
 #+part of Cambridgeshire
 
-owner = ENG
-controller = ENG
+owner = SML
+controller = SML
 culture = english
-religion = catholic
+religion = norse
 hre = no
 base_tax = 6
 base_production = 6
@@ -12,7 +12,7 @@ trade_goods = cloth
 base_manpower = 2
 capital = "Chelmsford"
 is_city = yes
-add_core = ENG
+add_core = SML
 
 
 

@@ -1,10 +1,11 @@
 #Värmland
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = VAR
+add_core = UPP
+owner = VAR
+controller = VAR
 culture = swedish
-religion = catholic
+religion = norse
 hre = no
 base_tax = 1
 base_production = 1

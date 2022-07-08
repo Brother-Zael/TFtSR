@@ -1,0 +1,6 @@
+#Country Name: Bayazids
+#Starting Country
+
+graphical_culture = muslimgfx
+
+color = { 11 177 172 }

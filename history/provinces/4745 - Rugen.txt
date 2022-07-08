@@ -3,9 +3,9 @@
 owner = WOL
 controller = WOL
 add_core = RUG
-add_core = WOL
+add_core = GOT
 culture = pommeranian
-religion = catholic
+religion = norse
 hre = yes
 base_tax = 2
 base_production = 1

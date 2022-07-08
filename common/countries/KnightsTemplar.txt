@@ -1,0 +1,6 @@
+#Country Name: Knights of the Templar Order (Formed by Imperial Decree funding a holy order for the pope to fight the heretic goths)
+#Starting Country
+
+graphical_culture = westerngfx
+
+color = { 122 122 121 } 

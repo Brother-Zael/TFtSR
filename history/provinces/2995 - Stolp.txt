@@ -1,10 +1,10 @@
 # - Stolp
 
-owner = WOL
-controller = WOL
-add_core = WOL
+owner = LUN
+controller = LUN
+add_core = LUN
 culture = pommeranian
-religion = catholic
+religion = norse
 hre = yes
 base_tax = 2
 base_production = 2

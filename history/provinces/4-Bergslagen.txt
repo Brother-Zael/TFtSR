@@ -1,10 +1,11 @@
 #Bergslagen, contains Falun, Västerås etc.
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = UPP
+add_core = VAR
+owner = UPP
+controller = UPP
 culture = swedish
-religion = catholic
+religion = nestorian
 hre = no
 base_tax = 2 
 base_production = 3

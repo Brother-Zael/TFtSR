@@ -1,9 +1,9 @@
 #Jämtland+Härjedalen
 
-owner = NOR
-controller = NOR
+owner = VAR
+controller = VAR
 culture = norwegian # They were actually Jämts - the unique blend of Swedish, Norwegian and local tendencies
-religion = catholic
+religion = norse
 hre = no
 base_tax = 1 
 base_production = 1
@@ -12,7 +12,8 @@ base_manpower = 1
 capital = "Frösön"
 add_local_autonomy = 25
 is_city = yes
-add_core = NOR
+add_core = VAR
+add_core = FNN
 
 
 

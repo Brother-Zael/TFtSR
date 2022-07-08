@@ -1,10 +1,10 @@
 #Smålenene, incl. Mossedal, Heggen og Fröland, Vemme, Rakkestad, Idd og Marker, Onsöy, Verne Kloster, Moss, Tune og Åbygge and part of Nedre Romerike.
  
-owner = NOR
-controller = NOR
-add_core = NOR
+owner = SML
+controller = SML
+add_core = SML
 culture = norwegian
-religion = catholic
+religion = norse
 hre = no
 base_tax = 3
 base_production = 3
