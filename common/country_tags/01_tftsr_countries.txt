@@ -171,8 +171,8 @@ NRS = "countries/NoricumSuperior.txt"
 NRI = "countries/NoricumInferior.txt"
 RGM = "countries/Regensmarch.txt"
 SBI = "countries/Suebii.txt"
-NGR = "countries/Cherusci.txt"
-SGR = "countries/Alamannia.txt"
+CHR = "countries/Cherusci.txt"
+ALM = "countries/Alamannia.txt"
 SAX	= "countries/Saxony.txt"
 ANH = "countries/Anhalt.txt"
 
@@ -282,6 +282,7 @@ MUS = "countries/Muscat.txt"
 MAS = "countries/Masirah.txt"
 MAH = "countries/Mahra.txt"
 HMY = "countries/Himyarites.txt"
+
 DAW = "countries/Dawasir.txt"                # releasable
 NAJ = "countries/Najd.txt"                   # releasable
 AYY = "countries/Ayyubids.txt"               # releasable
@@ -375,7 +376,7 @@ MAY = "countries/Maya.txt"
 ASH = "countries/Ashanti.txt"
 BEN = "countries/Benin.txt"
 MAL = "countries/Mali.txt"
-NUB = "countries/Funj.txt"
+FNJ = "countries/Funj.txt"
 SON = "countries/Songhai.txt"
 HAU = "countries/Hausa.txt"
 KBO = "countries/KanemBornu.txt"
@@ -624,7 +625,7 @@ WAN = "countries/Wangiyan.txt"          # Jianzhou but weak
 DNM = "countries/DoenomBujog.txt"       # Middle Korean word for Jurchens. Means "Jurchen Bastard Tribe" or "Doom Tribe". Mission tree about overcome slur name and being the new epico rulers NJM on map
 GYJ = "countries/Gyeongju.txt"          # Gyeongju as a jumped up city-state looking to reform Silla kingdom into an empire controlling both japan and korea... and more?
 
-MCH	= "countries/Manchu.txt"
+MCH	= "countries/Manchu.txt"            # formable
 TGS = "countries/Tonguska.txt"          # animist formable for N. manchuria
 KOR	= "countries/Korea.txt"             # Non-GYJ korean formable
 SLA = "countries/Silla.txt"             # GYJ-only korean formable
