@@ -22,7 +22,7 @@ Smalenene SML---
 Finnmark FNN---
 315 21 (20) (10) (370) (371)
 
-Norgr NRG
+Norge NRG ---
 4145 24 23 2752 1978 369 251 4110 253 1979 371 370 (4364) (4144) (17) (4143) (22) (20)
 
 Jomsvikings JOM

@@ -14,12 +14,12 @@
 			16 4163 4166 7 4164 
 		}
 		}
-		name="Sjælland"
+		name="Daneland"
 		owned_provinces={
 			12 1983 14 1984 4142 4149 15 13 4141 1775 54 53 1857 
 		}
 		}
-		name="Rügen"
+		name="Jomsvikings"
 		owned_provinces={
 			4745 47 2994 1858 4749 46 
 		}
