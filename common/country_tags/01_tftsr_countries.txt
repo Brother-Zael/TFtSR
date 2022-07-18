@@ -19,7 +19,7 @@ SWE	= "countries/Sweden.txt"
 DAN	= "countries/Daneland.txt"
 FIN	= "countries/Finland.txt"
 UPP = "countries/Uppland.txt"
-NRG	= "countries/Norgr.txt"
+NRG	= "countries/Norvegr.txt"
 SCA	= "countries/Scandinavia.txt"
 
 #Russia and Urals
@@ -54,11 +54,11 @@ SMO = "countries/Smolensk.txt"
 KSK = "countries/Kursk.txt"
 YLT = "countries/Yelets.txt"
 ZAZ	= "countries/Zaporozhie.txt"
+KYV = "countries/Kiev.txt"
 
 POL	= "countries/Poland.txt"
 PRU	= "countries/Pruthenia.txt"
 KRL	= "countries/Kurland.txt"
-KYV = "countries/Kiev.txt"
 RUT = "countries/Ruthenia.txt"
 UKR	= "countries/Ukraine.txt"
 

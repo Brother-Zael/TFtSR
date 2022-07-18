@@ -1,434 +1,397 @@
 		}
-		name="Stockholm"
+		name="Uppland UPP"
 		owned_provinces={
 			1 4 3 2 1985 9 
 		}
 		}
-		name="Lund"
+		name="Lund LUN"
 		owned_provinces={
 			6 4165 1982 1981 2995 48 26 
 		}
 		}
-		name="Bohuslän"
+		name="Bohuslan BHS"
 		owned_provinces={
 			16 4163 4166 7 4164 
 		}
 		}
-		name="Sjælland"
+		name="Daneland DAN"
 		owned_provinces={
 			12 1983 14 1984 4142 4149 15 13 4141 1775 54 53 1857 
 		}
 		}
-		name="Rügen"
+		name="Jomsvikings JOM"
 		owned_provinces={
-			4745 47 2994 1858 4749 46 
+			4745 47 2994 1858 4749 46 25
 		}
 		}
-		name="Lübeck"
+		name="FrisianLeague FRL"
 		owned_provinces={
-			45 44 2996 4746 55 1931 
+			45 44 2996 4746 55 1931 1874
 		}
 		}
-		name="Smålenene"
+		name="Smalenene SML"
 		owned_provinces={
 			4143 17 4144 22 20 1860 238 4370 243 
 		}
 		}
-		name="Agdesiden"
+		name="Norvegr NRG"
 		owned_provinces={
 			4145 24 23 2752 1978 371 1979 369 4110 251 253 
 		}
 		}
-		name="Värmland"
+		name="Varmland VAR"
 		owned_provinces={
 			5 8 10 
 		}
 		}
-		name="Calais"
+		name="Olegheim OLH"
 		owned_provinces={
 			87 89 88 1743 4769 182 90 
 		}
 		}
-		name="Caen"
+		name="Normandy NRM" # Placeholder
 		owned_provinces={
 			168 4385 1879 167 169 170 4374 234 4371 
 		}
 		}
-		name="Bremen"
-		owned_provinces={
-			1874 
-		}
-		}
-		name="Danzig"
+		name="Gdansk GDS"
 		owned_provinces={
 			43 
 		}
 		}
-		name="Västerbotten"
+		name="Vasterbotten VST"
 		owned_provinces={
 			11 18 4114 4151 
 		}
 		}
-		name="Finnmark"
+		name="Finnmark FNN"
 		owned_provinces={
 			315 21 
 		}
 		}
-		name="Ösel"
+		name="Osel OSL"
 		owned_provinces={
 			35 1930 39 36 
 		}
 		}
-		name="Nyland"
+		name="Nylaand NYL"
 		owned_provinces={
 			28 27 30 33 34 1842 4123 29 
 		}
 		}
-		name="Riga"
+		name="Riga RIG"
 		owned_provinces={
 			38 
 		}
 		}
-		name="Österbotten"
+		name="Osterbotten OST"
 		owned_provinces={
 			19 4113 4152 
 		}
 		}
-		name="Karelia"
+		name="Karelia KAR"
 		owned_provinces={
 			4124 31 32 
 		}
 		}
-		name="Kargopol"
+		name="Kildin KDN"
 		owned_provinces={
 			1958 313 1776 1777 4258 
 		}
 		}
-		name="Ladoga"
+		name="Ladoga LAD"
 		owned_provinces={
 			1961 309 2749 4261 312 4259 
 		}
 		}
-		name="Novgorod"
+		name="Holmgardr HOL"
 		owned_provinces={
 			310 311 4148 4243 1752 1959 4260 4245 294 4249 4251 
 		}
 		}
-		name="Pskov"
+		name="Pskov PSK"
 		owned_provinces={
 			274 1834 1960 275 273 
 		}
 		}
-		name="Livland"
+		name="Livland LIV"
 		owned_provinces={
 			37 4241 1935 4534 271 4535 770 
 		}
 		}
-		name="Königsberg"
+		name="Twangste TWG"
 		owned_provinces={
 			41 42 40 767 1936 270 
 		}
 		}
-		name="Chelmno"
+		name="Pomesania PMS"
 		owned_provinces={
 			1859 2997 1841 2958 4524 
 		}
 		}
-		name="Hull"
+		name="Jorvik JOR"
 		owned_provinces={
 			4367 1861 4785 245 4368 246 4376 
 		}
 		}
-		name="London"
+		name="Angland ANG"
 		owned_provinces={
 			236 237 4130 4372 239 240 241 4369 4366 242 4375 244 235 233 4373 
 		}
 		}
-		name="Mann"
+		name="Manx MNX"
 		owned_provinces={
 			4365 4121 372 247 4362 4380 374 
 		}
 		}
-		name="Lothian"
+		name="Lallans LOW"
 		owned_provinces={
 			248 4361 249 4363 252 250 4364 
 		}
 		}
-		name="Pale"
+		name="Kildare KIL"
 		owned_provinces={
 			373 4120 4379 4377 
 		}
 		}
-		name="Desmond"
+		name="Cork COR"
 		owned_provinces={
 			4378 4118 
 		}
 		}
-		name="Connaught"
+		name="Connacht CON"
 		owned_provinces={
 			376 
 		}
 		}
-		name="Limerick"
+		name="Tuadhmhumhain TUA"
 		owned_provinces={
 			375 
 		}
 		}
-		name="Sligo"
+		name="Sligo SLG"
 		owned_provinces={
 			4119 
 		}
 		}
-		name="Den Haag"
+		name="Dorestadt DRS"
 		owned_provinces={
 			4383 96 1865 95 98 4770 99 2975 
 		}
 		}
-		name="Antwerpen"
+		name="Dutchland DUT"
 		owned_provinces={
 			1744 92 2974 91 1866 1742 
 		}
 		}
-		name="Gelre"
-		}
-		name="Utrecht"
-		}
-		name="Münster"
+		name="Teutobergii TTB"
 		owned_provinces={
 			86 69 
 		}
 		}
-		name="Friesland"
+		name="Friesland FRS"
 		owned_provinces={
 			100 4382 2971 97 4381 2973 56 4775 
 		}
 		}
-		name="Osnabrück"
+
+		name="Cherusci CHR"
 		owned_provinces={
-			84 57 
+			4771 1758 4772 2964 4786 57 52 4741  
 		}
 		}
-		name="Verden"
-		owned_provinces={
-			4771 1758 4772 2964 4786 
-		}
-		}
-		name="Berlin"
+		name="Suebii SBI"
 		owned_provinces={
 			50 1759 4748 51 2993 
 		}
 		}
-		name="Magdeburg"
+
+		name="Alamannia ALM"
 		owned_provinces={
-			52 4741 4773 2972 
+			2967 4717 4716 66 
 		}
 		}
-		name="Eger"
-		owned_provinces={
-			2967 1757 4717 4716 66 
-		}
-		}
-		name="Prague"
+		name="Zizka ZZK"
 		owned_provinces={
 			266 1771 267 2968 4725 4724 2970 265 4237 4726 4236 
 		}
 		}
-		name="Anhalt"
+		name="Anhalt ANH"
 		owned_provinces={
 			58 4743 2965 60 4778 
 		}
 		}
-		name="Poznan"
+		name="Poznan POZ"
 		owned_provinces={
 			254 2966 4238 264 4723 263 255 4526 2963 
 		}
 		}
-		name="Goslar"
-		owned_provinces={
-			4742 
-		}
-		}
-		name="Dresden"
-		owned_provinces={
-			61 
-		}
-		}
-		name="Wittenberg"
+		name="Saxony SAX"
 		owned_provinces={
 			59 4744 62 63 
 		}
 		}
-		name="Sternberg"
+		name="Veneti VNT"
 		owned_provinces={
 			2969 49 4747 1763 
 		}
 		}
-		name="Warszawa"
+		name="Warszawa WRS"
 		owned_provinces={
 			257 4525 256 1938 269 1937 259 2959 2424 4541 1940 260 4538 277 
 		}
 		}
-		name="Krakow"
+		name="Krakow KRA"
 		owned_provinces={
 			262 4533 258 4527 1939 4528 4523 2960 
 		}
 		}
-		name="Gotland"
-		owned_provinces={
-			25 
-		}
-		}
-		name="Lwow"
+		name="GaliciaVolhynia GVL"
 		owned_provinces={
 			2961 261 268 4529 2962 4539 279 281 
 		}
 		}
-		name="Kiev"
+		name="Kiev KYV"
 		owned_provinces={
 			280 1942 1944 2407 290 4542 289 291 4544 4115 
 		}
 		}
-		name="Vilna"
+		name="Vilna VIL"
 		owned_provinces={
 			272 4536 4537 278 276 4242 771 292 
 		}
 		}
-		name="Smolensk"
+		name="Smolensk SMO"
 		owned_provinces={
 			293 4246 297 4116 300 296 
 		}
 		}
-		name="Moskva"
+		name="Moskva MSK"
 		owned_provinces={
 			295 4248 4252 4117 4147 4253 4255 301 1778 307 1956 308 4250 1753 1754 2423 304 1081 
 		}
 		}
-		name="Vologda"
+		name="Vologda VOL"
 		owned_provinces={
 			314 4262 4122 1955 4263 1755 
 		}
 		}
-		name="Kazan"
+		name="Kazan KAZ"
 		owned_provinces={
 			1082 1083 1079 2422 4264 1972 4266 1962 305 4265 475 2444 1077 
 		}
 		}
-		name="Nizhny Novgorod"
+		name="Nizhny Novgorod NIZ"
 		owned_provinces={
 			306 4254 1957 
 		}
 		}
-		name="Yelets"
+		name="Yelets YLT"
 		owned_provinces={
 			2408 299 
 		}
 		}
-		name="Saratov"
+		name="Saratov SAR"
 		owned_provinces={
 			303 2415 2419 473 
 		}
 		}
-		name="Bolgar"
+		name="Bolgar BOL"
 		owned_provinces={
 			4267 1965 2421 
 		}
 		}
-		name="Tambov"
+		name="Tambov TAM"
 		owned_provinces={
 			302 
 		}
 		}
-		name="Trubchevsk"
+		name="Trubchevsk TRB"
 		owned_provinces={
 			4244 
 		}
 		}
-		name="Kursk"
+		name="Kursk KSK"
 		owned_provinces={
 			298 4543 1945 
 		}
 		}
-		name="Sluck"
+		name="Sluck SLU"
 		owned_provinces={
 			4545 1941 4247 
 		}
 		}
-		name="Sarai"
+		name="Kipchaks KIP"
 		owned_provinces={
 			466 464 2417 2197 2416 463 468 288 2409 467 1971 2418 2365 469 2367 465 470 474 2366 472 471 2208 2201 2199 2420 
 		}
 		}
-		name="Winnica"
+		name="Zaporozhie ZAZ"
 		owned_provinces={
 			4540 1943 283 2411 
 		}
 		}
-		name="Caffa"
+		name="Uyghurs OYG"
 		owned_provinces={
 			285 284 2447 287 2414 2413 286 2195 2412 
 		}
 		}
-		name="TSL"
+		name="TheSouthernLeague TSL"
 		owned_provinces={
 			224 4548 342 1110 220 2988 
 		}
 		}
-		name="Zeugitana"
+		name="Zeugitana ZEU"
 		owned_provinces={
 			341 2455 4566 2454 2473 
 		}
 		}
-		name="Syrtica"
+		name="Syrtica SRT"
 		owned_provinces={
 			354 2452 2451 
 		}
 		}
-		name="Legio Numidia"
+		name="LegioNumidia LGN"
 		owned_provinces={
 			2448 4567 2449 2472 2457 
 		}
 		}
-		name="M. Tingitana"
+		name="M. Tingitana TNG"
 		owned_provinces={
 			334 1751 4563 343 2467 2468 4564 335 4561 
 		}
 		}
-		name="M. Caesarae"
+		name="M. Caesarae CAE"
 		owned_provinces={
 			338 2461 337 2459 2462 2463 336 2465 4562 350 
 		}
 		}
-		name="Legio Muaretania"
+		name="Legio Muaretania LGM"
 		owned_provinces={
 			346 2466 2460 349 2464 
 		}
 		}
-		name="Sus"
+		name="Sus SUS"
 		owned_provinces={
 			348 
 		}
 		}
-		name="Haha"
+		name="Sala Colonia"
 		owned_provinces={
 			2470 347 366 4565 
 		}
 		}
-		name="Demnate"
-		owned_provinces={
-			4568 
-		}
-		}
-		name="Marrakech"
+		name="Mogador MDR"
 		owned_provinces={
 			344 2469 345 
 		}
 		}
-		name="M. Sitifensis"
+		name="M. Sitifensis SIT"
 		owned_provinces={
 			339 340 1882 2458 351 
 		}
 		}
-		name="Empyria"
+		name="Empyria EPY"
 		owned_provinces={
 			2453 352 353 2450 2456 
 		}
