@@ -482,19 +482,9 @@
 			2703 2709 
 		}
 		}
-		name="Kutai KTI"
-		owned_provinces={
-			638 4799 2712 4800 2710
-		}
-		}
 		name="Bulungan BLG"
 		owned_provinces={
 			2711 
-		}
-		}
-		name="Igorot IGO"
-		owned_provinces={
-			4348 658 2697 4349 2699 
 		}
 		}
 		name="Maynila MNL"
@@ -773,437 +763,152 @@
 			2912 2921 756 755 
 		}
 		}
-		name="Vinland"
+		name="Vinland VIN"
 		owned_provinces={
 			2573 981 980 2575 997 2578 
 		}
 		}
-		name="Atlantis"
+		name="Vanaheimr VNR"
 		owned_provinces={
 			481 
 		}
 		}
-		name="Aztec"
+		name="Aztec AZT"
 		owned_provinces={
-			852 2626 4572 4571 4570 853 
+			852 2626 4572 4571 4570 853 2622 2624 4574 2623 2647 4598 4582
 		}
 		}
-		name="Tlaxcala"
+		name="Tlaxcala TLX"
 		owned_provinces={
 			850 2644 2628 4583 
 		}
 		}
-		name="Cuitzeo"
-		owned_provinces={
-			2622 2624 4574 2623 
-		}
-		}
-		name="Cuetlaxtlan"
-		owned_provinces={
-			2647 4598 4582 
-		}
-		}
-		name="Yohualtepec"
-		owned_provinces={
-			4581 2646 
-		}
-		}
-		name="Teloloapan"
-		owned_provinces={
-			2645 
-		}
-		}
-		name="Sayula"
-		owned_provinces={
-			4579 4580 851 2643 
-		}
-		}
-		name="Puruaran"
-		owned_provinces={
-			4575 
-		}
-		}
-		name="Sayultecas"
-		owned_provinces={
-			854 4578 2617 2657 4576 
-		}
-		}
-		name="Tlapanec"
+		name="Tlapanec TLA"
 		owned_provinces={
 			849 2648 2627 
 		}
 		}
-		name="Mixtec"
+		name="Mixtec MIX"
 		owned_provinces={
 			847 844 4584 
 		}
 		}
-		name="Coyolapan"
-		owned_provinces={
-			2629 
-		}
-		}
-		name="Mixe"
-		owned_provinces={
-			2631 2630 
-		}
-		}
-		name="Tizapan"
-		owned_provinces={
-			2621 4640 4573 
-		}
-		}
-		name="Guamares"
-		owned_provinces={
-			2615 4641 4643 4642 2642 
-		}
-		}
-		name="Tohancapan"
-		owned_provinces={
-			848 2641 
-		}
-		}
-		name="Guachichil"
-		owned_provinces={
-			857 
-		}
-		}
-		name="Zacatecas"
-		owned_provinces={
-			856 4645 4647 
-		}
-		}
-		name="Totorames"
-		owned_provinces={
-			855 
-		}
-		}
-		name="Tamaulipas"
-		owned_provinces={
-			858 
-		}
-		}
-		name="Ceh Pech"
-		owned_provinces={
-			2633 2651 4590 846 
-		}
-		}
-		name="Petén"
-		owned_provinces={
-			842 4594 
-		}
-		}
-		name="Ecab"
-		owned_provinces={
-			2652 4591 
-		}
-		}
-		name="Belize"
-		owned_provinces={
-			843 4588 4589 2634 
-		}
-		}
-		name="Campeche"
-		owned_provinces={
-			845 2650 
-		}
-		}
-		name="Xicallanco"
-		owned_provinces={
-			2632 
-		}
-		}
-		name="Lacandon"
-		owned_provinces={
-			2635 4585 
-		}
-		}
-		name="Xoconochco"
-		owned_provinces={
-			2638 4586 2649 
-		}
-		}
-		name="Qumarkaj"
-		owned_provinces={
-			4587 841 2653 
-		}
-		}
-		name="Chacujal"
-		owned_provinces={
-			2636 2637 
-		}
-		}
-		name="Pipil"
-		owned_provinces={
-			839 
-		}
-		}
-		name="Wolastoqiyik"
-		owned_provinces={
-			2570 
-		}
-		}
-		name="Allesikantekw"
-		owned_provinces={
-			2013 
-		}
-		}
-		name="Tobique"
-		owned_provinces={
-			2567 
-		}
-		}
-		name="Piktuk"
-		owned_provinces={
-			4891 
-		}
-		}
-		name="Avoyel"
-		owned_provinces={
-			4885 
-		}
-		}
-		name="Patawomac"
-		owned_provinces={
-			2553 
-		}
-		}
-		name="Cochati"
-		owned_provinces={
-			4887 
-		}
-		}
-		name="Onguhiara"
-		owned_provinces={
-			987 
-		}
-		}
-		name="Cahokia"
+		name="Cahokia NOTAG"
 		owned_provinces={
 			917 
 		}
 				}
-		name="Ava"
+		name="Ava AVA"
 		owned_provinces={
 			584 2399 581 4394 4395 4393 4396 
 		}
 		}
-		name="Mong Yang"
+		name="Mong Yang MYA"
 		owned_provinces={
 			582 4404 2397 4405 4398 4397 
 		}
 		}
-		name="Hsenwi"
+		name="Hsenwi HSW"
 		owned_provinces={
 			583 587 660 2166 
 		}
 		}
-		name="Pegu"
+		name="Pegu PGU"
 		owned_provinces={
 			586 4399 590 2403 585 
 		}
 		}
-		name="Sukhothai"
+		name="Sukhothai SUK"
 		owned_provinces={
 			601 2389 2388 4835 591 4833 
 		}
 		}
-		name="Chiang Mai"
+		name="Chiang Mai CMI"
 		owned_provinces={
 			589 4841 
 		}
 		}
-		name="Mong Pai"
+		name="Mong Pai MPA"
 		owned_provinces={
 			2401 
 		}
 		}
-		name="Mong Nai"
+		name="Mong Nai MNA"
 		owned_provinces={
 			588 
 		}
 		}
-		name="Hsipaw"
+		name="Hsipaw HSI"
 		owned_provinces={
 			2400 
 		}
 		}
-		name="Ayutthaya"
+		name="Ayutthaya AYU"
 		owned_provinces={
 			600 4832 4834 592 2387 4831 4830 612 2379 603 4825 604 4826 2404 2390 2391 2393 593 
 		}
 		}
-		name="Pattani"
+		name="Pattani PAT"
 		owned_provinces={
 			594 4812 599 4814 
 		}
 		}
-		name="Siak"
-		owned_provinces={
-			620 596 4815 597 2675 618 4810 2676 4816 
-		}
-		}
-		name="Perak"
+		name="Perak NOTAG"
 		owned_provinces={
 			595 2392 
 		}
 		}
-		name="Pahang"
+		name="Pahang PHG"
 		owned_provinces={
 			598 
 		}
 		}
-		name="Palembang"
+		name="Palembang PLB"
 		owned_provinces={
 			622 2678 4802 2706 
 		}
 		}
-		name="Jambi"
+		name="Jambi JMB"
 		owned_provinces={
 			2677 
 		}
 		}
-		name="Brunei"
-		owned_provinces={
-			636 4805 4806 2704 637 
-		}
-		}
-		name="Sambas"
+		name="Sambas SAM"
 		owned_provinces={
 			640 4804 4803 2705 
 		}
 		}
-		name="Lehad Datu"
-		owned_provinces={
-			2703 2709 
-		}
-		}
-		name="Kutai"
+		name="Kutai KTI"
 		owned_provinces={
 			638 4799 4800 4797 2710 
 		}
 		}
-		name="Samarinda"
+		name="Samarinda SMR"
 		owned_provinces={
 			2712 
 		}
 		}
-		name="Wajo"
-		owned_provinces={
-			4798 2715 4845 
-		}
-		}
-		name="Makassar"
-		owned_provinces={
-			641 4795 642 4796 2716 
-		}
-		}
-		name="Sampit"
-		owned_provinces={
-			2708 639 4801 
-		}
-		}
-		name="Kalapa"
-		owned_provinces={
-			630 624 2688 2687 623 
-		}
-		}
-		name="Pekalongan"
-		owned_provinces={
-			2689 4791 4792 
-		}
-		}
-		name="Karta"
+		name="Karta KTA"
 		owned_provinces={
 			626 625 4790 2690 
 		}
 		}
-		name="Pajang"
-		owned_provinces={
-			4793 629 628 2692 
-		}
-		}
-		name="Malang"
-		owned_provinces={
-			4794 2691 
-		}
-		}
-		name="Blambangan"
-		owned_provinces={
-			627 
-		}
-		}
-		name="Bali"
-		owned_provinces={
-			631 
-		}
-		}
-		name="Lombok"
-		owned_provinces={
-			2693 
-		}
-		}
-		name="Sumbawa"
-		owned_provinces={
-			632 
-		}
-		}
-		name="Kutaraja"
-		owned_provinces={
-			617 2685 4811 619 2682 4817 4818 
-		}
-		}
-		name="Langkat"
-		owned_provinces={
-			4809 2674 
-		}
-		}
-		name="Bengkulu"
+		name="Bengkulu BKL"
 		owned_provinces={
 			621 2680 
 		}
 		}
-		name="Pasai"
-		owned_provinces={
-			2673 
-		}
-		}
-		name="Pagarruyung"
+		name="Pagarruyung PGR"
 		owned_provinces={
 			2681 2683 2684 
 		}
 		}
-		name="Kingchow"
-		owned_provinces={
-			666 2160 2679 659 2686 2698 668 655 
-		}
-		}
-		name="Sakam"
-		owned_provinces={
-			738 2155 2154 
-		}
-		}
-		name="Cebu"
-		owned_provinces={
-			4352 4351 2700 
-		}
-		}
-		name="Mindoro"
-		owned_provinces={
-			4350 4356
-		}
-		}
-		name="Manila"
-		owned_provinces={
-			656 
-		}
-		}
-		name="Igorot"
+		name="Igorot IGO"
 		owned_provinces={
 			4348 658 657 2697 4349 
 		}
 		}
-		name="Phnom Penh"
+		name="Khmer KHM"
 		owned_provinces={
 			2380 2376 2377 4827 4829 605 606 2374 607 4822 609 4828 2378 
 		}

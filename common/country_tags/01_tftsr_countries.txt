@@ -520,7 +520,7 @@ SIA = "countries/Siam.txt"					   # Formable for Siam region cultures
 #Oceania
 KDH = "countries/Keddah.txt"
 PAT = "countries/Pattani.txt"					# Vassal of Ayutthaya
-PHG = "countries/Pahang.txt"
+PHG = "countries/Pahang.txt"					# Vassal of Siak
 SAK = "countries/Siak.txt"						# Nestorian with large jewish and muslim minorities
 LKT = "countries/Langkat.txt"
 JMB = "countries/Jambi.txt"
