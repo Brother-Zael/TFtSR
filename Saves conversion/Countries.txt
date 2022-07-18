@@ -49,12 +49,12 @@
 			87 89 88 1743 4769 182 90 
 		}
 		}
-		name="Normandy NRM" # Placeholder
+		name="Normandy NRM" # Placeholder 
 		owned_provinces={
 			168 4385 1879 167 169 170 4374 234 4371 
 		}
 		}
-		name="Gdansk GDS"
+		name="Gdansk GDS" 
 		owned_provinces={
 			43 
 		}
@@ -99,7 +99,7 @@
 			1958 313 1776 1777 4258 
 		}
 		}
-		name="Ladoga LAD"
+		name="Ladoga LAD"  -  here
 		owned_provinces={
 			1961 309 2749 4261 312 4259 
 		}
