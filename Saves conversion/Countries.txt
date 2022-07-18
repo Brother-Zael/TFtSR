@@ -326,7 +326,7 @@
 			466 464 2417 2197 2416 463 468 288 2409 467 1971 2418 2365 469 2367 465 470 474 2366 472 471 2208 2201 2199 2420 
 		}
 		}
-		name="Zaporozhie ZAZ"
+		name="Zaporozhie ZAO"
 		owned_provinces={
 			4540 1943 283 2411 
 		}
@@ -376,7 +376,7 @@
 			348 
 		}
 		}
-		name="Sala Colonia"
+		name="SalaColonia SAL"
 		owned_provinces={
 			2470 347 366 4565 
 		}
@@ -396,484 +396,381 @@
 			2453 352 353 2450 2456 
 		}
 				}
-		name="Siak"
+		name="Siak SAK"
 		owned_provinces={
-			620 2675 618 2676 4816 4815 597 596 2392 2677 
+			620 2675 618 2676 4816 4815 597 596 2392 2677 4810
 		}
 		}
-		name="Langkat"
+		name="Langkat LKT"
 		owned_provinces={
 			4809 2674 
 		}
 		}
-		name="Pagarruyung"
+		name="Pagarruyung PGR"
 		owned_provinces={
 			2681 2683 2684 
 		}
 		}
-		name="Kutaraja"
+		name="Kutaraja KRJ"
 		owned_provinces={
 			617 2685 4811 619 2682 4817 4818 
 		}
 		}
-		name="Pasai"
+		name="Pasai PSI"
 		owned_provinces={
 			2673 
 		}
 		}
-		name="Deli"
-		owned_provinces={
-			4810 
-		}
-		}
-		name="Majapahit"
+		name="Majapahit MAJ"
 		owned_provinces={
 			628 629 2692 4794 2691 4793 4792 2689 627 4791 2690 
 		}
 		}
-		name="Banjar"
+		name="Sampit SMP"
 		owned_provinces={
 			639 4801 2707 
 		}
 		}
-		name="Makassar"
+		name="Makassar MKS"
 		owned_provinces={
-			641 4797 4795 642 
+			641 4797 4795 642 2716 4796 
 		}
 		}
-		name="Palopo"
+		name="Wajo WAJ"
 		owned_provinces={
-			2715 
+			4798 2715 4845 
 		}
 		}
-		name="Wajo"
+
+		name="GuangdongConfederacy GPC"
 		owned_provinces={
-			4798 
+			666 2160 668 657 640 659 2686 2679 4802 4803 2698 655
 		}
 		}
-		name="Buton"
-		owned_provinces={
-			2716 4796 
-		}
-		}
-		name="Kingchow"
-		owned_provinces={
-			666 2160 668 657 640 659 2686 2679 4802 4803 
-		}
-		}
-		name="Sakam"
+		name="TagawaClan TGW"
 		owned_provinces={
 			738 2155 2154 
 		}
 		}
-		name="Palawan"
-		owned_provinces={
-			655 4356 
-		}
-		}
-		name="Pangasinan"
-		owned_provinces={
-			2698 
-		}
-		}
-		name="Palembang"
+		name="Palembang PLB"
 		owned_provinces={
 			622 2678 
 		}
 		}
-		name="Bali"
+		name="Bali BLI"
 		owned_provinces={
 			631 
 		}
 		}
-		name="Kalapa"
+		name="Sunda SUN"
 		owned_provinces={
 			630 2688 2687 624 4790 625 626 623 
 		}
 		}
-		name="Lombok"
+		name="Lombok LBK"
 		owned_provinces={
 			2693 632 
 		}
 		}
-		name="Brunei"
+		name="Brunei BEI"
 		owned_provinces={
-			636 4805 2704 4806 2705 4804 
+			636 4805 2704 4806 2705 4804 637
 		}
 		}
-		name="Api-Api"
+		name="DatuDatu DAT"
 		owned_provinces={
-			637 2703 2709 
+			2703 2709 
 		}
 		}
-		name="Kutai"
+		name="Kutai KTI"
 		owned_provinces={
-			638 4799 2712 4800 
+			638 4799 2712 4800 2710
 		}
 		}
-		name="Bulungan"
+		name="Bulungan BLG"
 		owned_provinces={
-			2711 2710 
+			2711 
 		}
 		}
-		name="Mamuju"
-		owned_provinces={
-			4845 
-		}
-		}
-		name="Ifugao"
+		name="Igorot IGO"
 		owned_provinces={
 			4348 658 2697 4349 2699 
 		}
 		}
-		name="Manila"
+		name="Maynila MNL"
 		owned_provinces={
 			656 
 		}
 		}
-		name="Cebu"
+		name="Cebu CEB"
 		owned_provinces={
-			4352 4351 
+			4352 4351 2700
 		}
 		}
-		name="Panay"
+		name="Samar SMA"
 		owned_provinces={
-			2700 4353 654 
+			 4353 654 
 		}
 		}
-		name="Maguindanao"
+		name="Maguindanao MGD"
 		owned_provinces={
 			652 653 4354 651 
 		}
 		}
-		name="Butuan"
+		name="Butuan BTU"
 		owned_provinces={
 			2702 4355 
 		}
 		}
-		name="Ternate"
+		name="Ternate TER"
 		owned_provinces={
 			649 
 		}
 		}
-		name="Tidore"
+		name="Tidore TID"
 		owned_provinces={
 			650 
 		}
 		}
-		name="Halmahera"
+		name="Halmahera HAL"
 		owned_provinces={
 			648 
 		}
 		}
-		name="Buru"
+		name="Buru BRU"
 		owned_provinces={
 			645 
 		}
 		}
-		name="Kenai"
+		name="Kenai NOTAG" # Chinese explorer tag
 		owned_provinces={
 			978 2611 979 
 		}
 		}
-		name="Mindoro"
-		owned_provinces={
-			4350 
-		}
-		}
-		name="Gyeongju"
+		name="Gyeongju GYJ"
 		owned_provinces={
 			2745 4227 736 4228 2741 4651 4182 4181 1818 
 		}
 		}
-		name="Satsuma"
+		name="Shimazu SMZ"
 		owned_provinces={
 			1012 
 		}
 		}
-		name="Okinawa"
-		owned_provinces={
-			1015 
-		}
-		}
-		name="Hyuga"
+		name="Otomo OTM"
 		owned_provinces={
 			4180 1014 
 		}
 		}
-		name="Suo"
+		name="Ouchi OUC"
 		owned_provinces={
 			1017 1825 4183 1018 4184 4186 1820 
 		}
 		}
-		name="Kyoto"
+		name="Ashikaga ASK"
 		owned_provinces={
 			1020 1021 4187 1832 1023 1837 4189 
 		}
 		}
-		name="Owari"
+		name="Oda ODA"
 		owned_provinces={
 			1030 4360 4188 1843 1028 1835 4190 4359 
 		}
 		}
-		name="Echigo"
+		name="Uesugi UES"
 		owned_provinces={
 			1024 1025 1026 4192 4191 1027 
 		}
 		}
-		name="Harima"
+		name="Ogasawara IGS"
 		owned_provinces={
-			1019 
+			1019 4185 1830
 		}
 		}
-		name="Tosa"
+		name="Chosokabe CSK"
 		owned_provinces={
 			1819 
 		}
 		}
-		name="Suruga"
+		name="Imagawa IMG"
 		owned_provinces={
-			1839 1029 
+			1839 
 		}
 		}
-		name="Ainu"
+		name="Ainu ANU"
 		owned_provinces={
 			1852 1031 1847 4193 4131 1032 
 		}
 		}
-		name="Tango"
+		name="Pate PTE"
 		owned_provinces={
-			4185 
+			2796 1204 1925 2794 2774 2775 1273 4051
 		}
 		}
-		name="Tajima"
-		owned_provinces={
-			1830 
+		name="Malindi MLI"
+		owned_provinces = {
+			1203
 		}
 		}
-		name="Pate"
-		owned_provinces={
-			2796 1204 1925 2794 2774 2775 1273 4051 
-		}
-		}
-		name="Kilwa"
+		name="Kilwa KIL"
 		owned_provinces={
 			1196 1198 4049 4020 1194 4022 4036 4035 4042 4037 4048 
 		}
 		}
-		name="Mozambique"
+		name="Mozambique MZQ"
 		owned_provinces={
 			1195 788 1192 4034 
 		}
 		}
-		name="Zanzibar"
+		name="Zanzibar ZAN"
 		owned_provinces={
 			1201 1200 1199 1197 
 		}
 		}
-		name="Mombasa"
+		name="Mombasa MBA"
 		owned_provinces={
 			1202 
 		}
 		}
-		name="Zimbabwe"
+		name="Zimbabwe ZIM"
 		owned_provinces={
 			1184 2951 1187 2950 1185 1189 1190 1188 1191 4039 4047 4045 4040 4038 4044 
 		}
 		}
-		name="Zulu"
+		name="Zulu ZUL"
 		owned_provinces={
 			789 4783 1182 1800 2952 1183 1186 1181 
 		}
 		}
-		name="Menabe"
+		name="Sakalava SKA"
 		owned_provinces={
 			1193 4032 4031 4030 4027 
 		}
 		}
-		name="Mahafaly"
+		name="Mahafaly MHF"
 		owned_provinces={
 			4028 4029 
 		}
 		}
-		name="Vatomandry"
+		name="Betsimisaraka BTS"
 		owned_provinces={
 			4025 4026 4024 4021 
 		}
 		}
-		name="Merina"
+		name="Merina MIR"
 		owned_provinces={
 			1792 4023 
 		}
 		}
-		name="Malindi"
-		owned_provinces={
-			1203 
-		}
-				}
-		name="Mali"
+		name="Mali MAL"
 		owned_provinces={
 			1124 2248 1120 2238 2239 1114 2241 1117 1121 1122 2249 2245 1123 2253 2250 1125 2255 2257 1139 1138 2254 2252 2240 2243 
 		}
 		}
-		name="Timbuktu"
+		name="Timbuktu TMB"
 		owned_provinces={
 			1132 2247 1129 1128 1127 1130 2262 1133 2268 1142 2270 2269 2271 
 		}
 		}
-		name="Massina"
+		name="Massina MSS"
 		owned_provinces={
 			1131 2246 2260 
 		}
 		}
-		name="Jenne"
+		name="Jenne JNN"
 		owned_provinces={
 			1134 2261 2263 
 		}
 		}
-		name="Yatenga"
+		name="Yatenga YAT"
 		owned_provinces={
 			1135 2264 2265 2266 1136 1137 
 		}
 		}
-		name="Sah"
+		name="Sah SAH"
 		owned_provinces={
 			2259 
 		}
 		}
-		name="Benin"
+		name="Benin BEN"
 		owned_provinces={
 			1147 2290 1141 2294 1152 2289 1162 1146 
 		}
 		}
-		name="Oyo"
+		name="Oyo OYO"
 		owned_provinces={
 			1144 2291 1140 2292 
 		}
 		}
-		name="Tenkodogo"
+		name="Tenkodogo TKD"
 		owned_provinces={
 			2267 
 		}
 		}
-		name="Dagbon"
+		name="Dagbon DAG"
 		owned_provinces={
 			2256 2295 1143 
 		}
 		}
-		name="Air"
+		name="Air AIR"
 		owned_provinces={
 			2274 2275 2277 2284 2282 1156 2276 2279 1148 2273 2272 
 		}
 		}
-		name="Katsina"
+		name="Katsina KSN"
 		owned_provinces={
 			1149 1155 2281 2280 1161 
 		}
 		}
-		name="Yola"
+		name="Yola Yol"
 		owned_provinces={
 			1249 2285 
 		}
 		}
-		name="Bedde"
+
+		name="Kanem-Borno KNB"
 		owned_provinces={
-			2283 
+			1157 1160 2286 2287 1159 2288 1158 2283
 		}
 		}
-		name="Kanem-Borno"
-		owned_provinces={
-			1157 1160 2286 2287 1159 2288 1158 
-		}
-		}
-		name="Zazzau"
+		name="Zazzau ZAZ"
 		owned_provinces={
 			1154 2293 1150 1145 
 		}
 		}
-		name="Pindinga"
+		name="Pindinga PDG"
 		owned_provinces={
 			1153 
 		}
 		}
-		name="Kebbi"
+		name="Kebbi KBI"
 		owned_provinces={
 			2278 
 		}
 		}
-		name="Wolof"
+		name="Jolof JLF"
 		owned_provinces={
 			1116 1113 1112 
 		}
 		}
-		name="Tekrur"
+		name="Tekrur TKR"
 		owned_provinces={
 			2237 
 		}
 		}
-		name="Brakna"
+		name="Brakna BRK"
 		owned_provinces={
 			1115 
 		}
 		}
-		name="Tagant"
+		name="Tagant TGT"
 		owned_provinces={
 			2244 
 		}
 		}
-		name="Mali Colony"
+		name="Mali Colony NOTAG"
 		owned_provinces={
 			2912 2921 756 755 
-		}
-		}
-		name="Kongo"
-		owned_provinces={
-			1170 1168 1171 798 4080 1901 2949 2948 4082 4084 4079 
-		}
-		}
-		name="Mayumba"
-		owned_provinces={
-			4078 1165 1166 
-		}
-		}
-		name="Anziku"
-		owned_provinces={
-			1169 
-		}
-		}
-		name="Yaka"
-		owned_provinces={
-			4085 4081 4086 4087 4083 
-		}
-		}
-		name="Luba"
-		owned_provinces={
-			4097 4105 4109 4099 4090 
-		}
-		}
-		name="Kuba"
-		owned_provinces={
-			4089 4088 
-		}
-		}
-		name="Rund"
-		owned_provinces={
-			4092 4091 4096 4093 
-		}
-		}
-		name="Luapula"
-		owned_provinces={
-			4100 4103 
-		}
-		}
-		name="Lualaba"
-		owned_provinces={
-			4101 4098 4107 
-		}
-		}
-		name="Ishindi"
-		owned_provinces={
-			4095 4094 
 		}
 		}
 		name="Vinland"
@@ -1293,7 +1190,7 @@
 		}
 		name="Mindoro"
 		owned_provinces={
-			4350 4356 
+			4350 4356
 		}
 		}
 		name="Manila"
@@ -2700,7 +2597,7 @@ D00={
 			208 4558 4553 
 		}
 		}
-		name="BEI"
+		name="ZZZ"
 		owned_provinces={
 			228 
 		}

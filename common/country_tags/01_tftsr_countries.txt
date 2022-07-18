@@ -53,7 +53,7 @@ TRB = "countries/Trubchevsk.txt"
 SMO = "countries/Smolensk.txt"
 KSK = "countries/Kursk.txt"
 YLT = "countries/Yelets.txt"
-ZAZ	= "countries/Zaporozhie.txt"
+ZAO	= "countries/Zaporozhie.txt"
 KYV = "countries/Kiev.txt"
 
 POL	= "countries/Poland.txt"
