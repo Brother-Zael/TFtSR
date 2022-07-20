@@ -1,0 +1,6 @@
+#Country Name: Gonder
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 198 123 108 }

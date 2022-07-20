@@ -1,4 +1,4 @@
-#Country Name: Basra
+#Country Name: Lakhmids
 #Starting Country
 
 graphical_culture = muslimgfx

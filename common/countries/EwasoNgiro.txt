@@ -1,0 +1,6 @@
+#Country Name: EwasoNgiro
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 8 102 108 }

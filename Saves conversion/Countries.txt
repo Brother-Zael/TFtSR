@@ -323,7 +323,7 @@
 		}
 		name="Kipchaks KIP"
 		owned_provinces={
-			466 464 2417 2197 2416 463 468 288 2409 467 1971 2418 2365 469 2367 465 470 474 2366 472 471 2208 2201 2199 2420 
+			466 464 2417 2197 2416 468 288 2409 467 1971 2418 2365 469 2367 465 470 474 2366 472 471 2208 2201 2199 2420
 		}
 		}
 		name="Zaporozhie ZAO"
@@ -333,7 +333,7 @@
 		}
 		name="Uyghurs OYG"
 		owned_provinces={
-			285 284 2447 287 2414 2413 286 2195 2412 
+			285 284 2447 287 2414 2413 286 2195 2412 463
 		}
 		}
 		name="TheSouthernLeague TSL"
@@ -913,941 +913,737 @@
 			2380 2376 2377 4827 4829 605 606 2374 607 4822 609 4828 2378 
 		}
 		}
-		name="Rhade"
+		name="Rhade RHA"
 		owned_provinces={
 			4824 2375 
 		}
 		}
-		name="Savanh Nakhone"
+		name="SavanhNakhone SVK"
 		owned_provinces={
 			2382 4840 
 		}
 		}
-		name="Attapeu"
+		name="Attapeu ATU"
 		owned_provinces={
 			608 
 		}
 		}
-		name="Stung Treng"
+		name="Stung Treng STR"
 		owned_provinces={
 			1823 
 		}
 		}
-		name="Dong Kinh"
+		name="Nam Viet NMV"
 		owned_provinces={
 			613 4820 616 4819 2372 610 2373 1022 
 		}
 		}
-		name="Champasak"
+		name="Champasak CHP"
 		owned_provinces={
 			4839 2383 4836 2386 4838 
 		}
 		}
-		name="Vientiane"
+		name="Vientiane VNT"
 		owned_provinces={
 			614 615 4837 2371 1844 
 		}
 		}
-		name="Chiang Rai"
+		name="Chiang Rai CRI"
 		owned_provinces={
 			602 4842 1817 
 		}
 		}
-		name="Nongbua Lamphu"
+		name="Nongbua Lamphu NLM"
 		owned_provinces={
 			2385 
 		}
 		}
-		name="Nong Khai"
+		name="Nong Khai NGH"
 		owned_provinces={
 			2384 
 		}
 		}
-		name="Sikhottabong"
+		name="Sikhottabong STB"
 		owned_provinces={
 			611 
 		}
 		}
-		name="Luang Namtha"
+		name="Luang Namtha LMT"
 		owned_provinces={
 			2381 
 		}
 		}
-		name="Ha Tinh"
+		name="Tran Nam TRA"
 		owned_provinces={
-			1016 
+			1016 4821 
 		}
 		}
-		name="Nghe An"
-		owned_provinces={
-			4821 
-		}
-		}
-		name="Jarai"
+		name="Jarai JAR"
 		owned_provinces={
 			4823 
 		}
 		}
-		name="Mong Kung"
+		name="Mong Kuang MKU"
 		owned_provinces={
 			4406 
 		}
 		}
-		name="Kale"
+		name="Kale KLE"
 		owned_provinces={
 			580 2398 
 		}
 		}
-		name="Mong Kawng"
+		name="Mong Kawng MKA"
 		owned_provinces={
 			2396 2395 
 		}
 		}
-		name="Ternate"
-		owned_provinces={
-			649 
-		}
-		}
-		name="Tidore"
-		owned_provinces={
-			650 
-		}
-		}
-		name="Halmahera"
-		owned_provinces={
-			648 
-		}
-		}
-		name="Bulungan"
-		owned_provinces={
-			2711 
-		}
-		}
-		name="Barito"
-		owned_provinces={
-			2707 
-		}
-		}
-		name="Maguindanao"
-		owned_provinces={
-			652 653 4354 
-		}
-		}
-		name="Samar"
-		owned_provinces={
-			654 4353 
-		}
-		}
-		name="Butuan"
-		owned_provinces={
-			2702 
-		}
-		}
-		name="Tagloc"
-		owned_provinces={
-			2701 
-		}
-		}
-		name="Caraga"
-		owned_provinces={
-			4355 
-		}
-		}
-		name="Bikol"
-		owned_provinces={
-			2699 
-		}
-		}
-		name="Kedah"
+		name="Kedah KDH"
 		owned_provinces={
 			2394 4813 
 		}
 		}
-		name="Kadraites"
+		name="Kadraites KAD"
 		owned_provinces={
 			578 2078 4509 4511 508 2073 2077 2076 4521 
 		}
 		}
-		name="Thatta"
+		name="Thatta THT"
 		owned_provinces={
 			504 4504 505 
 		}
 		}
-		name="Multan"
+		name="Multan MUL"
 		owned_provinces={
 			506 2079 2086 4508 513 4507 4513 512 2064 2066 4502 2067 2087 4501 4506 2053 518 514 4510 
 		}
 		}
-		name="Kangra"
+		name="Kangra KAN"
 		owned_provinces={
 			509 2074 4449 4493 511 
 		}
 		}
-		name="Lahore"
+		name="Lahore LAH"
 		owned_provinces={
 			507 4411 510 2065 2075 4463 
 		}
 		}
-		name="Delhi"
+		name="Delhi Confederacy DLH"
 		owned_provinces={
 			522 519 520 2062 2060 2061 4498 2063 524 4500 4465 525 2059 559 
 		}
 		}
-		name="Kumaon"
+		name="Kumaon KMA"
 		owned_provinces={
 			2069 
 		}
 		}
-		name="Doti"
+		name="Doti DOT"
 		owned_provinces={
 			4492 
 		}
 		}
-		name="Khambhat"
+		name="Parsis-desh PAR"
 		owned_provinces={
 			4457 2054 4512 517 516 4480 2056 2051 
 		}
 		}
-		name="Ujjain"
+		name="Ujjain UJJ"
 		owned_provinces={
 			4461 2093 4462 2058 526 527 4453 2057 4460 
 		}
 		}
-		name="Marwar"
-		}
-		name="Jhalavad"
+		name="Jhalavad JHA"
 		owned_provinces={
 			4456 
 		}
 		}
-		name="Kutch"
+		name="Kutch KUT"
 		owned_provinces={
 			503 
 		}
 		}
-		name="Pala"
+		name="Dhakka DHK"
 		owned_provinces={
 			564 4475 2039 4476 2081 4479 2046 4478 567 4473 2091 4477 4471 4472 558 4469 
 		}
 		}
-		name="Gauda"
+		name="Gauda GDA"
 		owned_provinces={
 			563 2044 2096 4486 2045 562 2042 2047 4489 560 4474 561 
 		}
 		}
-		name="Dang"
+		name="Dang DNG"
 		owned_provinces={
 			4491 554 4485 
 		}
 		}
-		name="Makwanpur"
+		name="Makwanpur MKW"
 		owned_provinces={
 			4484 
 		}
 		}
-		name="Champaran"
+		name="Champaran CMP"
 		owned_provinces={
 			4488 
 		}
 		}
-		name="Katmandu"
+		name="Gorkha GRK"
 		owned_provinces={
 			557 2070 2071 4483 
 		}
 		}
-		name="Punakha"
+		name="Sikkim SIK"
 		owned_provinces={
 			4481 565 
 		}
 		}
-		name="Assam"
+		name="Assam NOTAG"
 		owned_provinces={
 			566 571 4440 2040 2041 570 573 
 		}
 		}
-		name="Jaunpur"
+		name="Jaunpur JNP"
 		owned_provinces={
 			555 556 4496 4490 2055 4487 2095 2097 
 		}
 		}
-		name="Feyzabad"
+		name="Feyzabad Sect FBD"
 		owned_provinces={
 			4495 523 4497 4499 
 		}
 		}
-		name="Khairabad"
+		name="Khairabad KBD"
 		owned_provinces={
 			4494 2094 
 		}
 		}
-		name="Cuttack"
+		name="Cuttack CUT"
 		owned_provinces={
 			552 4441 2080 549 2049 2043 4450 2038 4448 
 		}
 		}
-		name="Mandla"
+		name="Mandala MDL"
 		owned_provinces={
 			551 4458 4468 
 		}
 		}
-		name="Bundi"
+		name="Bundi BUN"
 		owned_provinces={
 			4464 528 
 		}
 		}
-		name="Mahakoshal"
+		name="Mahakoshal MHK"
 		owned_provinces={
 			550 4459 4466 4467 740 
 		}
 		}
-		name="Raipur"
+		name="Raipur RAI"
 		owned_provinces={
 			2082 4445 4447 547 4446 2048 
 		}
 		}
-		name="Sambalpur"
+		name="Soumelpur SMB"
 		owned_provinces={
 			553 4452 2098 4451 4470 
 		}
 		}
-		name="Mayurbhanj"
-		}
-		name="Soumelpur"
-		}
-		name="Jeypore"
-		}
-		name="Karanja"
+		name="Karanja KNJ"
 		owned_provinces={
 			4443 4442 548 2092 546 2028 
 		}
 		}
-		name="Golconda"
+		name="Aalok AAL"
 		owned_provinces={
 			542 4439 2037 4444 4425 2050 
 		}
 		}
-		name="Velanadu"
+		name="Velanadu VEL"
 		owned_provinces={
 			543 2084 574 568 579 2402 1815 4419 4418 
 		}
 		}
-		name="Tondainadu"
+		name="Tondainadu TDL"
 		owned_provinces={
 			539 4417 2027 4420 1947 4416 
 		}
 		}
-		name="Cuddalore"
+		name="CuddaloreCUD"
 		owned_provinces={
 			540 
 		}
 		}
-		name="Tanjore"
+		name="Tanjore TAN"
 		owned_provinces={
 			2026 4415 
 		}
 		}
-		name="Kotte"
+		name="Kotte KOT"
 		owned_provinces={
 			572 4407 2099 2100 4408 536 2101 
 		}
 		}
-		name="Trincomale"
+		name="Jafnids JAF"
 		owned_provinces={
 			4409 
 		}
 		}
-		name="Calicut"
+		name="Malabar MBR"
 		owned_provinces={
 			534 4413 535 537 4410 4412 1248 
 		}
 		}
-		name="Mysore"
+		name="Mysore MYS"
 		owned_provinces={
 			533 4421 2032 4426 4422 2031 538 2085 4414 
 		}
 		}
-		name="Vijayanagar"
+		name="Vijayanagar VIJ"
 		owned_provinces={
-			541 4428 4424 532 4423 2090 4436 1949 
+			541 4428 4424 532 4423 2090 4436 1949 2083
 		}
 		}
-		name="Goa"
+		name="Goa GOA"
 		owned_provinces={
 			2030 4429 4431 4427 531 2029 530 2089 1946 569 2034 2033 
 		}
 		}
-		name="Chaul"
-		}
-		name="Bidar"
+		name="Bidar BID"
 		owned_provinces={
 			1948 544 4432 4433 2036 4434 545 4437 4438 4430 2035 4435 529 
 		}
 		}
-		name="Devarakonda"
-		}
-		name="Udayagiri"
-		owned_provinces={
-			2083 
-		}
-		}
-		name="Gutti"
-		}
-		name="Bijapur"
-		}
-		name="Rajkot"
+		name="Rajkot RJK"
 		owned_provinces={
 			521 
 		}
 		}
-		name="Porbandar"
+		name="Ranpur RAN"
 		owned_provinces={
 			4454 4455 515 
 		}
 		}
-		name="Halar"
+		name="Halar HLR"
 		owned_provinces={
 			2052 
 		}
 		}
-		name="Bhakkar"
+		name="Bhakkar BHA"
 		owned_provinces={
 			2072 2068 4505 4503 
 		}
 		}
-		name="Umarkot"
+		name="Umarkot UMR"
 		owned_provinces={
 			2088 
 		}
 		}
-		name="Lhasa"
+		name="Tibet TIB"
 		owned_provinces={
 			677 4517 676 4482 4514 4515 4518 4519 4205 2130 
 		}
 		}
-		name="Purang"
+		name="Purang NOTAG"
 		owned_provinces={
 			4516 2128 4520 
 		}
 		}
-		name="Ava"
-		owned_provinces={
-			584 581 2399 4393 580 2398 2397 4405 4394 4395 
-		}
-		}
-		name="Mong Kawng"
-		owned_provinces={
-			2396 4404 2395 582 
-		}
-		}
-		name="Rhade"
-		owned_provinces={
-			4824 4823 2375 1823 
-		}
-		}
-		name="Pegu"
-		owned_provinces={
-			586 4399 590 2403 4396 585 
-		}
-		}
-		name="Lavo"
-		owned_provinces={
-			4832 4833 612 4836 2383 609 4828 
-		}
-		}
-		name="Hsenwi"
-		owned_provinces={
-			583 4406 2166 2400 
-		}
-		}
-		name="Yawnghwe"
-		owned_provinces={
-			4397 
-		}
-		}
-		name="Mong Pai"
-		owned_provinces={
-			2401 
-		}
-		}
-		name="Mong Nai"
-		owned_provinces={
-			588 4398 587 660 
-		}
-		}
-		name="Chiang Mai"
-		owned_provinces={
-			589 4841 4842 602 1817 
-		}
-		}
-		name="Sukhothai"
-		owned_provinces={
-			601 2389 2388 4834 591 4835 
-		}
-		}
-		name="Dong Kinh"
-		owned_provinces={
-			613 2372 610 4821 1016 2373 4820 616 4819 
-		}
-		}
-		name="Luang Prabang"
-		owned_provinces={
-			615 2381 2371 1844 4837 611 
-		}
-		}
-		name="Vientiane"
-		owned_provinces={
-			614 2385 2384 2382 4838 2386 4840 608 4839 
-		}
-		}
-		name="Ayutthaya"
-		owned_provinces={
-			600 592 2387 2404 4830 4831 603 2390 2391 2394 4813 595 4825 604 4826 2393 598 2379 
-		}
-		}
-		name="Phnom Penh"
-		owned_provinces={
-			2380 2376 2377 4829 605 606 2374 607 4822 1022 2378 4827 
-		}
-		}
-		name="Pattani"
-		owned_provinces={
-			594 593 599 4812 4814 
-		}
-		}
-		name="Jabal Shammar"
+		name="Shammar SHM"
 		owned_provinces={
 			393 2338 4274 392 2337 4273 4275 2336 2335 
 		}
 		}
-		name="Sana'a"
+		name="Himyarites HMY"
 		owned_provinces={
 			390 4281 2344 388 2345 389 4283 1099 2343 
 		}
 		}
-		name="Caliph"
+		name="Umayyad UMY"
 		owned_provinces={
 			382 4297 378 1849 407 2308 4292 2309 2314 406 409 405 1855 1854 379 4271 4270 381 380 2327 4268 383 4269 2328 384 2329 2331 385 365 4272 
 		}
 		}
-		name="Jazan"
+		name="Qasamids QAS"
 		owned_provinces={
 			2346 386 4282 391 
 		}
 		}
-		name="Qunfudhah"
+		name="Rashidun RSH"
 		owned_provinces={
 			4278 2332 4277 2330 
 		}
 		}
-		name="Basra"
+		name="Lakhmids LAK"
 		owned_provinces={
 			408 412 2340 394 4289 2347 4288 
 		}
 		}
-		name="Al-Mada'in"
+		name="Mahoza MHZ"
 		owned_provinces={
 			410 2311 2312 2310 
 		}
 		}
-		name="Mosul"
+		name="Mosul MOS"
 		owned_provinces={
 			411 4293 2206 4294 
 		}
 		}
-		name="Antioch"
+		name="Antioch ANI"
 		owned_provinces={
 			2313 327 4298 377 
 		}
 		}
-		name="Hisn Kayfa"
+		name="Kurdistan KUR"
 		owned_provinces={
 			4295 2307 4296 2306 
 		}
 		}
-		name="Diyarbakir"
+		name="Amed AMD"
 		owned_provinces={
 			418 2303 
 		}
 		}
-		name="Turks"
+		name="Turkistan TUR"
 		owned_provinces={
 			416 4300 2212 414 4338 4337 2215 417 426 4341 428 2214 2207 2213 4335 2211 
 		}
 		}
-		name="Erzurum"
+		name="Karin KRN"
 		owned_provinces={
 			331 4303 2305 
 		}
 		}
-		name="Tbilisi"
+		name="Georgia GEO"
 		owned_provinces={
 			423 4301 2196 422 462 1856 2410 330 2304 328 2203 420 
 		}
 		}
-		name="Shirvan"
+		name="Shirvan SHR"
 		owned_provinces={
 			421 4299 4305 425 4306 2199 2198 
 		}
 		}
-		name="Yerevan"
+		name="Yerevan YER"
 		owned_provinces={
 			419 2205 2202 4304 2204 
 		}
 		}
-		name="Kazerun"
+		name="Kazerun KZR"
 		owned_provinces={
 			4331 2217 
 		}
 		}
-		name="Siraf"
+		name="Siraf SRF"
 		owned_provinces={
-			4332 430 2219 2223 4329 2999 396 
+			4332 430 2219 2223 4329 396 
 		}
 		}
-		name="Isfahan"
+		name="Isfahan ISF"
 		owned_provinces={
 			429 4171 
 		}
 		}
-		name="Kabul"
+		name="Hephthalites HPH"
 		owned_provinces={
 			451 2226 452 1968 2227 450 4343 4344 453 444 2350 445 4325 446 4324 2228 2225 449 448 447 2229 2230 2224 4336 2235 4326 2221 2236 
 		}
 		}
-		name="Shiraz"
+		name="Shiraz SHR"
 		owned_provinces={
 			2218 4330 
 		}
 		}
-		name="Terek"
+		name="Terek NOTAG"
 		owned_provinces={
 			2208 
 		}
 		}
-		name="Neo-Baktria"
+		name="Kushan KSH"
 		owned_provinces={
 			434 2233 2232 575 576 2231 577 2220 4327 431 
 		}
 		}
-		name="Zaranj"
+		name="Zaranj ZAR"
 		owned_provinces={
 			435 436 
 		}
 		}
-		name="Saidabad"
+		name="Saidabad SBD"
 		owned_provinces={
 			4345 2234 432 
 		}
 		}
-		name="Yazd"
+		name="Yazd YAZ"
 		owned_provinces={
 			433 4334 2222 2216 427 
 		}
 		}
-		name="Qawasim"
+		name="Buyids BUY"
 		owned_provinces={
-			398 399 4285 
+			398 399 4285 2999
 		}
 		}
-		name="Muscat"
+		name="Muscat MUS"
 		owned_provinces={
 			400 4286 
 		}
 		}
-		name=""
-		}
-		name="Qatar"
+		name="Abbasids ABS"
 		owned_provinces={
 			395 2339 2333 397 404 
 		}
 		}
-		name="Malamir"
+		name="Izeh IZE"
 		owned_provinces={
 			4342 4290 
 		}
 		}
-		name="Cairo"
+		name="Fatimids FAT"
 		owned_provinces={
 			361 4317 358 362 4316 363 364 2316 359 4318 2317 2319 2315 2320 2321 
 		}
 		}
-		name="Bardiyah"
+		name="Bardiyyah BDY"
 		owned_provinces={
 			2326 2325 357 
 		}
 		}
-		name="Benghazi"
+		name="Benghazi BGZ"
 		owned_provinces={
 			356 355 
 		}
 		}
-		name="Qus"
+		name="Qus QUS"
 		owned_provinces={
 			360 4320 4319 1231 
 		}
 		}
-		name="Qasr Ibrim"
+		name="Makuria MAK"
 		owned_provinces={
 			1234 2322 1228 2323 1229 2324 1232 
 		}
 		}
-		name="Bahiriya"
+		name="Bahiriya BRY"
 		owned_provinces={
 			2318 4323 1233 
 		}
 		}
-		name="Aksum"
+		name="Abyssinia ABY"
 		owned_provinces={
 			1227 2766 1230 2787 2767 2765 2768 2769 1214 4279 387 4280 
 		}
 		}
-		name="Zeila"
+		name="Zeila ZEI"
 		owned_provinces={
 			1212 1215 2764 2773 2793 
 		}
 		}
-		name="Gonder"
+		name="Gonder GON"
 		owned_provinces={
 			1224 1223 2770 1213 2762 2791 4158 2758 2763 
 		}
 		}
-		name="Sidamo"
+		name="Oromo ORO"
 		owned_provinces={
 			1218 2756 1210 
 		}
 		}
-		name="Harer"
+		name="Harar HAR"
 		owned_provinces={
 			1211 
 		}
 		}
-		name="Degehabur"
+		name="Somaliland SMI"
 		owned_provinces={
 			1208 
 		}
 		}
-		name="Afder"
+		name="Afder AFD"
 		owned_provinces={
 			2779 1207 
 		}
 		}
-		name="Kaffa"
+		name="Nuer NER"
 		owned_provinces={
 			2757 2759 
 		}
 		}
-		name="Soba"
+		name="Darfur DAR"
 		owned_provinces={
 			2798 1222 2799 1217 1216 2800 1221 2802 2801 1219 774 1220 
 		}
 		}
-		name="Bayazid"
+		name="Bayazid BAY"
 		owned_provinces={
 			4302 
 		}
 		}
-		name="Semien"
+		name="Semien SEM"
 		owned_provinces={
 			2771 2772 4033 
 		}
 		}
-		name="Beja"
+		name="Beja BEJ"
 		owned_provinces={
 			1226 2797 1225 
 		}
 		}
-		name="Berbera"
+		name="Berbera BER"
 		owned_provinces={
-			1209 2790 2792 2789 2778 2784 2795 2785 2783 2780 
+			1209 2790 2792 2789 2778 2784 2795 2785 2783 2780 2782
 		}
 		}
-		name="Bosaso"
+		name="Bosaso BSA"
 		owned_provinces={
 			2786 2788 1206 2024 
 		}
 		}
-		name="Warsheikh"
+		name="Mogadishu MDI"
 		owned_provinces={
-			2782 
+			1205 
 		}
 		}
-		name="Bardera"
+		name="Bardera BAR"
 		owned_provinces={
 			2777 2776 2781 
 		}
 		}
-		name="Mombasa"
-		owned_provinces={
-			1202 1203 2796 1204 2774 2794 2775 1200 4055 1273 4058 1205 
-		}
-		}
-		name="Ewaso Ngiro"
+		name="Ewaso Ngiro EWA"
 		owned_provinces={
 			4051 4052 1925 
 		}
 		}
-		name="Zanzibar"
-		owned_provinces={
-			1201 1199 1197 
-		}
-		}
-		name="Qazaniya"
+		name="Qazaniya QAZ"
 		owned_provinces={
 			4291 2209 
 		}
 		}
-		name="Kirkuk"
+		name="Kirkuk KRK"
 		owned_provinces={
 			415 
 		}
 		}
-		name="Hadiya"
+		name="Hadiya NOTAG"
 		owned_provinces={
 			2760 2761 
 		}
 		}
-		name="Marash"
+		name="Marash MRH"
 		owned_provinces={
 			332 4310 
 		}
 		}
-		name="Pechenegs"
+		name="Pechenegs PCH"
 		owned_provinces={
 			326 4312 316 2299 325 4313 4307 4314 1846 2300 4315 329 4311 323 1848 
 		}
 		}
-		name="Turan"
+		name="Turan TRN"
 		owned_provinces={
 			465 439 443 438 2349 437 2362 2370 471 
 		}
 		}
-		name="Nizwa"
+		name="Nizwa NIZ"
 		owned_provinces={
 			403 4287 
 		}
 		}
-		name="Masirah"
+		name="Masirah MAS"
 		owned_provinces={
 			2341 
 		}
 		}
-		name="Dhofar"
+		name="Mahra MAH"
 		owned_provinces={
 			401 4284 2342 402 
 		}
 		}
-		name="Hüdavendigar"
-		owned_provinces={
-			317 2296 322 
-		}
-		}
-		name="Kirmanshah"
+		name="Lorestan LOR"
 		owned_provinces={
 			2210 413 
 		}
 		}
-		name="Caffa"
-		owned_provinces={
-			285 284 2447 287 2414 286 2413 2412 2195 463 
-		}
-		}
-		name="Rasht"
+		name="Gilan GIL"
 		owned_provinces={
 			4339 
 		}
 		}
-		name="Astara"
+		name="Astara AST"
 		owned_provinces={
 			4340 
 		}
 		}
-		name="Ardabil"
+		name="Ardabil ARD"
 		owned_provinces={
 			424 
 		}
 		}
-		name="Saruhan"
-		owned_provinces={
-			2297 4309 4308 
-		}
-		}
-		name="Içel"
-		owned_provinces={
-			2302 2298 324 2301 
-		}
-		}
-		name="Sarai"
-		owned_provinces={
-			466 468 2416 2417 464 288 2409 467 1971 303 2418 473 1965 2420 472 2366 470 2367 474 2365 469 2197 
-		}
-		}
-		name="Alania"
+		name="Alania NOTAG"
 		owned_provinces={
 			2201 
 		}
-D00={
 		}
-		name="Way of Supreme Peace"
+		name="Yellow Turbans WSP"
 		owned_provinces={
 			1816 4194 703 2136 696 4195 2137 695 692 1836 688 2140 2176 2144 1821 2175 687 4197 682 2171 
 		}
 		}
-		name="Wuding"
+		name="Wuding NOTAG"
 		owned_provinces={
 			2138 691 690 2139 2113 
 		}
 		}
-		name="Xuzhou"
+		name="Xianzhou PXZ"
 		owned_provinces={
 			2141 2142 2143 2146 
 		}
 		}
-		name="Canton"
+		name="NamYue NMY"
 		owned_provinces={
 			667 665 2159 666 2160 2158 2157 668 2174 1833 683 2156 670 2162 738 
 		}
 		}
-		name="Fuzhou"
+		name="Wu CWU"
 		owned_provinces={
 			669 2152 2150 2148 1824 2149 2151 2153 1829 2155 2154 
 		}
 		}
-		name="Chengdu"
+		name="Qin QIN"
 		owned_provinces={
 			679 4212 2170 2169 4211 689 2180 2183 4213 680 
 		}
 		}
-		name="Wuling"
+		name="Wulang WUL"
 		owned_provinces={
 			672 681 2172 
 		}
 		}
-		name="Yunnan"
+		name="Yunnan YNN"
 		owned_provinces={
 			662 663 2165 
 		}
 		}
-		name="Bozhou"
+		name="Bozhou BOZ"
 		owned_provinces={
 			2168 
 		}
 		}
-		name="Jianchang"
+		name="Jianchang JIA"
 		owned_provinces={
 			2748 
 		}
 		}
-		name="Dali"
+		name="Dali DLI"
 		owned_provinces={
 			661 2167 
 		}
 		}
-		name="Liuzhou"
+		name="Liuzhou LIU"
 		owned_provinces={
 			2163 664 673 
 		}
 		}
-		name="Hangzhou"
+		name="Hangzhou PHZ"
 		owned_provinces={
 			684 1822 685 4196 
 		}
