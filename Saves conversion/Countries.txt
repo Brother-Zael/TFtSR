@@ -1630,7 +1630,7 @@
 		}
 		name="Jianchang JIA"
 		owned_provinces={
-			2748 
+			2748 675
 		}
 		}
 		name="Dali DLI"
@@ -1648,682 +1648,532 @@
 			684 1822 685 4196 
 		}
 		}
-		name="Anqing"
+		name="South March PSM"
 		owned_provinces={
 			686 2147 1838 2145 
 		}
 		}
-		name="Haicheng"
+		name="North March PNM"
 		owned_provinces={
 			4652 704 4672 2115 
 		}
 		}
-		name="Shenyang"
+		name="Yang Commandery YNG"
 		owned_provinces={
 			726 4675 4203 722 4674 4202 2187 2188 2109 2110 730 4201 2111 2112 4661 2107 4653 
 		}
 		}
-		name="Furdan"
+		name="Wangiyan WAN"
 		owned_provinces={
 			2106 2108 4654 2186 1850 4655 4656 4217 
 		}
 		}
-		name="Xi'an"
+		name="Xialang XIA"
 		owned_provinces={
 			700 4198 2179 
 		}
 		}
-		name="Taiyuan"
+		name="West March PWM"
 		owned_provinces={
 			693 694 2178 2177 697 
 		}
 		}
-		name="Hanseong"
+		name="Baekje BAE"
 		owned_provinces={
 			735 4231 1845 733 2744 4230 1013 4232 737 
 		}
 		}
-		name="Gyeongseong"
+		name="Doenom Bujog  DNM"
 		owned_provinces={
 			2743 732 2742 2694 734 736 4229 
 		}
 		}
-		name="Gyeongju"
+		name="Gyeongju GYJ"
 		owned_provinces={
 			2745 4227 4228 2741 1818 4182 4181 
 		}
 		}
-		name="Satsuma"
-		owned_provinces={
-			1012 
-		}
-		}
-		name="Hyuga"
-		owned_provinces={
-			4180 1014 
-		}
-		}
-		name="Kyoto"
-		owned_provinces={
-			1020 1837 1023 1021 4187 1832 4185 1017 1027 
-		}
-		}
-		name="Owari"
-		owned_provinces={
-			1030 4360 
-		}
-		}
-		name="Izumo"
-		owned_provinces={
-			1018 4183 1830 
-		}
-		}
-		name="Aki"
-		owned_provinces={
-			1825 1820 
-		}
-		}
-		name="Iyo"
-		owned_provinces={
-			4186 
-		}
-		}
-		name="Tosa"
-		owned_provinces={
-			1819 
-		}
-		}
-		name="Harima"
-		owned_provinces={
-			1019 4184 
-		}
-		}
-		name="Ise"
-		owned_provinces={
-			4359 
-		}
-		}
-		name="Mino temples"
+		name="Mino temples NOTAG"
 		owned_provinces={
 			1835 1843 1026 
 		}
 		}
-		name="Kai"
-		owned_provinces={
-			1029 1839 
-		}
-		}
-		name="Musashi"
-		owned_provinces={
-			1028 
-		}
-		}
-		name="Sagami"
-		owned_provinces={
-			4189 1024 1025 
-		}
-		}
-		name="Shinano"
-		owned_provinces={
-			4188 
-		}
-		}
-		name="Shimousa"
-		owned_provinces={
-			4190 
-		}
-		}
-		name="Shimotsuke"
-		owned_provinces={
-			4191 
-		}
-		}
-		name="Shiribeshi"
-		owned_provinces={
-			1847 4193 4131 1852 1031 1032 
-		}
-		}
-		name="Ugo"
-		owned_provinces={
-			4192 
-		}
-		}
-		name="Mongols"
+		name="Mongol Khanate MNG"
 		owned_provinces={
 			4682 4683 4206 713 2122 2191 707 701 4223 702 2747 4670 2193 2117 4680 718 4207 720 4677 715 714 4681 
 		}
 		}
-		name="Ude"
+		name="Liao LIA"
 		owned_provinces={
 			1057 4220 4668 1056 4678 2116 4221 
 		}
 		}
-		name="Kalgan"
+		name="Khitans KHT"
 		owned_provinces={
 			4671 2114 4669 717 1058 4666 4667 4219 721 4673 723 
 		}
 		}
-		name="Chara"
+		name="Yakuts CIY"
 		owned_provinces={
 			2446 2102 1052 1047 
 		}
 		}
-		name="Cicigar"
+		name="Hoifa HOI"
 		owned_provinces={
 			725 4665 4218 4664 724 1053 
 		}
 		}
-		name="Mergen"
+		name="Udege UDE"
 		owned_provinces={
 			2185 728 4200 4660 731 4663 
 		}
 		}
-		name="Deren"
+		name="Uilta ULT"
 		owned_provinces={
 			1050 4214 4216 729 1048 4658 1033 
 		}
 		}
-		name="Haiilanboo"
+		name="DKD DKD"
 		owned_provinces={
 			1049 4662 4659 2103 
 		}
 		}
-		name="Lanzhou"
+		name="Lang Zhao LNZ"
 		owned_provinces={
 			699 698 2181 
 		}
 		}
-		name="Xining"
+		name="Kiy KIY"
 		owned_provinces={
 			2184 2182 708 4676 709 
 		}
 		}
-		name="Changsha"
+		name="Changsha CSH"
 		owned_provinces={
 			671 1840 2164 2161 
 		}
 		}
-		name="Yuanling"
+		name="Yuanling YLG"
 		owned_provinces={
 			2173 
 		}
 		}
-		name="Umung"
-		owned_provinces={
-			675 
-		}
-		}
-		name="Guiyang"
+		name="Guiyang GUI"
 		owned_provinces={
 			674 
 		}
 		}
-		name="Tongren"
+		name="Tongren TGN"
 		owned_provinces={
 			4199 
 		}
 		}
-		name="Qaraqorum"
+		name="Sky Temple SKY"
 		owned_provinces={
 			2190 719 2189 4222 1066 716 4679 
 		}
 		}
-		name="Aigun"
+		name="Ula ULA"
 		owned_provinces={
 			727 2104 2105 4215 
 		}
 		}
-		name="Tachienlu"
+		name="Tachienlu NOTAG"
 		owned_provinces={
 			678 2132 2131 
 		}
 		}
-		name="Garze"
+		name="Garze GAR"
 		owned_provinces={
 			2135 
 		}
 		}
-		name="Dege"
+		name="Dege DEG"
 		owned_provinces={
 			2133 
 		}
 		}
-		name="Anding"
+		name="Kham KAM"
 		owned_provinces={
 			4204 706 2134 705 711 2123 
 		}
 		}
-		name="Yarkand"
+		name="Kara Khitans KKR"
 		owned_provinces={
 			2124 4209 712 2121 2192 4693 710 
 		}
 		}
-		name="Lhasa"
-		owned_provinces={
-			677 2130 4205 4519 4517 676 4514 4518 4515 4482 
-		}
-		}
-		name="Thimpu"
-		owned_provinces={
-			565 4481 
-		}
-		}
-		name="Katmandu"
-		owned_provinces={
-			557 2071 4483 2070 
-		}
-		}
-		name="Purang"
-		owned_provinces={
-			4516 2128 4520 
-		}
-		}
-		name="Palpa"
-		owned_provinces={
-			4485 4491 554 
-		}
-		}
-		name="Makwanpur"
-		owned_provinces={
-			4484 
-		}
-		}
-		name="Champaran"
-		owned_provinces={
-			4488 
-		}
-		}
-		name="Doti"
-		owned_provinces={
-			4492 
-		}
-		}
-		name="Kumaon"
-		owned_provinces={
-			2069 
-		}
-		}
-		name="Kangra"
-		owned_provinces={
-			509 4493 511 510 2075 
-		}
-		}
-		name="Ryukyu"
+		name="Ryukyu NOTAG"
 		owned_provinces={
 			1015 
 		}
 			}
-		name="EMP"
+		name="Imperator EMP"
 		owned_provinces={
 			104 4740 2979 107 4739 1862 4728 2981 2992 1875 102 4696 109 103 4727 
 		}
 		}
-		name="PAP"
+		name="Papal States PAP"
 		owned_provinces={
 			118 117 114 4729 108 1774 111 
 		}
 		}
-		name="SAL"
+		name="Brundisium BRN"
 		owned_provinces={
 			122 142 143 4174 4754 
 		}
 		}
-		name="BRD"
+		name="Burdigala"
 		owned_provinces={
 			174 175 176 4694 4111 
 		}
 		}
-		name="BRI"
+		name="Brittany BRI"
 		owned_provinces={
 			172 170 171 4384 4386 178 177 179 185 4388 186 
 		}
 		}
-		name="PRS"
+		name="Lutetia LTT"
 		owned_provinces={
 			183 
 		}
 		}
-		name="RGM"
+		name="Regensmarch RGM"
 		owned_provinces={
 			2957 1757 2956 4709 133 4761 4760 
 		}
 		}
-		name="PRA"
+		name="Praetorians PRA"
 		owned_provinces={
 			101 105 2980 115 2986 166 110 
 		}
 		}
-		name="Malta"
+		name="Legio Mare MLG"
 		owned_provinces={
 			126 333 4560 4559 163 
 		}
 		}
-		name="Palermo"
+		name="Panormus PNR"
 		owned_provinces={
 			125 4737 4736 124 123 2984 1934 
 		}
 		}
-		name="TSL"
-		owned_provinces={
-			224 1749 342 345 1110 347 220 213 2982 201 
-		}
-		}
-		name="BOF"
+		name="Forum Alieni BOF"
 		owned_provinces={
 			113 
 		}
 		}
-		name="FAU"
+		name="The Unity FAU"
 		owned_provinces={
 			116 2977 2978 
 		}
 		}
-		name="ANC"
+		name="Ariminum ARI"
 		owned_provinces={
 			119 2976 1933 
 		}
 		}
-		name="NPL"
+		name="Neapolis NPL"
 		owned_provinces={
 			121 4733 4734 2983 120 4732 
 		}
 		}
-		name="SPL"
+		name="Spoletum SPL"
 		owned_provinces={
 			4731 
 		}
 		}
-		name="COR"
+		name="Corsica COR"
 		owned_provinces={
 			1247 
 		}
 		}
-		name="BOB"
+		name="Bisphopric of Bononia BOB"
 		owned_provinces={
 			4730 
 		}
 		}
-		name="BOM"
+		name="Bisphopric of Mutina BOM"
 		owned_provinces={
 			106 
 		}
 		}
-		name="CPT"
+		name="Capitanata CPT"
 		owned_provinces={
 			2985 
 		}
 		}
-		name="VEN"
+		name="Venezia VEN"
 		owned_provinces={
 			112 137 1826 
 		}
 		}
-		name="SAR"
+		name="Sardinia SAR"
 		owned_provinces={
 			127 4735 
 		}
 		}
-		name="CTC"
+		name="Olisipo OLS"
 		owned_provinces={
 			227 4787 231 
 		}
 		}
-		name="EVO"
+		name="Evora EVO"
 		owned_provinces={
 			230 4150 4548 
 		}
 		}
-		name="TDT"
+		name="Turdetani TDT"
 		owned_provinces={
 			218 1747 4788 
 		}
 		}
-		name="BRG"
+		name="Brigantium BRG"
 		owned_provinces={
 			206 4555 4554 207 
 		}
 		}
-		name="NAV"
+		name="Cantabri CNT"
 		owned_provinces={
 			209 210 173 1745 
 		}
 		}
-		name="OLS"
+		name="Celtici CTC"
 		owned_provinces={
 			1851 4556 232 
 		}
 		}
-		name="GAL"
+		name="Austurica AUS"
 		owned_provinces={
 			208 4558 4553 
 		}
 		}
-		name="ZZZ"
+		name="Alcantara ALC"
 		owned_provinces={
 			228 
 		}
 		}
-		name="Valladolid"
+		name="Vaccaei VAC"
 		owned_provinces={
 			215 4551 
 		}
 		}
-		name="CPM"
+		name="Complutum CPM"
 		owned_provinces={
 			217 
 		}
 		}
-		name="SAL"
+		name="Salamanca SAL"
 		owned_provinces={
 			216 
 		}
 		}
-		name="CÛR"
+		name="Cordoba CRD"
 		owned_provinces={
 			225 
 		}
 		}
-		name="SEG"
+		name="Segontia SEG"
 		owned_provinces={
 			2755 
 		}
 		}
-		name="CLU"
+		name="Clunia CLU"
 		owned_provinces={
 			1746 
 		}
 		}
-		name="HLG"
+		name="Legio Hispania HLG"
 		owned_provinces={
 			4552 2990 1748 2989 226 211 
 		}
 		}
-		name="SGV"
+		name="Segovia SGV"
 		owned_provinces={
 			4789 
 		}
 		}
-		name="TOL"
+		name="Toletum TLT"
 		owned_provinces={
 			219 
 		}
 		}
-		name="Urci"
+		name="Urci URC"
 		owned_provinces={
 			222 
 		}
 		}
-		name="MAL"
+		name="Malaca MLA"
 		owned_provinces={
 			4546 223 
 		}
 		}
-		name="CAU"
+		name="Caeseraugustus CAU"
 		owned_provinces={
 			4557 
 		}
 		}
-		name="SBG"
+		name="Segobriga SBG"
 		owned_provinces={
 			2751 
 		}
 		}
-		name="LSS"
+		name="Libisosa LSS"
 		owned_provinces={
 			4547 2754 
 		}
 		}
-		name="PXJ"
+		name="Pax Julia PXJ"
 		owned_provinces={
 			229 
 		}
 		}
-		name="CRN"
+		name="Cartago NovaCRN"
 		owned_provinces={
 			221 1750 4549 
 		}
 		}
-		name="TAR"
+		name="Taraco TAR"
 		owned_provinces={
 			2988 4550 
 		}
 		}
-		name="AZL"
+		name="Azaila AZL"
 		owned_provinces={
 			214 
 		}
 		}
-		name="EMR"
+		name="Emporiae EMR"
 		owned_provinces={
 			212 197 2987 
 		}
 		}
-		name="SUI"
+		name="Suidinum SUI"
 		owned_provinces={
 			4389 4776 
 		}
 		}
-		name="GNB"
+		name="Genabum GNB"
 		owned_provinces={
 			184 4697 195 
 		}
 		}
-		name="LMN"
+		name="Limonum LMN"
 		owned_provinces={
 			180 
 		}
 		}
-		name="VES"
+		name="Vesunna VES"
 		owned_provinces={
 			194 
 		}
 		}
-		name="TOL"
+		name="Tolosa TOL"
 		owned_provinces={
 			196 4695 4391 
 		}
 		}
-		name="DIV"
+		name="Divona DIV"
 		owned_provinces={
 			4112 
 		}
 		}
-		name="ARG"
+		name="Argentomagus ARG"
 		owned_provinces={
 			190 
 		}
 		}
-		name="SGD"
+		name="Segodunum SGN"
 		owned_provinces={
 			198 
 		}
 		}
-		name="ASX"
+		name="Aquae Sextiae ASX"
 		owned_provinces={
 			2991 
 		}
 		}
-		name="NMS"
+		name="Nemausus NMS"
 		owned_provinces={
 			200 
 		}
 		}
-		name="NRB"
+		name="Narbo Martius NRB"
 		owned_provinces={
 			2753 
 		}
 		}
-		name="VIE"
+		name="Vienna VIE"
 		owned_provinces={
 			203 4777 
 		}
 		}
-		name="ARE"
+		name="Arelate ARE"
 		owned_provinces={
 			202 
 		}
 		}
-		name="LUG"
+		name="Lugdunum LUG"
 		owned_provinces={
 			4719 204 205 4720 1871 1867 
 		}
 		}
-		name="CAB"
+		name="Cabillonum CAB"
 		owned_provinces={
 			192 4764 193 1877 
 		}
 		}
-		name="AOD"
+		name="Augustodunum AOD"
 		owned_provinces={
 			4392 191 4390 
 		}
 		}
-		name="GLG"
+		name="Gallic Legion GLG"
 		owned_provinces={
 			188 4766 199 189 4387 67 
 		}
 		}
-		name="DOR"
+		name="Durocortorum DOR"
 		owned_provinces={
 			181 94 
 		}
 		}
-		name="ART"
+		name="Argentorate ART"
 		owned_provinces={
 			75 74 4765 
 		}
 		}
-		name="ARM"
+		name="Augusta Rauracorum ARM"
 		owned_provinces={
 			4721 187 1880 
 		}
 		}
-		name="GRS"
+		name="Germania Superior GRS"
 		owned_provinces={
 			1870 1869 165 72 4712 
 		}
 		}
-		name="RTP"
+		name="Rhaetia Inferior RTI"
 		owned_provinces={
 			1868 4710 1873 4722 73 65 68 
 		}
 		}
-		name="RTS"
+		name="Rhaetia Superior RTS"
 		owned_provinces={
 			1872 4713 70 4711 71 
 		}
 		}
-		name="NRP"
+		name="Noricum Inferior NRI"
 		owned_provinces={
 			64 4708 76 
 		}
 		}
-		name="NRS"
+		name="Noricum Superior NRS"
 		owned_provinces={
 			2955 4707 
 		}
 		}
-		name="GRP"
+		name="Germania Proconsularis GRP"
 		owned_provinces={
 			77 1761 4767 4714 4715 
 		}

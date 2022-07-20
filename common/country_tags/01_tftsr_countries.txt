@@ -149,7 +149,7 @@ LUG = "countries/Lugdunum.txt"
 VIE = "countries/Vienna.txt" # This is roman vienna, in gaul, north of modern provence.
 DIV = "countries/Divona.txt"
 TOL = "countries/Tolosa.txt"
-SEG = "countries/Segodunum.txt"
+SGN = "countries/Segodunum.txt"
 NRB = "countries/NarboMartius.txt"
 NMS = "countries/Nemausus.txt"
 ARE = "countries/Arelate.txt"
@@ -238,7 +238,7 @@ SAR = "countries/Sardinia.txt"
 ARI = "countries/Ariminum.txt"
 SPL = "countries/Spoletum.txt"               # Trade League with Ariminum
 NPL = "countries/Neapolis.txt"               # Archbishopric?
-CPT = "countries/Capitanata.txt"             # Bishop vassal of Ancona
+CPT = "countries/Capitanata.txt"             # Bishop vassal of Ariminum
 BRN = "countries/Brundisium.txt"
 PNR = "countries/Panormus.txt"               # Archbishophric? that converted to catharism
 MLG = "countries/LegioMare.txt"
@@ -664,7 +664,7 @@ CYI = "countries/Yi.txt"                # Releasable
 MIN = "countries/Min.txt"               # Releasable
 
 UTS = "countries/Utsang.txt"            # TSA on map, Releasable
-KAM = "countries/Kham.txt"              # CHU on map, Releasable
+KAM = "countries/Kham.txt"              # CHU on map
 GAR = "countries/Garze.txt"             # Bandits
 DEG = "countries/Dege.txt"              # Bandits
 KKR = "countries/KaraKhitan.txt"        # Semi-horde?
@@ -734,7 +734,7 @@ PAL = "countries/Pala.txt"			  # Pala princes reformable
 GSN = "countries/Gondistan.txt"		  # Gond culture formable
 PUN = "countries/Punjab.txt"
 
-#North American Additions (IM HERE!)
+#North American Additions
 VIN = "countries/Vinland.txt"		  # Vinland Saga but really
 VNR = "countries/Vanaheimr.txt"		  # Atlantis but really
 ARP = "countries/Arapaho.txt"
@@ -747,7 +747,7 @@ KIC = "countries/Kiche.txt"
 KIO = "countries/Kiowa.txt"
 MIX = "countries/Mixtec.txt"
 SAL = "countries/Salish.txt"
-TAR = "countries/Tarascan.txt"
+TRS = "countries/Tarascan.txt"
 TLA = "countries/Tlapanec.txt"
 TLX = "countries/Tlaxcala.txt"
 TOT = "countries/Totonac.txt"
