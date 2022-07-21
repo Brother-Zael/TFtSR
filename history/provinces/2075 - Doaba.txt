@@ -1,7 +1,7 @@
 #2075 - Doaba
 
-owner = SRH
-controller = SRH
+owner = LAH
+controller = LAH
 culture = panjabi
 religion = hinduism
 capital = "Jalandhar"
@@ -11,9 +11,9 @@ base_tax = 7
 base_production = 7
 base_manpower = 2
 is_city = yes
-add_core = DLH
-add_core = PUN
-add_core = SRH
+add_core = LAH
+add_core = LAH
+add_core = LAH
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim

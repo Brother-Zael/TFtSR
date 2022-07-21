@@ -1,7 +1,7 @@
 #561 - Bengal Delta
 
-owner = BNG
-controller = BNG
+owner = GDA
+controller = GDA
 culture = bengali
 religion = hinduism
 capital = "Howrah"
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 is_city = yes
-add_core = BNG
+add_core = GDA
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim

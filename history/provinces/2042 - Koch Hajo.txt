@@ -1,7 +1,7 @@
 #2042 - Koch Hajo
 
-owner = KMT
-controller = KMT
+owner = GDA
+controller = GDA
 culture = assamese
 religion = hinduism
 capital = "Gauhauti"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = KMT
+add_core = GDA
 
 
 

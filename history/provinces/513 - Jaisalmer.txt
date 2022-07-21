@@ -1,7 +1,7 @@
 #513 - Jaisalmer
 
-owner = JSL
-controller = JSL
+owner = MUL
+controller = MUL
 culture = rajput
 religion = hinduism
 capital = "Jaisalmer"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = JSL
+add_core = MUL
 
 
 

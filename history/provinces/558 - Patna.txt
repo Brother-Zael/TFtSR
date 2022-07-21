@@ -1,7 +1,7 @@
 #558 - Patna
 
-owner = JNP
-controller = JNP
+owner = DHK
+controller = DHK
 culture = bihari
 religion = hinduism
 capital = "Patna"
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 is_city = yes
-add_core = JNP
+add_core = DHK
 add_brahmins_or_church_effect = yes
 discovered_by = indian
 discovered_by = muslim 

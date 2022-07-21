@@ -1,7 +1,7 @@
 #4477 - Satgaon
 
-owner = BNG
-controller = BNG
+owner = DHK
+controller = DHK
 culture = bengali
 religion = hinduism
 capital = "Satgaon"
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = BNG
+add_core = DHK
 fort_15th = yes
 discovered_by = indian
 discovered_by = nomad_group

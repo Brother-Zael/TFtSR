@@ -1,8 +1,8 @@
 #578 - Roh
 
-owner = AFG
-controller = AFG
-add_core = AFG
+owner = KAD
+controller = KAD
+add_core = KAD
 culture = afghani
 religion = sunni
 capital = "Peshawar"
@@ -13,7 +13,7 @@ base_production = 4
 base_manpower = 2
 is_city = yes
 fort_15th = yes # Bala Hissar
-add_core = AFG
+add_core = KAD
 
 discovered_by = indian
 discovered_by = muslim

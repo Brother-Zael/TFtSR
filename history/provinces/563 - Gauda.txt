@@ -1,7 +1,7 @@
 #563 - Gauda
 
-owner = BNG
-controller = BNG
+owner = GDA
+controller = GDA
 culture = bengali
 religion = hinduism
 capital = "Pandua"
@@ -11,7 +11,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 4
 is_city = yes
-add_core = BNG
+add_core = GDA
 fort_15th = yes
 discovered_by = indian
 discovered_by = muslim

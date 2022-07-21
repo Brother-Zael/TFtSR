@@ -1,7 +1,7 @@
 #4489 - Hajipur
 
-owner = JNP
-controller = JNP
+owner = GDA
+controller = GDA
 culture = bihari
 religion = hinduism
 capital = "Hajipur"
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = JNP
+add_core = GDA
 add_jains_or_burghers_effect = yes
 discovered_by = indian
 discovered_by = muslim 

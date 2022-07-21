@@ -1,7 +1,7 @@
 #507 - Lahore
 
-owner = SRH
-controller = SRH
+owner = LAH
+controller = LAH
 culture = panjabi
 religion = hinduism
 capital = "Lahore"
@@ -11,10 +11,10 @@ base_tax = 10
 base_production = 10
 base_manpower = 3
 is_city = yes
-add_core = MUL
-add_core = DLH
-add_core = PUN
-add_core = SRH
+add_core = LAH
+add_core = LAH
+add_core = LAH
+add_core = LAH
 fort_15th = yes #Lahore Fort
 #Data Durbar Complex
 discovered_by = indian

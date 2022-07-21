@@ -1,7 +1,7 @@
 #2056 - Rewa Kantha
 
-owner = IDR
-controller = IDR
+owner = PAR
+controller = PAR
 culture = gujarati
 religion = hinduism
 capital = "Idar"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = IDR
+add_core = PAR
 discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman
