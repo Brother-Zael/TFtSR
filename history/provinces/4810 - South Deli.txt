@@ -1,5 +1,5 @@
-owner = DLI
-controller = DLI
+owner = SAK
+controller = SAK
 culture = sumatran
 religion = sunni
 capital = "Deli"
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = DLI
+add_core = SAK
 
 
 
@@ -17,14 +17,4 @@ discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
-
-1405.1.1 = { discovered_by = MNG }
-
-1471.1.1 = { add_core = ATJ }
-1509.1.1 = { discovered_by = POR }
-1521.1.1 = {
-	owner = ATJ
-	controller = ATJ
-	remove_core = PSA
-}
 

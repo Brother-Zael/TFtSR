@@ -1,8 +1,8 @@
 # No previous file for Bedde
 
-owner = KBO
-controller = KBO
-add_core = KBO
+owner = KNB
+controller = KNB
+add_core = KNB
 is_city = yes
 culture = kanuri 
 religion = sunni
@@ -21,8 +21,3 @@ base_manpower = 1
 discovered_by = sub_saharan
 
 
-1806.1.1 = {	
-	owner = SOK
-	controller = SOK
-	add_core = SOK
-} # The Fulani Empire

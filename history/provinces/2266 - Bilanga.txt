@@ -1,8 +1,8 @@
 # No previous file for Bilanga
 
-owner = WGD
-controller = WGD
-add_core = WGD
+owner = YAT
+controller = YAT
+add_core = YAT
 is_city = yes
 culture = mossi 
 religion = shamanism #Fetishism

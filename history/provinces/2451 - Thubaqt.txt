@@ -1,7 +1,7 @@
 # - Thubaqt
 
-owner = TUN
-controller = TUN
+owner = SRT
+controller = SRT
 culture = tunisian
 religion = sunni
 capital = "Thubaqt"
@@ -11,8 +11,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = TUN
-add_core = TRP
+add_core = SRT
+add_core = SRT
 
 
 
@@ -22,8 +22,3 @@ discovered_by = ottoman
 discovered_by = eastern
 
 
-1558.1.1 = {
-	owner = TRP
-	controller = TRP
-	add_core = TRP
-} #Turgut Reis conquers Thubaqt

@@ -1,5 +1,8 @@
 #1115 - Brakna
 
+owner = BRK
+controller = BRK
+add_core = BRK
 culture = fulani
 capital = "Aligh"
 religion = shamanism #Fetishism
@@ -17,4 +20,3 @@ native_hostileness = 9
 discovered_by = sub_saharan
 
 
-1490.1.1 = { owner = FUL controller = FUL add_core = FUL trade_goods = slaves is_city = yes } #Rise of Great Fulo

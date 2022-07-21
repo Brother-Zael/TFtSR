@@ -1,7 +1,7 @@
 # - Mzab
 
-owner = MZB
-controller = MZB
+owner = LGN
+controller = LGN
 culture = berber
 religion = ibadi
 capital = "Ghardaia"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = MZB
+add_core = LGN
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western

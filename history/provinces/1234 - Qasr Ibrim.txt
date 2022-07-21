@@ -19,14 +19,3 @@ discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
 
-1484.1.1 = {
-	owner = ABB
-	controller = ABB
-	add_core = ABB
-}
-1517.1.1 = { add_core = TUR } # Mamluks fall to Ottomans, Ottomans do not advance up Nile
-1540.1.1 = {
-	owner = TUR
-	controller = TUR
-	religion = sunni #If not before
-} #Ottomans occupy Lower Nubia

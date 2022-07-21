@@ -1,5 +1,8 @@
 #622 - Palembang
 
+owner = PLB
+controller = PLB
+add_core = PLB
 culture = sumatran
 religion = hinduism
 capital = "Palembang"
@@ -18,13 +21,3 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
-1444.1.1 = {
-	owner = PLB
-	controller = PLB
-	add_core = PLB
-	is_city = yes
-	trade_goods = spices
-}
-
-1405.1.1 = { discovered_by = MNG }
-1509.1.1 = { discovered_by = POR religion = sunni }

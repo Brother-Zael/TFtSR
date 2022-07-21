@@ -1,5 +1,8 @@
 #4051 - Ewaso Ngiro
 
+owner = PTE
+controller = PTE
+add_core = PTE
 culture = somali
 religion = sunni
 capital = "Ewaso Ngiro"
@@ -14,4 +17,3 @@ base_manpower = 1
 discovered_by = east_african
 discovered_by = central_african
 
-1705.1.1 = { discovered_by = OMA }

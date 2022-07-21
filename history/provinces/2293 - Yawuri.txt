@@ -1,8 +1,8 @@
 # No previous file for Yawuri
 
-owner = ZZZ
-controller = ZZZ
-add_core = ZZZ
+owner = ZAZ
+controller = ZAZ
+add_core = ZAZ
 is_city = yes
 culture = hausa 
 religion = shamanism #Fetishism
@@ -18,8 +18,3 @@ base_manpower = 1
 discovered_by = sub_saharan
 
 
-1806.1.1 = {
-	owner = SOK
-	controller = SOK
-	add_core = SOK
-} # The Fulani Empire

@@ -1,8 +1,8 @@
 # - Madanda
 
-owner = ZIM
-controller = ZIM
-add_core = ZIM
+owner = ZUL
+controller = ZUL
+add_core = ZUL
 culture = shona
 religion = shamanism
 capital = "Madanda"
@@ -16,9 +16,3 @@ discovered_by = east_african
 discovered_by = central_african
 
 
-1513.1.1 = { discovered_by = POR } #Travels of Antonio Fernandes in hinterland of Sofala
-1690.1.1 = {
-	owner = RZI
-	controller = RZI
-	add_core = RZI
-}
