@@ -636,7 +636,7 @@ KGN = "countries/Khaganate.txt"         # empire-rank horde formable that leaves
 #CHINA NUMBA WAN!
 KIY = "countries/Kiy.txt"               # Anti-Mongol Horde
 LNZ = "countries/LangZhao.txt"          # Trib under mongols
-XIA = "countries/Xialang.txt"           # Chinese Warlord
+XIA = "countries/Xialang.txt"           # Chinese Warlord    Zhang Han Five Pecks of Rice???
 WUL = "countries/Wulang.txt"            # Chinese Warlord
 QIN = "countries/Qin.txt"               # Chinese 3rd Power, super dev sichuan confucianist isolationists
 BOZ = "countries/Bozhou.txt"			# Bandits

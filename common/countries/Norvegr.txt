@@ -1,4 +1,4 @@
-#Country Name: Norgr
+#Country Name: Norvegr
 #Starting Country, Reformable Country
 
 graphical_culture = westerngfx
