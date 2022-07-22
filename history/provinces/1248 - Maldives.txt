@@ -1,8 +1,8 @@
 #1248 - Maldives
 
-owner = DGL
-controller = DGL
-add_core = DGL
+owner = MBR
+controller = MBR
+add_core = MBR
 culture = malayalam
 religion = sunni
 capital = "Malé"

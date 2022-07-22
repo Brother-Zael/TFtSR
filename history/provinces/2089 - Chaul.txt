@@ -1,7 +1,7 @@
 #2089 - Chaul (Chaul+Janjira+Kolaba)
 
-owner = BAH
-controller = BAH
+owner = GOA
+controller = GOA
 culture = marathi
 religion = hinduism
 capital = "Chaul"
@@ -12,8 +12,8 @@ base_production = 4
 base_manpower = 2
 add_local_autonomy = 75
 is_city = yes
-add_core = BIJ
-add_core = VIJ
+add_core = GOA
+add_core = GOA
 add_rajputs_or_marathas_or_nobles_effect = yes
 discovered_by = indian
 discovered_by = muslim 

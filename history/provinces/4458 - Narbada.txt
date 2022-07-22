@@ -1,7 +1,7 @@
 #4458 - Narbada
 
-owner = GDW
-controller = GDW
+owner = MDL
+controller = MDL
 culture = gondi
 religion = hinduism
 capital = "Chauragar"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = GDW
+add_core = MDL
 add_local_autonomy = 50
 
 

@@ -1,7 +1,7 @@
 #543 - Velanadu
 
-owner = YOR
-controller = YOR
+owner = VEL
+controller = VEL
 culture = telegu
 religion = hinduism
 capital = "Masulipatnam"
@@ -11,8 +11,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = GOC
-add_core = YOR
+add_core = VEL
+add_core = VEL
 add_rajputs_or_marathas_or_nobles_effect = yes
 discovered_by = indian
 discovered_by = muslim

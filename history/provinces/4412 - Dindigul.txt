@@ -1,7 +1,7 @@
 #4412 - Dindigul
 
-owner = MAD
-controller = MAD
+owner = MBR
+controller = MBR
 culture = tamil
 religion = hinduism
 capital = "Dindigul"
@@ -12,7 +12,7 @@ base_production = 3
 base_manpower = 2
 add_brahmins_or_church_effect = yes
 is_city = yes
-add_core = MAD
+add_core = MBR
 discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim

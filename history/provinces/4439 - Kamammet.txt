@@ -1,7 +1,7 @@
 #4439 - Khamammet
 
-owner = TLG
-controller = TLG
+owner = AAL
+controller = AAL
 culture = telegu
 religion = hinduism
 capital = "Khamammet"
@@ -12,8 +12,8 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 fort_15th = yes
-add_core = GOC
-add_core = TLG
+add_core = AAL
+add_core = AAL
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
