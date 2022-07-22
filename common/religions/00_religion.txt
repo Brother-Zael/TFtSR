@@ -1565,7 +1565,7 @@ eastern = {
 			daoism
 		}
 		country = {
-			discipline = 0.05
+			discipline = 0.025
 			global_autonomy = -0.05
 		}
 		country_as_secondary = {
@@ -1573,7 +1573,7 @@ eastern = {
 			unrest = -3
 		}
 		heretic = { TAOIST }
-		uses_isolationism = yes
+		ancestors = yes
 		on_convert = {
 			add_prestige = -100
 			add_stability = -1
@@ -2764,6 +2764,7 @@ pagan = {
 			tolerance_own = 2
 			loot_amount = 0.25
 		}
+		
 		province = {
 			local_missionary_strength = 0.02
 		}
@@ -2884,9 +2885,6 @@ pagan = {
 			tolerance_own = 2
 			loot_amount = 0.25
 		}
-		province = {
-			local_missionary_strength = 0.02
-		}
 
 		ancestors = yes
 		
@@ -3000,7 +2998,7 @@ pagan = {
 			local_missionary_strength = 0.02
 		}
 		
-		personal_deity = yes
+		fetishist_cult = yes
 		
 		heretic = { OLD_NORSE }	
 	}
