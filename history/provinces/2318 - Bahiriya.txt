@@ -12,7 +12,7 @@ trade_goods = livestock
 hre = no
 base_tax = 1 
 base_production = 1
-discovered_by = MAM
+
 add_local_autonomy = 50
 discovered_by = muslim
 discovered_by = ottoman
@@ -22,8 +22,3 @@ discovered_by = indian
 discovered_by = east_african
 
 
-1517.1.1 = { add_core = TUR remove_core = MAM } # Mamluks fall to the Ottomans but do not advance up the Nile.
-1542.1.1 = {
-	owner = TUR
-	controller = TUR
-} # Ottomans occupy oasis

@@ -21,16 +21,3 @@ discovered_by = chinese
 discovered_by = east_african
 
 
-1472.1.1 = {
-	owner = GUJ
-	controller = GUJ
-	add_core = GUJ
-}
-1498.1.1 = { discovered_by = POR }
-1725.1.1 = {
-	owner = JGD
-	controller = JGD
-	remove_core = MUG
-} # Vassal of Gaikwads
-
-

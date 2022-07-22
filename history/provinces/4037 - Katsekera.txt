@@ -1,8 +1,8 @@
 #Katsekera
 
-owner = MRA
-controller = MRA
-add_core = MRA
+owner = KIL
+controller = KIL
+add_core = KIL
 culture = nyasa
 religion = shamanism #Fetishism
 capital = "Katsekera"
@@ -14,8 +14,3 @@ base_tax = 2
 base_production = 3
 discovered_by = central_african
 
-1735.1.1 = {
-	owner = MKU
-	controller = MKU
-	add_core = MKU
-}

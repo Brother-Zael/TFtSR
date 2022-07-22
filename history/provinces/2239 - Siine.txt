@@ -1,8 +1,8 @@
 # No previous file for Siine
 
-owner = JOL
-controller = JOL
-add_core = JOL
+owner = MAL
+controller = MAL
+add_core = MAL
 is_city = yes
 culture = senegambian 
 religion = shamanism #Fetishism
@@ -19,6 +19,4 @@ base_manpower = 1
 
 
 discovered_by = sub_saharan
-
-1446.1.1 = { discovered_by = POR } # Frenão do Pó
 

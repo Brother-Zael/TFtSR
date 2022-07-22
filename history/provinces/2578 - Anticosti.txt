@@ -1,5 +1,9 @@
 # No previous file for Anticosti
 
+
+owner = VIN
+controller = VIN
+add_core = VIN
 culture = innu
 religion = totemism
 capital = "Anticosti"
@@ -11,11 +15,10 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 2
-tribal_owner = INN
+
 
 
 discovered_by = north_american
 
 
 
-1707.5.12 = { discovered_by = GBR }

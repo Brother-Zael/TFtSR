@@ -1,8 +1,8 @@
 # No previous file for Aribanda
 
-owner = SON
-controller = SON
-add_core = SON
+owner = TMB
+controller = TMB
+add_core = TMB
 is_city = yes
 culture = songhai 
 religion = sunni

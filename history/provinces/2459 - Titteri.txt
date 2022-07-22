@@ -1,7 +1,7 @@
 # - Titteri
 
-owner = TLC
-controller = TLC
+owner = CAE
+controller = CAE
 culture = algerian
 religion = sunni
 capital = "Medea"
@@ -11,8 +11,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = TLC
-add_core = ALG
+add_core = CAE
+add_core = CAE
 
 
 
@@ -21,8 +21,3 @@ discovered_by = ottoman
 discovered_by = western
 
 
-1517.1.1 = {
-	owner = ALG
-	controller = ALG
-	remove_core = TLC
-}

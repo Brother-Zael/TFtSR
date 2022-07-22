@@ -1,5 +1,8 @@
 #632 - Sumbawa
 
+owner = LBK
+controller = LBK 
+add_core = LBK
 culture = nusa_tenggara
 religion = animism
 capital = "Sumbawa"
@@ -15,6 +18,4 @@ native_hostileness = 5
 
 
 discovered_by = chinese
-
-1512.1.1 = { discovered_by = POR }
 

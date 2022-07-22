@@ -99,7 +99,7 @@
 			1958 313 1776 1777 4258 
 		}
 		}
-		name="Ladoga LAD"  -  here
+		name="Ladoga LAD"
 		owned_provinces={
 			1961 309 2749 4261 312 4259 
 		}
@@ -712,7 +712,7 @@
 			1149 1155 2281 2280 1161 
 		}
 		}
-		name="Yola Yol"
+		name="Yola YOL"
 		owned_provinces={
 			1249 2285 
 		}

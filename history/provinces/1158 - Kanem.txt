@@ -1,9 +1,9 @@
 #1158 - Kanem
 
-owner = YAO
-controller = YAO
-add_core = YAO
-add_core = KBO
+owner = KNB
+controller = KNB
+add_core = KNB
+add_core = KNB
 culture = kanuri
 religion = sunni
 capital = "Ngala"
@@ -18,7 +18,3 @@ extra_cost = 8
 center_of_trade = 1
 
 
-1505.1.1 = { owner = KBO controller = KBO add_core = KBO } #Idris Katakarmabe retakes Kanem
-1622.1.1 = { capital = "Mao" } #Reorganization of provincial governance shifts center of power
-1751.1.1 = { unrest = 8 } #Wadai raiders gravely disrupt local communities
-1804.1.1 = { discovered_by = SOK }

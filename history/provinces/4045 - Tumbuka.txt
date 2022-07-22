@@ -1,8 +1,8 @@
 #Tumbuka
 
-owner = TBK
-controller = TBK
-add_core = TBK
+owner = ZIM
+controller = ZIM
+add_core = ZIM
 culture = nyasa
 religion = shamanism #Fetishism
 capital = "Kasungu"

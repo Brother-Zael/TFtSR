@@ -1,9 +1,9 @@
 # No previous file for Kotoko
 
-owner = YAO
-controller = YAO
-add_core = YAO
-add_core = KBO
+owner = KNB
+controller = KNB
+add_core = KNB
+add_core = KNB
 culture = kanuri 
 religion = sunni
 capital = "Kotoko"
@@ -19,8 +19,3 @@ base_manpower = 1
 discovered_by = sub_saharan
 
 
-1505.1.1 = {
-	owner = KBO 
-	controller = KBO
-	add_core = KBO 
-} #Idris Katakarmabe retakes Kanem

@@ -1,5 +1,8 @@
 #2679 - Belitung
 
+owner = GPC
+controller = GPC
+add_core = GPC
 culture = sumatran
 religion = hinduism
 capital = "Belitung"
@@ -19,13 +22,3 @@ discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1405.1.1 = { discovered_by = MNG }
-1509.1.1 = { discovered_by = POR }
-
-1812.1.1 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	is_city = yes
-	trade_goods = fish
-}

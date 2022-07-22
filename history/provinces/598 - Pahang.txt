@@ -1,7 +1,7 @@
 #598 - Pahang
 
-owner = PAH
-controller = PAH
+owner = PHG
+controller = PHG
 culture = malayan
 religion = sunni
 capital = "Pahang"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = PAH
+add_core = PHG
 
 
 
@@ -20,9 +20,3 @@ discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1516.1.1 = { discovered_by = POR }
-
-1528.1.1 = {
-	owner = JOH
-	controller = JOH
-}

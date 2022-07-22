@@ -1,8 +1,8 @@
 # 2271 - Azawagh
 
-owner = SON
-controller = SON
-add_core = SON
+owner = TMB
+controller = TMB
+add_core = TMB
 is_city = yes
 culture = tuareg 
 religion = sunni
@@ -18,8 +18,3 @@ base_manpower = 1
 discovered_by = sub_saharan
 
 
-1591.3.15 = {
-	owner = AIR
-	controller = AIR
-	add_core = AIR
-} # Songahi defeat at Tondibi leaves Tuareg free

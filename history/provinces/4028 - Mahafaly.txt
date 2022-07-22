@@ -1,8 +1,8 @@
 #4028 - Mahafaly
 
-owner = MFY
-controller = MFY
-add_core = MFY
+owner = MHF
+controller = MHF
+add_core = MHF
 culture = madagasque
 religion = shamanism #Fetishism
 capital = "Mahafaly"
@@ -14,4 +14,3 @@ base_manpower = 2
 is_city = yes
 discovered_by = east_african
 
-1500.8.20 = { discovered_by = POR } #Diego Dias

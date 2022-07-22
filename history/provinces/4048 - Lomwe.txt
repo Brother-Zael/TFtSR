@@ -1,8 +1,8 @@
 #Lomwe
 
-owner = MRA
-controller = MRA
-add_core = MRA
+owner = KIL
+controller = KIL
+add_core = KIL
 culture = makua
 religion = shamanism #Fetishism
 capital = "Lomwe"
@@ -16,9 +16,3 @@ add_local_autonomy = 40
 discovered_by = central_african
 
 
-1572.1.1 = { discovered_by = POR } #Start of Portuguese Interaction with the Maravis north of the Zambezi
-1735.1.1 = {
-	owner = MKU
-	controller = MKU
-	add_core = MKU
-}
