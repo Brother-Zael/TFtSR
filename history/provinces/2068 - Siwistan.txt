@@ -1,7 +1,7 @@
 #2068 - Siwistan
 
-owner = BAL
-controller = BAL
+owner = BHA
+controller = BHA
 culture = baluchi
 religion = sunni
 capital = "Siwi"
@@ -11,8 +11,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = BAL
-add_core = SND
+add_core = BHA
+add_core = BHA
 
 
 

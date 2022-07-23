@@ -1,7 +1,7 @@
 #4172 - Jawf
 
-owner = ANZ
-controller = ANZ
+owner = UMY
+controller = UMY
 culture = bedouin_arabic
 religion = sunni
 capital = "Karah"
@@ -11,8 +11,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 is_city = yes
-add_core = ANZ
-add_core = FAD
+add_core = UMY
+add_core = UMY
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

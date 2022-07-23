@@ -1,7 +1,7 @@
 #576 - Kalat
 
-owner = BAL
-controller = BAL
+owner = KSH
+controller = KSH
 culture = baluchi
 religion = sunni
 capital = "Kalat"
@@ -12,7 +12,7 @@ base_production = 3
 base_manpower = 4
 is_city = yes
 fort_15th = yes
-add_core = BAL
+add_core = KSH
 
 
 

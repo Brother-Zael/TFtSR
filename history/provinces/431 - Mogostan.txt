@@ -1,7 +1,7 @@
 #431 - Mogostan
 
-owner = TIM
-controller = TIM
+owner = KSH
+controller = KSH
 culture = gulf_arabic
 religion = shiite
 capital = "Gamrun"
@@ -11,8 +11,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 1
 is_city = yes
-add_core = ORM
-add_core = TIM
+add_core = KSH
+add_core = KSH
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

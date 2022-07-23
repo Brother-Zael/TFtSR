@@ -1,9 +1,9 @@
 #4515 - Gyirong
 
-owner = UTS
-controller = UTS
-add_core = UTS
-add_core = PHA
+owner = TIB
+controller = TIB
+add_core = TIB
+add_core = TIB
 culture = tibetan
 religion = vajrayana
 capital = "Gyirong"

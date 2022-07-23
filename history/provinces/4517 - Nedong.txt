@@ -1,8 +1,8 @@
 #4517 - Nedong
 
-owner = PHA
-controller = PHA
-add_core = PHA
+owner = TIB
+controller = TIB
+add_core = TIB
 culture = tibetan
 religion = vajrayana
 capital = "Nedong"

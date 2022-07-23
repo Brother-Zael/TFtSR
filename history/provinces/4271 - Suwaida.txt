@@ -1,7 +1,7 @@
 #4271 - Suwaida
 
-owner = FAD
-controller = FAD
+owner = UMY
+controller = UMY
 culture = bedouin_arabic
 religion = shiite
 capital = "As-Suwayda"
@@ -11,8 +11,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = FAD
-add_core = SYR
+add_core = UMY
+add_core = UMY
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

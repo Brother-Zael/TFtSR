@@ -1,7 +1,7 @@
 #4331 - Kazerun
 
-owner = FRS
-controller = FRS
+owner = KZR
+controller = KZR
 culture = luri
 religion = sunni
 capital = "Kazerun"
@@ -11,8 +11,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = FRS
-add_core = TIM
+add_core = KZR
+add_core = KZR
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

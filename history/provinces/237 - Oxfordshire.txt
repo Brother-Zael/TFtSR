@@ -1,9 +1,9 @@
 #237 - Oxfordshire
 #Oxfordshire+Bukinghamshire+Berkshire
 
-owner = ANG
-controller = ANG
-add_core = ANG
+owner = ANI
+controller = ANI
+add_core = ANI
 culture = english
 religion = catholic
 hre = no

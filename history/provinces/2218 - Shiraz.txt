@@ -1,7 +1,7 @@
 #2218 - Shiraz
 
-owner = FRS
-controller = FRS
+owner = SHR
+controller = SHR
 culture = persian
 religion = sunni
 capital = "Shiraz"
@@ -11,8 +11,8 @@ base_tax = 5
 base_production = 5
 base_manpower = 4
 is_city = yes
-add_core = FRS
-add_core = TIM
+add_core = SHR
+add_core = SHR
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
