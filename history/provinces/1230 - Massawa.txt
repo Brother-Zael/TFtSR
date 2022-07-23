@@ -1,8 +1,8 @@
 #1230 - Massawa
 
-owner = MED
-controller = MED
-add_core = MED
+owner = ABY
+controller = ABY
+add_core = ABY
 culture = tigray 
 religion = coptic
 capital = "Mitsiwa"

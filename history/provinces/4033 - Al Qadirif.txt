@@ -1,8 +1,8 @@
 #1225 - Butana
 
-owner = ALO
-controller = ALO
-add_core = ALO
+owner = SEM
+controller = SEM
+add_core = SEM
 culture = nubian 
 religion = sunni
 capital = "Al-Qadarif"

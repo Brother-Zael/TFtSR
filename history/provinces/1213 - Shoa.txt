@@ -1,8 +1,8 @@
 #1213 - Shoa
 
-owner = ETH
-controller = ETH
-add_core = ETH
+owner = GON
+controller = GON
+add_core = GON
 culture = amhara 
 religion = sunni
 capital = "Badeqe"
@@ -14,7 +14,7 @@ fort_15th = yes
 base_tax = 3
 base_production = 3
 add_local_autonomy = 10
-add_core = SOA
+add_core = GON
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

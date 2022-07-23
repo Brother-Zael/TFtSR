@@ -1,8 +1,8 @@
 #1223 - Gojjam
 
-owner = ETH
-controller = ETH
-add_core = ETH
+owner = GON
+controller = GON
+add_core = GON
 culture = amhara 
 religion = coptic
 capital = "Debre Asbo"

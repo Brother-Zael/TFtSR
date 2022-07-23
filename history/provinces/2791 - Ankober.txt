@@ -1,9 +1,9 @@
 #2791 - Ankober
 
-owner = ETH
-controller = ETH
-add_core = ETH
-add_core = SOA
+owner = GON
+controller = GON
+add_core = GON
+add_core = GON
 culture = amhara 
 religion = sunni
 capital = "Ankober"

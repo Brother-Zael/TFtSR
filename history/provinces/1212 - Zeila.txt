@@ -1,8 +1,8 @@
 #1212 - Zeila
 
-owner = ADA
-controller = ADA
-add_core = ADA
+owner = ZEI
+controller = ZEI
+add_core = ZEI
 culture = somali # issa
 religion = sunni
 capital = "Zayla"

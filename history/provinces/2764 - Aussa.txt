@@ -1,9 +1,9 @@
 #2764 - Aussa
 
-owner = ADA
-controller = ADA
-add_core = ADA
-add_core = AFA
+owner = ZEI
+controller = ZEI
+add_core = ZEI
+add_core = ZEI
 culture = afar
 religion = sunni
 capital = "Aussa"

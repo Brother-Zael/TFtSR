@@ -1,9 +1,9 @@
 #2771 - Semien
 
-owner = ETH
-controller = ETH
-add_core = ETH
-add_core = BTI
+owner = SEM
+controller = SEM
+add_core = SEM
+add_core = SEM
 culture = amhara 
 religion = jewish
 capital = "Dabareq"

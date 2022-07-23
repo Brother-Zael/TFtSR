@@ -1,8 +1,8 @@
 #2789 - Las Khorey
 
-owner = WAR
-controller = WAR
-add_core = WAR
+owner = BER
+controller = BER
+add_core = BER
 culture = somali
 religion = sunni
 capital = "Las Khorey"

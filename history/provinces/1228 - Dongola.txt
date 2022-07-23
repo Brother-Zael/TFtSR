@@ -3,9 +3,9 @@
 culture = nubian 
 religion = shiite
 capital = "Dunqula"
-owner = ABB
-controller = ABB
-add_core = ABB
+owner = MAK
+controller = MAK
+add_core = MAK
 add_core = MAK
 is_city = yes
 trade_goods = grain

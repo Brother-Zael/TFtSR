@@ -1,8 +1,8 @@
 #2759 - Gambela
 
-owner = KAF
-controller = KAF
-add_core = KAF
+owner = NER
+controller = NER
+add_core = NER
 culture = sidamo 
 religion = shamanism #Fetishism
 capital = "Gambela"

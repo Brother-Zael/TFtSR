@@ -1,8 +1,8 @@
 #1218 - Sidamo
 
-owner = WLY
-controller = WLY
-add_core = WLY
+owner = ORO
+controller = ORO
+add_core = ORO
 culture = sidamo 
 religion = shamanism
 capital = "Irgalem"

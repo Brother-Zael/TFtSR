@@ -1,8 +1,8 @@
 #2763 - Asosa
 
-owner = DAM
-controller = DAM
-add_core = DAM
+owner = GON
+controller = GON
+add_core = GON
 culture = amhara 
 religion = coptic
 capital = "Assosa"

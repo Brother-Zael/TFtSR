@@ -1,9 +1,9 @@
 #2797 - Shendy
 
-owner = ABB
-controller = ABB
-add_core = ABB
-add_core = ALO
+owner = BEJ
+controller = BEJ
+add_core = BEJ
+add_core = BEJ
 culture = nubian
 religion = sunni
 capital = "Shendy"

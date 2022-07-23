@@ -1,8 +1,8 @@
 #2793 - Hargeisa
 
-owner = ADA
-controller = ADA
-add_core = ADA
+owner = ZEI
+controller = ZEI
+add_core = ZEI
 culture = somali
 religion = sunni
 capital = "Hargeisa"

@@ -1,9 +1,9 @@
 #1225 - Butana
 
-owner = ALO
-controller = ALO
-add_core = ALO
-add_core = ABB
+owner = BEJ
+controller = BEJ
+add_core = BEJ
+add_core = BEJ
 culture = nubian 
 religion = sunni
 capital = "Qarri"

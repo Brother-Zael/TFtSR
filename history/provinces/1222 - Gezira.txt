@@ -1,8 +1,8 @@
 #1222 - Gezira
 
-owner = ALO
-controller = ALO
-add_core = ALO
+owner = DAR
+controller = DAR
+add_core = DAR
 culture = nubian
 religion = coptic
 capital = "Wad Madani"

@@ -1,8 +1,8 @@
 #2768 - Ashenge
 
-owner = ETH
-controller = ETH
-add_core = ETH
+owner = ABY
+controller = ABY
+add_core = ABY
 culture = afar
 religion = sunni
 capital = "Manadeley"

@@ -1,7 +1,7 @@
 #355 - Sirt
 
-owner = FZA
-controller = FZA
+owner = BGZ
+controller = BGZ
 culture = tunisian
 religion = sunni
 capital = "Ben Jawad"
@@ -11,8 +11,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = FZA
-add_core = TRP
+add_core = BGZ
+add_core = BGZ
 add_local_autonomy = 25
 
 

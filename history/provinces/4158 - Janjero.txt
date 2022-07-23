@@ -1,8 +1,8 @@
 #4158 - Janjero
 
-owner = JJI
-controller = JJI
-add_core = JJI
+owner = GON
+controller = GON
+add_core = GON
 culture = sidamo
 religion = shamanism
 capital = "Fofa"

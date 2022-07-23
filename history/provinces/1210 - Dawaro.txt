@@ -1,8 +1,8 @@
 #1210 - Dawaro
 
-owner = ETH
-controller = ETH
-add_core = ETH
+owner = ORO
+controller = ORO
+add_core = ORO
 culture = harari 
 religion = sunni
 capital = "Gende Belo"
