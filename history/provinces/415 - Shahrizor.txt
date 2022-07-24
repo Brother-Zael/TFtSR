@@ -1,7 +1,7 @@
 #415 - Sharazor
 
-owner = TIM
-controller = TIM
+owner = KRK
+controller = KRK
 culture = kurdish
 religion = sunni
 capital = "Kirkuk"
@@ -11,10 +11,10 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = IRQ
-add_core = TIM
-add_core = BHT
-add_core = ARD
+add_core = KRK
+add_core = KRK
+add_core = KRK
+add_core = KRK
 
 
 discovered_by = east_african

@@ -1,5 +1,9 @@
 #1925 - Taveta
 
+
+owner = EWA
+controller = EWA
+add_core = EWA
 culture = bantu #thagiicu
 religion = shamanism #Fetishism
 trade_goods = unknown

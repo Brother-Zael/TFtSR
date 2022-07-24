@@ -1,8 +1,8 @@
 #692 - Handan
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = WSP
+controller = WSP
+add_core = WSP
 culture = jin
 religion = confucianism
 capital = "Huaiqing"
@@ -12,7 +12,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = JIN
+add_core = WSP
 
 
 

@@ -1,8 +1,8 @@
 # 2160 - Ngaichow
 
-owner = GPC
-controller = GPC
-add_core = GPC
+owner = NMY
+controller = NMY
+add_core = NMY
 culture = chimin
 religion = confucianism
 capital = "Ngaichow"

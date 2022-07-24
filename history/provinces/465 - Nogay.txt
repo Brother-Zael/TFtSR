@@ -1,7 +1,7 @@
 #465 - Nogay
 
-owner = KIP
-controller = KIP
+owner = TRN
+controller = TRN
 culture = nogaybak
 religion = sunni
 capital = "Saraychik"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = KIP
+add_core = TRN
 
 
 
