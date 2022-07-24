@@ -1,0 +1,53 @@
+		name="Kenai NOTAG" # Chinese explorer tag
+		owned_provinces={
+			978 2611 979 
+		}
+
+		name="Mali Colony NOTAG"
+		owned_provinces={
+			2912 2921 756 755 
+		}
+		name="Cahokia NOTAG"
+		owned_provinces={
+			917 
+		}
+		name="Perak NOTAG"
+		owned_provinces={
+			595 2392 
+		}
+		name="Assam NOTAG"
+		owned_provinces={
+			566 571 4440 2040 2041 570 573 
+		}
+		name="Purang NOTAG"
+		owned_provinces={
+			4516 2128 4520 
+		}
+		name="Terek NOTAG"
+		owned_provinces={
+			2208 
+		}
+		name="Hadiya NOTAG"
+		owned_provinces={
+			2760 2761 
+		}
+		name="Alania NOTAG"
+		owned_provinces={
+			2201 
+		}
+		name="Wuding NOTAG"
+		owned_provinces={
+			2138 691 690 2139 2113 
+		}
+		name="Mino temples NOTAG"
+		owned_provinces={
+			1835 1843 1026 
+		}
+		name="Tachienlu NOTAG"
+		owned_provinces={
+			678 2132 2131 
+		}
+		name="Ryukyu NOTAG"
+		owned_provinces={
+			1015 
+		}
