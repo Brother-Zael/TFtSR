@@ -1,7 +1,7 @@
 
-owner = KHA
-controller = KHA
-add_core = KHA 
+owner = MNG
+controller = MNG
+add_core = MNG 
 culture = mongol
 religion = vajrayana
 capital = "Urad"

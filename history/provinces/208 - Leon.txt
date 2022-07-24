@@ -1,9 +1,9 @@
 #208 - León
 
-owner = CAS		#Juan II of Castille
-controller = CAS
-add_core = CAS
-add_core = LON
+owner = AUS		#Juan II of Castille
+controller = AUS
+add_core = AUS
+add_core = AUS
 culture = leonese
 religion = catholic
 hre = no

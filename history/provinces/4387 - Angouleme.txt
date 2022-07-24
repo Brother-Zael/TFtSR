@@ -1,7 +1,7 @@
 # 4387 Angoulême
 
-owner = FRA
-controller = FRA
+owner = GLG
+controller = GLG
 capital = "Angoulême"
 is_city = yes
 culture = cosmopolitan_french

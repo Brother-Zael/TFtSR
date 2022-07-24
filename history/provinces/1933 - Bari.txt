@@ -1,7 +1,7 @@
 #1933 - Bari
 
-owner = NAP
-controller = NAP
+owner = ARI
+controller = ARI
 culture = neapolitan 
 religion = catholic 
 hre = no 
@@ -11,7 +11,7 @@ trade_goods = wine
 base_manpower = 2
 capital = "Bari"
 is_city = yes # Estimated 
-add_core = NAP
+add_core = ARI
 
 
 

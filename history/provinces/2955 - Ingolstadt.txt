@@ -1,8 +1,8 @@
 # - Ingolstadt + Neuburg
 
-owner = ING
-controller = ING
-add_core = ING
+owner = NRS
+controller = NRS
+add_core = NRS
 culture = bavarian
 religion = catholic
 base_tax = 5 

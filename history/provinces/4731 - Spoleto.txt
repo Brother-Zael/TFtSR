@@ -1,7 +1,7 @@
 # 4731 - Spoleto
 
-owner = PAP
-controller = PAP
+owner = SPL
+controller = SPL
 culture = umbrian 
 religion = catholic 
 hre = no
@@ -12,7 +12,7 @@ base_manpower = 1
 capital = "Spoleto" 
 is_city = yes
 add_core = SPL
-add_core = PAP
+add_core = SPL
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

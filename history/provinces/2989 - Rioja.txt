@@ -1,8 +1,8 @@
 # - Rioja
 
-owner = CAS		#Juan II of Castille
-controller = CAS
-add_core = CAS
+owner = HLG		#Juan II of Castille
+controller = HLG
+add_core = HLG
 culture = castillian
 religion = catholic
 hre = no

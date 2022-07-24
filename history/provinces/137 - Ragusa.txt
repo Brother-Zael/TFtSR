@@ -1,7 +1,7 @@
 #137 - Ragusa
 
-owner = RAG
-controller = RAG
+owner = VEN
+controller = VEN
 culture = dalmatian
 religion = catholic
 capital = "Ragusa"
@@ -11,8 +11,8 @@ base_tax = 5
 base_production = 6
 base_manpower = 3
 is_city = yes
-add_core = RAG
-add_core = DAL
+add_core = VEN
+add_core = VEN
 
 
 

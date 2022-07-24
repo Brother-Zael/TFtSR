@@ -1,8 +1,8 @@
 # 2110 - Yehe
 
-owner = MHX
-controller = MHX
-add_core = MHX
+owner = YNG
+controller = YNG
+add_core = YNG
 culture = manchu
 religion = confucianism
 capital = "Yehe"

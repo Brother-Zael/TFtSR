@@ -1,6 +1,6 @@
-owner = SOL
-controller = SOL
-add_core = SOL
+owner = HOI
+controller = HOI
+add_core = HOI
 culture = evenk
 religion = tengri_pagan_reformed
 capital = "Oroqen"

@@ -1,5 +1,5 @@
-owner = BAD
-controller = BAD
+owner = GRP
+controller = GRP
 capital = "Durlach"
 is_city = yes
 culture = swabian
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 trade_goods = wine
-add_core = BAD
+add_core = GRP
 
 discovered_by = eastern
 discovered_by = western

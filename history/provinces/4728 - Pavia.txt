@@ -1,7 +1,7 @@
 # 4728 - Pavia
 
-owner = MLO
-controller = MLO
+owner = EMP
+controller = EMP
 culture = lombard
 religion = catholic
 hre = yes
@@ -11,7 +11,7 @@ trade_goods = grain
 base_manpower = 5
 capital = "Pavia"
 is_city = yes	# Estimated
-add_core = MLO
+add_core = EMP
 
 
 

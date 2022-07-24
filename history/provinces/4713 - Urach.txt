@@ -1,5 +1,5 @@
-owner = WUR
-controller = WUR
+owner = RTS
+controller = RTS
 capital = "Reutlingen"
 is_city = yes
 culture = swabian
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 trade_goods = grain
-add_core = WUR
+add_core = RTS
 
 discovered_by = eastern
 discovered_by = western

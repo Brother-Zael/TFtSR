@@ -1,8 +1,8 @@
 #4209 - Maralbexi
 
-owner = KAS
-controller = KAS
-add_core = KAS
+owner = KKR
+controller = KKR
+add_core = KKR
 culture = uyghur
 religion = sunni
 capital = "Maralbexi"

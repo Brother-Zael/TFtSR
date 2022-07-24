@@ -1,8 +1,8 @@
 # 2154 - Kelang
 
-owner = TGW		
-controller = TGW
-add_core = TGW
+owner = CWU		
+controller = CWU
+add_core = CWU
 culture = polynesian
 religion = animism
 capital = "Kelang"

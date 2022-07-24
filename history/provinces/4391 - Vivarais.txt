@@ -1,7 +1,7 @@
 # 4391 Vivarais
 
-owner = FRA
-controller = FRA
+owner = TOL
+controller = TOL
 capital = "Viviers"
 is_city = yes
 culture = occitain
@@ -11,8 +11,8 @@ base_tax = 4
 base_production = 4
 trade_goods = wine
 base_manpower = 2
-add_core = FRA
-add_core = TOU
+add_core = TOL
+add_core = TOL
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

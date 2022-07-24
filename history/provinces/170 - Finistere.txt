@@ -1,8 +1,8 @@
 # 170 Finistère - Principal cities: Brest
 
-owner = NRM
-controller = NRM
-add_core = NRM
+owner = BRI
+controller = BRI
+add_core = BRI
 capital = "Brest"
 is_city = yes
 culture = breton

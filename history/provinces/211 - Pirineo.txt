@@ -1,8 +1,8 @@
 #211 - Pirineo
 
-owner = ARA		#Alfons V of Aragon
-controller = ARA
-add_core = ARA
+owner = HLG		#Alfons V of Aragon
+controller = HLG
+add_core = HLG
 culture = aragonese
 religion = catholic
 hre = no

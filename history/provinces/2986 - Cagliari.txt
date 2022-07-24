@@ -4,8 +4,8 @@ latent_trade_goods = {
 	coal
 }
 
-owner = SAR
-controller = SAR
+owner = PRA
+controller = PRA
 culture = sardinian 
 religion = catholic 
 hre = no 
@@ -15,7 +15,7 @@ trade_goods = copper
 base_manpower = 1
 capital = "Cagliari" 
 is_city = yes # Estimated 
-add_core = SAR
+add_core = PRA
 
 
 

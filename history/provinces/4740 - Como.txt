@@ -1,7 +1,7 @@
 #4740 - Como
 
-owner = MLO
-controller = MLO
+owner = EMP
+controller = EMP
 culture = lombard
 religion = catholic
 hre = yes

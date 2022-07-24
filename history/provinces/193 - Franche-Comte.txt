@@ -1,7 +1,7 @@
 # 193 Franche-Comté - Principal cities: Besançon
 
-owner = BUR
-controller = BUR 
+owner = CAB
+controller = CAB 
 capital = "Besançon"
 is_city = yes
 culture = burgundian
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 4
 trade_goods = salt
 base_manpower = 3
-add_core = BUR
+add_core = CAB
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

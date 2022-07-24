@@ -1,9 +1,9 @@
 # 2173 - Yuanling
 
-owner = MNG
-controller = MNG
-add_core = MNG
-add_core = CMI
+owner = YLG
+controller = YLG
+add_core = YLG
+add_core = YLG
 culture = miao
 religion = animism
 capital = "Yuanling"
@@ -13,7 +13,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = CHC
+add_core = YLG
 
 
 

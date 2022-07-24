@@ -1,8 +1,8 @@
 #Calatuyud
 
-owner = ARA		# Alfons V of Aragon
-controller = ARA
-add_core = ARA
+owner = CAU		# Alfons V of Aragon
+controller = CAU
+add_core = CAU
 culture = aragonese
 religion = catholic
 hre = no

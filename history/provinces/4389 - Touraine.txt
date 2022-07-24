@@ -1,7 +1,7 @@
 # 0 Touraine - Principal cities: Tours
 
-owner = FRA
-controller = FRA
+owner = SUI
+controller = SUI
 capital = "Tours"
 is_city = yes
 culture = cosmopolitan_french
@@ -12,8 +12,8 @@ base_production = 4
 trade_goods = cloth
 base_manpower = 3
 add_local_autonomy = 10
-add_core = ORL
-add_core = FRA
+add_core = SUI
+add_core = SUI
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

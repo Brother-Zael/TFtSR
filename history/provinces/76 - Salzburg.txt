@@ -1,7 +1,7 @@
 #76 - Salzburg
 
-owner = SLZ
-controller = SLZ 
+owner = NRI
+controller = NRI 
 culture = bavarian
 religion = catholic
 capital = "Salzburg"
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 4
 is_city = yes
-add_core = SLZ
+add_core = NRI
 center_of_trade = 1
 
 

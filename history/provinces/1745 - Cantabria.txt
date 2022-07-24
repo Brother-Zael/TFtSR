@@ -1,9 +1,9 @@
 #1745 - Cantabria
 
-owner = CAS		#Enrique III of Castille
-controller = CAS
-add_core = CAS
-add_core = ASU
+owner = CNT		#Enrique III of Castille
+controller = CNT
+add_core = CNT
+add_core = CNT
 culture = castillian
 religion = catholic
 hre = no

@@ -1,7 +1,7 @@
 #232 - Bragança
 
-owner = POR
-controller = POR
+owner = CTC
+controller = CTC
 culture = portugese
 religion = catholic
 capital = "Bragança"
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 is_city = yes
-add_core = POR
+add_core = CTC
 
 
 

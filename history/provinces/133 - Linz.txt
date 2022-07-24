@@ -1,8 +1,8 @@
 #133 - Linz
 
-owner = HAB
-controller = HAB
-add_core = HAB
+owner = RGM
+controller = RGM
+add_core = RGM
 culture = austrian
 religion = catholic
 base_tax = 4

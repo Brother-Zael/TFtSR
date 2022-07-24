@@ -4,14 +4,14 @@ capital = "Heidelberg"
 culture = hessian
 religion = catholic
 trade_goods = wine
-owner = PAL
+owner = GRP
 base_tax = 5
 base_production = 4
 base_manpower = 4
 fort_15th = yes
 is_city = yes
-controller = PAL
-add_core = PAL
+controller = GRP
+add_core = GRP
 hre = yes
 
 

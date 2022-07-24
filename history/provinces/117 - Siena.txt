@@ -1,7 +1,7 @@
 #117 - Siena
 
-owner = SIE
-controller = SIE
+owner = PAP
+controller = PAP
 culture = tuscan 
 religion = catholic 
 hre = yes 
@@ -11,7 +11,7 @@ trade_goods = glass
 base_manpower = 4    
 capital = "Siena" 
 is_city = yes 
-add_core = SIE
+add_core = PAP
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

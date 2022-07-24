@@ -1,8 +1,8 @@
 # Tulutingshan
 
-owner = SOL
-controller = SOL
-add_core = SOL
+owner = DKD
+controller = DKD
+add_core = DKD
 #culture = manchu
 culture = evenk
 religion = tengri_pagan_reformed

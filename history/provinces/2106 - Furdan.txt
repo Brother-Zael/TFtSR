@@ -1,8 +1,8 @@
 # 2106 - Furdan
 
-owner = MJZ
-controller = MJZ
-add_core = MJZ
+owner = WAN
+controller = WAN
+add_core = WAN
 culture = manchu
 religion = tengri_pagan_reformed
 capital = "Furdan"

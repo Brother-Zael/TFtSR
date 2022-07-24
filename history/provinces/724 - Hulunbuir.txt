@@ -1,8 +1,8 @@
 #724 - Hulunbuir
 
-owner = KHA
-controller = KHA
-add_core = KHA
+owner = HOI
+controller = HOI
+add_core = HOI
 culture = buryat
 religion = tengri_pagan_reformed
 capital = "Hulunbuir"

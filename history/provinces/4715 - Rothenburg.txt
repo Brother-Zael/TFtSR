@@ -1,5 +1,5 @@
-owner = ROT
-controller = ROT
+owner = GRP
+controller = GRP
 capital = "Rothenburg ob der Tauber"
 is_city = yes
 culture = franconian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 5
 base_manpower = 1
 trade_goods = grain
-add_core = ROT
+add_core = GRP
 
 discovered_by = eastern
 discovered_by = western

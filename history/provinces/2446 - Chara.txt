@@ -1,5 +1,8 @@
 #2446 - Chara
 
+owner = CIY
+controller = CIY
+add_core = CIY
 culture = buryat
 religion = tengri_pagan_reformed
 capital = "Chara"

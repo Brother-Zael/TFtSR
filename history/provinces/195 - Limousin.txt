@@ -1,7 +1,7 @@
 # 195 Limousin - Principal cities: Limoges
 
-owner = FRA
-controller = FRA
+owner = GNB
+controller = GNB
 capital = "Limoges"
 is_city = yes
 culture = gascon
@@ -11,8 +11,8 @@ base_tax = 3
 base_production = 3
 trade_goods = livestock
 base_manpower = 2
-add_core = FRA
-add_core = GUY
+add_core = GNB
+add_core = GNB
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

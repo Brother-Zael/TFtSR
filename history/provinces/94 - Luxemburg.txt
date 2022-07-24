@@ -1,8 +1,8 @@
 # 94 Luxembourg - Principal cities: Luxembourg
 
-owner = BUR
-controller = BUR
-add_core = BUR 
+owner = DOR
+controller = DOR
+add_core = DOR 
 capital = "Luxemburg"
 is_city = yes
 culture = wallonian
@@ -12,7 +12,7 @@ base_tax = 5
 base_production = 5
 trade_goods = iron
 base_manpower = 2
-add_core = LUX
+add_core = DOR
 fort_15th = yes
 
 

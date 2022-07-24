@@ -1,8 +1,8 @@
 # 2177 - Ningwu
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = PWM
+controller = PWM
+add_core = PWM
 culture = jin
 religion = confucianism
 capital = "Ningwu"
@@ -12,7 +12,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 is_city = yes
-add_core = JIN
+add_core = PWM
 #fort_15th = yes #the Nine Garrisons
 discovered_by = chinese
 discovered_by = nomad_group

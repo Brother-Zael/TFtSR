@@ -1,9 +1,9 @@
 #1750 - Castellon
 
-owner = ARA		#Martí I of Aragon
-controller = ARA
-add_core = ARA
-add_core = VAL
+owner = TAR		#Martí I of Aragon
+controller = TAR
+add_core = TAR
+add_core = TAR
 culture = catalan
 religion = catholic
 hre = no

@@ -1,7 +1,7 @@
 #113 - Ferrara
 
-owner = FER
-controller = FER
+owner = BOF
+controller = BOF
 culture = romagnan 
 religion = catholic 
 hre = yes 
@@ -12,7 +12,7 @@ base_manpower = 2
 capital = "Ferrara" 
 is_city = yes
 fort_15th = yes
-add_core = FER
+add_core = BOF
 
 
 

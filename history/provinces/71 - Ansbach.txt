@@ -1,8 +1,8 @@
 # 71 - Ansbach
 
-owner = ANS
-controller = ANS
-add_core = ANS
+owner = RTS
+controller = RTS
+add_core = RTS
 culture = franconian
 religion = catholic
 hre = yes

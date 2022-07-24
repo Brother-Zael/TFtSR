@@ -1,8 +1,8 @@
 # 2104 - Birija
 
-owner = MYR
-controller = MYR
-add_core = MYR
+owner = ULA
+controller = ULA
+add_core = ULA
 culture = manchu
 religion = tengri_pagan_reformed
 capital = "Niuman"

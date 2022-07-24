@@ -1,9 +1,9 @@
 #Minorca
 
-owner = ARA		# Alfons V of Aragon
-controller = ARA
-add_core = ARA
-add_core = MJO
+owner = MLG		# Alfons V of Aragon
+controller = MLG
+add_core = MLG
+add_core = MLG
 culture = catalan
 religion = catholic
 hre = no

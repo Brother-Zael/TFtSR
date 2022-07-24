@@ -1,8 +1,8 @@
 #2755 - Soria
 
-owner = CAS		#Juan II of Castille
-controller = CAS
-add_core = CAS
+owner = SEG		#Juan II of Castille
+controller = SEG
+add_core = SEG
 culture = castillian
 religion = catholic
 hre = no

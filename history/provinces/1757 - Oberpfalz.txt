@@ -1,8 +1,8 @@
 #1757 - Oberpfalz
 
-owner = PAL
-controller = PAL
-add_core = PAL
+owner = RGM
+controller = RGM
+add_core = RGM
 culture = bavarian
 religion = catholic
 base_tax = 3

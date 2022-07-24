@@ -1,6 +1,6 @@
 #1774 - Treviso
-owner = VEN
-controller = VEN
+owner = PAP
+controller = PAP
 culture = venetian 
 religion = catholic 
 hre = no

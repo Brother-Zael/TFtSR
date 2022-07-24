@@ -1,8 +1,8 @@
 #109 - Mantua
  
-owner = MAN
-controller = MAN
-add_core = MAN
+owner = EMP
+controller = EMP
+add_core = EMP
 culture = romagnan 
 religion = catholic 
 hre = yes 

@@ -1,9 +1,9 @@
 #673 - Bozhou
 
-owner = MNG
-controller = MNG
-add_core = MNG
-add_core = CMI
+owner = LIU
+controller = LIU
+add_core = LIU
+add_core = LIU
 culture = miao
 religion = animism
 capital = "Zhenyuan"

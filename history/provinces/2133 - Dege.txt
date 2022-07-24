@@ -1,8 +1,8 @@
 # 2133 - Dege
 
-owner = KAM
-controller = KAM
-add_core = KAM
+owner = DEG
+controller = DEG
+add_core = DEG
 culture = tibetan
 religion = vajrayana
 capital = "Dege"

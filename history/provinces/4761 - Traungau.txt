@@ -1,9 +1,9 @@
 #4761 - Traungau
 
-owner = HAB
-controller = HAB
-add_core = HAB
-add_core = STY
+owner = RGM
+controller = RGM
+add_core = RGM
+add_core = RGM
 culture = austrian
 religion = catholic
 base_tax = 2

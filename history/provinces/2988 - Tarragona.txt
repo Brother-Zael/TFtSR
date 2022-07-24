@@ -1,9 +1,9 @@
 # - Tarragona
 
-owner = TSL	#Alfons V of Aragon
-controller = TSL
-add_core = TSL
-add_core = TSL
+owner = TAR	#Alfons V of Aragon
+controller = TAR
+add_core = TAR
+add_core = TAR
 culture = catalan
 religion = catholic
 hre = no

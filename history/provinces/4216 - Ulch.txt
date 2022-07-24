@@ -1,8 +1,8 @@
 #4216 - Ulch
 
-owner = NHX
-controller = NHX
-add_core = NHX
+owner = ULT
+controller = ULT
+add_core = ULT
 culture = manchu
 religion = tengri_pagan_reformed
 capital = "Ulch"

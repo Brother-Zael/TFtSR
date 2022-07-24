@@ -1,8 +1,8 @@
 #706 - Amdo
 
-owner = SYG
-controller = SYG
-add_core = SYG
+owner = KAM
+controller = KAM
+add_core = KAM
 culture = oirats
 religion = vajrayana
 capital = "Tsaidam"

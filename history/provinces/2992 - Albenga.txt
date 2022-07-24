@@ -1,8 +1,8 @@
 # - Albenga
 
-owner = GEN
-controller = GEN
-add_core = GEN
+owner = EMP
+controller = EMP
+add_core = EMP
 culture = ligurian
 religion = catholic
 hre = yes

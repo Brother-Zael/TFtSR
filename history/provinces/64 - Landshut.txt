@@ -1,8 +1,8 @@
 #64 - Landshut
 
-owner = LBV
-controller = LBV
-add_core = LBV
+owner = NRI
+controller = NRI
+add_core = NRI
 culture = bavarian
 religion = catholic
 base_tax = 5

@@ -1,8 +1,8 @@
 #4760 - Innbaiern
 
-owner = LBV
-controller = LBV
-add_core = LBV
+owner = RGM
+controller = RGM
+add_core = RGM
 culture = bavarian
 religion = catholic
 base_tax = 3

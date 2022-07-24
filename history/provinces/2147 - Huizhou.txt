@@ -1,8 +1,8 @@
 # 2147 - Huizhou
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = PSM
+controller = PSM
+add_core = PSM
 culture = wu
 religion = confucianism
 capital = "Huizhou"

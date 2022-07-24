@@ -1,8 +1,8 @@
 #1840 - Guilin
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = CSH
+controller = CSH
+add_core = CSH
 culture = zhuang
 religion = confucianism
 capital = "Guilin"

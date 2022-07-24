@@ -1,8 +1,8 @@
 #102 - Nice
 
-owner = SAV
-controller = SAV
-add_core = SAV
+owner = EMP
+controller = EMP
+add_core = EMP
 culture = ligurian
 religion = catholic
 hre = yes

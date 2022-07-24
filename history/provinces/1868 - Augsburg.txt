@@ -1,7 +1,7 @@
 # 1868 - Augsburg
-owner = AUG
-controller = AUG
-add_core = AUG
+owner = RTI
+controller = RTI
+add_core = RTI
 culture = swabian
 religion = catholic
 base_tax = 7 

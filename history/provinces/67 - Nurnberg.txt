@@ -1,8 +1,8 @@
 # 67 - Franken
 
-owner = NUM
-controller = NUM
-add_core = NUM
+owner = GLG
+controller = GLG
+add_core = GLG
 culture = franconian
 religion = catholic
 base_tax = 8
@@ -12,7 +12,7 @@ base_manpower = 3
 capital = "Nürnberg"
 is_city = yes
 hre = yes
-add_claim = ANS
+add_claim = GLG
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

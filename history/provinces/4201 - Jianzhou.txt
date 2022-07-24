@@ -1,8 +1,8 @@
 # 4201 - Jianzhou
 
-owner = MJZ
-controller = MJZ
-add_core = MJZ
+owner = YNG
+controller = YNG
+add_core = YNG
 culture = manchu
 religion = confucianism
 capital = "Jianzhou"

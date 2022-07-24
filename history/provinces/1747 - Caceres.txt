@@ -1,9 +1,9 @@
 #1747 - Caceres
 
-owner = CAS		#Enrique III of Castille
-controller = CAS
-add_core = CAS
-add_core = LON
+owner = TDT		#Enrique III of Castille
+controller = TDT
+add_core = TDT
+add_core = TDT
 culture = leonese
 religion = catholic
 hre = no

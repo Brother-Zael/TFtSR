@@ -1,8 +1,8 @@
 #219 - Toledo
 
-owner = CAS		#Juan II of Castille
-controller = CAS
-add_core = CAS
+owner = TLT		#Juan II of Castille
+controller = TLT
+add_core = TLT
 culture = castillian
 religion = catholic
 hre = no

@@ -1,8 +1,8 @@
 #225 - Córdoba
 
-owner = CAS		#Juan II of Castille
-controller = CAS
-add_core = CAS
+owner = CRD		#Juan II of Castille
+controller = CRD
+add_core = CRD
 culture = andalucian
 religion = catholic
 hre = no

@@ -1,8 +1,8 @@
 # 2172 - Jingzhou
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = WUL
+controller = WUL
+add_core = WUL
 culture = hubei
 religion = confucianism
 capital = "Jingzhou"
@@ -12,8 +12,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = CXI
-add_core = CHC
+add_core = WUL
+add_core = WUL
 
 
 

@@ -1,9 +1,9 @@
 #209 - Vizcaya
 
-owner = CAS		#Juan II de Castilla
-controller = CAS
-add_core = CAS
-add_core = ASU
+owner = CNT		#Juan II de Castilla
+controller = CNT
+add_core = CNT
+add_core = CNT
 culture = basque
 religion = catholic
 hre = no

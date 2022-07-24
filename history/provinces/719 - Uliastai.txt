@@ -1,8 +1,8 @@
 #719 - Sayin Noyan
 
-owner = OIR		# The Oirads united much of Mongolia
-controller = OIR
-add_core = OIR
+owner = SKY		# The Oirads united much of Mongolia
+controller = SKY
+add_core = SKY
 culture = khalkha
 religion = tengri_pagan_reformed
 capital = "Uliastai"

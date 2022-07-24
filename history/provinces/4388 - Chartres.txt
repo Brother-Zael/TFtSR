@@ -1,7 +1,7 @@
 # 4388 Chartres
 
-owner = FRA
-controller = FRA
+owner = BRI
+controller = BRI
 capital = "Chartres"
 is_city = yes
 culture = cosmopolitan_french
@@ -12,7 +12,7 @@ base_production = 5
 trade_goods = cloth
 base_manpower = 6
 fort_15th = yes
-add_core = FRA
+add_core = BRI
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

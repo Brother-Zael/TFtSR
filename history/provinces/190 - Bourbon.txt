@@ -1,7 +1,7 @@
 # 190 Bourbon - Principal cities: Moulins
 
-owner = FRA
-controller = FRA
+owner = ARG
+controller = ARG
 capital = "Moulins"
 is_city = yes
 culture = cosmopolitan_french
@@ -12,7 +12,7 @@ base_production = 4
 trade_goods = iron
 base_manpower = 4
 add_local_autonomy = 25
-add_core = BOU
+add_core = ARG
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

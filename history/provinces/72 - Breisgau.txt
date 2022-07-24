@@ -1,9 +1,9 @@
 #72 - Breisgau
 
-owner = HAB
-controller = HAB
-add_core = HAB
-add_core = TIR
+owner = GRS
+controller = GRS
+add_core = GRS
+add_core = GRS
 culture = swabian
 religion = catholic
 base_tax = 4 

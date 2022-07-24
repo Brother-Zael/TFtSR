@@ -1,8 +1,8 @@
 # 2155 - Middag
 
-owner = TGW		
-controller = TGW
-add_core = TGW
+owner = CWU		
+controller = CWU
+add_core = CWU
 culture = polynesian
 religion = animism
 capital = "Middag"

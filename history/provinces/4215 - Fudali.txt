@@ -1,8 +1,8 @@
 # 4215 - Fudali
 
-owner = EJZ
-controller = EJZ
-add_core = EJZ
+owner = ULA
+controller = ULA
+add_core = ULA
 culture = manchu
 religion = tengri_pagan_reformed
 capital = "Fudali"

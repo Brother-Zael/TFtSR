@@ -1,8 +1,8 @@
 #Nangha'er
 
-owner = NVK
-controller = NVK
-add_core = NVK
+owner = ULT
+controller = ULT
+add_core = ULT
 culture = nivkh
 religion = tengri_pagan_reformed
 capital = "Nangha'er"

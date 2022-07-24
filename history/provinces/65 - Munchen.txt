@@ -1,7 +1,7 @@
 # 65 - München
-owner = UBV
-controller = UBV
-add_core = UBV
+owner = RTI
+controller = RTI
+add_core = RTI
 culture = bavarian
 religion = catholic
 base_tax = 6 

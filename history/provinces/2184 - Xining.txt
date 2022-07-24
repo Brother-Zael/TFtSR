@@ -1,8 +1,8 @@
 # 2184 - Xining
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = KIY
+controller = KIY
+add_core = KIY
 culture = xibei
 religion = vajrayana
 capital = "Xining"
@@ -12,7 +12,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = CSH
+add_core = KIY
 
 
 

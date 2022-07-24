@@ -1,8 +1,8 @@
 #693 - Taiyuan
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = PWM
+controller = PWM
+add_core = PWM
 culture = jin
 religion = confucianism
 capital = "Taiyuan"
@@ -12,7 +12,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 3
 is_city = yes
-add_core = JIN
+add_core = PWM
 
 
 discovered_by = chinese

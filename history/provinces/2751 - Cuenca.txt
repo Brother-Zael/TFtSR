@@ -1,8 +1,8 @@
 #2751 - Cuenca
 
-owner = CAS		#Juan II of Castille
-controller = CAS
-add_core = CAS
+owner = SBG		#Juan II of Castille
+controller = SBG
+add_core = SBG
 culture = castillian
 religion = catholic
 hre = no

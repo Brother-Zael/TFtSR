@@ -1,8 +1,8 @@
 #2754 - La Mancha
 
-owner = CAS		#Juan II of Castille
-controller = CAS
-add_core = CAS
+owner = LSS		#Juan II of Castille
+controller = LSS
+add_core = LSS
 culture = castillian
 religion = catholic
 hre = no

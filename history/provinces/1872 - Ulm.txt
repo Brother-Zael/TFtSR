@@ -1,7 +1,7 @@
 # 1872 - Ulm
-owner = ULM
-controller = ULM
-add_core = ULM
+owner = RTS
+controller = RTS
+add_core = RTS
 culture = swabian
 religion = catholic
 base_tax = 5 

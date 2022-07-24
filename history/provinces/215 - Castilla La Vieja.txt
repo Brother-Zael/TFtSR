@@ -1,8 +1,8 @@
 #215 - Valladolid
 
-owner = CAS		#Juan II of Castille
-controller = CAS
-add_core = CAS
+owner = VAC		#Juan II of Castille
+controller = VAC
+add_core = VAC
 culture = castillian
 religion = catholic
 hre = no

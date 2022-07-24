@@ -1,8 +1,8 @@
 # - Regensburg
 
-owner = REG
-controller = REG
-add_core = REG
+owner = RGM
+controller = RGM
+add_core = RGM
 culture = bavarian
 religion = catholic
 base_tax = 5

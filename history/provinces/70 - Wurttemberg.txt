@@ -1,7 +1,7 @@
 culture = swabian
-owner = WUR
-controller = WUR
-add_core = WUR
+owner = RTS
+controller = RTS
+add_core = RTS
 capital = "Stuttgart"
 religion = catholic
 trade_goods = grain

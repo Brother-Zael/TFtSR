@@ -1,7 +1,7 @@
 #165 - Bern
 
-owner = SWI
-controller = SWI 
+owner = GRS
+controller = GRS 
 culture = swiss
 religion = catholic
 capital = "Bern"
@@ -12,7 +12,7 @@ base_production = 5
 base_manpower = 3
 is_city = yes
 fort_15th = yes
-add_core = SWI
+add_core = GRS
 extra_cost = 8
 center_of_trade = 1
 

@@ -1,5 +1,8 @@
 #1047 - Jugjur
 
+owner = CIY
+controller = CIY
+add_core = CIY
 culture = yakut
 religion = tengri_pagan_reformed
 capital = "Jugjur"

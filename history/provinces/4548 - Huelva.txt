@@ -1,8 +1,8 @@
 #218 - Badajoz
 
-owner = TSL		#Juan II of Castille
-controller = TSL
-add_core = TSL
+owner = EVO		#Juan II of Castille
+controller = EVO
+add_core = EVO
 culture = andalucian
 religion = catholic
 hre = no

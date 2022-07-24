@@ -1,8 +1,8 @@
 # 2108 - Huncun
 
-owner = MJZ
-controller = MJZ
-add_core = MJZ
+owner = WAN
+controller = WAN
+add_core = WAN
 culture = manchu
 religion = confucianism
 capital = "Huncun"

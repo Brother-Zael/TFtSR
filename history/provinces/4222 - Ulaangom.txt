@@ -1,8 +1,8 @@
 #4222 - Ulaangom
 
-owner = OIR		# The Oirads united much of Mongolia
-controller = OIR
-add_core = OIR
+owner = SKY		# The Oirads united much of Mongolia
+controller = SKY
+add_core = SKY
 culture = oirats
 religion = tengri_pagan_reformed
 capital = "Ulaangom"

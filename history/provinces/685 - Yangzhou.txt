@@ -1,8 +1,8 @@
 #685 - Huai'an (can't change file name)
 
-owner = MNG
-controller = MNG
-add_core = MNG
+owner = PHZ
+controller = PHZ
+add_core = PHZ
 culture = jianghuai
 religion = confucianism
 capital = "Yangzhou"

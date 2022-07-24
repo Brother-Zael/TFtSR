@@ -4,9 +4,9 @@ latent_trade_goods = {
 	coal
 }
 
-owner = OIR
-controller = OIR
-add_core = OIR
+owner = SKY
+controller = SKY
+add_core = SKY
 culture = khalkha
 religion = tengri_pagan_reformed
 capital = "Tsetserleg"
