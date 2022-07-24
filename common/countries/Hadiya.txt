@@ -1,0 +1,6 @@
+#Country Name: Hadiya
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 240 12 240 }

@@ -1,0 +1,6 @@
+#Country Name: Tachienlu
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 52 12 14 }

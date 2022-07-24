@@ -102,7 +102,8 @@ YER = "countries/Yerevan.txt"
 PCH = "countries/Pechenegs.txt"
 BAY = "countries/Bayazids.txt"
 SHR = "countries/Shirvan.txt"
-#Alania & Terek opms for shirvan to try to get?
+TRK = "countries/Terek.txt"
+ALA = "countries/Alania.txt"
 
 RUM = "countries/Rum.txt"
 
@@ -427,6 +428,7 @@ MED = "countries/MedriBahri.txt"
 SEM = "countries/Semien.txt"                  # local rabbi inspired uprising
 BEJ = "countries/Beja.txt"
 ZEI = "countries/Zeila.txt"
+HAD = "countries/Hadiya.txt"
 SMI = "countries/Somaliland.txt"
 AFD = "countries/Afder.txt"
 BAR = "countries/Bardera.txt"
@@ -523,6 +525,7 @@ SIA = "countries/Siam.txt"					   # Formable for Siam region cultures
 KDH = "countries/Keddah.txt"
 PAT = "countries/Pattani.txt"					# Vassal of Ayutthaya
 PHG = "countries/Pahang.txt"					# Vassal of Siak
+PRK = "countries/Perak.txt"
 SAK = "countries/Siak.txt"						# Nestorian with large jewish and muslim minorities
 LKT = "countries/Langkat.txt"
 JMB = "countries/Jambi.txt"
@@ -554,6 +557,7 @@ BRU = "countries/Buru.txt"
 TER = "countries/Ternate.txt"
 TID = "countries/Tidore.txt"
 HAL = "countries/Halmahera.txt"
+PUR = "countries/Purang.txt"
 
 DMK = "countries/Demak.txt"						# Releasable
 BNJ = "countries/Banjar.txt"					# Releasable
@@ -598,9 +602,11 @@ UES = "countries/Uesugi.txt"
 ASK = "countries/Ashikaga.txt"
 ISK = "countries/Isshiki.txt"
 IGS = "countries/Ogasawara.txt"
+ZEN = "countries/MinoTemples.txt"
 SOO = "countries/So.txt" # Japanese potential pirate daimyo
 
 ANU = "countries/Ainu.txt"
+RYU = "countries/Ryukyu.txt"
 
 TRI = "countries/Taira.txt"             # Formable for Taira clans, nominally SW third of japan
 MNM = "countries/Minamoto.txt"          # Formable for Minamoto clans, nominally middle third of japan
@@ -645,13 +651,15 @@ JIA = "countries/Jianchang.txt"         # Bandits
 GUI = "countries/Guiyang.txt"           # Bandits
 YNN = "countries/Yunnan.txt"            # Trying to reform Nanzhao/Animist Crusaders?
 DLI = "countries/Dali.txt"              # Trying to make Dali great again
+TAC = "countries/Tachienlu.txt"
 
 WSP = "countries/YellowTurbans.txt"     # Yellow turban revolt #5, following religion "Way of Supreme Peace" and at a crossroads. Just started recovering from war and need to choose government, stabilize nation, etc. Follows daoism
 PNM = "countries/NorthMarch.txt"        # Yellow turban north march
 PWM = "countries/WestMarch.txt"         # Yellow turban western march
 PSM = "countries/SouthMarch.txt"        # Yellow turban southern march
-PHZ = "countries/Hangzhou.txt"         # Yellow turban treacherous merchant vassal
+PHZ = "countries/Hangzhou.txt"          # Yellow turban treacherous merchant vassal
 PXZ = "countries/Xianzhou.txt"          # Yellow turban loyal feudal vassal
+WUD = "countries/Wuding.txt"			# Yellow turban ambivilant feudal vassal - maybe make independent and just in manchuria
 
 NMY = "countries/Namyue.txt"            # Legalist tyrant of south china. Rival to Yellow Trubans.
 LIU = "countries/Liuzhou.txt"           # Namyue march
@@ -689,6 +697,7 @@ JNP = "countries/Jaunpur.txt"
 FBD = "countries/FeyzabadSect.txt"      # Way of Supreme Peace regional sect siezed power after an attempt to snuff them out in a city-state
 DLH = "countries/DelhiConfederacy.txt"	# Republic... peasant?
 LAH = "countries/Lahore.txt"
+ASS = "countries/Assam.txt"
 
 MUL = "countries/Multan.txt"			# Militarist Hindu realm trying to keep invaders out... by taking over themselves of course
 BHA = "countries/Bhakkar.txt"
@@ -740,6 +749,7 @@ VNR = "countries/Vanaheimr.txt"		  # Atlantis but really
 ARP = "countries/Arapaho.txt"
 CLM = "countries/Colima.txt"
 CNK = "countries/Chinook.txt"
+CAH = "countries/Cahokia.txt"
 COC = "countries/Cocomes.txt"
 HDA = "countries/Haida.txt"
 ITZ = "countries/Itza.txt"
@@ -761,8 +771,7 @@ NAH = "countries/Navajo.txt"
 SHO = "countries/Shoshone.txt"
 SIO = "countries/Sioux.txt"
 WCR = "countries/Cree.txt"
-
-# Add chinese explorer tag in N. America?
+KEN = "countries/Kenai.txt"                    # chinese explorer tag in N. America. Royal family that escaped yellow turbans
 
 #South American Additions
 CSU = "countries/Cusco.txt"
@@ -771,6 +780,7 @@ GUA = "countries/Guarani.txt"
 ARW = "countries/Arawak.txt"
 CAB = "countries/Carib.txt"
 ICM = "countries/Ichma.txt"
+KES = "countries/KeseSuwo.txt"					# Mali colony. Mandinke for "Good Home"... I think. probably butchered the grammar
 
 #Golden Century Mesoamerican Tags   TO ADD LATER IF NEEDED
 #MAT = "countries/Matlatzinca.txt"

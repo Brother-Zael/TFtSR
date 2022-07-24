@@ -1,0 +1,6 @@
+#Country Name: Terek
+#Starting Country
+
+graphical_culture = easterngfx
+
+color = { 31 12 52 }

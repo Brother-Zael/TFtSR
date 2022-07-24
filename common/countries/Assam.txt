@@ -1,0 +1,6 @@
+#Country Name: Alania
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 30 222 222 }

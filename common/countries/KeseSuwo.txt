@@ -1,0 +1,6 @@
+#Country Name: Kese Suwo "Good Home", Mali's NW colony
+#Starting Country
+
+graphical_culture = africangfx
+
+color = { 210 202 202 }

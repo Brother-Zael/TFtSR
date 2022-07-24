@@ -1,0 +1,6 @@
+#Country Name: Mino Temples, see Katsuō-ji
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 240 212 240 }

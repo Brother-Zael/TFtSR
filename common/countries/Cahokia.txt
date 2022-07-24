@@ -1,0 +1,6 @@
+#Country Name: Cahokia
+#Starting Country
+
+graphical_culture = northamericangfx
+
+color = { 11 102 2 }

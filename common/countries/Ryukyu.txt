@@ -1,0 +1,6 @@
+#Country Name: Ryukyu
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 52 0 54 }

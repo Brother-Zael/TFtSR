@@ -1,0 +1,6 @@
+#Country Name: Kenai
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 110 102 2 }

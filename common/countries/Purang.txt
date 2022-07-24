@@ -1,0 +1,6 @@
+#Country Name: Purang
+#Starting Country
+
+graphical_culture = asiangfx
+
+color = { 231 12 2 }
