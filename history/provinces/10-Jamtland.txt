@@ -1,5 +1,4 @@
 #Jämtland+Härjedalen
-
 owner = VAR
 controller = VAR
 culture = norwegian # They were actually Jämts - the unique blend of Swedish, Norwegian and local tendencies
@@ -14,10 +13,5 @@ add_local_autonomy = 25
 is_city = yes
 add_core = VAR
 add_core = FNN
-
-
-
 discovered_by = eastern
 discovered_by = western
-
-

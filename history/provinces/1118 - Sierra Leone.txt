@@ -1,5 +1,4 @@
 #1118 - Sierra Leone
-
 culture = dyola
 religion = shamanism #Fetishism
 capital = "Sherbro"
@@ -11,8 +10,4 @@ base_manpower = 1
 native_size = 70
 native_ferocity = 4
 native_hostileness = 9 
-
-
-
 discovered_by = sub_saharan
-

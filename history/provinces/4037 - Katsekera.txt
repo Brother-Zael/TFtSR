@@ -1,5 +1,4 @@
 #Katsekera
-
 owner = KIL
 controller = KIL
 add_core = KIL
@@ -13,4 +12,3 @@ hre = no
 base_tax = 2
 base_production = 3
 discovered_by = central_african
-

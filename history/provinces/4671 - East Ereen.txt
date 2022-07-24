@@ -1,6 +1,5 @@
 owner = KHT
 controller = KHT
-add_core = KHT
 culture = mongol
 religion = vajrayana
 capital = "Kalgan"
@@ -13,5 +12,3 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 add_core = KHT
-
-

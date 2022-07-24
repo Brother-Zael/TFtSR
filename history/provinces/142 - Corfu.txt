@@ -1,5 +1,4 @@
 #142 - Corfu
-
 owner = BRN
 controller = BRN
 culture = greek
@@ -13,12 +12,7 @@ base_manpower = 3
 is_city = yes
 fort_15th = yes
 add_core = BRN
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

@@ -1,5 +1,4 @@
 #2089 - Chaul (Chaul+Janjira+Kolaba)
-
 owner = GOA
 controller = GOA
 culture = marathi
@@ -13,7 +12,6 @@ base_manpower = 2
 add_local_autonomy = 75
 is_city = yes
 add_core = GOA
-add_core = GOA
 add_rajputs_or_marathas_or_nobles_effect = yes
 discovered_by = indian
 discovered_by = muslim 
@@ -23,4 +21,3 @@ discovered_by = chinese
 discovered_by = east_african
 extra_cost = 16
 center_of_trade = 2
-

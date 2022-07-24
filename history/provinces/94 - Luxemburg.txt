@@ -1,5 +1,4 @@
 # 94 Luxembourg - Principal cities: Luxembourg
-
 owner = DOR
 controller = DOR
 add_core = DOR 
@@ -14,12 +13,7 @@ trade_goods = iron
 base_manpower = 2
 add_core = DOR
 fort_15th = yes
-
-
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

@@ -1,5 +1,4 @@
 # No previous file for Saone
-
 add_core = WCY
 owner = WCY
 controller = WCY
@@ -15,6 +14,4 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 6
-
 discovered_by = north_american
-

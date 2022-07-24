@@ -1,5 +1,4 @@
 #2398 - Thaungdut
-
 owner = KLE
 controller = KLE
 culture = chin
@@ -12,10 +11,5 @@ base_production = 2
 base_manpower = 1
 is_city = yes
 add_core = KLE
-
-
-
 discovered_by = chinese
 discovered_by = indian
-
-

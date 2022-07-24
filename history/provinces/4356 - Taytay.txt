@@ -1,5 +1,4 @@
 #4356 - Taytay
-
 culture = filipino
 religion = animism
 capital = "Taytay"
@@ -12,4 +11,3 @@ discovered_by = chinese
 native_size = 40
 native_ferocity = 2
 native_hostileness = 9
-

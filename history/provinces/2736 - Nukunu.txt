@@ -1,5 +1,4 @@
 #2736 - Nukunu
-
 culture = yura
 religion = dreamtime
 capital = "Nukunu"
@@ -12,4 +11,3 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 9
 discovered_by = aboriginal_tech
-

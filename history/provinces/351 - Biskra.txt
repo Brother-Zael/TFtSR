@@ -1,5 +1,4 @@
 #351 - Biskra
-
 owner = SIT
 controller = SIT 
 culture = berber
@@ -16,6 +15,3 @@ add_local_autonomy = 25
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-
-

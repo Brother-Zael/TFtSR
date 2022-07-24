@@ -1,5 +1,4 @@
 #933 - Catawba
-
 owner = COF
 controller = COF
 add_core = COF
@@ -15,8 +14,4 @@ native_hostileness = 0
 base_tax = 2
 base_production = 2
 base_manpower = 1
-
-
-
 discovered_by = north_american
-

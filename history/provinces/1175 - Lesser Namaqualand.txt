@@ -1,5 +1,4 @@
 #1175 - Lesser Namaqualand
-
 culture = khoisan
 religion = shamanism #Fetishism
 capital = "Lesser Namaqualand"
@@ -11,4 +10,3 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 2
 native_hostileness = 7
-

@@ -1,5 +1,4 @@
 #876 - Yavapai
-
 culture = piman
 religion = totemism
 capital = "Yavapai" 
@@ -11,8 +10,4 @@ base_manpower = 1
 native_size = 5 
 native_ferocity = 2 
 native_hostileness = 5 
-
-
-
 discovered_by = north_american
-

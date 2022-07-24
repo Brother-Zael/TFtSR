@@ -1,5 +1,4 @@
 #553 - Sambalpur
-
 owner = SMB
 controller = SMB
 culture = garjati
@@ -20,4 +19,3 @@ discovered_by = nomad_group
 discovered_by = chinese
 extra_cost = 8
 center_of_trade = 1
-

@@ -1,5 +1,4 @@
 #1837 - Etchu
-
 owner = ASK
 controller = ASK
 culture = togoku
@@ -14,10 +13,3 @@ is_city = yes
 add_core = ASK
 fort_15th = yes #Nanao Castle
 discovered_by = chinese
-
-
-
-
-
-
-

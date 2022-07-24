@@ -1,6 +1,5 @@
 #4372 - Coventry
 #Staffordshire, Warwickshire
-
 #Coal
 owner = ANG
 controller = ANG

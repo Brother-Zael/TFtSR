@@ -1,5 +1,4 @@
 #2699 - Bikol
-
 culture = filipino
 religion = animism
 capital = "Bikol"
@@ -12,4 +11,3 @@ native_size = 70
 native_ferocity = 2
 native_hostileness = 9
 discovered_by = chinese
-

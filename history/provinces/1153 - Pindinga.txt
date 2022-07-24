@@ -1,5 +1,4 @@
 #1153 - Pindinga
-
 owner = PDG
 controller = PDG
 add_core = PDG
@@ -14,4 +13,3 @@ hre = no
 base_tax = 1 
 base_production = 1
 discovered_by = sub_saharan
-

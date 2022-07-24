@@ -1,5 +1,4 @@
 #2685 - Gayo
-
 owner = KRJ
 controller = KRJ
 culture = acehnese
@@ -16,4 +15,3 @@ discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
-

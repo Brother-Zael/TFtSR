@@ -1,5 +1,4 @@
 # 2016 - Bungi = Red River Country
-
 owner = ASI
 controller = ASI
 add_core = ASI
@@ -15,8 +14,4 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 2
 native_hostileness = 6
-
-
-
 discovered_by = north_american
-

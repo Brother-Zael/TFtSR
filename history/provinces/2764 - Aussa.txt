@@ -1,8 +1,6 @@
 #2764 - Aussa
-
 owner = ZEI
 controller = ZEI
-add_core = ZEI
 add_core = ZEI
 culture = afar
 religion = sunni
@@ -13,10 +11,7 @@ trade_goods = livestock
 hre = no
 base_tax = 2
 base_production = 1
-
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
-
-

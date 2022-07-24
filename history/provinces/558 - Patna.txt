@@ -1,5 +1,4 @@
 #558 - Patna
-
 owner = DHK
 controller = DHK
 culture = bihari
@@ -21,4 +20,3 @@ discovered_by = chinese
 add_province_triggered_modifier = buddhist_bodh_gaya
 extra_cost = 16
 center_of_trade = 2
-

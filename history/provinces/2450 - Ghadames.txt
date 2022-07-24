@@ -1,5 +1,4 @@
 # - Ghadames
-
 owner = EPY
 controller = EPY 
 culture = tunisian
@@ -12,12 +11,7 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = EPY
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

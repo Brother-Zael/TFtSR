@@ -1,5 +1,4 @@
 #879 - Apache
-
 owner = APA
 controller = APA
 is_city = yes
@@ -15,8 +14,4 @@ base_manpower = 1
 native_size = 5 
 native_ferocity = 2 
 native_hostileness = 5 
-
-
-
 discovered_by = north_american
-

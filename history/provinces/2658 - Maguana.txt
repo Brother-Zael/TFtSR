@@ -1,5 +1,4 @@
 # No previous file for Maguana
-
 culture = arawak
 religion = animism
 capital = "Maguana"
@@ -11,6 +10,3 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 2
-
-
-

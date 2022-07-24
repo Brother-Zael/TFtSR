@@ -1,5 +1,4 @@
 # 4734 - Avellino
-
 owner = NPL
 controller = NPL
 culture = neapolitan 
@@ -16,4 +15,3 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-

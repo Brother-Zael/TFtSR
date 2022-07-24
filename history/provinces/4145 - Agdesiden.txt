@@ -1,5 +1,4 @@
 #Agdesiden (incl Lister Len, Mandals Len, Nedenes len and Råbyggelaget len)
-
 owner = NRG
 controller = NRG
 add_core = NRG

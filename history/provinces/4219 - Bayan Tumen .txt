@@ -1,5 +1,4 @@
 #4219 - Bayan Tu'men 
-
 owner = KHT
 controller = KHT
 add_core = KHT
@@ -14,4 +13,3 @@ base_manpower = 2
 is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
-

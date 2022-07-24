@@ -1,5 +1,4 @@
 #9001 - Twsana
-
 culture = khoisan
 religion = shamanism #Fetishism
 capital = "Vryburg"

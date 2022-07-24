@@ -1,5 +1,4 @@
 # 176 Béarn - Principal cities: Pau
-
 owner = BUR
 controller = BUR
 capital = "Pau"
@@ -12,6 +11,3 @@ base_production = 4
 trade_goods = wool
 base_manpower = 4
 add_core = BUR
-add_core = BUR
-add_core = BUR
-

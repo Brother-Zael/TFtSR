@@ -1,5 +1,4 @@
 #4848 - Mingin
-
 culture = paman
 religion = dreamtime
 capital = "Mingin"
@@ -12,10 +11,3 @@ native_size = 2
 native_ferocity = 1
 native_hostileness = 2
 discovered_by = aboriginal_tech
-
-
-
-
-
-
-

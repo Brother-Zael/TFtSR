@@ -1,5 +1,4 @@
 #921 - Bayougoula
-
 culture = natchez
 religion = totemism
 capital = "Bayougoula"
@@ -11,8 +10,4 @@ base_manpower = 1
 native_size = 15
 native_ferocity = 2
 native_hostileness = 8
-
-
-
 discovered_by = north_american
-

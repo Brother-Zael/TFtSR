@@ -1,5 +1,4 @@
 #1150 - Zamfara
-
 owner = ZAZ
 controller = ZAZ
 add_core = ZAZ
@@ -12,9 +11,4 @@ trade_goods = grain
 hre = no
 base_tax = 3 
 base_production = 3
-
-
-
 discovered_by = sub_saharan
-
-

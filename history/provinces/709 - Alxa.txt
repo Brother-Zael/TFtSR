@@ -1,5 +1,4 @@
 #709 - Alxa
-
 owner = KIY
 controller = KIY
 add_core = KIY
@@ -14,4 +13,3 @@ base_manpower = 2
 is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
-

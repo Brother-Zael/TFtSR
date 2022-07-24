@@ -1,5 +1,4 @@
 #2744 - Nyeongbyeon
-
 owner = BAE
 controller = BAE
 culture = korean
@@ -15,4 +14,3 @@ add_core = BAE
 add_local_autonomy = 35
 discovered_by = chinese
 discovered_by = nomad_group
-

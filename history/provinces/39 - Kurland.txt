@@ -1,5 +1,4 @@
 #Kurland, center at Goldingen
-
 owner = OSL
 controller = OSL
 add_core = OSL
@@ -12,9 +11,6 @@ trade_goods = naval_supplies
 base_manpower = 1
 capital = "Goldingen"
 is_city = yes
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

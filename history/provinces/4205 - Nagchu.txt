@@ -1,5 +1,4 @@
 #4205 - Nagchu
-
 owner = TIB
 controller = TIB
 add_core = TIB
@@ -15,5 +14,3 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = indian
-
-

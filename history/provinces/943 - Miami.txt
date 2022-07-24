@@ -1,5 +1,4 @@
 #943 - Miami
-
 add_core = MMI
 owner = MMI
 controller = MMI
@@ -15,8 +14,4 @@ is_city = yes
 native_size = 10
 native_ferocity = 1
 native_hostileness = 0
-
-
-
 discovered_by = north_american
-

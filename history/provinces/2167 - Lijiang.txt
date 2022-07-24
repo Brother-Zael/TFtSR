@@ -1,8 +1,6 @@
 # 2167 - Lijiang
-
 owner = DLI
 controller = DLI
-add_core = DLI
 add_core = DLI
 culture = bai
 religion = buddhism
@@ -13,10 +11,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-
-
-
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = indian
-

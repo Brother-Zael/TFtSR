@@ -1,8 +1,6 @@
 #220 - València
-
 owner = TSL	#Alfons V of Aragon
 controller = TSL
-add_core = TSL
 add_core = TSL
 culture = catalan
 religion = catholic
@@ -20,4 +18,3 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
-

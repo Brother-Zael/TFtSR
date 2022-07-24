@@ -1,5 +1,4 @@
 #581 - Sagaing
-
 owner = AVA
 controller = AVA
 culture = burmese
@@ -12,10 +11,5 @@ base_production = 5
 base_manpower = 4
 is_city = yes
 add_core = AVA
-
-
-
 discovered_by = chinese
 discovered_by = indian
-
-

@@ -1,5 +1,4 @@
 # 1879 - Alençon
-
 owner = NRM
 controller = NRM
 add_core = NRM

@@ -1,5 +1,4 @@
 # - Wankapampa
-
 owner = CJA
 controller = CJA
 culture = inca
@@ -12,11 +11,5 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = CJA
-
-
-
 discovered_by = south_american
 discovered_by = andean
-
-
-

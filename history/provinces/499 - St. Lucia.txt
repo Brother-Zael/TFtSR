@@ -1,5 +1,4 @@
 #499 - St. Lucia
-
 culture = carib
 religion = animism
 capital = "St. Lucia"
@@ -11,8 +10,3 @@ base_manpower = 1
 native_size = 15 
 native_ferocity = 1
 native_hostileness = 4
-
-
-
-
-

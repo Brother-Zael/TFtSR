@@ -1,5 +1,4 @@
 # 4730 - Bologna
-
 owner = BOB
 controller = BOB
 culture = romagnan 
@@ -12,11 +11,7 @@ base_manpower = 3
 capital = "Bologna"
 is_city = yes
 add_core = BOB
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-

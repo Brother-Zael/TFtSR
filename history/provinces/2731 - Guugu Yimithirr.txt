@@ -1,5 +1,4 @@
 #2731 - Guugu Yimithirr
-
 culture = paman
 religion = dreamtime
 capital = "Guugu Yimithirr"
@@ -12,4 +11,3 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 1
 discovered_by = aboriginal_tech
-

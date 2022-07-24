@@ -1,5 +1,4 @@
 #1133 - Gao
-
 owner = TMB
 controller = TMB
 culture = songhai
@@ -16,4 +15,3 @@ discovered_by = sub_saharan
 fort_15th = yes
 extra_cost = 8
 center_of_trade = 1
-

@@ -1,9 +1,7 @@
 #249 - Ayrshire
-
 latent_trade_goods = {
 	coal
 }
-
 owner = LOW
 controller = LOW
 culture = scottish

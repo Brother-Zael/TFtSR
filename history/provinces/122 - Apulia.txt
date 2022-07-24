@@ -1,5 +1,4 @@
 #122 - Apulia
-
 owner = BRN
 controller = BRN
 culture = neapolitan 
@@ -12,12 +11,7 @@ base_manpower = 2
 capital = "Taranto"
 is_city = yes 
 add_core = BRN
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

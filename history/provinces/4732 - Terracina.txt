@@ -1,5 +1,4 @@
 #4732 - Terracina
-
 owner = NPL
 controller = NPL
 culture = umbrian 
@@ -16,5 +15,3 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

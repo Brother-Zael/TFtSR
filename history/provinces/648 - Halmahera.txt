@@ -1,7 +1,4 @@
 #648 - Halmahera
-
-
-add_core = HAL
 add_core = HAL
 owner = HAL
 controller = HAL
@@ -16,8 +13,4 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 1
-
-
-
 discovered_by = chinese
-

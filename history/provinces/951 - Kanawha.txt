@@ -1,9 +1,7 @@
 #951 - Kanawha
-
 latent_trade_goods = {
 	coal
 }
-
 culture = shawnee
 religion = totemism
 capital = "Kanawha"
@@ -15,7 +13,4 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 4
-
-
 discovered_by = north_american
-

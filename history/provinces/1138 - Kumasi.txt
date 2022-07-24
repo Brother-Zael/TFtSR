@@ -1,5 +1,4 @@
 #1138 - Kumasi
-
 culture = aka
 base_manpower = 1
 religion = shamanism #Fetishism
@@ -12,9 +11,4 @@ native_size = 60
 native_ferocity = 4
 native_hostileness = 9
 add_core = MAL
-
-
-
 discovered_by = sub_saharan
-
-

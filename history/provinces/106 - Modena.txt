@@ -1,5 +1,4 @@
 #106 - Modena
-
 owner = BOM
 controller = BOM
 culture = romagnan 
@@ -12,10 +11,7 @@ base_manpower = 2
 capital = "Modena" 
 is_city = yes
 add_core = BOM
-add_core = BOM
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

@@ -1,5 +1,4 @@
 #652 - Maguindanao
-
 culture = filipino
 religion = animism
 capital = "Maguindanao"
@@ -13,4 +12,3 @@ discovered_by = chinese
 owner = MGD
 controller = MGD
 add_core = MGD
-

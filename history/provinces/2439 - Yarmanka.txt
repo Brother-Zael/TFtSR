@@ -1,5 +1,4 @@
 #2439 - Zasjiversk
-
 culture = yukagyr
 religion = tengri_pagan_reformed
 capital = "Zasjiversk"
@@ -11,13 +10,3 @@ base_manpower = 1
 native_size = 1
 native_ferocity = 1
 native_hostileness = 3
-
-
-
-
-
-
-
-
-
-

@@ -1,7 +1,6 @@
 owner = SAH
 controller = SAH
 add_core = SAH
-add_core = SAH
 is_city = yes
 culture = bambara 
 religion = shamanism #Fetishism
@@ -14,9 +13,4 @@ native_size = 40
 native_ferocity = 4
 native_hostileness = 9
 base_manpower = 1
-
-
-
 discovered_by = sub_saharan
-
-

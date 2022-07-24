@@ -1,5 +1,4 @@
 #1137 - Wagadugi
-
 #Senior of the Mossi Kingdoms centered here
 owner = YAT
 controller = YAT
@@ -16,9 +15,4 @@ base_manpower = 3
 native_size = 40
 native_ferocity = 4
 native_hostileness = 9
-
-
-
 discovered_by = sub_saharan
-
-

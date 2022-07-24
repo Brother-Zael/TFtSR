@@ -1,5 +1,4 @@
 #1021 - Settsu
-
 owner = ASK
 controller = ASK
 culture = japanese
@@ -13,10 +12,5 @@ base_production = 6
 is_city = yes
 add_core = ASK
 discovered_by = chinese
-
-
-
-
 extra_cost = 8
 center_of_trade = 1
-

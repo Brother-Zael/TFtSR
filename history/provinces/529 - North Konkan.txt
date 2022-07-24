@@ -1,5 +1,4 @@
 #529 - North Konkan (Thana, Mahim, Bombay, Bassein, up to Daman)
-
 owner = BID
 controller = BID
 culture = marathi
@@ -20,4 +19,3 @@ discovered_by = chinese
 discovered_by = east_african
 extra_cost = 8
 center_of_trade = 1
-

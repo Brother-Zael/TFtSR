@@ -1,5 +1,4 @@
 #1088 - Wergaia
-
 culture = kulin
 religion = dreamtime
 capital = "Wergaia"

@@ -1,5 +1,4 @@
 #1033 - Sakhalin
-
 culture = ainu
 religion = animism
 capital = "Sakhalin"
@@ -12,51 +11,3 @@ owner = ULT
 controller = ULT
 add_core = ULT
 is_city = yes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

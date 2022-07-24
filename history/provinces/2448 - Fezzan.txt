@@ -1,5 +1,4 @@
 #2448 - Fezzan
-
 owner = LGN
 controller = LGN 
 culture = tunisian
@@ -12,11 +11,7 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = LGN
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-

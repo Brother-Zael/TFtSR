@@ -1,5 +1,4 @@
 #1117 - Futa Jallon
-
 owner = MAL
 controller = MAL
 culture = fulani
@@ -13,9 +12,4 @@ base_tax = 3
 base_production = 3
 add_core = MAL
 add_core = MAL #Subject province within the empire
-
-
-
 discovered_by = sub_saharan
-
-

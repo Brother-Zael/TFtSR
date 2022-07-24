@@ -1,5 +1,4 @@
 #2388 - Phitsanulok
-
 owner = SUK 
 controller = SUK
 culture = central_thai
@@ -12,7 +11,5 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 add_core = SUK
-add_core = SUK
 discovered_by = chinese
 discovered_by = indian
-

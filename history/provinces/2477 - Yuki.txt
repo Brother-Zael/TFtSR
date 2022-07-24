@@ -1,5 +1,4 @@
 # No previous file for Yuki
-
 culture = chinook
 religion = totemism
 capital = "Yuki"
@@ -11,8 +10,5 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 2
-
-
  # Jean Francois la Perouse
 discovered_by = north_american
-

@@ -1,5 +1,4 @@
 #585 - Toungoo
-
 owner = PGU
 controller = PGU
 culture = burmese
@@ -12,9 +11,5 @@ base_production = 5
 base_manpower = 4
 is_city = yes
 add_core = PGU
-
-
-
 discovered_by = chinese
 discovered_by = indian
-

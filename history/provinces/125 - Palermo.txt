@@ -1,5 +1,4 @@
 #125 - Palermo
-
 owner = PNR
 controller = PNR
 culture = sicilian 
@@ -12,12 +11,9 @@ base_manpower = 3
 capital = "Palermo"
 is_city = yes
 add_core = PNR
-add_core = PNR
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
-
-

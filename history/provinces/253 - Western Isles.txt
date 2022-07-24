@@ -1,5 +1,4 @@
 #253 - Western Isles
-
 owner = NRG
 controller = NRG
 culture = highland_scottish

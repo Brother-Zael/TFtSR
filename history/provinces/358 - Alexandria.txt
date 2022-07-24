@@ -1,5 +1,4 @@
 #358 - Alexandria
-
 owner = FAT
 controller = FAT
 culture = al_misr_arabic

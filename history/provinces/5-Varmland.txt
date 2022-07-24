@@ -1,6 +1,5 @@
 #Värmland
 #
-
 add_core = VAR
 add_core = UPP
 owner = VAR
@@ -14,12 +13,7 @@ trade_goods = iron
 base_manpower = 1
 capital = "Karlstad"
 is_city = yes
-
-
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

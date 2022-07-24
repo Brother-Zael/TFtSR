@@ -1,5 +1,4 @@
 #270 Troki
-
 owner = TWG
 controller = TWG
 add_core = TWG
@@ -13,7 +12,6 @@ base_production = 3
 base_manpower = 2 
 is_city = yes
 #fort_15th = yes #Trakai Castles "Little Marienburg"
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

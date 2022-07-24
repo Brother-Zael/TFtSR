@@ -1,5 +1,4 @@
 # No previous file for Coiracoentanon
-
 culture = illini
 religion = totemism
 capital = "Coiracoentanon"
@@ -13,5 +12,3 @@ native_ferocity = 1
 native_hostileness = 6
 tribal_owner = CAO
 discovered_by = north_american
-
-

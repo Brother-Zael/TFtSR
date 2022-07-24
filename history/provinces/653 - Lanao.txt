@@ -1,5 +1,4 @@
 #653 - Lanao
-
 culture = filipino
 religion = animism
 capital = "Marawi"
@@ -12,6 +11,4 @@ base_manpower = 2
 owner = MGD
 controller = MGD
 add_core = MGD
-add_core = MGD
 discovered_by = chinese
-

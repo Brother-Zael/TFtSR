@@ -1,8 +1,6 @@
 # No previous file for Tenkodogo
-
 owner = TKD
 controller = TKD
-add_core = TKD
 add_core = TKD
 is_city = yes
 culture = mossi 

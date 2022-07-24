@@ -1,5 +1,4 @@
 # No previous file for Piekougami
-
 owner = INN
 controller = INN
 add_core = INN
@@ -14,10 +13,4 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 2
-
-
-
 discovered_by = north_american
-
-
-

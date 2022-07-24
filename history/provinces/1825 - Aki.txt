@@ -1,5 +1,4 @@
 #1825 - Aki
-
 owner = OUC
 controller = OUC
 culture = japanese
@@ -12,10 +11,4 @@ base_manpower = 3
 base_production = 4
 is_city = yes
 add_core = OUC
-add_core = OUC
 discovered_by = chinese
-
-
-
-
-

@@ -1,5 +1,4 @@
 #1091 - Kamilaroi
-
 culture = gamilaraay
 religion = dreamtime
 hre = no

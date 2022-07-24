@@ -1,5 +1,4 @@
 # - Tiahuanoco
-
 owner = PCJ
 controller = PCJ
 add_core = PCJ
@@ -12,10 +11,5 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-
-
-
 discovered_by = south_american
 discovered_by = andean
-
-

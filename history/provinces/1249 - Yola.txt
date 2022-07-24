@@ -1,5 +1,4 @@
 #1249 - Yola
-
 owner = YOL
 controller = YOL
 add_core = YOL
@@ -14,8 +13,3 @@ base_manpower = 1
 native_size = 90
 native_ferocity = 4
 native_hostileness = 9
-
-
-
-
-

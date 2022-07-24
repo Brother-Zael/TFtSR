@@ -1,5 +1,4 @@
 #455 - Diu
-
 owner = RAN
 controller = RAN
 culture = saurashtri
@@ -18,5 +17,3 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 discovered_by = east_african
-
-

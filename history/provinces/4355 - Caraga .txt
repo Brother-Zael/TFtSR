@@ -1,5 +1,4 @@
 #4355 - Caraga
-
 owner = BTU
 controller = BTU
 add_core = BTU
@@ -15,4 +14,3 @@ native_size = 70
 native_ferocity = 2
 native_hostileness = 9
 discovered_by = chinese
-

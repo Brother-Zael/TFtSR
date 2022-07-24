@@ -1,5 +1,4 @@
 #2767 - Enderta
-
 owner = ABY
 controller = ABY
 add_core = ABY
@@ -12,10 +11,7 @@ trade_goods = copper
 hre = no
 base_tax = 1 
 base_production = 1
-
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
-
-

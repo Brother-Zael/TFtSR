@@ -1,5 +1,4 @@
 #145 - Morea
-
 owner = BYZ
 controller = BYZ
 culture = greek
@@ -19,5 +18,3 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
-
-

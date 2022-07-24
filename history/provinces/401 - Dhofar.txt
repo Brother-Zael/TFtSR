@@ -1,5 +1,4 @@
 #401 - Dhofar
-
 owner = MAH
 controller = MAH
 culture = mahri_culture
@@ -17,5 +16,3 @@ discovered_by = ottoman
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = east_african
-
-

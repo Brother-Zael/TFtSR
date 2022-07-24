@@ -1,5 +1,4 @@
 #245 - Yorkshire - East Riding
-
 owner = JOR
 controller = JOR
 add_core = JOR

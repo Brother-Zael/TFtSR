@@ -1,5 +1,4 @@
 #Dorpat
-
 owner = PSK
 controller = PSK
 add_core = PSK
@@ -12,10 +11,5 @@ trade_goods = naval_supplies
 base_manpower = 2
 capital = "Dorpat"
 is_city = yes
-
-
-
-
-
 discovered_by = western
 discovered_by = eastern

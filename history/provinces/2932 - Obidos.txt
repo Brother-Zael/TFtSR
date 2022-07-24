@@ -1,5 +1,4 @@
 # - Waddai
-
 owner = WAD
 controller = WAD
 add_core = WAD
@@ -14,6 +13,4 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-
 discovered_by = sub_saharan
-

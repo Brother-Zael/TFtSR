@@ -1,5 +1,4 @@
 #1126 - Ivory Coast
-
 culture = aka
 religion = shamanism #Fetishism
 capital = "Assinie"
@@ -11,13 +10,3 @@ base_manpower = 1
 native_size = 60
 native_ferocity = 4
 native_hostileness = 9 
-
-
-
-
-
-
-
-
-
-

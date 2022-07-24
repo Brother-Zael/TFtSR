@@ -1,5 +1,4 @@
 #633 - Flores
-
 culture = nusa_tenggara
 religion = animism
 capital = "Flores"
@@ -11,8 +10,4 @@ base_manpower = 3
 native_size = 10
 native_ferocity = 1
 native_hostileness = 3
-
-
-
 discovered_by = chinese
-

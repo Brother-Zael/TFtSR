@@ -1,8 +1,6 @@
 # 2171 - Xiangyang
-
 owner = WSP
 controller = WSP
-add_core = WSP
 culture = hubei
 religion = confucianism
 capital = "Xiangyang"
@@ -13,10 +11,5 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 add_core = WSP
-
-
-
 discovered_by = chinese
 discovered_by = nomad_group
-
-

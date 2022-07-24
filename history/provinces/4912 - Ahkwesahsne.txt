@@ -1,5 +1,4 @@
 # No previous file for Ahkwesahsne
-
 culture = laurentian
 religion = totemism
 capital = "Kaniatarowanen"
@@ -13,4 +12,3 @@ native_ferocity = 1
 native_hostileness = 2
 tribal_owner = OSH
 discovered_by = north_american
-

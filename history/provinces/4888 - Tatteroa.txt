@@ -1,5 +1,4 @@
 # No previous file for Tatteroa
-
 owner = HWK
 controller = HWK
 add_core = HWK
@@ -15,6 +14,4 @@ base_manpower = 2
 native_size = 5
 native_ferocity = 5
 native_hostileness = 1
-
 discovered_by = north_american
-

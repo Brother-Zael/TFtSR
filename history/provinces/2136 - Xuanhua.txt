@@ -1,8 +1,6 @@
 # 2136 - Xuanhua
-
 owner = WSP
 controller = WSP
-add_core = WSP
 culture = jin
 religion = confucianism
 capital = "Xuanhua"
@@ -14,9 +12,5 @@ base_manpower = 2
 is_city = yes
 #fort_15th = yes #the Nine Garrisons
 add_core = WSP
-
-
-
 discovered_by = chinese
 discovered_by = nomad_group
-

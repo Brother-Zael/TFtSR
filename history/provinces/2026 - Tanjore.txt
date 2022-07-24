@@ -1,5 +1,4 @@
 #2026 - Tanjore 
-
 owner = TAN
 controller = TAN
 culture = tamil
@@ -13,8 +12,6 @@ base_manpower = 2
 is_city = yes
 add_brahmins_or_church_effect = yes
 add_core = TAN
-add_core = TAN
-add_core = TAN
 discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim
@@ -24,4 +21,3 @@ discovered_by = chinese
 add_local_autonomy = 25
 extra_cost = 16
 center_of_trade = 2
-

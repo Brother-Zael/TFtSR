@@ -1,5 +1,4 @@
 #1099 - Socotra
-
 owner = HMY
 controller = HMY
 culture = mahri_culture
@@ -17,4 +16,3 @@ discovered_by = ottoman
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = east_african
-

@@ -1,5 +1,4 @@
 # No previous file for Chehalis
-
 culture = salish
 religion = totemism
 capital = "Chehalis"
@@ -12,6 +11,4 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 tribal_owner = SAL
-
 discovered_by = north_american
-

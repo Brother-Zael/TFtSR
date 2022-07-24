@@ -1,5 +1,4 @@
 #4351 - Buglas
-
 culture = filipino
 religion = animism
 capital = "Silay"
@@ -13,4 +12,3 @@ owner = CEB
 controller = CEB
 is_city = yes
 discovered_by = chinese
-

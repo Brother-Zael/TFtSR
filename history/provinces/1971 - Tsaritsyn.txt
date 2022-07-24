@@ -1,5 +1,4 @@
 #1971 - Tsaritsyn
-
 owner = KIP
 controller = KIP 
 culture = mishary
@@ -17,4 +16,3 @@ discovered_by = western
 discovered_by = nomad_group
 discovered_by = ottoman
 discovered_by = muslim
-

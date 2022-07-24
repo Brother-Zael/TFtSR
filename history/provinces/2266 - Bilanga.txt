@@ -1,5 +1,4 @@
 # No previous file for Bilanga
-
 owner = YAT
 controller = YAT
 add_core = YAT

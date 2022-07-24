@@ -1,5 +1,4 @@
 #4264 - Tetyushi
-
 owner = KAZ
 controller = KAZ
 culture = kazani
@@ -16,5 +15,3 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
 discovered_by = ottoman
-
-

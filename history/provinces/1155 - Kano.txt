@@ -1,5 +1,4 @@
 #1155 - Kano
-
 owner = KSN
 controller = KSN
 add_core = KSN
@@ -12,8 +11,4 @@ trade_goods = dyes
 hre = no
 base_tax = 5 
 base_production = 5
-
-
 discovered_by = sub_saharan
-
-

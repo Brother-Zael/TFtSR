@@ -1,6 +1,4 @@
 # No previous file for Pitahawirata
-
-
 culture = pawnee
 religion = totemism
 capital = "Pitahawirata"
@@ -14,4 +12,3 @@ native_ferocity = 1
 native_hostileness = 6
 tribal_owner = PAW
 discovered_by = north_american
-

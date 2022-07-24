@@ -1,5 +1,4 @@
 #4280 - Taiz
-
 owner = ABY
 controller = ABY
 culture = yemeni_culture

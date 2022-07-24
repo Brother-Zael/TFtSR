@@ -1,5 +1,4 @@
 #857 - Guachichil
-
 owner = CCM
 controller = CCM
 add_core = CCM
@@ -11,8 +10,4 @@ hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1 
-
-
-
 discovered_by = mesoamerican
-

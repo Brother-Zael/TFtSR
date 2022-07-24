@@ -1,9 +1,7 @@
 #2800 - Kosti
-
 owner = DAR
 controller = DAR
 add_core = DAR
-culture = nubian
 religion = coptic
 culture = nubian
 religion = shamanism #Fetishism
@@ -16,10 +14,3 @@ trade_goods = unknown
 hre = no
 base_tax = 1 
 base_production = 1
-
-
-
-
-
-
-

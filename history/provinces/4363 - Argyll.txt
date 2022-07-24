@@ -1,5 +1,4 @@
 #4363 - Argyll
-
 owner = LOW
 controller = LOW
 culture = highland_scottish

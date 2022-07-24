@@ -1,5 +1,4 @@
 #4051 - Ewaso Ngiro
-
 owner = EWA
 controller = EWA
 add_core = EWA
@@ -16,4 +15,3 @@ base_production = 1
 base_manpower = 1
 discovered_by = east_african
 discovered_by = central_african
-

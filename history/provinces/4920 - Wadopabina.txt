@@ -1,6 +1,4 @@
 # No previous file for Wadopabina
-
-
 culture = nakota
 religion = totemism
 capital = "Wadopabina"
@@ -12,6 +10,4 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 6
-
 discovered_by = north_american
-

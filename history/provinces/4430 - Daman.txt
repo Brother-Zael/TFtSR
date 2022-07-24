@@ -1,5 +1,4 @@
 #4430 - Daman
-
 owner = BID
 controller = BID
 culture = marathi
@@ -19,4 +18,3 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = chinese
 discovered_by = east_african
-

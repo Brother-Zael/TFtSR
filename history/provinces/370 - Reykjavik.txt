@@ -1,5 +1,4 @@
 #370 - Reykjavik
-
 owner = NRG
 controller = NRG
 culture = icelandic
@@ -14,4 +13,3 @@ capital = "Reykjavik"
 is_city = yes 	
 add_core = NRG
 discovered_by = western
-

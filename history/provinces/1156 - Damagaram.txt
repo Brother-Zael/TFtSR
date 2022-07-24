@@ -1,5 +1,4 @@
 #1156 - Damagaram
-
 owner = AIR
 controller = AIR
 add_core = AIR
@@ -13,4 +12,3 @@ hre = no
 base_tax = 1 
 base_production = 1
 discovered_by = sub_saharan
-

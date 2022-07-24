@@ -1,5 +1,4 @@
 #589 - Chiang Mai
-
 owner = CMI
 controller = CMI
 culture = northern_thai
@@ -12,14 +11,10 @@ base_production = 5
 base_manpower = 5
 is_city = yes
 add_core = CMI
-
 add_permanent_province_modifier = {
 	name = emerald_buddha
 	duration = -1
 }
-
 discovered_by = chinese
 discovered_by = indian
-
-
 fort_15th = yes

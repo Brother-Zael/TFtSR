@@ -1,5 +1,4 @@
 #583 - Hsenwi
-
 owner = HSW
 controller = HSW
 culture = shan
@@ -12,10 +11,5 @@ base_production = 3
 base_manpower = 3
 is_city = yes
 add_core = HSW
-
-
-
 discovered_by = chinese
 discovered_by = indian
-
-

@@ -1,5 +1,4 @@
 #4552 - Palencia
-
 owner = HLG		#Juan II of Castille
 controller = HLG
 add_core = HLG
@@ -16,5 +15,3 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

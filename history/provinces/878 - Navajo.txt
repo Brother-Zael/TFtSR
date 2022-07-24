@@ -1,5 +1,4 @@
 #878 - Navajo
-
 add_core = NAH
 owner = NAH
 controller = NAH
@@ -15,8 +14,4 @@ is_city = yes
 native_size = 20 
 native_ferocity = 3 
 native_hostileness = 5 
-
-
-
 discovered_by = north_american
-

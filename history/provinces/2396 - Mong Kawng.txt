@@ -1,5 +1,4 @@
 #2396 - Mong Kawng
-
 owner = MKA
 controller = MKA
 culture = kachin
@@ -14,5 +13,3 @@ is_city = yes
 add_core = MKA
 discovered_by = chinese
 discovered_by = indian
-
-

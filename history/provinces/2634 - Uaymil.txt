@@ -1,5 +1,4 @@
 # No previous file for Uaymil
-
 culture = yucatec
 owner = CTM
 controller = CTM
@@ -16,9 +15,4 @@ add_local_autonomy = 25
 native_size = 5
 native_ferocity = 1
 native_hostileness = 2
-
-
-
 discovered_by = mesoamerican
-
-

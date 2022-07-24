@@ -1,5 +1,4 @@
 #4222 - Ulaangom
-
 owner = SKY		# The Oirads united much of Mongolia
 controller = SKY
 add_core = SKY
@@ -14,4 +13,3 @@ base_manpower = 2
 is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
-

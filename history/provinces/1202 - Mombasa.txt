@@ -1,5 +1,4 @@
 #1202 - Mombasa
-
 owner = MBA
 controller = MBA
 add_core = MBA
@@ -19,4 +18,3 @@ discovered_by = ottoman
 discovered_by = central_african
 extra_cost = 16
 center_of_trade = 2
-

@@ -1,5 +1,4 @@
 #1121 - Bure
-
 owner = MAL
 controller = MAL
 culture = mali
@@ -12,9 +11,4 @@ hre = no
 base_tax = 6 
 base_production = 6
 add_core = MAL
-
-
-
 discovered_by = sub_saharan
-
-

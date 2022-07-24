@@ -1,5 +1,4 @@
 #4118 - Earldom of Desmond
-
 owner = COR
 controller = COR
 culture = irish
@@ -18,4 +17,3 @@ discovered_by = ottoman
 discovered_by = eastern
 extra_cost = 8
 center_of_trade = 1
-

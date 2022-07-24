@@ -1,6 +1,5 @@
 #Gotland- Visby etc
 #
-
 owner = GOT
 controller = DAN
 add_core = GOT
@@ -23,5 +22,3 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
-
-

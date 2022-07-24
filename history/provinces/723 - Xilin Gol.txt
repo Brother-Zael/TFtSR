@@ -1,8 +1,6 @@
 #723 - Xilin Gol
-
 owner = KHT	# The Oirads united much of Mongolia
 controller = KHT
-add_core = KHT
 culture = mongol
 religion = vajrayana
 capital = "Xilin Gol"
@@ -15,4 +13,3 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 add_core = KHT
-

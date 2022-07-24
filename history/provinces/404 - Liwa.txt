@@ -1,5 +1,4 @@
 #404 - Liwa
-
 owner = ABS
 controller = ABS
 culture = gulf_arabic
@@ -17,5 +16,3 @@ discovered_by = ottoman
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = east_african
-
-

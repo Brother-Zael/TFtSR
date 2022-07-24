@@ -1,5 +1,4 @@
 #973 - Squamish
-
 culture = salish
 religion = totemism
 capital = "Squamish"
@@ -12,7 +11,4 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 6
 tribal_owner = SAL
-
-
 discovered_by = north_american
-

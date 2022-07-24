@@ -1,5 +1,4 @@
 # - Eger
-
 owner = ALM
 controller = ALM
 add_core = ALM
@@ -16,5 +15,3 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

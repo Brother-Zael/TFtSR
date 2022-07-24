@@ -1,5 +1,4 @@
 # - Ortelsburg
-
 owner = TWG
 controller = TWG
 add_core = TWG
@@ -12,7 +11,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

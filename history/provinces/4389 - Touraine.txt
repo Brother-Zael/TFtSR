@@ -1,5 +1,4 @@
 # 0 Touraine - Principal cities: Tours
-
 owner = SUI
 controller = SUI
 capital = "Tours"
@@ -13,10 +12,7 @@ trade_goods = cloth
 base_manpower = 3
 add_local_autonomy = 10
 add_core = SUI
-add_core = SUI
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

@@ -1,5 +1,4 @@
 #4937 - Lau
-
 add_core = LAI
 owner = LAI
 controller = LAI
@@ -13,5 +12,3 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 discovered_by = polynesian_tech
-
-

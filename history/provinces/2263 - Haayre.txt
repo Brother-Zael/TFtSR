@@ -1,5 +1,4 @@
 # No previous file for Haayre
-
 owner = JNN
 controller = JNN
 add_core = JNN
@@ -12,9 +11,4 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-
-
-
 discovered_by = sub_saharan
-
-

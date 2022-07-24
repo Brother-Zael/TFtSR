@@ -1,8 +1,6 @@
 #679 - Sichuan Pendi
-
 owner = QIN
 controller = QIN
-add_core = QIN
 culture = sichuanese
 religion = confucianism
 capital = "Chengdu"
@@ -13,10 +11,8 @@ base_production = 9
 base_manpower = 3
 is_city = yes
 add_core = QIN
-add_core = QIN
 fort_15th = yes #More than 1 Weisuo
 discovered_by = chinese
 discovered_by = nomad_group
 extra_cost = 16
 center_of_trade = 2
-

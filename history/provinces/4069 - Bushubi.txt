@@ -1,5 +1,4 @@
 #Bushubi
-
 owner = UBH
 controller = UBH
 add_core = UBH
@@ -13,4 +12,3 @@ base_production = 3
 base_manpower = 3
 is_city = yes
 discovered_by = central_african
-

@@ -1,5 +1,4 @@
 #1753 - Kostroma
-
 owner = MSK
 controller = MSK
 culture = russian 
@@ -15,4 +14,3 @@ add_core = MSK
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
-

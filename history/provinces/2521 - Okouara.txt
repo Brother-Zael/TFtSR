@@ -1,5 +1,4 @@
 # No previous file for Okouara
-
 culture = anishinabe
 religion = totemism
 capital = "Okouara"
@@ -12,7 +11,4 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 tribal_owner = POT
-
-
 discovered_by = north_american
-

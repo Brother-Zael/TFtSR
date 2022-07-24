@@ -1,5 +1,4 @@
 #1148 - Gobir
-
 owner = AIR
 controller = AIR
 add_core = AIR
@@ -12,9 +11,4 @@ trade_goods = iron
 hre = no
 base_tax = 3 
 base_production = 3
-
-
-
 discovered_by = sub_saharan
-
-

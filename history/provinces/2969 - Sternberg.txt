@@ -1,5 +1,4 @@
 # - Sternberg
-
 owner = VNT
 controller = VNT
 add_core = VNT
@@ -12,14 +11,7 @@ trade_goods = cloth
 base_manpower = 1
 capital = "Frankfurt an der Oder"
 is_city = yes
-
-
-
-
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

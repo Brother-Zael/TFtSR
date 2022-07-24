@@ -1,6 +1,4 @@
-
 #Represents forts in western Ghana, from Axim to Elmina, mostly Elmina
-
 culture = aka
 religion = shamanism #Fetishism
 capital = "Axim"
@@ -15,5 +13,3 @@ base_manpower = 1
 discovered_by = sub_saharan
 extra_cost = 8
 center_of_trade = 1
-
-

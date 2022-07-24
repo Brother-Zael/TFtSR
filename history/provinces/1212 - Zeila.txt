@@ -1,5 +1,4 @@
 #1212 - Zeila
-
 owner = ZEI
 controller = ZEI
 add_core = ZEI
@@ -19,4 +18,3 @@ discovered_by = indian
 fort_15th = yes
 extra_cost = 16
 center_of_trade = 2
-

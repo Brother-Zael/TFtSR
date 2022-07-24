@@ -1,5 +1,4 @@
 #882 - Mescalero
-
 owner = MSC
 controller = MSC
 add_core = MSC
@@ -15,8 +14,4 @@ base_manpower = 1
 native_size = 10 
 native_ferocity = 2 
 native_hostileness = 6 
-
-
-
 discovered_by = north_american
-

@@ -1,5 +1,4 @@
 #2379 - Battambang
-
 owner = AYU
 controller = AYU
 culture = khmer
@@ -14,4 +13,3 @@ is_city = yes
 add_core = AYU
 discovered_by = chinese
 discovered_by = indian
-

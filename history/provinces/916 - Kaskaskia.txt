@@ -1,5 +1,4 @@
 #916 - Kaskaskia
-
 owner = KSK
 controller = KSK
 add_core = KSK
@@ -15,9 +14,4 @@ base_manpower = 1
 native_size = 10
 native_ferocity = 1
 native_hostileness = 0
-
-
-
 discovered_by = north_american
-
-

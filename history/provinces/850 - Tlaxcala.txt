@@ -1,5 +1,4 @@
 #850 - Tlaxcala
-
 owner = TLX
 controller = TLX
 culture = aztek
@@ -14,4 +13,3 @@ is_city = yes
 add_core = TLX
 discovered_by = mesoamerican
 fort_15th = yes
-

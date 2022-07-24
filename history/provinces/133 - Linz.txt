@@ -1,5 +1,4 @@
 #133 - Linz
-
 owner = RGM
 controller = RGM
 add_core = RGM
@@ -12,14 +11,7 @@ base_manpower = 3
 capital = "Linz" 
 is_city = yes
 hre = yes
-
-
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

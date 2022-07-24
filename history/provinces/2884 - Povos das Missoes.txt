@@ -1,5 +1,4 @@
 # - Povos das Missoes
-
 owner = GUA
 controller = GUA
 add_core = GUA
@@ -16,7 +15,3 @@ base_manpower = 1
 native_size = 10
 native_ferocity = 1
 native_hostileness = 5
-
-
-
-

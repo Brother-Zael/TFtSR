@@ -1,5 +1,4 @@
 #2727 - Minang
-
 culture = nyoongah
 religion = dreamtime
 capital = "Minang"
@@ -12,4 +11,3 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 9
 discovered_by = aboriginal_tech
-

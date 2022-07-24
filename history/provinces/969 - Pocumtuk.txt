@@ -1,5 +1,4 @@
 #969 - Pocumtuk
-
 add_core = MAH
 owner = MAH
 controller = MAH
@@ -15,8 +14,4 @@ is_city = yes
 native_size = 5
 native_ferocity = 1
 native_hostileness = 4
-
-
-
 discovered_by = north_american
-

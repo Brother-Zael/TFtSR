@@ -1,5 +1,4 @@
 #536 - Madurai
-
 owner = KOT
 controller = KOT
 culture = tamil
@@ -22,4 +21,3 @@ discovered_by = chinese
 add_local_autonomy = 25
 extra_cost = 8
 center_of_trade = 1
-

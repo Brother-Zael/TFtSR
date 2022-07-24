@@ -1,5 +1,4 @@
 #1089 - Wiradjuri
-
 culture = gamilaraay
 religion = dreamtime
 capital = "Wiradjuri"

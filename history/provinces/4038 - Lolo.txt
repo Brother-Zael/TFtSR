@@ -1,5 +1,4 @@
 #Lolo
-
 owner = ZIM
 controller = ZIM
 add_core = ZIM
@@ -15,4 +14,3 @@ base_production = 1
 add_local_autonomy = 40
 discovered_by = central_african
 discovered_by = east_african
-

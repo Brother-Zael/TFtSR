@@ -1,5 +1,4 @@
 #610 - Thanh Hoa
-
 owner = NMV
 controller = NMV
 culture = vietnamese
@@ -13,13 +12,7 @@ base_manpower = 4
 fort_15th = yes #Than Hoa Citadel
 is_city = yes
 add_core = NMV
-add_core = NMV
-
-
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
-
-

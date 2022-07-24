@@ -1,5 +1,4 @@
 #656 - Manila
-
 culture = filipino
 religion = animism #Mixed with Islam
 capital = "Manila"
@@ -15,4 +14,3 @@ add_core = MNL
 discovered_by = chinese
 extra_cost = 16
 center_of_trade = 2
-

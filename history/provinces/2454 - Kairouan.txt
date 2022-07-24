@@ -1,5 +1,4 @@
 # - El Kef
-
 owner = ZEU
 controller = ZEU 
 culture = tunisian
@@ -13,12 +12,7 @@ base_manpower = 1
 is_city = yes
 add_core = ZEU
 fort_15th = yes #El Kef fortifications
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

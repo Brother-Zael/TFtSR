@@ -1,5 +1,4 @@
 #998 - Ungava
-
 culture = inuit
 religion = totemism
 capital = "Ungava"
@@ -11,8 +10,4 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 1
-
-
-
 discovered_by = north_american
-

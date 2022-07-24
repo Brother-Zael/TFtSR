@@ -1,5 +1,4 @@
 #Västerbotten-Ångermanland, from Sundsvall/Härnösand over Umeå to Torneå
-
 owner = VST
 controller = VST
 add_core = VST

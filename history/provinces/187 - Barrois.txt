@@ -1,5 +1,4 @@
 # 187 Barrois - Principal cities: Verdun
-
 owner = ARM
 controller = ARM
 capital = "Bar-le-Duc"
@@ -12,12 +11,7 @@ base_production = 4
 trade_goods = cloth
 base_manpower = 3
 add_core = ARM
-
-
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

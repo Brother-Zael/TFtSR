@@ -1,8 +1,6 @@
 #2024 - Garoowe
-
 owner = BSA
 controller = BSA
-add_core = BSA
 add_core = BSA
 culture = somali
 religion = sunni
@@ -13,12 +11,7 @@ trade_goods = fish
 hre = no
 base_tax = 1 
 base_production = 1 
-
 discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
-
-
-
-

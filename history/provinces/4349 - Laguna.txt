@@ -1,5 +1,4 @@
 #4349 - Laguna
-
 owner = IGO
 controller = IGO
 add_core = IGO
@@ -13,4 +12,3 @@ base_production = 3
 base_manpower = 1
 is_city = yes
 discovered_by = chinese
-

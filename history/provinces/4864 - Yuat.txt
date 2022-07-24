@@ -1,5 +1,4 @@
 #4864 - Yuat
-
 culture = nyoongah
 religion = dreamtime
 capital = "Yuat"
@@ -12,6 +11,3 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 4
 discovered_by = aboriginal_tech
-
-
-

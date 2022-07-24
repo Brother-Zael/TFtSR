@@ -1,8 +1,6 @@
 # No previous file for Mema
-
 owner = MSS
 controller = MSS
-add_core = MSS
 add_core = MSS
 is_city = yes
 culture = bambara 
@@ -16,9 +14,4 @@ native_size = 40
 native_ferocity = 4
 native_hostileness = 9
 base_manpower = 1
-
-
-
 discovered_by = sub_saharan
-
-

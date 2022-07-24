@@ -1,5 +1,4 @@
 #Galich
-
 owner = NIZ
 controller = NIZ
 capital = "Galich"
@@ -14,7 +13,4 @@ is_city = yes
 add_core = NIZ
 discovered_by = eastern
 discovered_by = western
-
 discovered_by = nomad_group
-
-

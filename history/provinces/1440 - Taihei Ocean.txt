@@ -1,14 +1,2 @@
 discovered_by = chinese
-
-
-
-
-
-
-
-
-
-
-
-
  # Ivan Moskvitin

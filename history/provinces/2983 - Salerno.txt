@@ -1,5 +1,4 @@
 # - Salerno
-
 owner = NPL
 controller = NPL
 culture = neapolitan 
@@ -12,12 +11,7 @@ base_manpower = 4
 capital = "Salerno" 
 is_city = yes	# Estimated
 add_core = NPL
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

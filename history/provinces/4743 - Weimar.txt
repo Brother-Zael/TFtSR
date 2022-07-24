@@ -1,5 +1,4 @@
 # 4743 - Weimar
-
 owner = ANH
 controller = ANH
 add_core = ANH
@@ -12,12 +11,7 @@ trade_goods = grain
 base_manpower = 2
 capital = "Weimar"
 is_city = yes
-
-
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

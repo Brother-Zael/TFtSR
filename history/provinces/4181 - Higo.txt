@@ -1,5 +1,4 @@
 #4181 - Higo
-
 owner = GYJ
 controller = GYJ
 culture = kyushuan
@@ -13,8 +12,3 @@ base_production = 3
 is_city = yes
 add_core = GYJ
 discovered_by = chinese
-
-
-
-
-

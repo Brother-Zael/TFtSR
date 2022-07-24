@@ -1,5 +1,4 @@
 #380 - Al Karak
-
 owner = UMY
 controller = UMY
 culture = bedouin_arabic
@@ -20,5 +19,3 @@ discovered_by = western
 discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
-
-

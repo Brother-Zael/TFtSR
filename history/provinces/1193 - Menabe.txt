@@ -1,5 +1,4 @@
 #1193 - Menabe
-
 owner = SKA
 controller = SKA
 add_core = SKA
@@ -15,5 +14,3 @@ is_city = yes
 discovered_by = east_african
 extra_cost = 8
 center_of_trade = 1
-
-

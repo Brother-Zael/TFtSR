@@ -1,5 +1,4 @@
 #962 - Unami
-
 culture = delaware
 religion = totemism
 capital = "Unami"
@@ -12,7 +11,4 @@ native_size = 15
 native_ferocity = 2
 native_hostileness = 8
 tribal_owner = LEN
-
-
 discovered_by = north_american
-

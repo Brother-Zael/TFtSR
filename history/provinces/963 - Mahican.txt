@@ -1,5 +1,4 @@
 #963 - Mahican
-
 culture = mahican
 religion = totemism
 capital = "Mahican"
@@ -12,6 +11,4 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 4
 tribal_owner = MAH
-
 discovered_by = north_american
-

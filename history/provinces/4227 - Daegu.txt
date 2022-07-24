@@ -1,5 +1,4 @@
 #4227 - Daegu
-
 owner = GYJ
 controller = GYJ
 culture = korean
@@ -14,4 +13,3 @@ is_city = yes
 add_core = GYJ
 discovered_by = chinese
 discovered_by = nomad_group
-

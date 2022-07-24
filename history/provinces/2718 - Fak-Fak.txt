@@ -1,5 +1,4 @@
 #2718 - Fak-Fak
-
 culture = papuan
 religion = animism
 capital = "Fak-Fak"
@@ -11,10 +10,4 @@ base_manpower = 1
 native_size = 60
 native_ferocity = 6
 native_hostileness = 9
-
-
  # Don Jorge de Mneses
-
-
-
-

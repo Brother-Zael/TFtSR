@@ -1,5 +1,4 @@
 #1116 - Wolof
-
 owner = JLF
 controller = JLF
 culture = senegambian
@@ -12,9 +11,4 @@ hre = no
 base_tax = 3 
 base_production = 3
 add_core = JLF
-
-
-
 discovered_by = sub_saharan
-
-

@@ -1,5 +1,4 @@
 # - Touggourt
-
 owner = EPY
 controller = EPY
 culture = algerian
@@ -12,10 +11,6 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = EPY
-
-
-
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
-

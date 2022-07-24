@@ -1,5 +1,4 @@
 #935 - Cherokee
-
 owner = CIA
 controller = CIA
 culture = yuchi
@@ -15,8 +14,4 @@ add_core = CIA
 native_size = 10
 native_ferocity = 7
 native_hostileness = 2
-
-
-
 discovered_by = north_american
-

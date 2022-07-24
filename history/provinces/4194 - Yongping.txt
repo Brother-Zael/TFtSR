@@ -1,12 +1,9 @@
 #4194 - Yongping
-
 latent_trade_goods = {
 	coal
 }
-
 owner = WSP
 controller = WSP
-add_core = WSP
 culture = chihan
 religion = confucianism
 capital = "Yongping"
@@ -19,4 +16,3 @@ is_city = yes
 add_core = WSP
 discovered_by = chinese
 discovered_by = nomad_group
-

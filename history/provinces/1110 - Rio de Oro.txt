@@ -1,5 +1,4 @@
 #1110 - Agadir
-
 owner = TSL
 controller = TSL
 culture = berber
@@ -12,10 +11,8 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = TSL
-add_core = TSL
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
-

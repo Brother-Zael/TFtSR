@@ -1,5 +1,4 @@
 # 2273 - Ader
-
 owner = AIR
 controller = AIR
 add_core = AIR
@@ -16,4 +15,3 @@ native_ferocity = 4
 native_hostileness = 9
 base_manpower = 1
 discovered_by = sub_saharan
-

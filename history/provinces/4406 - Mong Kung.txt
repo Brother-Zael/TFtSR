@@ -1,5 +1,4 @@
 #4406 - Mong Kung
-
 owner = MKU
 controller = MKU
 culture = shan
@@ -12,10 +11,5 @@ base_production = 2
 base_manpower = 1
 is_city = yes
 add_core = MKU
-
-
-
 discovered_by = chinese
 discovered_by = indian
-
-

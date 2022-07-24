@@ -1,5 +1,4 @@
 #355 - Sirt
-
 owner = BGZ
 controller = BGZ
 culture = tunisian
@@ -12,14 +11,8 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = BGZ
-add_core = BGZ
 add_local_autonomy = 25
-
-
-
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-
-

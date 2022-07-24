@@ -1,5 +1,4 @@
 # - Chachapoyas
-
 owner = CYA
 controller = CYA
 culture = chachapoyan
@@ -12,12 +11,6 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = CYA
-
-
-
 discovered_by = south_american
 discovered_by = andean
-
-
 fort_15th = yes
-

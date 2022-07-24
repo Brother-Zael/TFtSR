@@ -1,5 +1,4 @@
 #218 - Badajoz
-
 owner = EVO		#Juan II of Castille
 controller = EVO
 add_core = EVO
@@ -16,5 +15,3 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

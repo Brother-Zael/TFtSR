@@ -1,5 +1,4 @@
 #Riga Bight, incl. the city of Riga, and Dünamünde.
-
 owner = RIG
 controller = RIG
 add_core = RIG
@@ -15,7 +14,6 @@ is_city = yes
 fort_15th = yes
 extra_cost = 18
 center_of_trade = 1
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

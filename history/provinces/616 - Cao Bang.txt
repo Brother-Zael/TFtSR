@@ -1,5 +1,4 @@
 #616 - Cao Bang
-
 owner = NMV
 controller = NMV
 culture = zhuang
@@ -12,11 +11,5 @@ base_production = 2
 base_manpower = 3
 is_city = yes
 add_core = NMV
-add_core = NMV
-
-
-
 discovered_by = chinese
 discovered_by = indian
-
-

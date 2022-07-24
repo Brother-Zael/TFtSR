@@ -1,5 +1,4 @@
 #2758 - Illubabor
-
 owner = GON
 controller = GON
 add_core = GON
@@ -14,4 +13,3 @@ base_tax = 2
 base_production = 3
 discovered_by = east_african
 discovered_by = muslim
-

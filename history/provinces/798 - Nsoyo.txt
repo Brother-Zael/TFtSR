@@ -1,5 +1,4 @@
 # - Nsoyo
-
 owner = KON
 controller = KON
 culture = mbundu
@@ -13,4 +12,3 @@ base_production = 2
 base_manpower = 1
 add_core = KON
 discovered_by = central_african
-

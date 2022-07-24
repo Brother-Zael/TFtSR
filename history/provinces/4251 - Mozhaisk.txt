@@ -1,5 +1,4 @@
 #4251 - Mozhaisk
-
 owner = HOL
 controller = HOL
 add_core = HOL
@@ -12,10 +11,7 @@ trade_goods = grain
 base_manpower = 2
 capital = "Mozhaisk"
 is_city = yes
-
 discovered_by = eastern
 discovered_by = western
-
-
 discovered_by = nomad_group
 fort_15th = yes

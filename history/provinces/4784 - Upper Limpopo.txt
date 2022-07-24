@@ -1,5 +1,4 @@
 #9003 - Upper Limpopo
-
 culture = nguni
 religion = shamanism #Fetishism
 capital = "Polokwane"

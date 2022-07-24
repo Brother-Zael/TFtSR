@@ -1,5 +1,4 @@
 #2757 - Kaffa
-
 owner = NER
 controller = NER
 add_core = NER
@@ -12,8 +11,5 @@ trade_goods = gold
 hre = no
 base_tax = 4
 base_production = 3 
-
 discovered_by = east_african
 discovered_by = muslim
-
-

@@ -1,5 +1,4 @@
 #314 - Vologda
-
 owner = VOL
 controller = VOL
 culture = russian 
@@ -16,4 +15,3 @@ add_core = VOL # Novgorodian claims
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
-

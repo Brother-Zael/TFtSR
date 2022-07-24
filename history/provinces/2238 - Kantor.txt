@@ -1,5 +1,4 @@
 # No previous file for Kantor
-
 owner = MAL
 controller = MAL
 add_core = MAL
@@ -15,4 +14,3 @@ base_production = 1
 base_manpower = 1
 discovered_by = sub_saharan
 add_local_autonomy = 50
-

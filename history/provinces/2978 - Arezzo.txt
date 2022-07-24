@@ -1,5 +1,4 @@
 # 2978 - Arezzo
-
 owner = FAU
 controller = FAU
 culture = tuscan 
@@ -16,5 +15,3 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

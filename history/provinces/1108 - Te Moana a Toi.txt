@@ -1,5 +1,4 @@
 #1108 - Te Moana a Toi
-
 add_core = TEA
 owner = TEA
 controller = TEA
@@ -13,5 +12,3 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 discovered_by = polynesian_tech
-
-

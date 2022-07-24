@@ -1,5 +1,4 @@
 #1933 - Bari
-
 owner = ARI
 controller = ARI
 culture = neapolitan 
@@ -12,12 +11,7 @@ base_manpower = 2
 capital = "Bari"
 is_city = yes # Estimated 
 add_core = ARI
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

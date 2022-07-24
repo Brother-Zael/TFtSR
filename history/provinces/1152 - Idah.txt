@@ -1,5 +1,4 @@
 #1152 - Idah
-
 owner = BEN
 controller = BEN
 add_core = BEN
@@ -15,9 +14,4 @@ trade_goods = ivory
 native_size = 50
 native_ferocity = 4
 native_hostileness = 9 
-
-
-
 discovered_by = sub_saharan
-
-

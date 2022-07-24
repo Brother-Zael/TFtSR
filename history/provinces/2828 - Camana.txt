@@ -1,5 +1,4 @@
 # - Camana
-
 culture = aimara
 religion = inti
 capital = "Camana"
@@ -11,10 +10,5 @@ base_manpower = 1
 native_size = 10
 native_ferocity = 1
 native_hostileness = 1
-
-
-
 discovered_by = south_american
 discovered_by = andean
-
-

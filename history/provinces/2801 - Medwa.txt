@@ -1,5 +1,4 @@
 #2801 - Medwa
-
 culture = tunjur 
 religion = shamanism #Fetishism
 capital = "Medowa"
@@ -12,4 +11,3 @@ hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-

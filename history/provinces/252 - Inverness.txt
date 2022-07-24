@@ -1,5 +1,4 @@
 #252 - Highlands
-
 owner = LOW
 controller = LOW
 culture = highland_scottish

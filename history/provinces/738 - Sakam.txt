@@ -1,5 +1,4 @@
 #738 - Taiwan
-
 owner = NMY		
 controller = NMY
 add_core = NMY
@@ -14,12 +13,4 @@ base_manpower = 2
 native_size = 60
 native_ferocity = 1
 native_hostileness = 5
-
-
-
 discovered_by = chinese
-
-
-
-
-

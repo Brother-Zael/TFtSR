@@ -1,8 +1,6 @@
 #669 - Fuzhou
-
 owner = CWU
 controller = CWU
-add_core = CWU
 culture = chimin
 religion = confucianism
 capital = "Fuzhou"
@@ -18,4 +16,3 @@ discovered_by = chinese
 discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
-

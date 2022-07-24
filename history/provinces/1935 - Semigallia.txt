@@ -1,5 +1,4 @@
 #Semigallia, center at Mitau
-
 owner = LIV
 controller = LIV
 add_core = LIV

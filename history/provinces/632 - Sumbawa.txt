@@ -1,5 +1,4 @@
 #632 - Sumbawa
-
 owner = LBK
 controller = LBK 
 add_core = LBK
@@ -14,8 +13,4 @@ base_manpower = 2
 native_size = 5
 native_ferocity = 1
 native_hostileness = 5
-
-
-
 discovered_by = chinese
-

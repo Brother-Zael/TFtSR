@@ -1,8 +1,6 @@
 #Minorca
-
 owner = MLG		# Alfons V of Aragon
 controller = MLG
-add_core = MLG
 add_core = MLG
 culture = catalan
 religion = catholic
@@ -17,5 +15,3 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

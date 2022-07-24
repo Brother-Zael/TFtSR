@@ -1,5 +1,4 @@
 #1018 - Izumo
-
 owner = OUC
 controller = OUC
 culture = japanese
@@ -14,8 +13,3 @@ is_city = yes
 add_core = OUC
 fort_15th = yes #Gassantoda Castle
 discovered_by = chinese
-
-
-
-
-

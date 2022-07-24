@@ -1,5 +1,4 @@
 #274 - Pskov
-
 owner = PSK
 controller = PSK
 add_core = PSK
@@ -13,12 +12,6 @@ base_manpower = 4
 capital = "Pskov"
 is_city = yes
 fort_15th = yes
-
-
-
-
-
-
 discovered_by = western
 discovered_by = eastern
 extra_cost = 8

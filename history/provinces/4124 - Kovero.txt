@@ -1,5 +1,4 @@
 #4124 - North Karelia
-
 owner = KAR
 controller = KAR
 add_core = KAR

@@ -1,6 +1,5 @@
 #Eastern Skåne - More or less Kristianstad Län. Includes Göinge, Gladsax Len, Listerlandet, and others.
 #
-
 add_core = LUN
 owner = LUN
 controller = LUN
@@ -17,5 +16,3 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

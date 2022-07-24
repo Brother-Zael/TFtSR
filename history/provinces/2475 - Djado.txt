@@ -1,5 +1,4 @@
 # - Djado
-
 culture = tuareg
 religion = sunni
 capital = "Djado"

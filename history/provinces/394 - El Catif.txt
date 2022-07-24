@@ -1,5 +1,4 @@
 #394 - El Catif
-
 owner = LAK
 controller = LAK
 culture = gulf_arabic
@@ -20,4 +19,3 @@ discovered_by = east_african
 fort_15th = yes
 extra_cost = 8
 center_of_trade = 1
-

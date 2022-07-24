@@ -1,5 +1,4 @@
 # 1743 Cambray
-
 latent_trade_goods = {
 	coal
 }

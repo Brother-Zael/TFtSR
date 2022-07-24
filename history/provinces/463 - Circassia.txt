@@ -1,5 +1,4 @@
 #463 - Circassia
-
 owner = OYG
 controller = OYG
 culture = circassian
@@ -17,5 +16,3 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
-
-

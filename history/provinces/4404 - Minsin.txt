@@ -1,5 +1,4 @@
 #4404 - Minsin
-
 owner = MYA
 controller = MYA
 culture = kachin
@@ -12,9 +11,5 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = MYA
-
-
 discovered_by = chinese
 discovered_by = indian
-
-

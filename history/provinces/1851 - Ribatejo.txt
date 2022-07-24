@@ -1,5 +1,4 @@
 #1851 - Coimbra
-
 owner = CTC
 controller = CTC
 culture = portugese
@@ -16,5 +15,3 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-
-

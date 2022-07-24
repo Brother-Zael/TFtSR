@@ -1,5 +1,4 @@
 #4046 - Lala
-
 culture = bemba
 religion = shamanism #Fetishism
 trade_goods = unknown

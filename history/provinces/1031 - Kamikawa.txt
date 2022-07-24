@@ -1,5 +1,4 @@
 #1031 - Kamikawa
-
 culture = ainu
 religion = animism
 capital = "Kamikawa"
@@ -12,50 +11,3 @@ owner = ANU
 controller = ANU
 add_core = ANU
 is_city = yes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

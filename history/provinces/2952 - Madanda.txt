@@ -1,5 +1,4 @@
 # - Madanda
-
 owner = ZUL
 controller = ZUL
 add_core = ZUL
@@ -14,5 +13,3 @@ base_tax = 1
 base_production = 1
 discovered_by = east_african
 discovered_by = central_african
-
-

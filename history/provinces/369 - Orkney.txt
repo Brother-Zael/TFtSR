@@ -1,5 +1,4 @@
 #369 - Orkney
-
 owner = NRG
 controller = NRG
 culture = norwegian
@@ -12,11 +11,7 @@ base_manpower = 1
 capital = "Kirkwall"
 is_city = yes
 add_core = NRG
-
-
-
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-

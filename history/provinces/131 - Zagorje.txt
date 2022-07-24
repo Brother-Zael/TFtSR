@@ -1,5 +1,4 @@
 #131 - Zagorje
-
 owner = CRO
 controller = CRO
 culture = croatian
@@ -13,14 +12,7 @@ base_manpower = 1
 is_city = yes
 fort_15th = yes
 add_core = CRO
-
-
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

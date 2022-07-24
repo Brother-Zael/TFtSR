@@ -1,8 +1,6 @@
 #73 - Tirol
-
 owner = RTI
 controller = RTI
-add_core = RTI
 add_core = RTI
 culture = austrian
 religion = catholic
@@ -17,5 +15,3 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

@@ -1,5 +1,4 @@
 #924 - Alabama
-
 culture = choctaw
 religion = totemism
 capital = "Alabama"
@@ -11,8 +10,4 @@ base_manpower = 2
 native_size = 20
 native_ferocity = 7
 native_hostileness = 3
-
-
-
 discovered_by = north_american
-

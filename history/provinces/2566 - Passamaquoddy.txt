@@ -1,5 +1,4 @@
 # No previous file for Passamaquoddy
-
 culture = maliseet
 religion = totemism
 capital = "Passamaquoddy"
@@ -12,7 +11,4 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 tribal_owner = MLS
-
-
 discovered_by = north_american
-

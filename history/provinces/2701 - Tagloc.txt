@@ -1,5 +1,4 @@
 #2701 - Tagloc
-
 culture = filipino
 religion = animism
 capital = "Tagloc"
@@ -12,5 +11,3 @@ native_size = 70
 native_ferocity = 2
 native_hostileness = 9
 discovered_by = chinese
-
-

@@ -1,6 +1,5 @@
 #Uppland, contains Stockholm, Uppsala & Nyköping.
 #
-
 add_core = UPP
 add_core = VAR
 owner = UPP
@@ -20,5 +19,3 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
-
-

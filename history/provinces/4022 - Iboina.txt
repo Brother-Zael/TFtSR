@@ -1,5 +1,4 @@
 #4022 - Iboina
-
 owner = KIL
 controller = KIL
 add_core = KIL
@@ -14,4 +13,3 @@ base_manpower = 1
 is_city = yes
 add_local_autonomy = 40
 discovered_by = east_african
-

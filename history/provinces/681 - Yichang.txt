@@ -1,8 +1,6 @@
 #681 - Yichuan
-
 owner = WUL
 controller = WUL
-add_core = WUL
 culture = sichuanese
 religion = confucianism
 capital = "Yichang"
@@ -13,11 +11,5 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = WUL
-add_core = WUL
-
-
-
 discovered_by = chinese
 discovered_by = nomad_group
-
-

@@ -1,5 +1,4 @@
 # 4525 - Dobryzn
-
 owner = PMS
 controller = PMS
 add_core = PMS
@@ -12,12 +11,6 @@ hre = no
 base_tax = 2
 base_production = 1
 base_manpower = 1
-
-
-
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

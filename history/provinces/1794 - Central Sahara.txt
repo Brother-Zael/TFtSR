@@ -1,16 +1,3 @@
 #1794 - Central Sahara
-
-
-
-
-
-
-
-
-
-
-
-
 discovered_by = muslim
 discovered_by = ottoman
-

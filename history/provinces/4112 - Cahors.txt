@@ -1,5 +1,4 @@
 # 4112 - Cahors
-
 owner = DIV
 controller = DIV
 capital = "Cahors"
@@ -12,9 +11,7 @@ base_production = 3
 trade_goods = wine
 base_manpower = 3
 add_core = DIV
-add_core = DIV
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-

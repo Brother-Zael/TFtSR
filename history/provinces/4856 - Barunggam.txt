@@ -1,5 +1,4 @@
 #4656 - Barunggam
-
 add_core = GMI
 owner = GMI
 controller = GMI
@@ -15,6 +14,3 @@ native_size = 50
 native_ferocity = 1
 native_hostileness = 1
 discovered_by = aboriginal_tech
-
-
-

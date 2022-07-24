@@ -1,5 +1,4 @@
 #1955 - Kholmogory
-
 owner = VOL 
 controller = VOL 
 culture = novgorodian
@@ -12,13 +11,7 @@ base_manpower = 1
 capital = "Kholmogory"
 is_city = yes
 add_core = VOL
-
-
-
-
-
 discovered_by = eastern
 discovered_by = western
 extra_cost = 16
 center_of_trade = 2
-

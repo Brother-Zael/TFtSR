@@ -1,5 +1,4 @@
 #1179 - Little Karoo
-
 culture = khoisan
 religion = shamanism #Fetishism
 capital = "Swellendam"
@@ -11,4 +10,3 @@ base_manpower = 2
 native_size = 5
 native_ferocity = 1
 native_hostileness = 1
-

@@ -1,5 +1,4 @@
 #4427 - Honnavara
-
 owner = GOA
 controller = GOA
 culture = kannada
@@ -19,4 +18,3 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = chinese
 discovered_by = east_african
-

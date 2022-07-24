@@ -1,5 +1,4 @@
 #840 - Honduras
-
 culture = miskito
 religion = animism
 capital = "Honduras" 
@@ -11,11 +10,4 @@ base_manpower = 1
 native_size = 15
 native_ferocity = 1
 native_hostileness = 2
-
-
-
 discovered_by = mesoamerican
-
-
-
-

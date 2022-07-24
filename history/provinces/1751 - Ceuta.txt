@@ -1,5 +1,4 @@
 #1751 - Ceuta
-
 owner = TNG
 controller = TNG 
 culture = moroccan
@@ -13,14 +12,9 @@ base_manpower = 1
 is_city = yes
 fort_15th = yes
 add_core = TNG
-add_core = TNG
-
-
-
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-
 
 #

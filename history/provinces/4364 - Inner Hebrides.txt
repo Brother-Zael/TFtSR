@@ -1,5 +1,4 @@
 #4364 - Inner Hebrides
-
 owner = LOW
 controller = LOW
 culture = highland_scottish

@@ -1,5 +1,4 @@
 #4123 - Birkaland
-
 owner = NYL
 controller = NYL
 add_core = NYL

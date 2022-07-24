@@ -1,5 +1,4 @@
 # 2133 - Dege
-
 owner = DEG
 controller = DEG
 add_core = DEG
@@ -17,4 +16,3 @@ discovered_by = nomad_group
 discovered_by = indian
 extra_cost = 8
 center_of_trade = 1
-

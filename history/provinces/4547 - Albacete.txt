@@ -1,5 +1,4 @@
 #221 - Murcia
-
 owner = LSS		# Juan II of Castille
 controller = LSS
 add_core = LSS
@@ -12,12 +11,7 @@ trade_goods = grain
 base_manpower = 2
 capital = "Albacete" 
 is_city = yes
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

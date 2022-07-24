@@ -1,5 +1,4 @@
 #4869 - Pyemmairrener
-
 add_core = PLW
 owner = PLW
 controller = PLW
@@ -16,6 +15,3 @@ native_size = 6
 native_ferocity = 6
 native_hostileness = 9
 discovered_by = aboriginal_tech
-
-
-

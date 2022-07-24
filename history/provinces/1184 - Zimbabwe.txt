@@ -1,5 +1,4 @@
 #1184 - Zimbabwe
-
 owner = ZIM
 controller = ZIM
 add_core = ZIM
@@ -16,5 +15,3 @@ discovered_by = east_african
 discovered_by = central_african
 extra_cost = 8
 center_of_trade = 1
-
-

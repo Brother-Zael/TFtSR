@@ -1,5 +1,4 @@
 #601 - Sukhothai
-
 owner = SUK
 controller = SUK
 culture = central_thai
@@ -13,10 +12,5 @@ base_manpower = 3
 is_city = yes
 fort_15th = yes
 add_core = SUK
-
-
-
 discovered_by = chinese
 discovered_by = indian
-
-

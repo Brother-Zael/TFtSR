@@ -1,5 +1,4 @@
 # 195 Limousin - Principal cities: Limoges
-
 owner = GNB
 controller = GNB
 capital = "Limoges"
@@ -12,10 +11,7 @@ base_production = 3
 trade_goods = livestock
 base_manpower = 2
 add_core = GNB
-add_core = GNB
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

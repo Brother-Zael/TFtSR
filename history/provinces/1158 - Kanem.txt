@@ -1,8 +1,6 @@
 #1158 - Kanem
-
 owner = KNB
 controller = KNB
-add_core = KNB
 add_core = KNB
 culture = kanuri
 religion = sunni
@@ -16,5 +14,3 @@ base_production = 3
 discovered_by = sub_saharan
 extra_cost = 8
 center_of_trade = 1
-
-

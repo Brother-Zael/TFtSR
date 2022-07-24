@@ -1,5 +1,4 @@
 #810 - Huancavelica
-
 owner = WKA
 controller = WKA
 culture = inca
@@ -12,10 +11,5 @@ base_production = 2
 base_manpower = 1
 is_city = yes
 add_core = WKA
-
-
-
 discovered_by = south_american
 discovered_by = andean
-
-

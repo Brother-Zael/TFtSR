@@ -1,5 +1,4 @@
 #1038 - Karalveyem
-
 culture = yukagyr
 religion = tengri_pagan_reformed
 capital = "Karalveyem"
@@ -11,12 +10,3 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 3
-
-
-
-
-
-
-
-
-

@@ -1,5 +1,4 @@
 #4477 - Satgaon
-
 owner = DHK
 controller = DHK
 culture = bengali
@@ -20,4 +19,3 @@ discovered_by = ottoman
 discovered_by = chinese
 extra_cost = 8
 center_of_trade = 1
-

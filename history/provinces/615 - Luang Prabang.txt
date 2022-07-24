@@ -1,5 +1,4 @@
 #615 - Luang Prabang
-
 owner = VNT
 controller = VNT
 culture = lao
@@ -12,8 +11,5 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 add_core = VNT
-add_core = VNT
 discovered_by = chinese
 discovered_by = indian
-
-

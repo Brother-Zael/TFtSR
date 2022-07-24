@@ -1,5 +1,4 @@
 #4076 - Muhambwe
-
 culture = takama
 religion = shamanism #Fetishism
 trade_goods = unknown

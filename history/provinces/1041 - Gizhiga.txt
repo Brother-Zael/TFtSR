@@ -1,5 +1,4 @@
 #1041 - Gizhiga
-
 owner = CHV
 controller = CHV
 add_core = CHV
@@ -15,12 +14,3 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 3
 is_city = yes
-
-
-
-
-
-
-
-
-

@@ -1,5 +1,4 @@
 # 185 Nemours
-
 owner = BRI
 controller = BRI
 capital = "Nemours"
@@ -12,10 +11,7 @@ base_production = 5
 trade_goods = paper
 base_manpower = 5
 add_core = BRI
-add_core = BRI
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

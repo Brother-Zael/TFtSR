@@ -1,5 +1,4 @@
 #1823 - Stung Treng
-
 owner = STR
 controller = STR
 culture = khmer
@@ -12,9 +11,5 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = STR
-
-
-
 discovered_by = chinese
 discovered_by = indian
-

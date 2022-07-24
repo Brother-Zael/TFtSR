@@ -1,8 +1,6 @@
 #703 - Chengde
-
 owner = WSP
 controller = WSP
-add_core = WSP
 culture = chahar
 religion = vajrayana
 capital = "Chengde"
@@ -15,5 +13,3 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 add_core = WSP
-
-

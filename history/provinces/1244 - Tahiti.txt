@@ -1,5 +1,4 @@
 #1244 - Tahiti
-
 culture = polynesian
 religion = animism
 capital = "Tahiti"
@@ -12,7 +11,3 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 2
 discovered_by = polynesian_tech
-
-
-
-

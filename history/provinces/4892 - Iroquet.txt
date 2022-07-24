@@ -1,5 +1,4 @@
 # No previous file for Iroquet
-
 culture = laurentian
 religion = totemism
 capital = "Iroquet"
@@ -13,4 +12,3 @@ native_ferocity = 1
 native_hostileness = 6
 tribal_owner = OSH
 discovered_by = north_american
-

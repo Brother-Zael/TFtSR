@@ -1,5 +1,4 @@
 #1151 - Bonny
-
 culture = sawabantu
 religion = shamanism #Fetishism
 capital = "Bonny"
@@ -11,8 +10,4 @@ base_manpower = 2
 native_size = 50
 native_ferocity = 4
 native_hostileness = 9 
-
-
-
 discovered_by = sub_saharan
-

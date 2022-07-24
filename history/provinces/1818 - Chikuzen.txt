@@ -1,9 +1,7 @@
 #1818 - Chikuzen
-
 latent_trade_goods = {
 	coal
 }
-
 owner = GYJ
 controller = GYJ
 culture = kyushuan
@@ -18,10 +16,5 @@ is_city = yes
 fort_15th = yes #Tachibanayama Castle
 add_core = GYJ
 discovered_by = chinese
-
-
-
-
 extra_cost = 16
 center_of_trade = 2
-

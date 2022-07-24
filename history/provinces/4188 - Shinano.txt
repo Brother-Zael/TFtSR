@@ -1,5 +1,4 @@
 #2017 - Shinano
-
 owner = ODA
 controller = ODA
 culture = togoku
@@ -13,9 +12,3 @@ base_production = 2
 is_city = yes
 add_core = ODA
 discovered_by = chinese
-
-
-
-
-
-

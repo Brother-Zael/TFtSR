@@ -1,5 +1,4 @@
 # - Oujda
-
 owner = CAE
 controller = CAE
 culture = berber
@@ -12,12 +11,7 @@ base_production = 3
 base_manpower = 1
 is_city = yes
 add_core = CAE
-
-
-
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
 discovered_by = eastern
-
-

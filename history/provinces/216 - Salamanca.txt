@@ -1,8 +1,6 @@
 #216 - Salamanca
-
 owner = SAL		#Juan II of Castille
 controller = SAL
-add_core = SAL
 add_core = SAL
 culture = leonese
 religion = catholic
@@ -17,5 +15,3 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

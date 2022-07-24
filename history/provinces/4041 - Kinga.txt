@@ -1,5 +1,4 @@
 #4041 - Kinga
-
 culture = bena
 religion = shamanism #Fetishism
 trade_goods = unknown

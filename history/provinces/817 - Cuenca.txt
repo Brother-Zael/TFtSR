@@ -1,15 +1,10 @@
 #817 - Cuenca
-
 owner = QTO
 controller = QTO
 add_core = QTO
 culture = cara
-
-
-
 discovered_by = south_american
 discovered_by = andean
-
 religion = inti
 capital = "Surampalli"
 is_city = yes
@@ -18,9 +13,3 @@ hre = no
 base_tax = 3 
 base_production = 3
 base_manpower = 2
-
-
-
-
-
-

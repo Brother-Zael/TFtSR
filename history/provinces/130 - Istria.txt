@@ -1,5 +1,4 @@
 #130 - Istria
-
 owner = VEN
 controller = VEN
 culture = dalmatian
@@ -13,11 +12,6 @@ base_production = 3
 base_manpower = 3
 is_city = yes
 add_core = VEN
-
-
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -25,5 +19,3 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 add_core = DAL
-
-

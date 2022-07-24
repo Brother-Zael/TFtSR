@@ -1,8 +1,6 @@
 #4788 - Plasencia
-
 owner = TDT		#Enrique III of Castille
 controller = TDT
-add_core = TDT
 add_core = TDT
 culture = leonese
 religion = catholic
@@ -17,5 +15,3 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

@@ -1,5 +1,4 @@
 #1792 - Imerina
-
 owner = MIR
 controller = MIR
 add_core = MIR
@@ -13,5 +12,3 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 discovered_by = east_african
-
-

@@ -1,5 +1,4 @@
 # No previous file for Loup
-
 culture = laurentian
 religion = totemism
 capital = "Loup"
@@ -12,7 +11,4 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 tribal_owner = OSH
-
-
 discovered_by = north_american
-

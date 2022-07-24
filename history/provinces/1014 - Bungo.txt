@@ -1,5 +1,4 @@
 #1014 - Bungo
-
 owner = OTM
 controller = OTM
 culture = kyushuan
@@ -13,8 +12,3 @@ base_manpower = 3
 is_city = yes
 add_core = OTM
 discovered_by = chinese
-
-
-
-
-

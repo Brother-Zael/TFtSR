@@ -1,5 +1,4 @@
 #978 - Alaska
-
 culture = aleutian
 religion = totemism
 capital = "Alaska"
@@ -11,8 +10,4 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1 
 native_hostileness = 6 
-
-
-
 discovered_by = north_american
-

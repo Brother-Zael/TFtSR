@@ -1,5 +1,4 @@
 #1817 - Nan
-
 owner = CMI
 controller = CMI
 culture = northern_thai
@@ -14,4 +13,3 @@ is_city = yes
 add_core = CMI
 discovered_by = chinese
 discovered_by = indian
-

@@ -1,5 +1,4 @@
 #248 - Lothian + Fife + Sterling
-
 owner = LOW
 controller = LOW
 culture = scottish

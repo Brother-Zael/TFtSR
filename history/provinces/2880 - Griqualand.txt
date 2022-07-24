@@ -1,5 +1,4 @@
 # - Griqualand
-
 culture = khoisan
 religion = shamanism #Fetishism
 capital = "Kimberley"
@@ -11,7 +10,3 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 1
-
-
-
-

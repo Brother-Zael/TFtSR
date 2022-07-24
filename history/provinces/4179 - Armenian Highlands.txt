@@ -1,5 +1,4 @@
 #4179 - Armenian Highland (incl Mount Ararat)
-
 discovered_by = east_african
 discovered_by = western
 discovered_by = muslim

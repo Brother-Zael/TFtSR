@@ -1,5 +1,4 @@
 #371 - Akureyri
-
 owner = NRG
 controller = NRG
 add_core = NRG
@@ -15,8 +14,4 @@ base_manpower = 1
 capital = "Akureyri"
 add_local_autonomy = 25
 is_city = yes	
-
-
-
 discovered_by = western
-

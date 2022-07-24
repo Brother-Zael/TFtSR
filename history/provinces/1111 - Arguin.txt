@@ -1,5 +1,4 @@
 #1111 - Arguin
-
 culture = berber
 religion = sunni
 capital = "Arguin"
@@ -11,5 +10,3 @@ base_manpower = 1
 native_size = 50
 native_ferocity = 4
 native_hostileness = 9
-
-

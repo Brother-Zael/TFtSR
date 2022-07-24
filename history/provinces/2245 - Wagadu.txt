@@ -1,8 +1,6 @@
 # 2245 - Wagadu
-
 owner = MAL
 controller = MAL
-add_core = MAL
 is_city = yes
 culture = soninke 
 religion = shamanism #Fetishism
@@ -17,4 +15,3 @@ native_hostileness = 9
 base_manpower = 1
 discovered_by = sub_saharan
 add_core = MAL
-

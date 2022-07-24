@@ -1,5 +1,4 @@
 #4261 - Ustyuzhna
-
 owner = LAD
 controller = LAD
 add_core = LAD

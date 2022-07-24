@@ -1,5 +1,4 @@
 #2400 - Hsipaw
-
 owner = HSI
 controller = HSI
 culture = shan
@@ -12,10 +11,5 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = HSI
-
-
-
 discovered_by = chinese
 discovered_by = indian
-
-

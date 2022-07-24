@@ -1,5 +1,4 @@
 #1022 - Indrapura
-
 owner = NMV
 controller = NMV
 culture = cham
@@ -12,10 +11,7 @@ base_production = 4
 base_manpower = 2
 is_city = yes
 add_core = NMV
-add_core = NMV
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
-
-

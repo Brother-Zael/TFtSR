@@ -1,15 +1,10 @@
 #795 - Potosi
-
 owner = CRA
 controller = CRA
 add_core = CRA
 culture = aimara
-
-
-
 discovered_by = south_american
 discovered_by = andean
-
 religion = inti
 capital = "Potosí"
 trade_goods = gold
@@ -19,6 +14,4 @@ base_production = 4
 base_manpower = 2
 is_city = yes
 extra_cost = 6
-
 add_province_triggered_modifier = cerro_rico_modifier
-

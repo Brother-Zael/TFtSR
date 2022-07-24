@@ -1,5 +1,4 @@
 # - Esmeraldas
-
 owner = QTO
 controller = QTO
 culture = cara
@@ -12,10 +11,5 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 add_core = QTO
-
-
-
 discovered_by = south_american
 discovered_by = andean
-
-

@@ -1,8 +1,6 @@
 #208 - León
-
 owner = AUS		#Juan II of Castille
 controller = AUS
-add_core = AUS
 add_core = AUS
 culture = leonese
 religion = catholic
@@ -19,4 +17,3 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
-

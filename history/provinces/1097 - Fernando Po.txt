@@ -1,5 +1,4 @@
 #1097 - Fernando Po
-
 culture = yorumba
 religion = shamanism #Fetishism
 capital = "Fernando Po"
@@ -11,4 +10,3 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 2
 native_hostileness = 7
-

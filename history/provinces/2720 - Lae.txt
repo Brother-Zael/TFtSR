@@ -1,5 +1,4 @@
 #2720 - Lae
-
 culture = papuan
 religion = animism
 capital = "Lae"
@@ -11,4 +10,3 @@ base_manpower = 1
 native_size = 40
 native_ferocity = 6
 native_hostileness = 4
-

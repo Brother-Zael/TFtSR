@@ -1,5 +1,4 @@
 #948 - Ohio
-
 culture = shawnee
 religion = totemism
 capital = "Ohio"
@@ -12,8 +11,4 @@ native_size = 10
 native_ferocity = 5
 native_hostileness = 2
 tribal_owner = CLG
-
 discovered_by = north_american
-
-
-

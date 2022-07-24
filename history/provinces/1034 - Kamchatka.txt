@@ -1,5 +1,4 @@
 #1034 - Kamchatka
-
 owner = KMC
 controller = KMC
 add_core = KMC
@@ -15,12 +14,3 @@ native_size = 50
 native_ferocity = 2
 native_hostileness = 5
 is_city = yes
-
-
-
-
-
-
-
-
-

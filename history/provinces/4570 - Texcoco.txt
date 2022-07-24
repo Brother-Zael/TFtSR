@@ -1,5 +1,4 @@
 # No previous file for Texcoco
-
 owner = AZT
 controller = AZT
 add_core = AZT
@@ -12,8 +11,4 @@ base_tax = 5
 base_production = 5
 base_manpower = 2 
 is_city = yes
-
-
-
 discovered_by = mesoamerican
-

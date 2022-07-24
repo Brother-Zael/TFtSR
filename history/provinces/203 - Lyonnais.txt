@@ -1,5 +1,4 @@
 # 203 Lyonnais - Principal cities: Lyon
-
 owner = VIE
 controller = VIE
 capital = "Lyon"
@@ -19,4 +18,3 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
-

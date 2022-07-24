@@ -1,5 +1,4 @@
 #552 - Cuttack
-
 owner = CUT
 controller = CUT
 culture = oriya

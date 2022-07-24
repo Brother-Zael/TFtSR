@@ -1,5 +1,4 @@
 #1196 - Kilwa
-
 owner = KIL
 controller = KIL
 add_core = KIL
@@ -19,5 +18,3 @@ discovered_by = ottoman
 discovered_by = central_african
 extra_cost = 8
 center_of_trade = 1
-
-

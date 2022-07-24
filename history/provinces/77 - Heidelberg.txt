@@ -1,5 +1,4 @@
 #77 - Heidelberg
-
 capital = "Heidelberg"
 culture = hessian
 religion = catholic
@@ -13,11 +12,7 @@ is_city = yes
 controller = GRP
 add_core = GRP
 hre = yes
-
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

@@ -1,5 +1,4 @@
 # Forcalquier
-
 owner = ASX
 controller = ASX 
 capital = "Forcalquier"
@@ -12,12 +11,7 @@ base_production = 3
 trade_goods = wool
 base_manpower = 2
 add_core = ASX
-
-
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

@@ -1,6 +1,5 @@
 #Skåne
 #
-
 add_core = LUN
 add_core = DAN
 owner = LUN
@@ -24,4 +23,3 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-

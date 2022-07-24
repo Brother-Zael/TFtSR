@@ -1,5 +1,4 @@
 # 173 Labourd - Principal cities: Bayonne (can't change file name)
-
 owner = CNT
 controller = CNT
 capital = "Bayonne"
@@ -12,14 +11,8 @@ base_production = 3
 trade_goods = wine
 base_manpower = 4
 add_core = CNT
-add_core = CNT
 fort_15th = yes
-
-
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

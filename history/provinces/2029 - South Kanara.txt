@@ -1,5 +1,4 @@
 #2029 - South Kanara
-
 owner = GOA
 controller = GOA
 culture = kannada
@@ -12,8 +11,6 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = GOA
-add_core = GOA
-add_core = GOA
 add_local_autonomy = 40
 add_vaisyas_or_burghers_effect = yes
 discovered_by = indian
@@ -22,5 +19,3 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = chinese
 discovered_by = east_african
-
-

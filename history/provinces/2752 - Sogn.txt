@@ -1,5 +1,4 @@
 #Romsdal
-
 owner = NRG
 controller = NRG
 add_core = NRG
@@ -14,5 +13,3 @@ is_city = yes
 capital = "Molde"
 discovered_by = western
 discovered_by = eastern
-
-

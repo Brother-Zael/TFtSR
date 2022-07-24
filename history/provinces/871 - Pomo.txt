@@ -1,5 +1,4 @@
 #871 - Pomo
-
 culture = chinook
 religion = totemism
 capital = "Pomo" 
@@ -11,8 +10,4 @@ base_manpower = 1
 native_size = 20 
 native_ferocity = 1 
 native_hostileness = 4 
-
-
-
 discovered_by = north_american
-

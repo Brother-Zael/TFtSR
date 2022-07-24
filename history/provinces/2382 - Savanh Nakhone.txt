@@ -1,5 +1,4 @@
 #2382 - Savanh Nakhone
-
 owner = SVK
 controller = SVK
 culture = lao
@@ -12,8 +11,5 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = SVK
-add_core = SVK
-
 discovered_by = chinese
 discovered_by = indian
-

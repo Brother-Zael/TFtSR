@@ -1,5 +1,4 @@
 #4785 - Yorkshire - South Riding
-
 owner = JOR
 controller = JOR
 add_core = JOR

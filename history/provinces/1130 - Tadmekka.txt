@@ -1,5 +1,4 @@
 #1130 - Tadimekket
-
 owner = TMB
 controller = TMB
 culture = tuareg
@@ -12,8 +11,4 @@ hre = no
 base_tax = 1 
 base_production = 1
 add_core = TMB 
-
-
-
 discovered_by = sub_saharan
-

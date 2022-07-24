@@ -1,5 +1,4 @@
 # No previous file for Bendugu
-
 owner = MAL
 controller = MAL
 add_core = MAL
@@ -17,4 +16,3 @@ native_hostileness = 9
 base_manpower = 1
 discovered_by = sub_saharan
 add_local_autonomy = 25
-

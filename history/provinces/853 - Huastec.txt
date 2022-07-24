@@ -1,5 +1,4 @@
 #853 - Huastec
-
 owner = AZT
 controller = AZT
 add_core = AZT
@@ -12,11 +11,4 @@ base_tax = 3
 base_production = 3
 base_manpower = 1 
 is_city = yes
-
-
-
-
-
-
 discovered_by = mesoamerican
-

@@ -1,5 +1,4 @@
 #494 - St. Kitts	
-
 culture = arawak
 religion = animism
 capital = "St. Kitts"
@@ -11,8 +10,3 @@ base_manpower = 1
 native_size = 10
 native_ferocity = 2
 native_hostileness = 4
-
-
-
-
-

@@ -1,5 +1,4 @@
 #4232 - Ganggye
-
 owner = BAE
 controller = BAE
 culture = korean
@@ -16,4 +15,3 @@ add_local_autonomy = 35
 fort_15th = yes
 discovered_by = chinese
 discovered_by = nomad_group
-

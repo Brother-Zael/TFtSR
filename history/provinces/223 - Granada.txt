@@ -1,5 +1,4 @@
 #223 - Granada
-
 owner = MLA		# Mustapha Sa'd King of Granada
 controller = MLA
 add_core = MLA
@@ -16,5 +15,3 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-
-

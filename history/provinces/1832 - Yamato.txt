@@ -1,5 +1,4 @@
 #1832 - Yamato
-
 owner = ASK
 controller = ASK
 culture = japanese
@@ -13,8 +12,3 @@ base_production = 3
 is_city = yes
 add_core = ASK
 discovered_by = chinese
-
-
-
-
-

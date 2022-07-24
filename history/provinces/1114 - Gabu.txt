@@ -1,5 +1,4 @@
 #1114 - Gabu
-
 owner = MAL
 controller = MAL
 culture = senegambian

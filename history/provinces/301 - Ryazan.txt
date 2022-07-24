@@ -1,5 +1,4 @@
 #301 - Ryazan
-
 owner = MSK
 controller = MSK   
 culture = ryazanian
@@ -15,7 +14,4 @@ fort_15th = yes
 add_core = MSK
 discovered_by = eastern
 discovered_by = western
-
-
 discovered_by = nomad_group
-

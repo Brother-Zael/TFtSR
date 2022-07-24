@@ -1,5 +1,4 @@
 #501 - Barbados
-
 culture = carib
 religion = animism
 capital = "Barbados"
@@ -11,4 +10,3 @@ base_manpower = 1
 native_size = 15
 native_ferocity = 1
 native_hostileness = 5
-

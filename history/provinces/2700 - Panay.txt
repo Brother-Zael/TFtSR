@@ -1,5 +1,4 @@
 #2700 - Panay
-
 culture = filipino
 religion = animism
 capital = "Panay"
@@ -15,4 +14,3 @@ is_city = yes
 discovered_by = chinese
 extra_cost = 8
 center_of_trade = 1
-

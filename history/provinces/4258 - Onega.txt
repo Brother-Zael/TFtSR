@@ -1,5 +1,4 @@
 #4258 - Onega
-
 owner = KDN
 controller = KDN
 add_core = KDN

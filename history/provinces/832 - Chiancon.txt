@@ -1,5 +1,4 @@
 #832 - Tunja
-
 owner = MCA
 controller = MCA
 culture = muisca
@@ -14,6 +13,3 @@ base_manpower = 2
 add_core = MCA
 discovered_by = south_american
 discovered_by = andean
-
-
-

@@ -1,5 +1,4 @@
 #2724 - Asmat
-
 culture = papuan
 religion = animism
 capital = "Asmat"
@@ -11,10 +10,3 @@ base_manpower = 1
 native_size = 60
 native_ferocity = 4
 native_hostileness = 8
-
-
-
-
-
-
-

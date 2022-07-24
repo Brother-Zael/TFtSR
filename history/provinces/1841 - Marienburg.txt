@@ -1,5 +1,4 @@
 #Marienburg
-
 owner = PMS
 controller = PMS
 add_core = PMS
@@ -12,10 +11,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-
-
-
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

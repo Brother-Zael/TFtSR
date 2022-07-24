@@ -1,4 +1,3 @@
-
 owner = KRJ
 controller = KRJ
 culture = sumatran
@@ -11,11 +10,7 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 add_core = KRJ
-
-
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
-

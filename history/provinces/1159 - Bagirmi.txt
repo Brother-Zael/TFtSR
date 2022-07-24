@@ -1,5 +1,4 @@
 #1159 - Bagirmi
-
 owner = KNB
 controller = KNB
 add_core = KNB
@@ -12,9 +11,4 @@ trade_goods = ivory
 hre = no
 base_tax = 3 
 base_production = 3
-
-
-
 discovered_by = sub_saharan
-
-

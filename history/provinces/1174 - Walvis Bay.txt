@@ -1,5 +1,4 @@
 #1174 - Angra Pequena
-
 culture = khoisan
 religion = shamanism #Fetishism
 capital = "Walvis Bay"
@@ -11,4 +10,3 @@ base_manpower = 1
 native_size = 40
 native_ferocity = 2
 native_hostileness = 6
-

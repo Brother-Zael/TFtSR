@@ -1,5 +1,4 @@
 # 184 Orléannais + Blois - Principal cities: Orléans
-
 owner = GNB
 controller = GNB
 capital = "Orléans"
@@ -17,4 +16,3 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 center_of_trade = 1
-

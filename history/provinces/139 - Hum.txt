@@ -1,5 +1,4 @@
 #139 - Hum
-
 owner = HRZ
 controller = HRZ
 culture = bosnian
@@ -13,14 +12,7 @@ base_manpower = 2
 is_city = yes
 add_core = BOS
 add_core = HRZ
-
-
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

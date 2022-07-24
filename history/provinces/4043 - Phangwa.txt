@@ -1,5 +1,4 @@
 #4043 - Phangwa
-
 culture = nyasa
 religion = shamanism #Fetishism
 trade_goods = unknown

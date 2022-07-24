@@ -1,5 +1,4 @@
 #533 - Mysore
-
 owner = MYS
 controller = MYS
 culture = kannada

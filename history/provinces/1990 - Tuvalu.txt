@@ -1,5 +1,4 @@
 #1990 - Tuvalu
-
 culture = polynesian
 religion = animism
 capital = "Funafuti"
@@ -12,4 +11,3 @@ native_size = 1
 native_ferocity = 1
 native_hostileness = 1
 discovered_by = polynesian_tech
-

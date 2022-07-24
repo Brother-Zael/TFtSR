@@ -1,5 +1,4 @@
 #4853 - Bidjara
-
 culture = gamilaraay
 religion = dreamtime
 capital = "Bidjara"
@@ -12,6 +11,3 @@ native_size = 1
 native_ferocity = 1
 native_hostileness = 3
 discovered_by = aboriginal_tech
-
-
-

@@ -1,5 +1,4 @@
 #1847 - Shiribeshi
-
 culture = ainu
 religion = animism
 capital = "Shiribeshi"
@@ -12,50 +11,3 @@ owner = ANU
 controller = ANU
 add_core = ANU
 is_city = yes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

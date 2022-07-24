@@ -1,5 +1,4 @@
 #1149 - Katsina
-
 owner = KSN
 controller = KSN
 add_core = KSN
@@ -15,4 +14,3 @@ base_production = 6
 discovered_by = sub_saharan
 extra_cost = 16
 center_of_trade = 2
-

@@ -1,5 +1,4 @@
 #913 - Fox
-
 owner = OEO
 controller = OEO
 add_core = OEO
@@ -14,7 +13,4 @@ base_manpower = 2
 native_size = 10
 native_ferocity = 2
 native_hostileness = 5
-
-
-
 discovered_by = north_american

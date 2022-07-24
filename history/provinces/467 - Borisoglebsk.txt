@@ -1,5 +1,4 @@
 #467 - Borisoglebsk
-
 owner = KIP
 controller = KIP
 culture = mishary
@@ -17,5 +16,3 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = nomad_group
 discovered_by = western
-
-

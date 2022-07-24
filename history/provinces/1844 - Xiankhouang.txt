@@ -1,5 +1,4 @@
 #1844 - Xiankhouang
-
 owner = VNT
 controller = VNT
 culture = lao
@@ -12,9 +11,5 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 add_core = VNT
-
-
-
 discovered_by = chinese
 discovered_by = indian
-

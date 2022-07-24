@@ -1,5 +1,4 @@
 #1273 - Taveta
-
 owner = PTE
 controller = PTE
 add_core = PTE
@@ -15,4 +14,3 @@ native_ferocity = 4
 native_hostileness = 9
 discovered_by = central_african
 discovered_by = east_african
-

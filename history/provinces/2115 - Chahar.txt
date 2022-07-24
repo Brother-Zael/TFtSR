@@ -1,8 +1,6 @@
 # 2115 - Chahar
-
 owner = PNM
 controller = PNM
-add_core = PNM
 culture = mongol
 religion = vajrayana
 capital = "Chahar"
@@ -15,5 +13,3 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 add_core = PNM
-
-

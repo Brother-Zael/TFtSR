@@ -1,5 +1,4 @@
 #4042 - Makonde
-
 owner = KIL
 controller = KIL
 add_core = KIL
@@ -16,4 +15,3 @@ native_hostileness = 9
 capital = "Makonde"
 discovered_by = east_african
 discovered_by = central_african
-

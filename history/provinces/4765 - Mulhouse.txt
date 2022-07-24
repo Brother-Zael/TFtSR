@@ -1,5 +1,4 @@
 # 4765 - Mulhouse. Primary city: Mülhausen
-
 owner = ART
 controller = ART
 capital = "Mülhausen"
@@ -16,5 +15,3 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

@@ -1,5 +1,4 @@
 #613 - Dong Kinh
-
 owner = NMV
 controller = NMV
 culture = vietnamese
@@ -13,12 +12,9 @@ base_manpower = 4
 fort_15th = yes
 is_city = yes
 add_core = NMV
-add_core = NMV
 extra_cost = 8
 center_of_trade = 1
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
-
-

@@ -1,5 +1,4 @@
 #308 - Yaroslavl
-
 owner = MSK
 controller = MSK
 culture = russian
@@ -18,5 +17,3 @@ discovered_by = western
 discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
-
-

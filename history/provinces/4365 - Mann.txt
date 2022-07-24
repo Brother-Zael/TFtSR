@@ -1,5 +1,4 @@
 #4365 - Mann
-
 owner = MNX
 controller = MNX
 culture = highland_scottish

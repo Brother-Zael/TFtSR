@@ -1,5 +1,4 @@
 #1092 - Gubbi-Gubbi
-
 culture = aboriginal
 religion = dreamtime
 capital = "Gubbi-Gubbi"
@@ -12,4 +11,3 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 2
 discovered_by = aboriginal_tech
-

@@ -1,5 +1,4 @@
 #Lundu
-
 owner = ZIM
 controller = ZIM
 add_core = ZIM
@@ -13,4 +12,3 @@ hre = no
 base_tax = 3
 base_production = 2
 discovered_by = central_african
-

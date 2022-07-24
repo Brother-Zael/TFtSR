@@ -1,5 +1,4 @@
 # - Mbamba
-
 owner = KON
 controller = KON 
 culture = kongolese
@@ -14,5 +13,3 @@ is_city = yes
 add_core = KON
 discovered_by = central_african
 discovered_by = sub_saharan
-
-

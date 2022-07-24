@@ -1,8 +1,6 @@
 # 2153 - Tingzhou
-
 owner = CWU
 controller = CWU
-add_core = CWU
 culture = hakka
 religion = confucianism
 capital = "Tingzhou"
@@ -13,7 +11,5 @@ base_production = 2
 base_manpower = 1
 is_city = yes
 add_core = CWU
-add_core = CWU
 discovered_by = chinese
 discovered_by = nomad_group
-

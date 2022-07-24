@@ -1,5 +1,4 @@
 #1017 - Suo
-
 owner = OUC
 controller = OUC
 add_core = OUC
@@ -12,12 +11,6 @@ base_tax = 4
 base_production = 2
 base_manpower = 3
 is_city = yes
-
 discovered_by = chinese
-
-
-
-
 extra_cost = 8
 center_of_trade = 1
-

@@ -1,5 +1,4 @@
 #1093 - Barunggam
-
 culture = gamilaraay
 religion = dreamtime
 trade_goods = unknown

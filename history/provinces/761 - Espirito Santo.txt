@@ -1,5 +1,4 @@
 #761 - Espirito Santo
-
 owner = TUA
 controller = TUA
 add_core = TUA
@@ -16,4 +15,3 @@ base_manpower = 1
 native_size = 10
 native_ferocity = 1
 native_hostileness = 3
-

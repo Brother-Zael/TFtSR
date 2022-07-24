@@ -1,6 +1,4 @@
 # No previous file for Keinouche
-
-
 culture = algonquin
 religion = totemism
 capital = "Keinouche"
@@ -14,4 +12,3 @@ native_ferocity = 1
 native_hostileness = 6
 tribal_owner = AGQ
 discovered_by = north_american
-

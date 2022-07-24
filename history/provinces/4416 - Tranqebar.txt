@@ -1,5 +1,4 @@
 #4416 - Tranqebar 
-
 owner = TDL
 controller = TDL
 culture = tamil
@@ -13,8 +12,6 @@ base_manpower = 1
 is_city = yes
 add_vaisyas_or_burghers_effect = yes
 add_core = TDL
-add_core = TDL
-add_core = TDL
 discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim
@@ -22,4 +19,3 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 add_local_autonomy = 25
-

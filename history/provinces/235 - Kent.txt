@@ -1,5 +1,4 @@
 #235 - Kent
-
 owner = ANG
 controller = ANG
 add_core = ANG
@@ -12,7 +11,6 @@ trade_goods = cloth
 base_manpower = 2
 capital = "Canterbury"
 is_city = yes
-
 seat_in_parliament = yes
 discovered_by = western
 discovered_by = muslim

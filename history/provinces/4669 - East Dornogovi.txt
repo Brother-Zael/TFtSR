@@ -1,6 +1,5 @@
 owner = KHT
 controller = KHT
-add_core = KHT
 culture = khalkha
 religion = tengri_pagan_reformed
 capital = "Sainshand"
@@ -13,5 +12,3 @@ is_city = yes
 add_core = KHT
 discovered_by = chinese
 discovered_by = nomad_group
-
-

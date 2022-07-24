@@ -1,9 +1,7 @@
 #940 - Kentucky
-
 latent_trade_goods = {
 	coal
 }
-
 culture = shawnee
 religion = totemism
 capital = "Kentucky"
@@ -16,8 +14,4 @@ native_size = 5
 native_ferocity = 5
 native_hostileness = 1
 tribal_owner = KSP
-
-
 discovered_by = north_american
-
-

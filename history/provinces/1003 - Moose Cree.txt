@@ -1,5 +1,4 @@
 #1003 - Moose Cree
-
 culture = cree
 religion = totemism
 capital = "Moose Cree"
@@ -12,7 +11,4 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 5
 tribal_owner = WCR
-
-
 discovered_by = north_american
-

@@ -1,5 +1,4 @@
 # No previous file for Toboso
-
 culture = chichimecan
 religion = animism
 capital = "Toboso"
@@ -11,9 +10,5 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 2
-
-
-
 discovered_by = north_american
 discovered_by = mesoamerican
-

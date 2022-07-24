@@ -1,8 +1,6 @@
 #1824 - Wenzhou
-
 owner = CWU
 controller = CWU
-add_core = CWU
 culture = wu
 religion = confucianism
 capital = "Wenzhou"
@@ -13,9 +11,5 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = CWU
-
-
 discovered_by = chinese
 discovered_by = nomad_group
-
-

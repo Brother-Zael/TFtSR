@@ -1,5 +1,4 @@
 #1128 - Taodeni
-
 owner = TMB
 controller = TMB # under Tuareg rule to 1468
 add_core = TMB
@@ -15,10 +14,4 @@ base_manpower = 1
 native_size = 60
 native_ferocity = 4
 native_hostileness = 10 
-
-
-
 discovered_by = sub_saharan
-
-
-

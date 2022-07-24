@@ -1,9 +1,7 @@
 #2856 - Highveld
-
 latent_trade_goods = {
 	coal
 }
-
 culture = nguni
 religion = shamanism #Fetishism
 capital = "Bloemfontein"
@@ -15,7 +13,3 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 1
-
-
-
-

@@ -1,6 +1,4 @@
 # No previous file for Paipai
-
-
 culture = piman
 religion = totemism
 capital = "Paipai"
@@ -12,8 +10,4 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 2
-
-
-
 discovered_by = north_american
-

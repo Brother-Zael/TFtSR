@@ -1,5 +1,4 @@
 #Northern Mutsu
-
 owner = ANU
 controller = ANU
 culture = togoku
@@ -13,9 +12,3 @@ base_production = 3
 is_city = yes
 add_core = ANU
 discovered_by = chinese
-
-
-
-
-
-

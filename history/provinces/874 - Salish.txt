@@ -1,5 +1,4 @@
 #874 - Salish
-
 owner = SAL
 controller = SAL
 add_core = SAL
@@ -15,8 +14,4 @@ base_manpower = 1
 native_size = 10
 native_ferocity = 1
 native_hostileness = 6 
-
-
-
 discovered_by = north_american
-

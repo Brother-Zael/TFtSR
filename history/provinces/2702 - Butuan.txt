@@ -1,5 +1,4 @@
 #2702 - Butuan
-
 culture = filipino
 religion = animism
 capital = "Butuan"
@@ -15,4 +14,3 @@ controller = BTU
 add_core = BTU
 extra_cost = 8
 center_of_trade = 1
-

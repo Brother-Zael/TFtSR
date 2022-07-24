@@ -1,5 +1,4 @@
 # 196 Toulouse - Principal cities: Toulouse
-
 owner = TOL
 controller = TOL
 capital = "Toulouse"
@@ -12,11 +11,7 @@ base_production = 5
 trade_goods = wine
 base_manpower = 5
 add_core = TOL
-add_core = TOL
-add_core = TOL
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

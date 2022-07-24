@@ -1,5 +1,4 @@
 # 4731 - Spoleto
-
 owner = SPL
 controller = SPL
 culture = umbrian 
@@ -12,9 +11,7 @@ base_manpower = 1
 capital = "Spoleto" 
 is_city = yes
 add_core = SPL
-add_core = SPL
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-

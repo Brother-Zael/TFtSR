@@ -1,5 +1,4 @@
 #900 - Tamaroa
-
 culture = illini
 religion = totemism
 capital = "Tamaroa"
@@ -15,4 +14,3 @@ discovered_by = north_american
 extra_cost = 8
 center_of_trade = 1
 tribal_owner = CAO
-

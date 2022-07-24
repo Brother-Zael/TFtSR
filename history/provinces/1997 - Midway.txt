@@ -1,5 +1,4 @@
 #1997 - Midway
-
 culture = polynesian
 religion = animism
 capital = "Midway"

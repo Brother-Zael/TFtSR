@@ -1,6 +1,4 @@
 # No previous file for Tawehash
-
-
 culture = wichita
 religion = totemism
 capital = "Tawehash"

@@ -1,5 +1,4 @@
 #4541 - Drohobycz
-
 owner = WRS
 controller = WRS
 culture = ruthenian
@@ -12,16 +11,7 @@ base_manpower = 1
 capital = "Drohobycz"
 is_city = yes
 add_core = WRS
-add_core = WRS
-
-
-
-
-
-
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = ottoman
 discovered_by = muslim
-

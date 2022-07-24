@@ -1,5 +1,4 @@
 #1820 - Awa
-
 owner = OUC
 controller = OUC
 culture = japanese
@@ -12,12 +11,4 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = OUC
-
-
-
 discovered_by = chinese
-
-
-
-
-

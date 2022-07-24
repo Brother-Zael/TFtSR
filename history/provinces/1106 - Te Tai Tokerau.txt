@@ -1,5 +1,4 @@
 #1106 - Te Tai Tokerau
-
 add_core = TTT
 owner = TTT
 controller = TTT
@@ -13,5 +12,3 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 discovered_by = polynesian_tech
-
-

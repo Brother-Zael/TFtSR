@@ -1,6 +1,4 @@
 # No previous file for Otoe
-
-
 culture = pawnee
 religion = totemism
 capital = "Otoe"
@@ -12,7 +10,4 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 6
-
 discovered_by = north_american
-
-

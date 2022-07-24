@@ -1,5 +1,4 @@
 # No previous file for Kespukwitk
-
 culture = mikmaq
 religion = totemism
 capital = "Kespukwitk"
@@ -12,7 +11,4 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 tribal_owner = MIK
-
-
 discovered_by = north_american
-

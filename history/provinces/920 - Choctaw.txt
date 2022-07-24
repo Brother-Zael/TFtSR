@@ -1,5 +1,4 @@
 #920 - Choctaw
-
 add_core = CHO
 owner = CHO
 controller = CHO
@@ -15,8 +14,4 @@ is_city = yes
 native_size = 10
 native_ferocity = 1
 native_hostileness = 3
-
-
-
 discovered_by = north_american
-

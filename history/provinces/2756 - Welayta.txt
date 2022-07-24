@@ -1,5 +1,4 @@
 #2756 - Welayta
-
 owner = ORO
 controller = ORO
 add_core = ORO

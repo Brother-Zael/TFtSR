@@ -1,5 +1,4 @@
 #2380 - Phnom Penh
-
 owner = KHM
 controller = KHM
 culture = khmer
@@ -18,4 +17,3 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
-

@@ -1,5 +1,4 @@
 #328 - Sinope
-
 owner = GEO
 controller = GEO
 culture = turkish
@@ -20,4 +19,3 @@ discovered_by = ottoman
 discovered_by = nomad_group
 extra_cost = 16
 center_of_trade = 2
-

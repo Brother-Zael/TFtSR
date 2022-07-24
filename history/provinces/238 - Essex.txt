@@ -1,6 +1,5 @@
 #238 - Essex
 #+part of Cambridgeshire
-
 owner = SML
 controller = SML
 culture = english
@@ -13,12 +12,7 @@ base_manpower = 2
 capital = "Chelmsford"
 is_city = yes
 add_core = SML
-
-
-
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-
-

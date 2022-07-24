@@ -1,9 +1,7 @@
 #Lippe
-
 latent_trade_goods = {
 	coal
 }
-
 owner = KOL
 controller = KOL
 culture = hannoverian
@@ -20,5 +18,3 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

@@ -1,5 +1,4 @@
 #250 - Perth
-
 owner = LOW
 controller = LOW
 culture = highland_scottish

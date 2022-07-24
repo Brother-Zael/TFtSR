@@ -1,5 +1,4 @@
 #4185 - Tango
-
 owner = IGS
 controller = IGS
 culture = japanese
@@ -13,8 +12,3 @@ base_production = 2
 is_city = yes
 add_core = IGS
 discovered_by = chinese
-
-
-
-
-

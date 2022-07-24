@@ -1,5 +1,4 @@
 #1032 - Kurils
-
 culture = ainu
 religion = animism
 capital = "Kuril"
@@ -12,51 +11,3 @@ owner = ANU
 controller = ANU
 add_core = ANU
 is_city = yes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

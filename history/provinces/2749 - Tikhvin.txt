@@ -1,5 +1,4 @@
 # 2749 - Tikhvin
-
 owner = LAD
 controller = LAD
 add_core = LAD

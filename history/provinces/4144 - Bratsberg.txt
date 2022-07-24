@@ -1,5 +1,4 @@
 #Bratsberg Len / Amt
-
 owner = SML
 controller = SML
 add_core = SML
@@ -16,5 +15,3 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-
-

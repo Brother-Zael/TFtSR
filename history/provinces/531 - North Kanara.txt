@@ -1,5 +1,4 @@
 #531 - North Kanara
-
 owner = GOA
 controller = GOA
 culture = kannada
@@ -20,4 +19,3 @@ discovered_by = chinese
 discovered_by = east_african
 extra_cost = 8
 center_of_trade = 1
-

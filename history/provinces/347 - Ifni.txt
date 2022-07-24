@@ -1,5 +1,4 @@
 #347 - Ifni
-
 owner = SAL
 controller = SAL
 culture = berber
@@ -12,11 +11,6 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = SAL
-add_core = SAL
-
-
-
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
-

@@ -1,5 +1,4 @@
 #1835 - Mino
-
 owner = ODA
 controller = ODA
 culture = togoku
@@ -14,11 +13,5 @@ is_city = yes
 add_core = ODA
 fort_15th = yes #Inabayama Castle
 discovered_by = chinese
-
-
-
-
-
-
 
 #

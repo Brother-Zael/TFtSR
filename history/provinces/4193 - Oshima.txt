@@ -1,5 +1,4 @@
 #4193 - Oshima
-
 culture = togoku
 religion = shinto
 capital = "Katsuyama"
@@ -12,50 +11,3 @@ owner = ANU
 controller = ANU
 add_core = ANU
 is_city = yes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

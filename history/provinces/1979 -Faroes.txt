@@ -1,5 +1,4 @@
 #1979 - Färöarna
-
 owner = NRG
 controller = NRG
 culture = icelandic
@@ -12,8 +11,4 @@ trade_goods = fish
 capital = "Torshavn"
 is_city = yes
 add_core = NRG
-
-
-
 discovered_by = western
-

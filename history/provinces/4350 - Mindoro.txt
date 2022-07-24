@@ -1,5 +1,4 @@
 #4350 - Mindoro
-
 culture = filipino
 religion = mahayana
 capital = "Caminawit"
@@ -13,4 +12,3 @@ owner = TDO
 controller = TDO
 is_city = yes
 discovered_by = chinese
-

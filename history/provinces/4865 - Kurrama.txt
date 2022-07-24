@@ -1,5 +1,4 @@
 #4865 - Kurrama
-
 culture = nyoongah
 religion = dreamtime
 capital = "Kurrama"
@@ -12,6 +11,3 @@ native_size = 4
 native_ferocity = 1
 native_hostileness = 2
 discovered_by = aboriginal_tech
-
-
-

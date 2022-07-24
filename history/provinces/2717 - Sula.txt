@@ -1,5 +1,4 @@
 #2717 - Sula
-
 culture = moluccan
 religion = animism
 capital = "Sula"
@@ -11,8 +10,4 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 2
 native_hostileness = 2
-
-
-
 discovered_by = chinese
-

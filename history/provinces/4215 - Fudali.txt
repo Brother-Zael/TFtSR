@@ -1,5 +1,4 @@
 # 4215 - Fudali
-
 owner = ULA
 controller = ULA
 add_core = ULA
@@ -12,9 +11,5 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-
-
-
 discovered_by = chinese
 discovered_by = nomad_group
-

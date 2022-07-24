@@ -1,5 +1,4 @@
 #1240 - Hawaii
-
 add_core = HAW
 owner = HAW
 controller = HAW
@@ -13,5 +12,3 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 discovered_by = polynesian_tech
-
-

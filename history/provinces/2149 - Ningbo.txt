@@ -1,8 +1,6 @@
 # 2149 - Ningbo
-
 owner = CWU
 controller = CWU
-add_core = CWU
 culture = wu
 religion = confucianism
 capital = "Ningbo"
@@ -17,4 +15,3 @@ discovered_by = chinese
 discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
-

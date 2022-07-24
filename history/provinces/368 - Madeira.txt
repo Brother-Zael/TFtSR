@@ -1,5 +1,4 @@
 #368 - Madeira
-
 culture = berber
 religion = animism
 capital = "Funchal"
@@ -11,4 +10,3 @@ base_manpower = 1
 native_size = 0
 native_ferocity = 0
 native_hostileness = 0
-

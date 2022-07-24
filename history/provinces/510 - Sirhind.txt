@@ -1,5 +1,4 @@
 #510 - Sirhind
-
 owner = LAH
 controller = LAH
 culture = panjabi
@@ -12,9 +11,6 @@ base_production = 4
 base_manpower = 2
 is_city = yes
 add_core = LAH
-add_core = LAH
-add_core = LAH
-add_core = LAH
 fort_15th = yes
 discovered_by = indian
 discovered_by = nomad_group
@@ -23,4 +19,3 @@ discovered_by = ottoman
 discovered_by = chinese
 extra_cost = 8
 center_of_trade = 1
-

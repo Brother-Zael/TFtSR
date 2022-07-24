@@ -1,5 +1,4 @@
 #4190 - Shimousa
-
 owner = ODA
 controller = ODA
 culture = togoku
@@ -13,9 +12,3 @@ base_production = 1
 is_city = yes
 add_core = ODA
 discovered_by = chinese
-
-
-
-
-
-

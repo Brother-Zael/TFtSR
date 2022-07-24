@@ -1,8 +1,6 @@
 #212 - Girona
-
 owner = EMR		#Alfons V of Aragon
 controller = EMR
-add_core = EMR
 add_core = EMR
 culture = catalan
 religion = catholic
@@ -13,12 +11,7 @@ trade_goods = fish
 base_manpower = 3
 capital = "Girona" 
 is_city = yes		# census of 1462, also includes the town of Figueres 
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

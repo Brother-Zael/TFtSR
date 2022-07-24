@@ -1,5 +1,4 @@
 #4252 - Kolomna
-
 owner = VOL 
 controller = VOL 
 culture = russian
@@ -14,6 +13,4 @@ is_city = yes
 add_core = VOL
 discovered_by = eastern
 discovered_by = western
-
 discovered_by = nomad_group
-

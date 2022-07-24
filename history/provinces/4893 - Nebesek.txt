@@ -1,5 +1,4 @@
 # No previous file for Nebesek
-
 culture = laurentian
 religion = totemism
 capital = "Nebesek"
@@ -13,4 +12,3 @@ native_ferocity = 1
 native_hostileness = 2
 tribal_owner = STA
 discovered_by = north_american
-

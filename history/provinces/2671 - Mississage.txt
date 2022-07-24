@@ -1,5 +1,4 @@
 # No previous file for Mississage
-
 owner = MSG
 controller = MSG
 add_core = MSG
@@ -14,8 +13,4 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 2
-
-
-
 discovered_by = north_american
-

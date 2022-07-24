@@ -1,8 +1,6 @@
 # No previous file for Logone
-
 owner = KNB
 controller = KNB
-add_core = KNB
 add_core = KNB
 culture = kanuri 
 religion = shamanism #Fetishism
@@ -13,9 +11,4 @@ base_tax = 2
 base_production = 2
 is_city = yes
 base_manpower = 1
-
-
-
 discovered_by = sub_saharan
-
-

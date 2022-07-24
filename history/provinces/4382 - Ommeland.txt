@@ -1,5 +1,4 @@
 # 4383 Ommeland - Groningen, Ommeland & Drenthe
-
 owner = FRS
 controller = FRS
 capital = "Groningen"
@@ -16,5 +15,3 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

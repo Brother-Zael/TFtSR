@@ -1,6 +1,5 @@
 #1925 - Taveta
 
-
 owner = EWA
 controller = EWA
 add_core = EWA

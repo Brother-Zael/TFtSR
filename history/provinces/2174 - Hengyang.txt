@@ -1,9 +1,6 @@
 # 2174 - Hengyang
-
 owner = NMY
 controller = NMY
-add_core = NMY
-add_core = NMY
 culture = xiang
 religion = animism
 capital = "Hengyang"
@@ -14,9 +11,5 @@ base_production = 3
 base_manpower = 3
 is_city = yes
 add_core = NMY
-
-
-
 discovered_by = chinese
 discovered_by = nomad_group
-

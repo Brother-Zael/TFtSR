@@ -1,5 +1,4 @@
 #376 - Connaught
-
 owner = CON
 controller = CON
 culture = irish
@@ -16,5 +15,3 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-
-

@@ -1,5 +1,4 @@
 #313 - Soroka
-
 owner = KDN
 controller = KDN
 add_core = KDN
@@ -12,10 +11,5 @@ trade_goods = fur
 base_manpower = 1
 capital = "Soroka"
 is_city = yes
-
-
-
-
-
 discovered_by = eastern
 discovered_by = western

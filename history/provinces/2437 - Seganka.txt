@@ -1,5 +1,4 @@
 #2437 - Seganka
-
 culture = tungus
 religion = tengri_pagan_reformed
 capital = "Seganka"
@@ -11,7 +10,3 @@ base_manpower = 1
 native_size = 2
 native_ferocity = 1
 native_hostileness = 3
-
-
-
-

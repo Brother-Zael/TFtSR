@@ -1,5 +1,4 @@
 #1854 - Negev
-
 owner = UMY
 controller = UMY
 culture = al_suryah_arabic
@@ -12,7 +11,6 @@ base_production = 3
 base_manpower = 3
 is_city = yes
 add_core = UMY
-
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
@@ -20,5 +18,3 @@ discovered_by = eastern
 discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
-
-

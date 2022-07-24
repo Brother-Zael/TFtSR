@@ -14,4 +14,3 @@ add_local_autonomy = 25
 is_city = yes
 discovered_by = central_african
 discovered_by = sub_saharan
-

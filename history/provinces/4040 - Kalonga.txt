@@ -1,5 +1,4 @@
 #Kalonga
-
 owner = ZIM
 controller = ZIM
 add_core = ZIM
@@ -15,4 +14,3 @@ base_production = 3
 discovered_by = central_african
 extra_cost = 16
 center_of_trade = 2
-

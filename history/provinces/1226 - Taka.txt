@@ -1,5 +1,4 @@
 #1226 - Taka
-
 owner = BEJ
 controller = BEJ
 add_core = BEJ
@@ -15,4 +14,3 @@ is_city = yes
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman
-

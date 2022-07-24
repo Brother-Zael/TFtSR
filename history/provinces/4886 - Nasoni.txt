@@ -1,6 +1,4 @@
 # No previous file for Nasoni
-
-
 culture = caddo
 religion = totemism
 capital = "Nasoni"
@@ -14,5 +12,3 @@ native_ferocity = 1
 native_hostileness = 6
 tribal_owner = CAD
 discovered_by = north_american
-
-

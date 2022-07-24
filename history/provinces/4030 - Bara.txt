@@ -1,5 +1,4 @@
 #4030 - Bara
-
 owner = SKA #Really divided by various minor entities, eventually rendering vassalage to the Betsileo.
 controller = SKA
 add_core = SKA
@@ -14,4 +13,3 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 discovered_by = east_african
-

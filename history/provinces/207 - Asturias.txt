@@ -1,13 +1,9 @@
 #207 - Asturias
-
 latent_trade_goods = {
 	coal
 }
-
 owner = BRG		#Juan II of Castille
 controller = BRG
-add_core = BRG
-add_core = BRG
 add_core = BRG
 culture = leonese
 religion = catholic
@@ -22,5 +18,3 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

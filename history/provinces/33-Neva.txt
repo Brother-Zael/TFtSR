@@ -1,5 +1,4 @@
 #Näset + the land around the river Neva, incl. Nöteborg, Nyen and St.Petersburg.
-
 owner = NYL
 controller = NYL
 add_core = NYL

@@ -1,5 +1,4 @@
 #808 - Cuzco
-
 owner = CSU
 controller = CSU
 culture = inca
@@ -17,5 +16,3 @@ discovered_by = south_american
 discovered_by = andean
 extra_cost = 8
 center_of_trade = 1
-
-

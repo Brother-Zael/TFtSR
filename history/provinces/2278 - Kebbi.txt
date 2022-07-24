@@ -1,8 +1,6 @@
 # No previous file for Kebbi
-
 owner = KBI
 controller = KBI
-add_core = KBI
 add_core = KBI
 is_city = yes
 culture = hausa 
@@ -16,9 +14,4 @@ native_size = 40
 native_ferocity = 4
 native_hostileness = 9
 base_manpower = 1
-
-
-
 discovered_by = sub_saharan
-
-

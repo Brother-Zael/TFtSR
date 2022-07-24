@@ -1,5 +1,4 @@
 #805 - Arequipa
-
 culture = aimara
 religion = inti
 capital = "Arequipa"
@@ -11,10 +10,5 @@ base_manpower = 1
 native_size = 10
 native_ferocity = 1
 native_hostileness = 1
-
-
-
 discovered_by = south_american
 discovered_by = andean
-
-

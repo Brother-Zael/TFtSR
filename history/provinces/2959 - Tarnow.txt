@@ -1,5 +1,4 @@
 #2959 - Tarnow
-
 owner = WRS
 controller = WRS
 capital = "Tarnów"
@@ -12,16 +11,7 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = WRS
-
-
-
-
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

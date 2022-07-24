@@ -1,5 +1,4 @@
 # 92 Brabant - Principal cities: Brussel & Mechelen
-
 owner = DUT
 controller = DUT
 add_core = DUT
@@ -16,5 +15,3 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

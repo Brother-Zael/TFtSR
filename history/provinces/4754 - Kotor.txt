@@ -1,5 +1,4 @@
 # 4754 - Kotor
-
 owner = BRN
 controller = BRN
 culture = serbian
@@ -12,15 +11,8 @@ base_production = 3
 base_manpower = 1
 is_city = yes
 add_core = BRN
-add_core = BRN
 add_core = BRN #Venetian Albania
-
-
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-

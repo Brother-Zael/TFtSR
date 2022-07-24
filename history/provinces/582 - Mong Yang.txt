@@ -1,5 +1,4 @@
 #582 - Mong Yang
-
 owner = MYA
 controller = MYA
 culture = shan
@@ -13,10 +12,5 @@ base_manpower = 3
 fort_15th = yes
 is_city = yes
 add_core = MYA
-
-
-
 discovered_by = chinese
 discovered_by = indian
-
-

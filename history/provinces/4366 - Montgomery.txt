@@ -1,5 +1,4 @@
 #4366 - Montgomery + Radnor
-
 owner = ANG
 controller = ANG
 add_core = ANG
@@ -13,9 +12,7 @@ base_manpower = 1
 capital = "Montgomery"
 fort_15th = yes
 is_city = yes
-
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-

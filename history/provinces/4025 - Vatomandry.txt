@@ -1,5 +1,4 @@
 #4025 - Vatomandry
-
 owner = BTS
 controller = BTS
 add_core = BTS
@@ -15,5 +14,3 @@ is_city = yes
 discovered_by = east_african
 extra_cost = 8
 center_of_trade = 1
-
-

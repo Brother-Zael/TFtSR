@@ -1,5 +1,4 @@
 #344 - Marrakech
-
 owner = MDR
 controller = MDR 
 culture = moroccan
@@ -17,5 +16,3 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

@@ -1,5 +1,4 @@
 #4024 - Maroantsetra
-
 owner = BTS
 controller = BTS
 add_core = BTS
@@ -14,4 +13,3 @@ base_manpower = 1
 is_city = yes
 add_local_autonomy = 35 #Divided between various minor states.
 discovered_by = east_african
-

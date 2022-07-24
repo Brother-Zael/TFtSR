@@ -1,9 +1,7 @@
 #982 - Unamakik
-
 latent_trade_goods = {
 	coal
 }
-
 culture = mikmaq
 religion = totemism
 capital = "Unamakik"
@@ -17,4 +15,3 @@ native_ferocity = 1
 native_hostileness = 1
 discovered_by = north_american
 tribal_owner = MIK
-

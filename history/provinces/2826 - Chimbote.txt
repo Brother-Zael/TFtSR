@@ -1,5 +1,4 @@
 # - Chimbote
-
 owner = CHM
 controller = CHM
 culture = chimuan
@@ -12,11 +11,5 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = CHM
-
-
-
-
 discovered_by = south_american
 discovered_by = andean
-
-

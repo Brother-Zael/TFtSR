@@ -1,6 +1,5 @@
 #237 - Oxfordshire
 #Oxfordshire+Bukinghamshire+Berkshire
-
 owner = ANI
 controller = ANI
 add_core = ANI
@@ -13,7 +12,6 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Oxford"
 is_city = yes
-
 seat_in_parliament = yes
 discovered_by = western
 discovered_by = muslim

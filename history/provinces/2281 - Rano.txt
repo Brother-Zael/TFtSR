@@ -1,5 +1,4 @@
 # No previous file for Rano
-
 owner = KSN
 controller = KSN
 add_core = KSN
@@ -12,9 +11,4 @@ base_tax = 2
 base_production = 2
 is_city = yes
 base_manpower = 1
-
-
-
 discovered_by = sub_saharan
-
-

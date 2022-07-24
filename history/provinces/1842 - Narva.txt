@@ -1,5 +1,4 @@
 #Narva
-
 owner = NYL
 controller = NYL
 add_core = NYL
@@ -12,11 +11,5 @@ trade_goods = grain
 base_manpower = 1
 capital = "Narva"
 is_city = yes
-
-
-
-
-
 discovered_by = western
 discovered_by = eastern
-

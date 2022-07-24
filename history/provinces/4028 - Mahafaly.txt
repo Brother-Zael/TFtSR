@@ -1,5 +1,4 @@
 #4028 - Mahafaly
-
 owner = MHF
 controller = MHF
 add_core = MHF
@@ -13,4 +12,3 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 discovered_by = east_african
-

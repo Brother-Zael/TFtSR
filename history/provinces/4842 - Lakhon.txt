@@ -1,4 +1,3 @@
-
 owner = CRI
 controller = CRI
 culture = northern_thai
@@ -13,4 +12,3 @@ is_city = yes
 add_core = CRI
 discovered_by = chinese
 discovered_by = indian
-

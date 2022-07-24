@@ -1,5 +1,4 @@
 #1049 - Hailanboo
-
 owner = DKD
 controller = DKD
 add_core = DKD
@@ -12,10 +11,5 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-
-
-
 discovered_by = chinese
 discovered_by = nomad_group
-
-

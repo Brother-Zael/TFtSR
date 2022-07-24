@@ -1,9 +1,7 @@
 #1878 - Aachen
-
 latent_trade_goods = {
 	coal
 }
-
 owner = AAC
 controller = AAC
 culture = hessian
@@ -16,11 +14,7 @@ is_city = yes
 add_core = AAC
 base_manpower = 2
 hre = yes
-
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

@@ -1,5 +1,4 @@
 #2796 - Pate
-
 owner = PTE
 controller = PTE
 add_core = PTE
@@ -19,5 +18,3 @@ discovered_by = ottoman
 discovered_by = central_african
 extra_cost = 8
 center_of_trade = 1
-
-

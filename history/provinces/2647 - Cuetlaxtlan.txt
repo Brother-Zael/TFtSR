@@ -1,5 +1,4 @@
 # No previous file for Cuetlaxtlan
-
 culture = totonac
 owner = AZT
 controller = AZT
@@ -18,4 +17,3 @@ native_hostileness = 2
 discovered_by = mesoamerican
 extra_cost = 16
 center_of_trade = 2
-

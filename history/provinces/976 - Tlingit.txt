@@ -1,5 +1,4 @@
 #976 - Tlingit
-
 culture = haida
 religion = totemism
 capital = "Tlingit"
@@ -12,6 +11,4 @@ native_size = 10
 native_ferocity = 2 
 native_hostileness = 3 
 tribal_owner = HDA
-
 discovered_by = north_american
-

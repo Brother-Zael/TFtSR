@@ -1,5 +1,4 @@
 #4413 - Cannanore
-
 owner = MBR
 controller = MBR
 culture = malayalam
@@ -20,4 +19,3 @@ discovered_by = ottoman
 discovered_by = chinese
 extra_cost = 8
 center_of_trade = 1
-

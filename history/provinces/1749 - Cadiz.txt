@@ -1,5 +1,4 @@
 #1749 - Cadiz
-
 owner = CAS		#Enrique III of Castille
 controller = CAS
 add_core = CAS
@@ -18,5 +17,3 @@ discovered_by = ottoman
 discovered_by = eastern
 extra_cost = 8
 center_of_trade = 1
-
-

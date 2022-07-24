@@ -1,5 +1,4 @@
 #654 - Samar
-
 owner = SMA
 controller = SMA
 add_core = SMA
@@ -15,5 +14,3 @@ native_size = 50
 native_ferocity = 3
 native_hostileness = 9
 discovered_by = chinese
-
-

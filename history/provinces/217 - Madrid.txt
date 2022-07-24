@@ -1,5 +1,4 @@
 #217 - Madrid
-
 owner = CPM		#Juan II of Castille
 controller = CPM
 add_core = CPM
@@ -16,5 +15,3 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

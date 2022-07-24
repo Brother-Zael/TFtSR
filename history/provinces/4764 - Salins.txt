@@ -1,5 +1,4 @@
 # 4764 - Salins. Principal cities: Salins, Lons-le-Saunier, Arlay, Pontarlier
-
 owner = CAB
 controller = CAB 
 capital = "Salins"
@@ -17,5 +16,3 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

@@ -1,8 +1,6 @@
 #1227 - Tigre
-
 owner = ABY
 controller = ABY
-add_core = ABY
 add_core = ABY
 culture = tigray 
 religion = coptic #But also significant Jewish minority
@@ -17,4 +15,3 @@ discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
-

@@ -1,5 +1,4 @@
 #4110 - Sutherland
-
 owner = NRG
 controller = NRG
 culture = highland_scottish

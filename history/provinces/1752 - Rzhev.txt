@@ -1,5 +1,4 @@
 #1752 - Rzhev
-
 owner = HOL
 controller = HOL
 add_core = HOL
@@ -12,8 +11,6 @@ trade_goods = grain
 base_manpower = 3
 capital = "Rzhev"
 is_city = yes
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
-

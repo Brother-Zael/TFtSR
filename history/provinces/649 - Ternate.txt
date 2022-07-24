@@ -1,5 +1,4 @@
 #649 - Ternate
-
 owner = TER
 controller = TER
 culture = moluccan
@@ -13,4 +12,3 @@ base_manpower = 3
 is_city = yes
 add_core = TER
 discovered_by = chinese
-

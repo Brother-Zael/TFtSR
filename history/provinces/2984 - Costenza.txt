@@ -1,5 +1,4 @@
 # - Cosenza
-
 owner = PNR
 controller = PNR
 culture = neapolitan 
@@ -12,12 +11,7 @@ base_manpower = 1
 capital = "Cosenza"
 is_city = yes 
 add_core = PNR
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

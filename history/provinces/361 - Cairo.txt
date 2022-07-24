@@ -1,5 +1,4 @@
 #361 - Cairo
-
 owner = FAT
 controller = FAT
 culture = al_misr_arabic
@@ -22,4 +21,3 @@ discovered_by = indian
 discovered_by = east_african
 extra_cost = 16
 center_of_trade = 2
-

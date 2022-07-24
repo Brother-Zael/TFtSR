@@ -1,5 +1,4 @@
 #991 - Nipissing
-
 culture = algonquin
 religion = totemism
 capital = "Nipissing"
@@ -11,8 +10,4 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 6
 native_hostileness = 1
-
-
 discovered_by = north_american
-
-

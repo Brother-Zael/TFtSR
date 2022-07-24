@@ -1,5 +1,4 @@
 #4023 - Tsimihety
-
 owner = MIR
 controller = MIR
 add_core = MIR
@@ -14,4 +13,3 @@ base_manpower = 1
 is_city = yes
 add_local_autonomy = 50 #Almost no central control prior to the late 18th century.
 discovered_by = east_african
-

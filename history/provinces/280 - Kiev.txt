@@ -1,5 +1,4 @@
 #280 - Kiev
-
 owner = KYV
 controller = KYV  
 culture = ruthenian
@@ -12,7 +11,6 @@ base_manpower = 2
 capital = "Kiev"
 is_city = yes
 add_core = KYV
-add_core = KYV
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -20,4 +18,3 @@ discovered_by = ottoman
 discovered_by = nomad_group
 extra_cost = 16
 center_of_trade = 2
-

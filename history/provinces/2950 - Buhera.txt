@@ -1,5 +1,4 @@
 #2950 - Buhera
-
 owner = ZIM
 controller = ZIM
 add_core = ZIM
@@ -14,4 +13,3 @@ base_tax = 1
 base_production = 1
 discovered_by = east_african
 discovered_by = central_african
-
