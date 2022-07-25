@@ -10,4 +10,5 @@ tags={
 	"Map"
 }
 name="Tales From the Silk Road"
-supported_version="1.33.3"
+supported_version="1.33.*"
+remote_file_id="2840062534"

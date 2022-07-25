@@ -1570,7 +1570,7 @@ eastern = {
 		}
 		country_as_secondary = {
 			global_autonomy = -0.1
-			unrest = -3
+			global_unrest = -3
 		}
 		heretic = { TAOIST }
 		ancestors = yes
@@ -1621,447 +1621,447 @@ taoism = {
 	flag_emblem_index_range = { 58 80 }
 	
 	# Schools
-	religious_schools = {
-		way_of_supreme_peace_taoism = {
-			potential_invite_scholar = {
-					OR = {
-						knows_of_scholar_country_capital_trigger = yes
-						has_country_flag = can_always_invite_way_of_supreme_peace_taoism
-						has_country_flag = privilege_can_always_invite_way_of_supreme_peace_taoism
-					}
-				}
-
-				# THIS = Nation wanting to invite the scholar, FROM = Nation that follows that school
-				can_invite_scholar = {
-					if = {
-						limit = {
-							NOT = { has_country_flag = no_scholar_adm_cost }
-						}
-						adm_power_cost = 10
-					}
-					if = {
-						limit = {
-							NOT = { religion = shiite }
-							NOT = { religion = ibadi }
-							NOT = { religion = sunni }
-						}
-						NOT = { piety = -0.5 }
-					}
-					if = {
-						limit = {
-							NOT = { has_country_flag = can_always_invite_way_of_supreme_peace_taoism }
-							NOT = { has_country_flag = privilege_can_always_invite_way_of_supreme_peace_taoism }
-						}
-						reverse_has_opinion = { who = FROM value = 100 }
-						OR = {
-							alliance_with = FROM
-							is_subject_of = FROM
-							overlord_of = FROM
-						}
-						hidden_progressive_opinion_for_scholar_trigger = yes
-					}
-					if = {
-						limit = {
-							ai = yes
-						}
-						NOT = { has_country_modifier = has_invited_scholar_recently }
-					}
-					NOT = { has_country_modifier = way_of_supreme_peace_modifier }
-				}
-
+#	religious_schools = {
+#		way_of_supreme_peace_taoism = {
+#			potential_invite_scholar = {
+#					OR = {
+#						knows_of_scholar_country_capital_trigger = yes
+#						has_country_flag = can_always_invite_way_of_supreme_peace_taoism
+#						has_country_flag = privilege_can_always_invite_way_of_supreme_peace_taoism
+#					}
+#				}
+#
+#				# THIS = Nation wanting to invite the scholar, FROM = Nation that follows that school
+#				can_invite_scholar = {
+#					if = {
+#						limit = {
+#							NOT = { has_country_flag = no_scholar_adm_cost }
+#						}
+#						adm_power_cost = 10
+#					}
+#					if = {
+#						limit = {
+#							NOT = { religion = shiite }
+#							NOT = { religion = ibadi }
+#							NOT = { religion = sunni }
+#						}
+#						NOT = { piety = -0.5 }
+#					}
+#					if = {
+#						limit = {
+#							NOT = { has_country_flag = can_always_invite_way_of_supreme_peace_taoism }
+#							NOT = { has_country_flag = privilege_can_always_invite_way_of_supreme_peace_taoism }
+#						}
+#						reverse_has_opinion = { who = FROM value = 100 }
+#						OR = {
+#							alliance_with = FROM
+#							is_subject_of = FROM
+#							overlord_of = FROM
+#						}
+#						hidden_progressive_opinion_for_scholar_trigger = yes
+#					}
+#					if = {
+#						limit = {
+#							ai = yes
+#						}
+#						NOT = { has_country_modifier = has_invited_scholar_recently }
+#					}
+#					NOT = { has_country_modifier = way_of_supreme_peace_modifier }
+#				}
+#
 				# THIS = Nation wanting to invite the scholar, FORM = Nation that sends scholar
-				on_invite_scholar = {
-					if = {
-						limit = {
-							NOT = { has_country_flag = no_scholar_adm_cost }
-						}
-						adm_power_cost = 10
-					}
-					clear_religious_scholar_modifiers_effect = yes
-					custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-					add_country_modifier = { name = way_of_supreme_peace_modifier duration = 7300 }
-					if = {	#Ensures that the AI doesn't waste all of their ADM power on inviting scholars should they be able to invite them baseline
-						limit = {
-							ai = yes
-						}
-						add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
-					}
-				}
-			invite_scholar_modifier_display = way_of_supreme_peace_modifier
-
-			picture = "GFX_icon_muslim_school_zaidi"
-
-			stability_cost_modifier = -0.33
-			infantry_power = 0.1
-		}
-		
-		tianshi_taoism = {
-			potential_invite_scholar = {
-					OR = {
-						knows_of_scholar_country_capital_trigger = yes
-						has_country_flag = can_always_invite_tianshi_taoism
-						has_country_flag = privilege_can_always_invite_tianshi_taoism
-					}
-				}
-
+#				on_invite_scholar = {
+#					if = {
+#						limit = {
+#							NOT = { has_country_flag = no_scholar_adm_cost }
+#						}
+#						adm_power_cost = 10
+#					}
+#					clear_religious_scholar_modifiers_effect = yes
+#					custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+#					add_country_modifier = { name = way_of_supreme_peace_modifier duration = 7300 }
+#					if = {	#Ensures that the AI doesn't waste all of their ADM power on inviting scholars should they be able to invite them baseline
+#						limit = {
+#							ai = yes
+#						}
+#						add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+#					}
+#				}
+#			invite_scholar_modifier_display = way_of_supreme_peace_modifier
+#
+#			picture = "GFX_icon_muslim_school_zaidi"
+#
+#			stability_cost_modifier = -0.33
+#			infantry_power = 0.1
+#		}
+#		
+#		tianshi_taoism = {
+#			potential_invite_scholar = {
+#					OR = {
+#						knows_of_scholar_country_capital_trigger = yes
+#						has_country_flag = can_always_invite_tianshi_taoism
+#						has_country_flag = privilege_can_always_invite_tianshi_taoism
+#					}
+#				}
+#
 				# THIS = Nation wanting to invite the scholar, FROM = Nation that follows that school
-				can_invite_scholar = {
-					if = {
-						limit = {
-							NOT = { has_country_flag = no_scholar_adm_cost }
-						}
-						adm_power_cost = 50
-					}
-					if = {
-						limit = {
-							NOT = { religion = shiite }
-							NOT = { religion = ibadi }
-							NOT = { religion = sunni }
-						}
-						NOT = { piety = -0.5 }
-					}
-					if = {
-						limit = {
-							NOT = { has_country_flag = can_always_invite_tianshi_taoism }
-							NOT = { has_country_flag = privilege_can_always_invite_tianshi_taoism }
-						}
-						reverse_has_opinion = { who = FROM value = 100 }
-						OR = {
-							alliance_with = FROM
-							is_subject_of = FROM
-							overlord_of = FROM
-						}
-						hidden_progressive_opinion_for_scholar_trigger = yes
-					}
-					if = {
-						limit = {
-							ai = yes
-						}
-						NOT = { has_country_modifier = has_invited_scholar_recently }
-					}
-					NOT = { has_country_modifier = tianshi_taoism_modifier }
-				}
-
+#				can_invite_scholar = {
+#					if = {
+#						limit = {
+#							NOT = { has_country_flag = no_scholar_adm_cost }
+#						}
+#						adm_power_cost = 50
+#					}
+#					if = {
+#						limit = {
+#							NOT = { religion = shiite }
+#							NOT = { religion = ibadi }
+#							NOT = { religion = sunni }
+#						}
+#						NOT = { piety = -0.5 }
+#					}
+#					if = {
+#						limit = {
+#							NOT = { has_country_flag = can_always_invite_tianshi_taoism }
+#							NOT = { has_country_flag = privilege_can_always_invite_tianshi_taoism }
+#						}
+#						reverse_has_opinion = { who = FROM value = 100 }
+#						OR = {
+#							alliance_with = FROM
+#							is_subject_of = FROM
+#							overlord_of = FROM
+#						}
+#						hidden_progressive_opinion_for_scholar_trigger = yes
+#					}
+#					if = {
+#						limit = {
+#							ai = yes
+#						}
+#						NOT = { has_country_modifier = has_invited_scholar_recently }
+#					}
+#					NOT = { has_country_modifier = tianshi_taoism_modifier }
+#				}
+#
 				# THIS = Nation wanting to invite the scholar, FORM = Nation that sends scholar
-				on_invite_scholar = {
-					if = {
-						limit = {
-							NOT = { has_country_flag = no_scholar_adm_cost }
-						}
-						adm_power_cost = 50
-					}
-					clear_religious_scholar_modifiers_effect = yes
-					custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-					add_country_modifier = { name = tianshi_taoism_modifier duration = 7300 }
-					if = {	#Ensures that the AI doesn't waste all of their ADM power on inviting scholars should they be able to invite them baseline
-						limit = {
-							ai = yes
-						}
-						add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
-					}
-				}
-			invite_scholar_modifier_display = tianshi_taoism_modifier
-
-			picture = "GFX_icon_muslim_school_zaidi"
-			
-			yearly_corruption = -0.1
-			advisor_cost = -0.1
-		}
-		
-		quanzhen_taoism = {
-			potential_invite_scholar = {
-					OR = {
-						knows_of_scholar_country_capital_trigger = yes
-						has_country_flag = can_always_invite_quanzhen_taoism
-						has_country_flag = privilege_can_always_invite_quanzhen_taoism
-					}
-				}
-
+#				on_invite_scholar = {
+#					if = {
+#						limit = {
+#							NOT = { has_country_flag = no_scholar_adm_cost }
+#						}
+#						adm_power_cost = 50
+#					}
+#					clear_religious_scholar_modifiers_effect = yes
+#					custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+#					add_country_modifier = { name = tianshi_taoism_modifier duration = 7300 }
+#					if = {	#Ensures that the AI doesn't waste all of their ADM power on inviting scholars should they be able to invite them baseline
+#						limit = {
+#							ai = yes
+#						}
+#						add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+#					}
+#				}
+#			invite_scholar_modifier_display = tianshi_taoism_modifier
+#
+#			picture = "GFX_icon_muslim_school_zaidi"
+#			
+#			yearly_corruption = -0.1
+#			advisor_cost = -0.1
+#		}
+#		
+#		quanzhen_taoism = {
+#			potential_invite_scholar = {
+#					OR = {
+#						knows_of_scholar_country_capital_trigger = yes
+#						has_country_flag = can_always_invite_quanzhen_taoism
+#						has_country_flag = privilege_can_always_invite_quanzhen_taoism
+#					}
+#				}
+#
+#				# THIS = Nation wanting to invite the scholar, FROM = Nation that follows that school
+#				can_invite_scholar = {
+#					if = {
+#						limit = {
+#							NOT = { has_country_flag = no_scholar_adm_cost }
+#						}
+#						adm_power_cost = 50
+#					}
+#					if = {
+#						limit = {
+#							NOT = { religion = shiite }
+#							NOT = { religion = ibadi }
+#							NOT = { religion = sunni }
+#						}
+#						NOT = { piety = -0.5 }
+#					}
+#					if = {
+#						limit = {
+#							NOT = { has_country_flag = can_always_invite_quanzhen_taoism }
+#							NOT = { has_country_flag = privilege_can_always_invite_quanzhen_taoism }
+#						}
+#						reverse_has_opinion = { who = FROM value = 100 }
+#						OR = {
+#							alliance_with = FROM
+#							is_subject_of = FROM
+#							overlord_of = FROM
+#						}
+#						hidden_progressive_opinion_for_scholar_trigger = yes
+#					}
+#					if = {
+#						limit = {
+#							ai = yes
+#						}
+#						NOT = { has_country_modifier = has_invited_scholar_recently }
+#					}
+#					NOT = { has_country_modifier = quanzhen_taoism_modifier }
+#				}
+#
+				# THIS = Nation wanting to invite the scholar, FORM = Nation that sends scholar
+#				on_invite_scholar = {
+#					if = {
+#						limit = {
+#							NOT = { has_country_flag = no_scholar_adm_cost }
+#						}
+#						adm_power_cost = 50
+#					}
+#					clear_religious_scholar_modifiers_effect = yes
+#					custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+#					add_country_modifier = { name = quanzhen_taoism_modifier duration = 7300 }
+#					if = {	#Ensures that the AI doesn't waste all of their ADM power on inviting scholars should they be able to invite them baseline
+#						limit = {
+#							ai = yes
+#						}
+#						add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+#					}
+#				}
+#			invite_scholar_modifier_display = quanzhen_taoism_modifier
+#
+#			picture = "GFX_icon_muslim_school_zaidi"
+#			
+#			monarch_lifespan = 0.1
+#			monarch_dip_power = 1
+#			heir_chance = -0.5
+#		}
+#		
+#		shangqing_taoism = {
+#			potential_invite_scholar = {
+#					OR = {
+#						knows_of_scholar_country_capital_trigger = yes
+#						has_country_flag = can_always_invite_shangqing_taoism
+#						has_country_flag = privilege_can_always_invite_shangqing_taoism
+#					}
+#				}
+#
 				# THIS = Nation wanting to invite the scholar, FROM = Nation that follows that school
-				can_invite_scholar = {
-					if = {
-						limit = {
-							NOT = { has_country_flag = no_scholar_adm_cost }
-						}
-						adm_power_cost = 50
-					}
-					if = {
-						limit = {
-							NOT = { religion = shiite }
-							NOT = { religion = ibadi }
-							NOT = { religion = sunni }
-						}
-						NOT = { piety = -0.5 }
-					}
-					if = {
-						limit = {
-							NOT = { has_country_flag = can_always_invite_quanzhen_taoism }
-							NOT = { has_country_flag = privilege_can_always_invite_quanzhen_taoism }
-						}
-						reverse_has_opinion = { who = FROM value = 100 }
-						OR = {
-							alliance_with = FROM
-							is_subject_of = FROM
-							overlord_of = FROM
-						}
-						hidden_progressive_opinion_for_scholar_trigger = yes
-					}
-					if = {
-						limit = {
-							ai = yes
-						}
-						NOT = { has_country_modifier = has_invited_scholar_recently }
-					}
-					NOT = { has_country_modifier = quanzhen_taoism_modifier }
-				}
-
+#				can_invite_scholar = {
+#					if = {
+#						limit = {
+#							NOT = { has_country_flag = no_scholar_adm_cost }
+#						}
+#						adm_power_cost = 50
+#					}
+#					if = {
+#						limit = {
+#							NOT = { religion = shiite }
+#							NOT = { religion = ibadi }
+#							NOT = { religion = sunni }
+#						}
+#						NOT = { piety = -0.5 }
+#					}
+#					if = {
+#						limit = {
+#							NOT = { has_country_flag = can_always_invite_shangqing_taoism }
+#							NOT = { has_country_flag = privilege_can_always_invite_shangqing_taoism }
+#						}
+#						reverse_has_opinion = { who = FROM value = 100 }
+#						OR = {
+#							alliance_with = FROM
+#							is_subject_of = FROM
+#							overlord_of = FROM
+#						}
+#						hidden_progressive_opinion_for_scholar_trigger = yes
+#					}
+#					if = {
+#						limit = {
+#							ai = yes
+#						}
+#						NOT = { has_country_modifier = has_invited_scholar_recently }
+#					}
+#					NOT = { has_country_modifier = shangqing_taoism_modifier }
+#				}
+#
 				# THIS = Nation wanting to invite the scholar, FORM = Nation that sends scholar
-				on_invite_scholar = {
-					if = {
-						limit = {
-							NOT = { has_country_flag = no_scholar_adm_cost }
-						}
-						adm_power_cost = 50
-					}
-					clear_religious_scholar_modifiers_effect = yes
-					custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-					add_country_modifier = { name = quanzhen_taoism_modifier duration = 7300 }
-					if = {	#Ensures that the AI doesn't waste all of their ADM power on inviting scholars should they be able to invite them baseline
-						limit = {
-							ai = yes
-						}
-						add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
-					}
-				}
-			invite_scholar_modifier_display = quanzhen_taoism_modifier
-
-			picture = "GFX_icon_muslim_school_zaidi"
-			
-			monarch_lifespan = 0.1
-			monarch_dip_power = 1
-			heir_chance = -0.5
-		}
-		
-		shangqing_taoism = {
-			potential_invite_scholar = {
-					OR = {
-						knows_of_scholar_country_capital_trigger = yes
-						has_country_flag = can_always_invite_shangqing_taoism
-						has_country_flag = privilege_can_always_invite_shangqing_taoism
-					}
-				}
-
+#				on_invite_scholar = {
+#					if = {
+#						limit = {
+#							NOT = { has_country_flag = no_scholar_adm_cost }
+#						}
+#						adm_power_cost = 10
+#					}
+#					clear_religious_scholar_modifiers_effect = yes
+#					custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+#					add_country_modifier = { name = shangqing_taoism_modifier duration = 7300 }
+#					if = {	#Ensures that the AI doesn't waste all of their ADM power on inviting scholars should they be able to invite them baseline
+#						limit = {
+#							ai = yes
+#						}
+#						add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+#					}
+#				}
+#			invite_scholar_modifier_display = shangqing_taoism_modifier
+#
+#			picture = "GFX_icon_muslim_school_zaidi"
+#			
+#			production_efficiency = 0.2
+#			advisor_pool = 1
+#			female_advisor_chance = 0.5
+#		}
+#		
+#		lijia_taoism = {
+#			potential_invite_scholar = {
+#					OR = {
+#						knows_of_scholar_country_capital_trigger = yes
+#						has_country_flag = can_always_invite_lijia_taoism
+#						has_country_flag = privilege_can_always_invite_lijia_taoism
+#					}
+#				}
+#
 				# THIS = Nation wanting to invite the scholar, FROM = Nation that follows that school
-				can_invite_scholar = {
-					if = {
-						limit = {
-							NOT = { has_country_flag = no_scholar_adm_cost }
-						}
-						adm_power_cost = 50
-					}
-					if = {
-						limit = {
-							NOT = { religion = shiite }
-							NOT = { religion = ibadi }
-							NOT = { religion = sunni }
-						}
-						NOT = { piety = -0.5 }
-					}
-					if = {
-						limit = {
-							NOT = { has_country_flag = can_always_invite_shangqing_taoism }
-							NOT = { has_country_flag = privilege_can_always_invite_shangqing_taoism }
-						}
-						reverse_has_opinion = { who = FROM value = 100 }
-						OR = {
-							alliance_with = FROM
-							is_subject_of = FROM
-							overlord_of = FROM
-						}
-						hidden_progressive_opinion_for_scholar_trigger = yes
-					}
-					if = {
-						limit = {
-							ai = yes
-						}
-						NOT = { has_country_modifier = has_invited_scholar_recently }
-					}
-					NOT = { has_country_modifier = shangqing_taoism_modifier }
-				}
-
+#				can_invite_scholar = {
+#					if = {
+#						limit = {
+#							NOT = { has_country_flag = no_scholar_adm_cost }
+#						}
+#						adm_power_cost = 75
+#					}
+#					if = {
+#						limit = {
+#							NOT = { religion = shiite }
+#							NOT = { religion = ibadi }
+#							NOT = { religion = sunni }
+#						}
+#						NOT = { piety = -0.5 }
+#					}
+#					if = {
+#						limit = {
+#							NOT = { has_country_flag = can_always_invite_lijia_taoism }
+#							NOT = { has_country_flag = privilege_can_always_invite_lijia_taoism }
+#						}
+#						reverse_has_opinion = { who = FROM value = 100 }
+#						OR = {
+#							alliance_with = FROM
+#							is_subject_of = FROM
+#							overlord_of = FROM
+#						}
+#						hidden_progressive_opinion_for_scholar_trigger = yes
+#					}
+#					if = {
+#						limit = {
+#							ai = yes
+#						}
+#						NOT = { has_country_modifier = has_invited_scholar_recently }
+#					}
+#					NOT = { has_country_modifier = lijia_taoism_modifier }
+#				}
+#
 				# THIS = Nation wanting to invite the scholar, FORM = Nation that sends scholar
-				on_invite_scholar = {
-					if = {
-						limit = {
-							NOT = { has_country_flag = no_scholar_adm_cost }
-						}
-						adm_power_cost = 10
-					}
-					clear_religious_scholar_modifiers_effect = yes
-					custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-					add_country_modifier = { name = shangqing_taoism_modifier duration = 7300 }
-					if = {	#Ensures that the AI doesn't waste all of their ADM power on inviting scholars should they be able to invite them baseline
-						limit = {
-							ai = yes
-						}
-						add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
-					}
-				}
-			invite_scholar_modifier_display = shangqing_taoism_modifier
-
-			picture = "GFX_icon_muslim_school_zaidi"
-			
-			production_efficiency = 0.2
-			advisor_pool = 1
-			female_advisor_chance = 0.5
-		}
-		
-		lijia_taoism = {
-			potential_invite_scholar = {
-					OR = {
-						knows_of_scholar_country_capital_trigger = yes
-						has_country_flag = can_always_invite_lijia_taoism
-						has_country_flag = privilege_can_always_invite_lijia_taoism
-					}
-				}
-
+#				on_invite_scholar = {
+#					if = {
+#						limit = {
+#							NOT = { has_country_flag = no_scholar_adm_cost }
+#						}
+#						adm_power_cost = 75
+#					}
+#					clear_religious_scholar_modifiers_effect = yes
+#					custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+#					add_country_modifier = { name = lijia_taoism_modifier duration = 7300 }
+#					if = {	#Ensures that the AI doesn't waste all of their ADM power on inviting scholars should they be able to invite them baseline
+#						limit = {
+#							ai = yes
+#						}
+#						add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+#					}
+#				}
+#			invite_scholar_modifier_display = lijia_taoism_modifier
+#
+#			picture = "GFX_icon_muslim_school_zaidi"
+#			
+#			monarch_lifespan = 0.50
+#			declare_war_in_regency = yes
+#		}
+#		
+#		longmen_taoism = {
+#			potential_invite_scholar = {
+#					OR = {
+#						knows_of_scholar_country_capital_trigger = yes
+#						has_country_flag = can_always_invite_longmen_taoism
+#						has_country_flag = privilege_can_always_invite_longmen_taoism
+#					}
+#				}
+#
 				# THIS = Nation wanting to invite the scholar, FROM = Nation that follows that school
-				can_invite_scholar = {
-					if = {
-						limit = {
-							NOT = { has_country_flag = no_scholar_adm_cost }
-						}
-						adm_power_cost = 75
-					}
-					if = {
-						limit = {
-							NOT = { religion = shiite }
-							NOT = { religion = ibadi }
-							NOT = { religion = sunni }
-						}
-						NOT = { piety = -0.5 }
-					}
-					if = {
-						limit = {
-							NOT = { has_country_flag = can_always_invite_lijia_taoism }
-							NOT = { has_country_flag = privilege_can_always_invite_lijia_taoism }
-						}
-						reverse_has_opinion = { who = FROM value = 100 }
-						OR = {
-							alliance_with = FROM
-							is_subject_of = FROM
-							overlord_of = FROM
-						}
-						hidden_progressive_opinion_for_scholar_trigger = yes
-					}
-					if = {
-						limit = {
-							ai = yes
-						}
-						NOT = { has_country_modifier = has_invited_scholar_recently }
-					}
-					NOT = { has_country_modifier = lijia_taoism_modifier }
-				}
-
+#				can_invite_scholar = {
+#					if = {
+#						limit = {
+#							NOT = { has_country_flag = no_scholar_adm_cost }
+#						}
+#						adm_power_cost = 50
+#					}
+#					if = {
+#						limit = {
+#							NOT = { religion = shiite }
+#							NOT = { religion = ibadi }
+#							NOT = { religion = sunni }
+#						}
+#						NOT = { piety = -0.5 }
+#					}
+#					if = {
+#						limit = {
+#							NOT = { has_country_flag = can_always_invite_longmen_taoism }
+#							NOT = { has_country_flag = privilege_can_always_invite_longmen_taoism }
+#						}
+#						reverse_has_opinion = { who = FROM value = 100 }
+#						OR = {
+#							alliance_with = FROM
+#							is_subject_of = FROM
+#							overlord_of = FROM
+#						}
+#						hidden_progressive_opinion_for_scholar_trigger = yes
+#					}
+#					if = {
+#						limit = {
+#							ai = yes
+#						}
+#						NOT = { has_country_modifier = has_invited_scholar_recently }
+#					}
+#					NOT = { has_country_modifier = longmen_taoism_modifier }
+#				}
+#
 				# THIS = Nation wanting to invite the scholar, FORM = Nation that sends scholar
-				on_invite_scholar = {
-					if = {
-						limit = {
-							NOT = { has_country_flag = no_scholar_adm_cost }
-						}
-						adm_power_cost = 75
-					}
-					clear_religious_scholar_modifiers_effect = yes
-					custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-					add_country_modifier = { name = lijia_taoism_modifier duration = 7300 }
-					if = {	#Ensures that the AI doesn't waste all of their ADM power on inviting scholars should they be able to invite them baseline
-						limit = {
-							ai = yes
-						}
-						add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
-					}
-				}
-			invite_scholar_modifier_display = lijia_taoism_modifier
-
-			picture = "GFX_icon_muslim_school_zaidi"
-			
-			monarch_lifespan = 0.50
-			declare_war_in_regency = yes
-		}
-		
-		longmen_taoism = {
-			potential_invite_scholar = {
-					OR = {
-						knows_of_scholar_country_capital_trigger = yes
-						has_country_flag = can_always_invite_longmen_taoism
-						has_country_flag = privilege_can_always_invite_longmen_taoism
-					}
-				}
-
-				# THIS = Nation wanting to invite the scholar, FROM = Nation that follows that school
-				can_invite_scholar = {
-					if = {
-						limit = {
-							NOT = { has_country_flag = no_scholar_adm_cost }
-						}
-						adm_power_cost = 50
-					}
-					if = {
-						limit = {
-							NOT = { religion = shiite }
-							NOT = { religion = ibadi }
-							NOT = { religion = sunni }
-						}
-						NOT = { piety = -0.5 }
-					}
-					if = {
-						limit = {
-							NOT = { has_country_flag = can_always_invite_longmen_taoism }
-							NOT = { has_country_flag = privilege_can_always_invite_longmen_taoism }
-						}
-						reverse_has_opinion = { who = FROM value = 100 }
-						OR = {
-							alliance_with = FROM
-							is_subject_of = FROM
-							overlord_of = FROM
-						}
-						hidden_progressive_opinion_for_scholar_trigger = yes
-					}
-					if = {
-						limit = {
-							ai = yes
-						}
-						NOT = { has_country_modifier = has_invited_scholar_recently }
-					}
-					NOT = { has_country_modifier = longmen_taoism_modifier }
-				}
-
-				# THIS = Nation wanting to invite the scholar, FORM = Nation that sends scholar
-				on_invite_scholar = {
-					if = {
-						limit = {
-							NOT = { has_country_flag = no_scholar_adm_cost }
-						}
-						adm_power_cost = 50
-					}
-					clear_religious_scholar_modifiers_effect = yes
-					custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-					add_country_modifier = { name = longmen_taoism_modifier duration = 7300 }
-					if = {	#Ensures that the AI doesn't waste all of their ADM power on inviting scholars should they be able to invite them baseline
-						limit = {
-							ai = yes
-						}
-						add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
-					}
-				}
-			invite_scholar_modifier_display = longmen_taoism_modifier
-
-			picture = "GFX_icon_muslim_school_zaidi"
-			
-			regiment_cost = -0.1
-			cavalry_power = 0.1
-		}
-	}
+#				on_invite_scholar = {
+#					if = {
+#						limit = {
+#							NOT = { has_country_flag = no_scholar_adm_cost }
+#						}
+#						adm_power_cost = 50
+#					}
+#					clear_religious_scholar_modifiers_effect = yes
+#					custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+#					add_country_modifier = { name = longmen_taoism_modifier duration = 7300 }
+#					if = {	#Ensures that the AI doesn't waste all of their ADM power on inviting scholars should they be able to invite them baseline
+#						limit = {
+#							ai = yes
+#						}
+#						add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+#					}
+#				}
+#			invite_scholar_modifier_display = longmen_taoism_modifier
+#
+#			picture = "GFX_icon_muslim_school_zaidi"
+#			
+#			regiment_cost = -0.1
+#			cavalry_power = 0.1
+#		}
+#	}
 	
 	daoism = {
 		color = { 234 234 0 }
