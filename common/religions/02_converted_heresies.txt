@@ -130,7 +130,7 @@ christian = {
 				}
 				effect = {
 					add_legitimacy = 10
-					add_adm_points = 50
+					add_admin_points = 50
 				}
 				ai_will_do = {
 					factor = 1
@@ -743,7 +743,6 @@ jewish_group = {
 		icon = 51
 		color = { 0.5 0.7 0.2 }
 		country = {
-			max_states = 5
 			idea_cost = -0.1
 			tolerance_heathen = -2
 		}
