@@ -1,4 +1,7 @@
 #756 - Bahia
+owner = KES
+controller = KES
+add_core = KES
 culture = tupinamba
 discovered_by = south_american
 religion = animism

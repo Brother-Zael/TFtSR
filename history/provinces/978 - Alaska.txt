@@ -1,4 +1,7 @@
 #978 - Alaska
+owner = KEN
+controller = KEN
+add_core = KEN
 culture = aleutian
 religion = totemism
 capital = "Alaska"

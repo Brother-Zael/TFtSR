@@ -1,7 +1,7 @@
 # 2128 - Ngari
-owner = GUG
-controller = GUG
-add_core = GUG
+owner = PUR
+controller = PUR
+add_core = PUR
 culture = tibetan
 religion = vajrayana
 #capital = "Ngari"

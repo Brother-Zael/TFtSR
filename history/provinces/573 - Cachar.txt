@@ -1,6 +1,6 @@
 #573 - Cachar
-owner = KAC
-controller = KAC
+owner = ASS
+controller = ASS
 culture = chin
 religion = hinduism
 capital = "Maibang"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = KAC
+add_core = ASS
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = chinese

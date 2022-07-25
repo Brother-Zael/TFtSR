@@ -1,7 +1,7 @@
 #2761 - Arsi
-owner = HDY
-controller = HDY
-add_core = HDY
+owner = HAD
+controller = HAD
+add_core = HAD
 culture = amhara 
 religion = sunni
 capital = "Assela"

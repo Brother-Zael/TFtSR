@@ -1,6 +1,6 @@
 #2201 - Alania
-owner = KIP
-controller = KIP
+owner = ALA
+controller = ALA
 culture = circassian
 religion = orthodox
 capital = "Dzaudzhikau"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = KIP
+add_core = ALA
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

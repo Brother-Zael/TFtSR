@@ -1,7 +1,7 @@
 #678 - Kham
-owner = KAM
-controller = KAM
-add_core = KAM
+owner = TAC
+controller = TAC
+add_core = TAC
 culture = tibetan
 religion = vajrayana
 capital = "Tachienlu"

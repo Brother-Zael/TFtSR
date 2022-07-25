@@ -1,6 +1,6 @@
 #595 - Perak
-owner = MLC
-controller = MLC
+owner = PRK
+controller = PRK
 culture = malayan
 religion = sunni
 capital = "Perak"
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 is_city = yes
-add_core = MLC
+add_core = PRK
 add_core = PRK
 discovered_by = chinese
 discovered_by = indian

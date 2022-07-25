@@ -1,6 +1,6 @@
 #1026 - Mutsu
-owner = UES
-controller = UES
+owner = ZEN
+controller = ZEN
 culture = togoku
 religion = shinto
 capital = "Aizu"
@@ -10,5 +10,5 @@ base_tax = 3
 base_manpower = 3
 base_production = 3
 is_city = yes
-add_core = UES
+add_core = ZEN
 discovered_by = chinese

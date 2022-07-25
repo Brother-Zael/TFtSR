@@ -1,4 +1,7 @@
 #979 - Aleut
+owner = KEN
+controller = KEN
+add_core = KEN
 culture = aleutian
 religion = totemism
 capital = "Aleut"
