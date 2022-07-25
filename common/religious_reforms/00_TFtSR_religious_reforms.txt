@@ -1,0 +1,42 @@
+# Do not change tags in here without changing every other reference to them.
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or ideas, make sure they are unique.
+
+# ai_will do does not actually determine weighting, but AI will not pick an idea with ai_will_do = 0
+# ROOT = country picking the idea
+# groups set to colonial=yes will be higher prioritized by the AI when spending power
+
+thulsa_reforms = {
+	trigger = {
+		religion = thulsa
+	}	
+
+	can_buy_idea = {
+		vassal = 2
+		is_at_war = yes
+		stability = 1
+		NOT = { doom = 50 }
+	}
+	
+	thulsa_reform_1 = {
+		war_exhaustion = -0.05
+	}
+	thulsa_reform_2 = {
+		land_morale = 0.1
+	}
+	thulsa_reform_3 = {
+		discipline = 0.05
+	}
+	thulsa_reform_4 = {
+		land_attrition = -0.1
+	}
+	thulsa_reform_5 = {
+		global_missionary_strength = 0.03
+	}	
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+
