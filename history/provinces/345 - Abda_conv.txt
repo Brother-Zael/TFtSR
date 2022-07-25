@@ -1,11 +1,11 @@
 ck2_converter_generated = yes
-owner = X42
-controller = X42
-add_core = X42
+owner = LGN
+controller = LGN
+add_core = LGN
 culture = berber
 religion = ibadi
 citysize = 2000
-add_permanent_claim = X02
+add_permanent_claim = LGN
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
