@@ -3,7 +3,7 @@
 owner = SML
 controller = SML
 culture = english
-religion = norse
+religion = norse_pagan_reformed
 hre = no
 base_tax = 4
 base_production = 4

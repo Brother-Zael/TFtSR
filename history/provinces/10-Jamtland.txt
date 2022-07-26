@@ -2,7 +2,7 @@
 owner = VAR
 controller = VAR
 culture = norwegian # They were actually Jämts - the unique blend of Swedish, Norwegian and local tendencies
-religion = norse_pagan_reformed
+religion = norse_pagan_reformed_pagan_reformed
 hre = no
 base_tax = 1 
 base_production = 1

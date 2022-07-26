@@ -2,7 +2,7 @@
 owner = DAN
 controller = DAN
 culture = lower_saxon
-religion = norse
+religion = norse_pagan_reformed
 capital = "Stade"
 trade_goods = fish
 hre = yes
