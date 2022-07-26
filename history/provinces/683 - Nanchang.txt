@@ -1,4 +1,4 @@
-3#683 - Nanchang
+#683 - Nanchang
 owner = NMY
 controller = NMY
 culture = gan

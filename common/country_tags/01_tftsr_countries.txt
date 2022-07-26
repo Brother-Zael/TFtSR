@@ -480,6 +480,7 @@ SKA = "countries/Sakalava.txt"
 BTS = "countries/Betsimisaraka.txt"
 MFY = "countries/Mahafaly.txt"
 ANT = "countries/Antemoro.txt"
+MAH = "countries/Mahafaly.txt"
 
 #South East Asia
 AVA = "countries/Ava.txt"						# city-state
