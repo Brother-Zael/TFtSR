@@ -8,7 +8,7 @@ color = { 28 27 27 }
 historical_idea_groups = {
 	offensive_ideas
 	economic_ideas
-	espionage_ideas
+	maritime_ideas
 }
 
 monarch_names = {

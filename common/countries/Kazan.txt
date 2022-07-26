@@ -7,7 +7,7 @@ color = { 7 7 7 }
 
 historical_idea_groups = {
 	horde_ideas
-	espionage_ideas
+	maritime_ideas
 	trade_ideas	
 }
 

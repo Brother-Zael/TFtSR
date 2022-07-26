@@ -7,7 +7,7 @@ color = { 21 21 21 }
 
 historical_idea_groups = {
 	aristocracy_ideas
-	espionage_ideas
+	maritime_ideas
 	offensive_ideas
 }
 

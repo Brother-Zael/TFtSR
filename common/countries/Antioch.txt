@@ -7,7 +7,7 @@ color = { 23 23 23 }
 
 historical_idea_groups = {
 	quantity_ideas
-	espionage_ideas
+	maritime_ideas
 	diplomatic_ideas
 }
 

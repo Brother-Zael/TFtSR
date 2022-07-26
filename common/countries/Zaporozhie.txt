@@ -8,9 +8,9 @@ color = { 15 15 14 }
 historical_idea_groups = {
 	aristocracy_ideas
 	humanist_ideas
-	espionage_ideas
+	maritime_ideas
 	trade_ideas
-	espionage_ideas
+	maritime_ideas
 }
 
 historical_units = {

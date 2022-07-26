@@ -6,7 +6,7 @@ graphical_culture = easterngfx
 color = { 14 14 13 } 
 
 historical_idea_groups = {
-	espionage_ideas
+	maritime_ideas
 	economic_ideas
 }
 

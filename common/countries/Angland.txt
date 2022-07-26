@@ -7,8 +7,8 @@ color = { 26 26 26 }
 
 historical_idea_groups = {
 	quality_ideas
-	espionage_ideas
-	espionage_ideas
+	maritime_ideas
+	maritime_ideas
 }
 
 monarch_names = {
