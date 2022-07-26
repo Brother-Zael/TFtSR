@@ -2769,93 +2769,93 @@ pagan = {
 			local_missionary_strength = 0.02
 		}
 		
-		uses_judaism_power = yes
-		aspects_name = VENERATED_ASPECTS
-			
-		aspects = {
-			animism_adm_wolf_aspect
-			animism_adm_eagle_aspect
-			animism_adm_snake_aspect
-			animism_dip_dove_aspect
-			animism_dip_crow_aspect
-			animism_dip_stag_aspect
-			animism_mil_bear_aspect
-			animism_mil_lion_aspect
-			animism_mil_croc_aspect
-		}
-
-		celebrate = {
-			cost = 200
-			potential = {
-			}
-			allow = {
-				custom_trigger_tooltip = {
-					tooltip = JUDAISM_HAS_ADM_ASPECT
-					OR = {
-						has_church_aspect = animism_adm_eagle_aspect
-						has_church_aspect = animism_adm_wolf_aspect
-						has_church_aspect = animism_adm_snake_aspect
-					}
-				}
-				if = {
-					limit = {
-						has_church_aspect = animism_adm_eagle_aspect
-					}
-					NOT = { stability = 3 }
-				}
-			}
-			effect = {
-				if = {
-					limit = {
-						has_church_aspect = animism_adm_eagle_aspect
-					}
-					add_stability = 1
-				}
-				if = {
-					limit = {
-						has_church_aspect = animism_adm_wolf_aspect
-					}
-					change_government_reform_progress = 20
-					add_legitimacy_equivalent = {
-						amount = 5
-						republican_tradition = 5
-					}
-					if = {
-						limit = {
-							has_heir = yes
-						}
-						add_heir_claim = 5
-					}
-				}
-				if = {
-					limit = {
-						has_church_aspect = animism_adm_snake_aspect
-					}
-					add_years_of_income = 0.3
-					add_inflation = -1
-				}
-			}
-			ai_will_do = {
-				factor = 1
-				modifier = {
-					factor = 0
-					OR = {
-						AND = {
-							NOT = { has_church_aspect = animism_dip_crow_aspect }
-							NOT = { has_church_aspect = animism_dip_dove_aspect }
-							NOT = { has_church_aspect = animism_dip_stag_aspect }
-						}
-						AND = {
-							NOT = { has_church_aspect = animism_mil_bear_aspect }
-							NOT = { has_church_aspect = animism_mil_croc_aspect }
-							NOT = { has_church_aspect = animism_mil_lion_aspect }
-						}
-					}
-				}
-			}
-		}
-		
-		heretic = { SNAKE_CLAN }
+#		uses_judaism_power = yes
+#		aspects_name = VENERATED_ASPECTS
+#			
+#		aspects = {
+#			animism_adm_wolf_aspect
+#			animism_adm_eagle_aspect
+#			animism_adm_snake_aspect
+#			animism_dip_dove_aspect
+#			animism_dip_crow_aspect
+#			animism_dip_stag_aspect
+#			animism_mil_bear_aspect
+#			animism_mil_lion_aspect
+#			animism_mil_croc_aspect
+#		}
+#
+#		celebrate = {
+#			cost = 200
+#			potential = {
+#			}
+#			allow = {
+#				custom_trigger_tooltip = {
+#					tooltip = JUDAISM_HAS_ADM_ASPECT
+#					OR = {
+#						has_church_aspect = animism_adm_eagle_aspect
+#						has_church_aspect = animism_adm_wolf_aspect
+#						has_church_aspect = animism_adm_snake_aspect
+#					}
+#				}
+#				if = {
+#					limit = {
+#						has_church_aspect = animism_adm_eagle_aspect
+#					}
+#					NOT = { stability = 3 }
+#				}
+#			}
+#			effect = {
+#				if = {
+#					limit = {
+#						has_church_aspect = animism_adm_eagle_aspect
+#					}
+#					add_stability = 1
+#				}
+#				if = {
+#					limit = {
+#						has_church_aspect = animism_adm_wolf_aspect
+#					}
+#					change_government_reform_progress = 20
+#					add_legitimacy_equivalent = {
+#						amount = 5
+#						republican_tradition = 5
+#					}
+#					if = {
+#						limit = {
+#							has_heir = yes
+#						}
+#						add_heir_claim = 5
+#					}
+#				}
+#				if = {
+#					limit = {
+#						has_church_aspect = animism_adm_snake_aspect
+#					}
+#					add_years_of_income = 0.3
+#					add_inflation = -1
+#				}
+#			}
+#			ai_will_do = {
+#				factor = 1
+#				modifier = {
+#					factor = 0
+#					OR = {
+#						AND = {
+#							NOT = { has_church_aspect = animism_dip_crow_aspect }
+#							NOT = { has_church_aspect = animism_dip_dove_aspect }
+#							NOT = { has_church_aspect = animism_dip_stag_aspect }
+#						}
+#						AND = {
+#							NOT = { has_church_aspect = animism_mil_bear_aspect }
+#							NOT = { has_church_aspect = animism_mil_croc_aspect }
+#							NOT = { has_church_aspect = animism_mil_lion_aspect }
+#						}
+#					}
+#				}
+#			}
+#		}
+#		
+#		heretic = { SNAKE_CLAN }
 	}
 
 
