@@ -6,7 +6,7 @@ graphical_culture = muslimgfx
 color = { 24 23 23 } 
 
 historical_idea_groups = {
-	defesnive_ideas
+	espionage_ideas
 }
 
 monarch_names = {

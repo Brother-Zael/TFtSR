@@ -7,7 +7,7 @@ color = { 19 18 18 }
 
 historical_idea_groups = {
 	quantity_ideas
-	jurisprudence_ideas
+	espionage_ideas
 	offensive_ideas
 	maritime_ideas
 	spy_ideas

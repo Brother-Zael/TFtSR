@@ -8,7 +8,7 @@ color = { 8 8 7 }
 historical_idea_groups = {
 	quantity_ideas
 	humanist_ideas
-	strategic_ideas	
+	espionage_ideas	
 }
 
 historical_units = {

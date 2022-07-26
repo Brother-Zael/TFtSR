@@ -6,7 +6,7 @@ graphical_culture = westerngfx
 color = { 21 21 20 } 
 
 historical_idea_groups = {
-	divine_ideas
+	espionage_ideas
 	religious_ideas
 }
 
