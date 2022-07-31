@@ -1,0 +1,828 @@
+# Special countries..						
+"REB = ""countries/Rebels.txt"""						
+"PIR = ""countries/Pirates.txt"""						
+"NAT = ""countries/Natives.txt"""						
+						
+#Scandinavia						
+"FNN = ""countries/Finnmark.txt"""						
+"SML = ""countries/Smalenene.txt"""						
+"VAR = ""countries/Varmland.txt"""						
+"BHS = ""countries/Bohuslan.txt"""						
+"LUN = ""countries/Lund.txt"""						
+"JOM = ""countries/Jomsvikings.txt"""						
+"OST = ""countries/Osterbotten.txt"""						
+"VST = ""countries/Vasterbotten.txt"""						
+"NYL = ""countries/Nylaand.txt"""						
+"KAR = ""countries/Karelia.txt"""						
+"KDN = ""countries/Kildin.txt"""						
+SWE	countries/Sweden.txt					
+DAN	countries/Daneland.txt					
+FIN	countries/Finland.txt					
+"UPP = ""countries/Uppland.txt"""						
+NRG	countries/Norvegr.txt					
+SCA	countries/Scandinavia.txt					
+						
+#Russia and Urals						
+"PSK = ""countries/Pskov.txt"""						
+"LAD = ""countries/Ladoga.txt"""						
+"VOL = ""countries/Vologda.txt"""						
+"HOL = ""countries/Holmgardr.txt"""						
+"MSK = ""countries/Moskva.txt"""						
+"NIZ = ""countries/NizhnyNovgorod.txt"""						
+"KAZ = ""countries/Kazan.txt"""						
+"TAM = ""countries/Tambov.txt"""						
+"SAR = ""countries/Saratov.txt"""						
+"BOL = ""countries/Bolgaria.txt"""						
+RUS	countries/Russia.txt					
+						
+#Eastern Europe (Baltic, Poland, Ruthenia)						
+"OSL = ""countries/Osel.txt"""						
+"LIV = ""countries/Livland.txt"""						
+"RIG = ""countries/Riga.txt"""						
+"VIL = ""countries/Vilna.txt"""						
+"TWG = ""countries/Twangste.txt"""						
+"SLU = ""countries/Sluck.txt"""						
+"GVL = ""countries/GaliciaVolhynia.txt"""						
+"WRS = ""countries/Warszawa.txt"""						
+"KRA = ""countries/Krakow.txt"""						
+"POZ = ""countries/Poznan.txt"""						
+"PMS = ""countries/Pomesania.txt"""						
+"GDS = ""countries/Gdansk.txt"""						
+"VNT = ""countries/Veneti.txt"""						
+"TRB = ""countries/Trubchevsk.txt"""						
+"SMO = ""countries/Smolensk.txt"""						
+"KSK = ""countries/Kursk.txt"""						
+"YLT = ""countries/Yelets.txt"""						
+ZAO	countries/Zaporozhie.txt					
+"KYV = ""countries/Kiev.txt"""						
+						
+POL	countries/Poland.txt					
+PRU	countries/Pruthenia.txt					
+KRL	countries/Kurland.txt					
+"RUT = ""countries/Ruthenia.txt"""						
+UKR	countries/Ukraine.txt					
+						
+#Balkans						
+"BAI = ""countries/Baimoi.txt"""						
+"LOM = ""countries/Lombardii.txt"""						
+"SLO = ""countries/Slovakia.txt"""						
+"HNY = ""countries/Hunyadi.txt"""						
+"ZZK = ""countries/Zizka.txt"" # Marcommani/Czech cultural union, with Jan Zizka in charge because why not do a bit of trolling."						
+"SER = ""countries/Serbia.txt"""						
+"OTG = ""countries/Ostrogothia.txt"""						
+"RIJ = ""countries/Rijeka.txt"""						
+"BOS = ""countries/Bosnia.txt"""						
+"ALB = ""countries/Albania.txt"""						
+"EPI = ""countries/Epirus.txt"""						
+"SIA = ""countries/Sofia.txt"""						
+"MAC = ""countries/Macedonia.txt"""						
+"SOP = ""countries/Patriarch.txt"""						
+"MOR = ""countries/Morea.txt"""						
+"MGY = ""countries/Magyars.txt"""						
+						
+BUL	"= ""countries/Bulgaria.txt""                 # Turn into Dacia - Bulgarians never migrated south."					
+BYZ	countries/ByzantineEmpire.txt					
+"DAL = ""countries/Dalmatia.txt"""						
+RMN	countries/Romania.txt					
+HUN	countries/Hungary.txt					
+"OGE = ""countries/OstrogothicEmpire.txt"""						
+						
+#Anatolia and Caucasus						
+"KNI = ""countries/Knights.txt"""						
+"THR = ""countries/Thracesian.txt"""						
+"OPS = ""countries/Opsikion.txt"""						
+"CIB = ""countries/Cibyrrhaeots.txt"""						
+"ANI = ""countries/Antioch.txt"""						
+"MRH = ""countries/Marash.txt"""						
+"AMD = ""countries/Amed.txt"""						
+"KRN = ""countries/Karin.txt"""						
+"KUR = ""countries/Kurdistan.txt"""						
+GEO	countries/Georgia.txt					
+"YER = ""countries/Yerevan.txt"""						
+"PCH = ""countries/Pechenegs.txt"""						
+"BAY = ""countries/Bayazids.txt"""						
+"SHR = ""countries/Shirvan.txt"""						
+"TRK = ""countries/Terek.txt"""						
+"ALA = ""countries/Alania.txt"""						
+						
+"RUM = ""countries/Rum.txt"""						
+						
+#British Isles						
+"ANG = ""countries/Angland.txt"""						
+"JOR = ""countries/Jorvik.txt"""						
+"MNX = ""countries/Manx.txt"""						
+"LOW = ""countries/Lallans.txt"""						
+"CON = ""countries/Connacht.txt"""						
+"SLG = ""countries/Sligo.txt"""						
+"MEA = ""countries/Mhí.txt"""						
+"TUA = ""countries/Tuadhmhumhain.txt"""						
+"COR = ""countries/Cork.txt"""						
+"LUB = ""countries/Lublin.txt"""						
+"KIL = ""countries/Kildare.txt"""						
+"TIR = ""countries/Tirconnell.txt"""						
+"HSC = ""countries/Highlands.txt"""						
+						
+BRT	countries/Britannia.txt					
+IRE	countries/Ireland.txt					
+SCO	countries/Scotland.txt					
+GBR	countries/GreatBritannia.txt					
+						
+#Colonies						
+# TO DO LATER						
+						
+#Gaul & Aquitania 						
+"NRM = ""countries/Normandy.txt"""						
+"OLH = ""countries/Olegheim.txt"""						
+BRI	countries/Brittany.txt					
+"SUI = ""countries/Suindinum.txt"""						
+"GNB = ""countries/Genabum.txt"""						
+"LTT = ""countries/Lutetia.txt"""						
+"DOR = ""countries/Durocortorum.txt"""						
+"GLG = ""countries/GallicLegion.txt"""						
+"ARM = ""countries/AugustaRauracorum.txt"""						
+"AOD = ""countries/Augustodunum.txt"""						
+"LMN = ""countries/Limonum.txt"""						
+"BRD = ""countries/Burdigala.txt"""						
+"VES = ""countries/Vesunna.txt"""						
+"ARG = ""countries/Argentomagus.txt"""						
+"CAB = ""countries/Cabillonum.txt"""						
+"LUG = ""countries/Lugdunum.txt"""						
+"VIE = ""countries/Vienna.txt"" # This is roman vienna, in gaul, north of modern provence."						
+"DIV = ""countries/Divona.txt"""						
+"TOL = ""countries/Tolosa.txt"""						
+"SGN = ""countries/Segodunum.txt"""						
+"NRB = ""countries/NarboMartius.txt"""						
+"NMS = ""countries/Nemausus.txt"""						
+"ARE = ""countries/Arelate.txt"""						
+"ASX = ""countries/AquaeSextiae.txt"""						
+						
+"LGD = ""countries/Lugdunensis.txt"" # formable of north/northeast gaul"						
+"NBI = ""countries/Narbonensis.txt"" # formable of the med coast of gaul/tolouse"						
+"AQU = ""countries/Aquitania.txt"" # formable of the west/sw and pacific coast of gaul."						
+"GAL = ""countries/Gaul.txt"" #formable for any independent roman or barbarian tech for all of gaul. removes from HRE. meb 3-5 religion-dependent mission and the rest for any religion."						
+"KRK = ""countries/Kelterike.txt"" # formable for any norse religion for all of gaul."						
+						
+#Germania						
+"GRP = ""countries/GermaniaProconsular.txt"""						
+"ART = ""countries/Argentorate.txt"""						
+"GRS = ""countries/GermaniaSuperior.txt"""						
+"RTS = ""countries/RhaetiaSuperior.txt"""						
+"RTI = ""countries/RhaetiaInferior.txt"""						
+"NRS = ""countries/NoricumSuperior.txt"""						
+"NRI = ""countries/NoricumInferior.txt"""						
+"RGM = ""countries/Regensmarch.txt"""						
+"SBI = ""countries/Suebii.txt"""						
+"CHR = ""countries/Cherusci.txt"""						
+"ALM = ""countries/Alamannia.txt"""						
+SAX	countries/Saxony.txt					
+"ANH = ""countries/Anhalt.txt"""						
+						
+"DIU = ""countries/Diutiscia.txt"" # Non-roman cultural tag for north germany."						
+"GRP = ""countries/GermaniaPrimus.txt"" # Formable for roman tech or christians with romano-german or germanic cultures. Roughly analogous to Lotharingia/Middle Frankia."						
+"RHA = ""countries/Rhaetia.txt"" # Formable for tags with Rhaetia as primary culture."						
+"NCM = ""countries/Noricum.txt"" # Formable for tags with Noric as primary culture, or in the romano-slovene culture group. ""Producer of Roman Weaponry"""						
+						
+POM	"= ""countries/Pommerania.txt"" #releasable"					
+SIL	"= ""countries/Silesia.txt"" # releasable"					
+						
+#Hispania						
+"BRG = ""countries/Brigantium.txt"""						
+"AUS = ""countries/Austurica.txt"""						
+"OLS = ""countries/Olisipo.txt"""						
+"ALC = ""countries/Alcantara.txt"""						
+"CTC = ""countries/Celtici.txt"""						
+"EVO = ""countries/Evora.txt"""						
+"PXJ = ""countries/PaxJulia.txt"""						
+"TDT = ""countries/Turdetani.txt"""						
+"SLM = ""countries/Salamantica.txt"""						
+"VAC = ""countries/Vaccaei.txt""                 # Important Theocracy, maybe change name"						
+"TLT = ""countries/Toletum.txt"""						
+"LSS = ""countries/Libisosa.txt"""						
+"CRD = ""countries/Cordoba.txt"""						
+"TSL = ""countries/TheSouthernLeague.txt"""						
+"MLA = ""countries/Malaca.txt"""						
+"URC = ""countries/Urci.txt"""						
+"CRN = ""countries/CartagoNova.txt"""						
+"VAL = ""countries/Valentia.txt""               # Trade City under TSL?"						
+"SBG = ""countries/Segobriga.txt"""						
+"CPM = ""countries/Complutum.txt"""						
+"SGV = ""countries/Segovia.txt"""						
+"SEG = ""countries/Segontia.txt"""						
+"CLU = ""countries/Clunia.txt"""						
+"CNT = ""countries/Cantabri.txt"""						
+"HLG = ""countries/LegioHispania.txt"""						
+"CAU = ""countries/Caesaraugustus.txt"""						
+"AZL = ""countries/Azaila.txt"""						
+"DRT = ""countries/Dertosa.txt"""						
+"TAR = ""countries/Taraco.txt""                 # Trade City under TSL?"						
+"EMR = ""countries/Emporiae.txt"""						
+						
+"HPC = ""countries/HispaniaCiterior.txt""       # Formable for NE half of spain, gives claims, Kingdom rank +stay in empire... maybe ideas later on."						
+"HPU = ""countries/HispaniaUlterior.txt""       # Formable for SW half of spain, gives claims, Kingdom rank +stay in empire... maybe ideas later on."						
+"TRC = ""countries/Tarraconensis.txt""          # Formable for NE region (catalonia + aragon)"						
+"GLC = ""countries/Gallaecia.txt""              # Formable for NW region (Galicia + Austurias + Leon)"						
+"BAE = ""countries/Baetica.txt""                # Formable for SE region (Granada Toledo Valencia)"						
+"LUS = ""countries/Lusitania.txt""              # Formable for SW region (Portugal + Sevilla)"						
+HIS	"= ""countries/Hispania.txt""               # Formable of all spain. Empire rank and removed from HRE."					
+						
+#Italia						
+"EMP = ""countries/Imperator.txt""              # Reformable"						
+"PRA = ""countries/Praetorians.txt"""						
+"VEN = ""countries/Venezia.txt"""						
+"BOM = ""countries/Mutina.txt""                 # Bishophric of Modena"						
+"BOB = ""countries/Bononia.txt"""	             # Bishophric of Bononia					
+"BOF = ""countries/ForumAlieni.txt"""			 # Bishophric Forum Alieni			
+"FAU = ""countries/TheUnity.txt""               # ""Firenze and Urbinas"""						
+PAP	countries/Papal.txt					
+"CRS = ""countries/Corsica.txt""                # vassal of pope"						
+"SAR = ""countries/Sardinia.txt"""						
+"ARI = ""countries/Ariminum.txt"""						
+"SPL = ""countries/Spoletum.txt""               # Trade League with Ariminum"						
+"NPL = ""countries/Neapolis.txt""               # Archbishopric?"						
+"CPT = ""countries/Capitanata.txt""             # Bishop vassal of Ariminum"						
+"BRN = ""countries/Brundisium.txt"""						
+"PNR = ""countries/Panormus.txt""               # Archbishophric? that converted to catharism"						
+"MLG = ""countries/LegioMare.txt"""						
+						
+ITA	countries/Italia.txt					
+SIC	"= ""countries/Sicily.txt""                 # Secular formable. kingdom rank while staying in empire as reward from pope for killing cathars"					
+"HLR = ""countries/HolyRomanEmpire.txt"""						
+						
+#Low Countries						
+"DRS = ""countries/Dorestadt.txt"""						
+"FRS = ""countries/Friesland.txt"""						
+"FRL = ""countries/FrisianLeague.txt"""						
+"TTB = ""countries/Teutobergii.txt""            # germano-roman culture pagan death cult remnants of battle at teutoberg forest, which was a lot more close in this timeline."						
+"DUT = ""countries/Dutchland.txt""              # not colonial in this timeline, only dev to the moooon. Let others bring trade and they siphon off it."						
+						
+"FRR = ""countries/FrisianRepublic.txt""             # Netherlands but norse pagans with slightly more raiding and slightly less trading. but still a lot of both."						
+"FRI = ""countries/Frisia.txt""                 # Formable. Jomsvikings of the west, seeking to expand norse faith"						
+						
+#Arabia						
+"UMY = ""countries/Umayyad.txt"""				 # Maybe swap role with Abbasids		
+"FAT = ""countries/Fatimids.txt"""				 # Ruled de facto by military dictatorship, fatimids are figureheads.		
+"BDY = ""countries/Bardiyyah.txt""              # Should probably be named after tobruk, the province to it's west... but bardiyyah has a super old mosque"						
+"BRY = ""countries/Bahariya.txt"""				" # Make into three opms with a ""unify the three oasis"" tag if there is time"		
+"QUS = ""countries/Qus.txt""                    # many Fatimid royal tombs are here"						
+"BGZ = ""countries/Benghazi.txt"""						
+"MOS = ""countries/Mosul.txt"""						
+"MHZ = ""countries/Mahoza.txt""                 # Al Mada'in. Newly established jewish realm named after old kingdom from long ago. Basically ummayyads were like ""k jews here you go, your own land. now leave and don't come back."""						
+"KRK = ""countries/Kirkuk.txt"""						
+"QAZ = ""countries/Qazaniyah.txt"""						
+"LOR = ""countries/Lorestan.txt""               # KhorMoa. Vassal of Lakhmids"						
+"IZE = ""countries/Izeh.txt""                   # Province is called Malamir in game. Vassal of Lakhmids"						
+"KZR = ""countries/Kazerun.txt"""				 # Possible vassal of Lakhmids		
+"LAK = ""countries/Lakhmids.txt"""				 # Change to Lakhmids from Lakhmids		
+"SHM = ""countries/Shammar.txt""                # seriously do not fuck with these guys irl."						
+"ABS = ""countries/Abbasids.txt""               # biggest of only 3 tags following Kharajite religion at start. Hard start but super strong ideas + religion"						
+"BUY = ""countries/Buyids.txt""                 # Qawasimid/Suhar provinces."						
+"RSH = ""countries/Rashidun.txt"""						
+"QAS = ""countries/Qasimids.txt""               # it's the rassids, just a more specific name"						
+"NIZ = ""countries/Nizwa.txt"""						
+"MUS = ""countries/Muscat.txt"""						
+"MAS = ""countries/Masirah.txt"""						
+"MAH = ""countries/Mahra.txt"""						
+"HMY = ""countries/Himyarites.txt"""						
+						
+"DAW = ""countries/Dawasir.txt""                # releasable"						
+"NAJ = ""countries/Najd.txt""                   # releasable"						
+"AYY = ""countries/Ayyubids.txt""               # releasable"						
+"ADN = ""countries/Aden.txt""                   # releasable"						
+"SOC = ""countries/Socotra.txt""                # releasable"						
+"SYR = ""countries/Syria.txt""                  # releasable"						
+"ANZ = ""countries/Anizah.txt""                 # releasable"						
+"MDN = ""countries/Medinah.txt""                # releasable"						
+						
+"KOJ = ""countries/Jerusalem.txt""              # Formable for any catholic or orthodox nation. removes from HRE."						
+"IRQ = ""countries/Iraq.txt""                   # Formable for Muslims of Mashriqi, Kurdish, or Luri cultures."						
+"YMN = ""countries/Yemen.txt""                  # Formable for non-jewish yemeni, hejazi, and mahri cultures."						
+"HOR = ""countries/RubAlKhali.txt""             # Formable for Bedouin Khaleeji and Omani cultures"						
+"BAB = ""countries/Mesopotamia.txt""            # Formable for non-muslims within culture group of Levantine or Iranian and capital in Mashriq region"						
+"ARB = ""countries/Arabia.txt""                 # Formable for any in levantine culture group."						
+						
+#Maghreb						
+"TNG = ""countries/Tingitana.txt"""						
+"SAL = ""countries/SalaColonia.txt"""						
+"MDR = ""countries/Mogador.txt"""						
+"RHY = ""countries/Rhysaddir.txt"""						
+"SUS = ""countries/Sus.txt"""						
+"CAN = ""countries/Canarii.txt""                # tribe in atlas mountains"						
+"LGM = ""countries/LegioMauretania.txt"""						
+"CAE = ""countries/Caesarae.txt"""						
+"SIT = ""countries/Sitifensis.txt"""						
+"ZEU = ""countries/Zeugitana.txt"""						
+"EPY = ""countries/Empyria.txt"""						
+"SRT = ""countries/Syrtica.txt"""						
+"LGN = ""countries/LegioNumidia.txt"""						
+						
+"GAR = ""countries/Garamantes.txt""             # releasable"						
+"MUS = ""countries/Musulamii.txt""              # releasable"						
+"MRS = ""countries/Maurisii.txt""               # releasable"						
+						
+"AFR = ""countries/Africa.txt""                 # Formable"						
+"CSP = ""countries/CaesaraeProconsularis.txt""  # Formable"						
+"MAU = ""countries/Mauretania.txt""             # Formable"						
+						
+#Central Asia/Steppes						
+"OYG = ""countries/Uyghurs.txt"""						
+"KIP = ""countries/Kipchaks.txt"""						
+"SBR = ""countries/SibirKhanate.txt"""						
+"OIR = ""countries/Oirat.txt"""						
+"MER = ""countries/Merkits.txt""                # Mongol tribe that kidnapped Chinggis' wife"						
+"KHI = ""countries/Khivania.txt""               # Or Naiman Khanate. Settled tribe in Khiva"						
+"TRN = ""countries/Turan.txt"""						
+"KSH = ""countries/Kushan.txt""                 # Swap position with neo-baktria"						
+BSH	countries/Bashkiria.txt					
+"KLM = ""countries/Kalmyk.txt"""						
+						
+"MGE = ""countries/MongolEmpire.txt"""						
+						
+#Iran						
+"ARD = ""countries/Ardabil.txt"""						
+"AST = ""countries/Astara.txt"""						
+"GIL = ""countries/Gilan.txt"""						
+"TUR = ""countries/Turkistan.txt"""						
+"YAZ = ""countries/Yazd.txt"""						
+"ISF = ""countries/Isfahan.txt"""						
+"SHR = ""countries/Shiraz.txt"""						
+"SRF = ""countries/Siraf.txt"""						
+"SBD = ""countries/Saidabad.txt"""						
+"ZAR = ""countries/Zaranj.txt"""						
+"NBK = ""countries/NeoBaktria.txt"""						
+"HPH = ""countries/Hephthalites.txt"""						
+"NSH = ""countries/Nishapur.txt""               # vassal of Hephthalites"						
+						
+"MRV = ""countries/Merv.txt""                   # Releasable"						
+"AFG = ""countries/Afghanistan.txt""            # Releasable"						
+"KHO = ""countries/Khorosan.txt""               # Releasable (Capital is Herat)"						
+"QOM = ""countries/Qom.txt""                    # Releasable"						
+"BVD = ""countries/Bavandids.txt""              # Releasable"						
+						
+"PER = ""countries/Persia.txt""                 # Formable by roman or greek tech persian culture group tags"						
+IRA	"= ""countries/Iranshahr.txt""              # Formable by any non-roman non-greek persian culture group tag"					
+						
+#Americas						
+"AZT = ""countries/Aztec.txt"""						
+"CHE = ""countries/Cherokee.txt"""						
+"CHM = ""countries/Chimu.txt"""						
+"CRE = ""countries/Creek.txt"""						
+"HUR = ""countries/Huron.txt"""						
+"IRO = ""countries/Iroquois.txt"""						
+"SHA = ""countries/Shawnee.txt"""						
+"ZAP = ""countries/Zapotec.txt"""						
+"INC = ""countries/Inca.txt"""						
+"MAY = ""countries/Maya.txt"""						
+						
+#West Africa						
+"ASH = ""countries/Ashanti.txt"""						
+"BEN = ""countries/Benin.txt"""						
+"MAL = ""countries/Mali.txt"""						
+"FNJ = ""countries/Funj.txt"""						
+"SON = ""countries/Songhai.txt"""						
+"HAU = ""countries/Hausa.txt"""						
+"KBO = ""countries/KanemBornu.txt"""						
+"OYO = ""countries/Oyo.txt"""						
+"SOF = ""countries/Sofala.txt"""						
+"SOK = ""countries/Sokoto.txt"""						
+"JLF = ""countries/Jolof.txt"""						
+"LOA = ""countries/Loango.txt"""						
+"MSS = ""countries/Massina.txt"""						
+"BRK = ""countries/Brakna.txt"""						
+"TKR = ""countries/Tekrur.txt"""						
+"TGT = ""countries/Tagant.txt"""						
+"AIR = ""countries/Air.txt"""						
+"SAH = ""countries/Sah.txt"""						
+"BON = ""countries/Bonoman.txt"""						
+"DAH = ""countries/Dahomey.txt"""						
+"DAG = ""countries/Dagbon.txt"""						
+"FUL = ""countries/Fulo.txt"""						
+"JNN = ""countries/Jenne.txt"""						
+"KNB = ""countries/Kano.txt"""						
+"KBU = ""countries/Kaabu.txt"""						
+"KNG = ""countries/Kong.txt"""						
+"KSN = ""countries/Katsina.txt"""						
+"MSI = ""countries/Mossi.txt"""						
+"NUP = ""countries/Nupe.txt"""						
+"TMB = ""countries/Timbuktu.txt"""						
+"YAO = ""countries/Yao.txt"""						
+"YAT = ""countries/Yatenga.txt"""						
+"ZAZ = ""countries/Zazzau.txt"""						
+"NDO = ""countries/Ndongo.txt"""						
+"YOL = ""countries/Yola.txt"""						
+"KBI = ""countries/Kebbi.txt"""						
+"PDG = ""countries/Pindinga.txt"""						
+"PED = ""countries/Peddi.txt"""						
+"TKD = ""countries/Tenkodogo.txt"""						
+"ENA = ""countries/Eneara.txt"""						
+						
+#East Africa						
+"MAK = ""countries/Makuria.txt""                # Always was independent"						
+"ABY = ""countries/Abyssinia.txt""              # Older brother/Legitimate king"						
+"GON = ""countries/Gonder.txt"""						
+"AFA = ""countries/Afar.txt""                   # Releasable"						
+"NER = ""countries/Nuer.txt""                   # autonomous tribe"						
+"ORO = ""countries/Oromo.txt""                  # newly arrived and organized. Small but ready to invade"						
+"DAR = ""countries/Darfur.txt""                 # Rebellious general in Soba"						
+"HAR = ""countries/Harar.txt"""						
+"MED = ""countries/MedriBahri.txt"""						
+"SEM = ""countries/Semien.txt""                  # local rabbi inspired uprising"						
+"BEJ = ""countries/Beja.txt"""						
+"ZEI = ""countries/Zeila.txt"""						
+"HAD = ""countries/Hadiya.txt"""						
+"SMI = ""countries/Somaliland.txt"""						
+"AFD = ""countries/Afder.txt"""						
+"BAR = ""countries/Bardera.txt"""						
+"BER = ""countries/Berbera.txt"""						
+"BSA = ""countries/Bosaso.txt"""						
+"MBA = ""countries/Mombasa.txt"""						
+"EWA = ""countries/EwasoNgiro.txt"""						
+"MLI = ""countries/Malindi.txt"""						
+"PTE = ""countries/Pate.txt"""						
+"MDI = ""countries/Mogadishu.txt"""						
+"ZAN = ""countries/Zanzibar.txt"""						
+"ZIM = ""countries/Zimbabwe.txt""             # Already formed and ready to exploit weak Kilwa"						
+"MKU = ""countries/Makua.txt"""						
+"RZW = ""countries/Butua.txt"""						
+"ZUL = ""countries/Zulu.txt""                 # Already formed and ready to kick ass"						
+"SFA = ""countries/SofalaSwa.txt"""						
+"MZQ = ""countries/Mozambique.txt"""						
+						
+"NUB = ""countries/Nubia.txt""                # Formable for nubian primary culture. basic tree is overshadow ethiopia and exploit west africa. good mil"						
+"AXM = ""countries/Aksum.txt""                # Formable for Amhara culture group of coptic faith"						
+"GKW = ""countries/GreatKilwa.txt""           # Formable for splintered Kilwa nations"						
+"EOC = ""countries/CapeEmpire.txt""           # Formable for anyone capital in cape of good hope trade node."						
+						
+#Kongo, Great Lakes & Central Africa						
+"KON = ""countries/Kongo.txt"""						
+"TYO = ""countries/Tyo.txt"""						
+"SYO = ""countries/Soyo.txt"""						
+"KSJ = ""countries/Kasanje.txt"""						
+"LUB = ""countries/Luba.txt"""						
+"LND = ""countries/Lunda.txt"""						
+"CKW = ""countries/Chokwe.txt"""						
+"KIK = ""countries/Kikondja.txt"""						
+"KZB = ""countries/Kazembe.txt"""						
+"YAK = ""countries/Yaka.txt"""						
+"KLD = ""countries/Kalundwe.txt"""						
+"KUB = ""countries/Kuba.txt"""						
+"RWA = ""countries/Rwanda.txt"""						
+"BUU = ""countries/Burundi.txt"""						
+"BUG = ""countries/Buganda.txt"""						
+"NKO = ""countries/Nkore.txt"""						
+"KRW = ""countries/Karagwe.txt"""						
+"BNY = ""countries/Bunyoro.txt"""						
+"BSG = ""countries/Basoga.txt"""						
+"UBH = ""countries/Buha.txt"""						
+						
+#Madagascar						
+"MIR = ""countries/Merina.txt"""						
+"SKA = ""countries/Sakalava.txt"""						
+"BTS = ""countries/Betsimisaraka.txt"""						
+"ANT = ""countries/Antemoro.txt"""						
+"MHF = ""countries/Mahafaly.txt"""						
+						
+#South East Asia						
+"AVA = ""countries/Ava.txt"""						# city-state
+"KLE = ""countries/Kale.txt"""						# Snek worshipping cult
+"PGN = ""countries/Pagan.txt"""						# city-state
+"SLN = ""countries/Salin.txt"""						"# founded 1119 and ""known for its collection of buddhist monasteries and pagoda, a legacy of it's prominent residents who donated these public buildings."""
+"MNK = ""countries/Mongke.txt"""					# Mongke dynasty became mercenaries who worked their way south to eventually end up here in pegu	
+"MKA = ""countries/MuangKawng.txt"""						
+"MYA = ""countries/MuangYang.txt"""						
+"HSI = ""countries/Hsipaw.txt"""						
+"MKU = ""countries/MongKuang.txt"""						
+"MNA = ""countries/MongNai.txt"""						
+"MPA = ""countries/MongPai.txt"""						
+"HSW = ""countries/Hsenwi.txt"""						
+"LMT = ""countries/LuangNamtha.txt"""						
+"VNT = ""countries/Vientiane.txt"""						
+"CRI = ""countries/ChiangRai.txt"""						
+"CMI = ""countries/ChiangMai.txt"""						
+"NLM = ""countries/NongbuaLamphu.txt"""						
+"NGH = ""countries/NongKhai.txt"""						
+"STB = ""countries/Sikhottabong.txt""              #Hill underling"						
+"SVK = ""countries/SavanhNakhone.txt""             #Hill king overlord"						
+"ATU = ""countries/Attapeu.txt""                   #Hill underling"						
+"CHP = ""countries/Champasak.txt"""						
+"STR = ""countries/StungTreng.txt""                #Hill underling"						
+"JAR = ""countries/Jarai.txt"""						
+"RHA = ""countries/Rhade.txt"""						
+"PGU = ""countries/Pegu.txt"""						
+"SUK = ""countries/Sukhothai.txt"""						
+AYU	countries/Ayutthaya.txt					
+KHM	countries/Khmer.txt					
+LNA	countries/LanNa.txt					
+LXA	countries/LanXang.txt					
+"TRA = ""countries/TranNam.txt""                  #influential Tran dynasty of vietnam, vassal under NamViet"						
+"NMV = ""countries/NamViet.txt"""						
+						
+SST	"= ""countries/Shan.txt""                     # Formable for shan countries in burma"					
+DAI	countries/DaiViet.txt		   # Formable for TranNam or NamViet			
+"BRM = ""countries/Burma.txt"""			   	   	   # Formable for non-shan countries in burma	
+"SIA = ""countries/Siam.txt"""					   # Formable for Siam region cultures	
+						
+#Oceania						
+"KDH = ""countries/Keddah.txt"""						
+"PAT = ""countries/Pattani.txt"""					# Vassal of Ayutthaya	
+"PHG = ""countries/Pahang.txt"""					# Vassal of Siak	
+"PRK = ""countries/Perak.txt"""						
+"SAK = ""countries/Siak.txt"""						# Nestorian with large jewish and muslim minorities
+"LKT = ""countries/Langkat.txt"""						
+"JMB = ""countries/Jambi.txt"""						
+"PLB = ""countries/Palembang.txt"""					# Anti-pirate in this timeline	
+"BKL = ""countries/Bengkulu.txt"""						
+"SUN = ""countries/Sunda.txt"""						
+"PGR = ""countries/Pagarruyung.txt"""				# Zoroastrian failing state		
+"KRJ = ""countries/Kutaraja.txt"""					# Aceh but more successful and militant	
+"PSI = ""countries/Pasai.txt"""						
+BEI	countries/Brunei.txt					
+MKS	countries/Makassar.txt					# Revanchist unified animist realm. Remove Hinduism! Remove Buddhism! Remove Islam! Ally or Remove Nestorians!
+MAJ	countries/Majapahit.txt					# same, but include assasination succession mechanic/gov't. Very anti-pirate as well
+"KTA = ""countries/Karta.txt"""						
+"CRB = ""countries/Cirebon.txt"""						
+"DAT = ""countries/DatuDatu.txt"""					# Lehad Datu	
+"BLG = ""countries/Bulungan.txt"""						
+"KTI = ""countries/Kutai.txt"""						# Rival to Majapahit
+"SMR = ""countries/Samarinda.txt"""					# vassal of Kutai	
+"SMP = ""countries/Sampit.txt"""					# vassal of Majapahit (Iron!)	
+"BAO = ""countries/Barito.txt"""						
+"PLP = ""countries/Palapo.txt"""					# vassal of Majapahit (Iron!)	
+"MMJ = ""countries/Mamuju.txt"""					# vassal of Kutai	
+"BTN = ""countries/Buton.txt"""						
+"WAJ = ""countries/Wajo.txt"""						
+"BLI = ""countries/Bali.txt"""						# vassal of Majapahit
+"LBK = ""countries/Lombok.txt"""					# vassal/trib of Majapahit, or soon to be one (Iron!)	
+"SUM = ""countries/Sumbawa.txt"""					# wants to join pirate confederacy	
+"BRU = ""countries/Buru.txt"""						
+"TER = ""countries/Ternate.txt"""						
+"TID = ""countries/Tidore.txt"""						
+"HAL = ""countries/Halmahera.txt"""						
+"PUR = ""countries/Purang.txt"""						
+						
+"DMK = ""countries/Demak.txt"""						# Releasable
+"BNJ = ""countries/Banjar.txt"""					# Releasable	
+"LFA = ""countries/Lanfang.txt"""					# Event formable as normal	
+						
+"MSA = ""countries/Malaya.txt"""					# Formable	
+						
+#Philippines and Pirates						
+"GPC = ""countries/GuandongConfederacy.txt"""		# Pirate Confederacy leader				
+"TGW = ""countries/TagawaClan.txt"""				# Pirates. Koxinga's mom's clan name. Taiwan starting tag		
+"MND = ""countries/Mindoro.txt"""					# Pirates	
+"SAM = ""countries/Sambas.txt"""					# Pirates	
+"SMA = ""countries/Samar.txt"""						# Pirates
+						
+"IGO = ""countries/Igorot.txt"""					# Militant af animist northern filipino tag. Meh navy except galley + navy leader shock	
+"MNL = ""countries/Maynila.txt"""						
+"CEB = ""countries/Cebu.txt"""						
+"MGD = ""countries/Maguindanao.txt"""						
+"BTU = ""countries/Butuan.txt"""						
+						
+"TDO = ""countries/Tondo.txt"""						# Releasable
+"PGS = ""countries/Pangasinan.txt"""				# Releasable		
+"MAS = ""countries/Madyaas.txt"""					# Releasable	
+						
+"OPH = ""countries/Ophir.txt"""						# Formable for jewish philippines
+"TWL = ""countries/Tawalisi.txt"""					# Formable for muslim philippines	
+"MAI = ""countries/Ma-i.txt"""						# Formable for hindu/buddhist/animist/chinesereligions/shinto philipphines
+"IGE = ""countries/IgorotEmpire.txt"""				# Formable for Igorot-owned Philippines.		
+						
+#Daimyos/Japan						
+"CSK = ""countries/Chosokabe.txt"""						
+"DTE = ""countries/Date.txt"""						
+"HJO = ""countries/Hojo.txt"""						
+"IMG = ""countries/Imagawa.txt"""						
+"ODA = ""countries/Oda.txt"""						
+"OTM = ""countries/Otomo.txt"""						
+"OUC = ""countries/Ouchi.txt"""						
+"SMZ = ""countries/Shimazu.txt"""						
+"TKD = ""countries/Takeda.txt"""						
+"TKG = ""countries/Tokugawa.txt"""						
+"UES = ""countries/Uesugi.txt"""						
+"ASK = ""countries/Ashikaga.txt"""						
+"ISK = ""countries/Isshiki.txt"""						
+"IGS = ""countries/Ogasawara.txt"""						
+"ZEN = ""countries/MinoTemples.txt"""						
+"SOO = ""countries/So.txt"" # Japanese potential pirate daimyo"						
+						
+"ANU = ""countries/Ainu.txt"""						
+"RYU = ""countries/Ryukyu.txt"""						
+						
+"TRI = ""countries/Taira.txt""             # Formable for Taira clans, nominally SW third of japan"						
+"MNM = ""countries/Minamoto.txt""          # Formable for Minamoto clans, nominally middle third of japan"						
+"FUJ = ""countries/Fujiwara.txt""          # Formable for the northern clans, nominally top third of japan (inclusive of hokkaido). Ainu-Imperial descent."						
+JAP	"= ""countries/Japan.txt""             # Formable w/ branching mission based off intermediary tag."					
+						
+#Let's kill china						
+"BRY = ""countries/Buryats.txt""           #CNS on map because smoothbrain"						
+"UDE = ""countries/Udege.txt"""						
+"SKY = ""countries/SkyTemple.txt""         #TengriHolyChurch centralized "						
+MNG	countries/MongolKhanate.txt					
+"KHT = ""countries/Khitans.txt"""						
+"CIY = ""countries/Yakuts.txt""            # Cities of Independent Yakuts"						
+"ULT = ""countries/Uilta.txt""             # Oroks independent revanchist realm"						
+"HOI = ""countries/Hoifa.txt""             # Manchu dynasty"						
+"ULA = ""countries/Ula.txt""               # Manchu dynasty"						
+"DKD = ""countries/DKD.txt""               # dunno"						
+"LIA = ""countries/Liao.txt"""				# Liao dynasty got brrt		
+OIR	countries/OiratHorde.txt					
+"KSD = ""countries/Khoshuud.txt"""						
+"BAE = ""countries/Baekje.txt"""						
+"YNG = ""countries/YangCommandery.txt""    # Based off of the ""Generals of the Yang Family"" but also the sixteen commanderies of the Song dynasty YSH on map"						
+"WAN = ""countries/Wangiyan.txt""          # Jianzhou but weak"						
+"DNM = ""countries/DoenomBujog.txt""       # Middle Korean word for Jurchens. Means ""Jurchen Bastard Tribe"" or ""Doom Tribe"". Mission tree about overcome slur name and being the new epico rulers NJM on map"						
+"GYJ = ""countries/Gyeongju.txt""          # Gyeongju as a jumped up city-state looking to reform Silla kingdom into an empire controlling both japan and korea... and more?"						
+						
+MCH	"= ""countries/Manchu.txt""            # formable"					
+"TGS = ""countries/Tonguska.txt""          # animist formable for N. manchuria"						
+KOR	"= ""countries/Korea.txt""             # Non-GYJ korean formable"					
+"SLA = ""countries/Silla.txt""             # GYJ-only korean formable"						
+"KGN = ""countries/Khaganate.txt""         # empire-rank horde formable that leaves southern and central china alone, allowing Hu-Legalist/SEA/Japan alliance"						
+						
+#CHINA NUMBA WAN!						
+"KIY = ""countries/Kiy.txt""               # Anti-Mongol Horde"						
+"LNZ = ""countries/LangZhao.txt""          # Trib under mongols"						
+"XIA = ""countries/Xialang.txt""           # Chinese Warlord    Zhang Han Five Pecks of Rice???"						
+"WUL = ""countries/Wulang.txt""            # Chinese Warlord"						
+"QIN = ""countries/Qin.txt""               # Chinese 3rd Power, super dev sichuan confucianist isolationists"						
+"BOZ = ""countries/Bozhou.txt"""			# Bandits			
+"TGN = ""countries/Tongren.txt""    "		# Bandits				
+"JIA = ""countries/Jianchang.txt""         # Bandits"						
+"GUI = ""countries/Guiyang.txt""           # Bandits"						
+"YNN = ""countries/Yunnan.txt""            # Trying to reform Nanzhao/Animist Crusaders?"						
+"DLI = ""countries/Dali.txt""              # Trying to make Dali great again"						
+"TAC = ""countries/Tachienlu.txt"""						
+						
+"WSP = ""countries/YellowTurbans.txt""     # Yellow turban revolt #5, following religion ""Way of Supreme Peace"" and at a crossroads. Just started recovering from war and need to choose government, stabilize nation, etc. Follows daoism"						
+"PNM = ""countries/NorthMarch.txt""        # Yellow turban north march"						
+"PWM = ""countries/WestMarch.txt""         # Yellow turban western march"						
+"PSM = ""countries/SouthMarch.txt""        # Yellow turban southern march"						
+"PHZ = ""countries/Hangzhou.txt""          # Yellow turban treacherous merchant vassal"						
+"PXZ = ""countries/Xianzhou.txt""          # Yellow turban loyal feudal vassal"						
+"WUD = ""countries/Wuding.txt"""			# Yellow turban ambivilant feudal vassal - maybe make independent and just in manchuria			
+						
+"NMY = ""countries/Namyue.txt""            # Legalist tyrant of south china. Rival to Yellow Trubans."						
+"LIU = ""countries/Liuzhou.txt""           # Namyue march"						
+"YLG = ""countries/Yuanling.txt""          # Namyue vassal"						
+"CSH = ""countries/Changsha.txt""          # Namyue vassal"						
+						
+"CWU = ""countries/Wu.txt""                # Unlikely 4th option, pawn between yellow turbans and namyue"						
+"YAN = ""countries/Yan.txt""               # Releasable"						
+"CYI = ""countries/Yi.txt""                # Releasable"						
+"MIN = ""countries/Min.txt""               # Releasable"						
+						
+"UTS = ""countries/Utsang.txt""            # TSA on map, Releasable"						
+"KAM = ""countries/Kham.txt""              # CHU on map"						
+"GAR = ""countries/Garze.txt""             # Bandits"						
+"DEG = ""countries/Dege.txt""              # Bandits"						
+"KKR = ""countries/KaraKhitan.txt""        # Semi-horde?"						
+TIB	countries/Tibet.txt					
+"SIK = ""countries/Sikkim.txt""            # Tibet Vassal"						
+						
+"GTB = ""countries/GreatTibet.txt""        # Formable for Tibet culture nations. Super tall in mountains, don't expand outwards."						
+"DVE = ""countries/DivineEmpire.txt""      # Formable for Chinese"						
+"YUA = ""countries/GreatYuan.txt""         # Yuan dynasty wouldn't be a thing, so this is place holder for mongol-governed china."						
+						
+#India						
+"GRK = ""countries/Gorkha.txt""            # Owns all of Nepal but 2"						
+"MKW = ""countries/Makwanpur.txt"""						
+"DNG = ""countries/Dang.txt"""						
+"DOT = ""countries/Dotti.txt""             # Vassal of Kangra"						
+"KMA = ""countries/Kumaon.txt""            # Vassal of Kangra"						
+"KAN = ""countries/Kangra.txt""            # Mountain kingdom looking to push out the huns from the kashmirs, then dominate/replace"						
+"KAD = ""countries/Kadraites.txt""         # Tribute under Hephthalites, trying to reassert hunnic rule/old Kadraite order over india"						
+"CMP = ""countries/Champaran.txt"""						
+"KBD = ""countries/Khairabad.txt"""						
+"JNP = ""countries/Jaunpur.txt"""						
+"FBD = ""countries/FeyzabadSect.txt""      # Way of Supreme Peace regional sect siezed power after an attempt to snuff them out in a city-state"						
+"DLH = ""countries/DelhiConfederacy.txt"""	# Republic... peasant?					
+"LAH = ""countries/Lahore.txt"""						
+"ASS = ""countries/Assam.txt"""						
+						
+"MUL = ""countries/Multan.txt"""			# Militarist Hindu realm trying to keep invaders out... by taking over themselves of course			
+"BHA = ""countries/Bhakkar.txt"""						
+"THT = ""countries/Thatta.txt""            # Nestorian tryhard that will probably fail. Wants to make prestor john thing a reality in india"						
+"UMR = ""countries/Umarkot.txt"""						
+"KUT = ""countries/Kutch.txt"""						
+"JHA = ""countries/Jhalavad.txt"""						
+"RJK = ""countries/Rajkot.txt"""						
+"HLR = ""countries/Halar.txt"""						
+"RAN = ""countries/Ranpur.txt"""						
+"PAR = ""countries/Parsis-desh.txt""       # Gujurat, but Zoroastrian"						
+"UJJ = ""countries/Ujjain.txt"""						
+"BUN = ""countries/Bundi.txt"""						
+						
+"DHK = ""countries/Dhakka.txt""            # Pala 1st son"						
+"GDA = ""countries/Gauda.txt""             # Pala 2nd son"						
+"CUT = ""countries/Cuttack.txt""           # Pala 3rd son"						
+"VEL = ""countries/Velanadu.txt""          # Pala 4th son"						
+"SMB = ""countries/Soumelpur.txt""         # Peasant republic"						
+"RAI = ""countries/Raipur.txt"""						
+"MDL = ""countries/Mandala.txt"""						
+"MHK = ""countries/Mahakoshal.txt"""						
+						
+"MYS = ""countries/Mysore.txt"""						
+"VIJ = ""countries/Vijaynagar.txt"""	  # Sikh spawner in this world.					
+"KNJ = ""countries/Karanja.txt"""						
+"BID = ""countries/Bidar.txt"""						
+"AAL = ""countries/Aalok.txt""           # GOL on map"						
+"GOA = ""countries/Goa.txt"""						
+"TDL = ""countries/Tondainadu.txt"""						
+"CUD = ""countries/Cuddalore.txt"""						
+"TAN = ""countries/Tanjore.txt"""						
+"KOT = ""countries/Kotte.txt"""						
+"JAF = ""countries/Jafnids.txt""         # TRB on map. Nestorian Christian OPM or Ibadi"						
+"MBR = ""countries/Malabar.txt""         # Malabar christian kingdom, mostly muslim provinces but based in nestorian maldives and nestorian calicut"						
+						
+"DEC = ""countries/Deccan.txt"""						
+"MAR = ""countries/Marathas.txt"""						
+"RJP = ""countries/Rajputana.txt"""						
+"HIN = ""countries/Hindustan.txt"""		  # India formable with branching mission depending on religion				
+NPL	"= ""countries/Nepal.txt""           # Nepalese culture formable"					
+"PAL = ""countries/Pala.txt"""			  # Pala princes reformable			
+"GSN = ""countries/Gondistan.txt"""		  # Gond culture formable				
+"PUN = ""countries/Punjab.txt"""						
+						
+#North American Additions						
+"VIN = ""countries/Vinland.txt"""		  # Vinland Saga but really				
+"VNR = ""countries/Vanaheimr.txt"""		  # Atlantis but really				
+"ARP = ""countries/Arapaho.txt"""						
+"CLM = ""countries/Colima.txt"""						
+"CNK = ""countries/Chinook.txt"""						
+"CAH = ""countries/Cahokia.txt"""						
+"COC = ""countries/Cocomes.txt"""						
+"HDA = ""countries/Haida.txt"""						
+"ITZ = ""countries/Itza.txt"""						
+"KIC = ""countries/Kiche.txt"""						
+"KIO = ""countries/Kiowa.txt"""						
+"MIX = ""countries/Mixtec.txt"""						
+"SAL = ""countries/Salish.txt"""						
+"TRS = ""countries/Tarascan.txt"""						
+"TLA = ""countries/Tlapanec.txt"""						
+"TLX = ""countries/Tlaxcala.txt"""						
+"TOT = ""countries/Totonac.txt"""						
+"WIC = ""countries/Wichita.txt"""						
+"XIU = ""countries/Xiu.txt"""						
+"BLA = ""countries/Blackfoot.txt"""						
+"CAD = ""countries/Caddo.txt"""						
+"CHY = ""countries/Cheyenne.txt"""						
+"COM = ""countries/Comanche.txt"""						
+"NAH = ""countries/Navajo.txt"""						
+"SHO = ""countries/Shoshone.txt"""						
+"SIO = ""countries/Sioux.txt"""						
+"WCR = ""countries/Cree.txt"""						
+"KEN = ""countries/Kenai.txt""                    # chinese explorer tag in N. America. Royal family that escaped yellow turbans"						
+						
+#South American Additions						
+"CSU = ""countries/Cusco.txt"""						
+"MCA = ""countries/Muisca.txt"""						
+"GUA = ""countries/Guarani.txt"""						
+"ARW = ""countries/Arawak.txt"""						
+"CAB = ""countries/Carib.txt"""						
+"ICM = ""countries/Ichma.txt"""						
+"KES = ""countries/KeseSuwo.txt"""					"# Mali colony. Mandinke for ""Good Home""... I think. probably butchered the grammar"	
+						
+#Golden Century Mesoamerican Tags   TO ADD LATER IF NEEDED						
+"#MAT = ""countries/Matlatzinca.txt"""						
+"#COI = ""countries/Coixtlahuaca.txt"""						
+"#TEO = ""countries/Teotitlan.txt"""						
+"#XAL = ""countries/Xalisco.txt"""						
+"#GAM = ""countries/Guamar.txt"""						
+"#HST = ""countries/Huastec.txt"""						
+"#CCM = ""countries/Chichimeca.txt"""						
+"#OTO = ""countries/Otomi.txt"""						
+"#YOK = ""countries/Yokotan.txt"""						
+"#LAC = ""countries/Lacandon.txt"""						
+"#KAQ = ""countries/Kaqchikel.txt"""						
+"#CTM = ""countries/Chactemal.txt"""						
+"#KER = ""countries/Keres.txt"""						
+"#ZNI = ""countries/Zuni.txt"""						
+"#MSC = ""countries/Mescalero.txt"""						
+"#LIP = ""countries/Lipan.txt"""						
+"#CHT = ""countries/Chorti.txt"""						
+"#MIS = ""countries/Miskito.txt"""						
+"#TAI = ""countries/Tairona.txt"""						
+"#CNP = ""countries/Can Pech.txt"""						
+"#TON = ""countries/Tonallan.txt"""						
+"#YAQ = ""countries/Yaqui.txt"""						
+"#YKT = ""countries/Yokuts.txt"""						
+						
+# Pirate tags						
+"NSS = ""countries/NewProvidence.txt"""						
+"PRY = ""countries/PortRoyal.txt"""						
+"TOR = ""countries/Tortuga.txt"""						
+"LIB = ""countries/Libertatia.txt"""						
+						
+# 1.30 Formables						
+"TTS = ""countries/TwoSicilies.txt"""						
+						
+# ???						
+"JMN = ""countries/JanMayen.txt"""						
+"ROM = ""countries/RomanEmpire.txt"""						
+"SYN = ""countries/Synthetics.txt"""						
+						
+#Converter tags:						
+"# HAH = ""countries/Hashshashin.txt"""						
+# ISR = countries/Israel.txt						
+# TEM = countries/KnightsTemplar.txt						
+# TRL = countries/Trapalanda.txt						
