@@ -249,7 +249,7 @@ SIC	= "countries/Sicily.txt"                 # Secular formable. kingdom rank wh
 HLR = "countries/HolyRomanEmpire.txt"
 
 #Low Countries
-DRS = "countries/Dorestadt.txt"
+DRS = "countries/Dorestadt.txt"              # Amsterdam before it was cool
 FRS = "countries/Friesland.txt"
 FRL = "countries/FrisianLeague.txt"
 TTB = "countries/Teutobergii.txt"            # germano-roman culture pagan death cult remnants of battle at teutoberg forest, which was a lot more close in this timeline.
@@ -627,7 +627,7 @@ DKD = "countries/DKD.txt"               # dunno
 LIA = "countries/Liao.txt"				# Liao dynasty got brrt
 OIR	= "countries/OiratHorde.txt"
 KSD = "countries/Khoshuud.txt"
-BAE = "countries/Baekje.txt"
+BAJ = "countries/Baekje.txt"
 YNG = "countries/YangCommandery.txt"    # Based off of the "Generals of the Yang Family" but also the sixteen commanderies of the Song dynasty YSH on map
 WAN = "countries/Wangiyan.txt"          # Jianzhou but weak
 DNM = "countries/DoenomBujog.txt"       # Middle Korean word for Jurchens. Means "Jurchen Bastard Tribe" or "Doom Tribe". Mission tree about overcome slur name and being the new epico rulers NJM on map

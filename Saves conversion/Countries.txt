@@ -1578,7 +1578,7 @@
 			424 
 		}
 		}
-		name="Alania NOTAG"
+		name="Alania ALN"
 		owned_provinces={
 			2201 
 		}
