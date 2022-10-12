@@ -178,7 +178,7 @@ SAX	= "countries/Saxony.txt"
 ANH = "countries/Anhalt.txt"
 
 DIU = "countries/Diutiscia.txt" # Non-roman cultural tag for north germany.
-GRP = "countries/GermaniaPrimus.txt" # Formable for roman tech or christians with romano-german or germanic cultures. Roughly analogous to Lotharingia/Middle Frankia.
+GPM = "countries/GermaniaPrimus.txt" # Formable for roman tech or christians with romano-german or germanic cultures. Roughly analogous to Lotharingia/Middle Frankia.
 RHA = "countries/Rhaetia.txt" # Formable for tags with Rhaetia as primary culture.
 NCM = "countries/Noricum.txt" # Formable for tags with Noric as primary culture, or in the romano-slovene culture group. "Producer of Roman Weaponry"
 
@@ -267,7 +267,7 @@ QUS = "countries/Qus.txt"                    # many Fatimid royal tombs are here
 BGZ = "countries/Benghazi.txt"
 MOS = "countries/Mosul.txt"
 MHZ = "countries/Mahoza.txt"                 # Al Mada'in. Newly established jewish realm named after old kingdom from long ago. Basically ummayyads were like "k jews here you go, your own land. now leave and don't come back."
-KRK = "countries/Kirkuk.txt"
+KRU = "countries/Kirkuk.txt"
 QAZ = "countries/Qazaniyah.txt"
 LOR = "countries/Lorestan.txt"               # KhorMoa. Vassal of Lakhmids
 IZE = "countries/Izeh.txt"                   # Province is called Malamir in game. Vassal of Lakhmids
@@ -315,7 +315,7 @@ EPY = "countries/Empyria.txt"
 SRT = "countries/Syrtica.txt"
 LGN = "countries/LegioNumidia.txt"
 
-GAR = "countries/Garamantes.txt"             # releasable
+GRM = "countries/Garamantes.txt"             # releasable
 MUS = "countries/Musulamii.txt"              # releasable
 MRS = "countries/Maurisii.txt"               # releasable
 
