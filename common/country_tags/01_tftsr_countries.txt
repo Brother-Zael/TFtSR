@@ -101,7 +101,7 @@ GEO	= "countries/Georgia.txt"
 YER = "countries/Yerevan.txt"
 PCH = "countries/Pechenegs.txt"
 BAY = "countries/Bayazids.txt"
-SHR = "countries/Shirvan.txt"
+SRV = "countries/Shirvan.txt"
 TRK = "countries/Terek.txt"
 ALA = "countries/Alania.txt"
 
@@ -179,7 +179,7 @@ ANH = "countries/Anhalt.txt"
 
 DIU = "countries/Diutiscia.txt" # Non-roman cultural tag for north germany.
 GPM = "countries/GermaniaPrimus.txt" # Formable for roman tech or christians with romano-german or germanic cultures. Roughly analogous to Lotharingia/Middle Frankia.
-RHA = "countries/Rhaetia.txt" # Formable for tags with Rhaetia as primary culture.
+RHT = "countries/Rhaetia.txt" # Formable for tags with Rhaetia as primary culture.
 NCM = "countries/Noricum.txt" # Formable for tags with Noric as primary culture, or in the romano-slovene culture group. "Producer of Roman Weaponry"
 
 POM	= "countries/Pommerania.txt" #releasable
@@ -278,7 +278,7 @@ ABS = "countries/Abbasids.txt"               # biggest of only 3 tags following 
 BUY = "countries/Buyids.txt"                 # Qawasimid/Suhar provinces.
 RSH = "countries/Rashidun.txt"
 QAS = "countries/Qasimids.txt"               # it's the rassids, just a more specific name
-NIZ = "countries/Nizwa.txt"
+NZW = "countries/Nizwa.txt"
 MUS = "countries/Muscat.txt"
 MAS = "countries/Masirah.txt"
 MAH = "countries/Mahra.txt"
@@ -316,7 +316,7 @@ SRT = "countries/Syrtica.txt"
 LGN = "countries/LegioNumidia.txt"
 
 GRM = "countries/Garamantes.txt"             # releasable
-MUS = "countries/Musulamii.txt"              # releasable
+MSL = "countries/Musulamii.txt"              # releasable
 MRS = "countries/Maurisii.txt"               # releasable
 
 AFR = "countries/Africa.txt"                 # Formable
@@ -412,7 +412,7 @@ YOL = "countries/Yola.txt"
 KBI = "countries/Kebbi.txt"
 PDG = "countries/Pindinga.txt"
 PED = "countries/Peddi.txt"
-TKD = "countries/Tenkodogo.txt"
+TDG = "countries/Tenkodogo.txt"
 ENA = "countries/Eneara.txt"
 
 #East Africa
@@ -457,7 +457,7 @@ KON = "countries/Kongo.txt"
 TYO = "countries/Tyo.txt"
 SYO = "countries/Soyo.txt"
 KSJ = "countries/Kasanje.txt"
-LUB = "countries/Luba.txt"
+LBA = "countries/Luba.txt"
 LND = "countries/Lunda.txt"
 CKW = "countries/Chokwe.txt"
 KIK = "countries/Kikondja.txt"
@@ -580,7 +580,7 @@ BTU = "countries/Butuan.txt"
 
 TDO = "countries/Tondo.txt"						# Releasable
 PGS = "countries/Pangasinan.txt"				# Releasable
-MAS = "countries/Madyaas.txt"					# Releasable
+MAS = "countries/Madyas.txt"					# Releasable
 
 OPH = "countries/Ophir.txt"						# Formable for jewish philippines
 TWL = "countries/Tawalisi.txt"					# Formable for muslim philippines
@@ -625,7 +625,7 @@ HOI = "countries/Hoifa.txt"             # Manchu dynasty
 ULA = "countries/Ula.txt"               # Manchu dynasty
 DKD = "countries/DKD.txt"               # dunno
 LIA = "countries/Liao.txt"				# Liao dynasty got brrt
-OIR	= "countries/OiratHorde.txt"
+ORH	= "countries/OiratHorde.txt"
 KSD = "countries/Khoshuud.txt"
 BAJ = "countries/Baekje.txt"
 YNG = "countries/YangCommandery.txt"    # Based off of the "Generals of the Yang Family" but also the sixteen commanderies of the Song dynasty YSH on map
@@ -756,7 +756,7 @@ ITZ = "countries/Itza.txt"
 KIC = "countries/Kiche.txt"
 KIO = "countries/Kiowa.txt"
 MIX = "countries/Mixtec.txt"
-SAL = "countries/Salish.txt"
+SLS = "countries/Salish.txt"
 TRS = "countries/Tarascan.txt"
 TLA = "countries/Tlapanec.txt"
 TLX = "countries/Tlaxcala.txt"
