@@ -477,3 +477,72 @@ zoroastrian_cult = {
 		}
 	}
 }
+
+suomenusko_cult = {
+	sprite = 16
+	allow = {
+		has_unlocked_cult = suomenusko_cult
+		religion = paganism
+		OR = {
+			NOT = { has_country_flag = uses_primary_cult }
+			AND = {
+				has_country_flag = uses_primary_cult
+				has_primary_cult = {
+					cult = suomenusko_cult
+				}
+			}
+		}
+		hostile_attrition = 1
+		garrison_size = 0.5
+		reinforce_speed = 0.2
+		ai_will_do = {
+			factor = 3
+		}
+	}
+}
+
+slavic_cult = {
+	sprite = 16
+	allow = {
+		has_unlocked_cult = slavic_cult
+		religion = paganism
+		OR = {
+			NOT = { has_country_flag = uses_primary_cult }
+			AND = {
+				has_country_flag = uses_primary_cult
+				has_primary_cult = {
+					cult = slavic_cult
+				}
+			}
+		}
+		infantry_power = 0.1
+		global_tax_modifier = 0.33
+		enemy_core_creation = 0.2
+		ai_will_do = {
+			factor = 3
+		}
+	}
+}
+
+celtic_cult = {
+	sprite = 9
+	allow = {
+		has_unlocked_cult = celtic_cult
+		religion = paganism
+		OR = { 
+			NOT = { has_country_flag = uses_primary_cult }
+			AND = {
+				has_country_flag = uses_primary_cult
+				has_primary_cult = {
+					cult = celtic_cult
+				}
+			}
+		}
+		idea_cost = -0.05
+		infantry_cost = -0.1
+		land_morale = 0.1
+		ai_will_do = {
+			factor = 3
+		}
+	}
+}

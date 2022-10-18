@@ -2937,6 +2937,25 @@ pagan = {
 		heretic = { INTI_HERETIC }	
 	}
 	
+	paganism = {
+		color = { 76 91 103 }
+		icon = 21
+		country = {
+			advisor_pool = 2
+			religious_unity = 0.25
+			tolerance_heathen = 2
+			tolerance_heretic = 2
+		}
+		country_as_secondary = {
+			religious_unity = 0.25
+			tolerance_heathen = 2
+			tolerance_heretic = 2
+		}
+		fetishist_cult = yes
+		
+		HERETIC = { British }
+	}
+	
 	nahuatl = {
 		color = { 64 115 64 }
 		icon = 17
