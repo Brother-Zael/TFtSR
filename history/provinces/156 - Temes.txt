@@ -1,6 +1,6 @@
 #156 - Temes
-owner = HUN
-controller = HUN 
+owner = SER
+controller = SER 
 culture = transylvanian
 religion = catholic
 capital = "Temesvár"
@@ -11,7 +11,8 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 fort_15th = yes #Timisoara Fortress
-add_core = HUN
+add_core = SER
+add_core = OTG
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

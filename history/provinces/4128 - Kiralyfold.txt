@@ -1,6 +1,6 @@
 #1951 - Hunyad
-owner = HUN
-controller = HUN 
+owner = HNY
+controller = HNY 
 culture = transylvanian #Transylvanian Saxons
 religion = catholic
 capital = "Sibiu"
@@ -11,8 +11,7 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 fort_15th = yes #Fortified Region
-add_core = HUN
-add_core = TRA
+add_core = HNY
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

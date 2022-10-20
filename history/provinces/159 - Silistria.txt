@@ -1,6 +1,6 @@
 #159 - Silistria
-owner = TUR
-controller = TUR
+owner = MGY
+controller = MGY
 culture = bulgarian
 religion = orthodox
 capital = "Silistra"
@@ -10,8 +10,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = TUR
-add_core = BUL
+add_core = MGY
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

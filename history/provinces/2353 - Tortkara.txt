@@ -1,6 +1,6 @@
 # 2353 - Tortkara
-owner = NOG
-controller = NOG
+owner = BSH
+controller = BSH
 culture = khazak
 religion = sunni
 capital = "Tortkara"
@@ -10,8 +10,8 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = KZH
-add_core = NOG
+add_core = KHI
+add_core = BSH
 discovered_by = nomad_group
 discovered_by = ottoman
 discovered_by = muslim

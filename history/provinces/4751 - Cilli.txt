@@ -1,7 +1,7 @@
 # 4751 - Cilli
-owner = CLI
-controller = CLI
-add_core = CLI
+owner = OTG
+controller = OTG
+add_core = OTG
 culture = slovene
 religion = catholic
 base_tax = 3

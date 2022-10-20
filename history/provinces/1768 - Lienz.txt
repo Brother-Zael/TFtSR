@@ -1,8 +1,7 @@
 #1768 - Lienz
-owner = HAB
-controller = HAB
-add_core = TIR
-add_core = HAB
+owner = OTG
+controller = OTG
+add_core = OTG
 culture = austrian
 religion = catholic
 base_tax = 4 

@@ -1,9 +1,7 @@
 # 129 - Krain
-owner = HAB
-controller = HAB
-add_core = HAB
-add_core = CLI
-add_core = STY
+owner = OTG
+controller = OTG
+add_core = OTG
 culture = slovene
 religion = catholic
 base_tax = 4

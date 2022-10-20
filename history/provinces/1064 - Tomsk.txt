@@ -1,4 +1,7 @@
 #1064 - Tomsk
+owner = KLM
+controller = KLM
+add_core = KLM
 culture = ostyaki
 religion = tengri_pagan_reformed
 capital = "Tomsk"

@@ -1,6 +1,6 @@
 # - Euboea
-owner = VEN
-controller = VEN
+owner = KNI
+controller = KNI
 culture = greek
 religion = orthodox
 capital = "Negroponte"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = VEN
+add_core = KNI
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

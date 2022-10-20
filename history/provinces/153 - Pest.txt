@@ -1,6 +1,6 @@
 #153 - Pest (Pest + Pilis + Esztergom + Kalocsa + most of Kiskunság + Parts of Nógrád )
-owner = HUN
-controller = HUN 
+owner = LOM
+controller = LOM 
 culture = hungarian
 religion = catholic
 capital = "Buda"
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = HUN
+add_core = LOM
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

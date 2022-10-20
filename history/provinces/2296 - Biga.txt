@@ -1,6 +1,6 @@
 #2296 - Biga
-owner = TUR
-controller = TUR
+owner = OPS
+controller = OPS
 culture = turkish
 religion = sunni
 capital = "Biga"
@@ -10,7 +10,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = TUR
+add_core = OPS
+add_core = MAC
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

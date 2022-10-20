@@ -1,6 +1,6 @@
 #150 - Bulgaria
-owner = TUR
-controller = TUR
+owner = MGY
+controller = MGY
 culture = bulgarian
 religion = orthodox
 capital = "Nikopol"
@@ -10,8 +10,8 @@ base_tax = 2
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = TUR
-add_core = BUL
+add_core = MGY
+add_core = SIA
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

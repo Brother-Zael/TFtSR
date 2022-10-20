@@ -1,6 +1,6 @@
 #4240 - Fejér (Fejér + Veszprém + Györ + parts of Komárom)
-owner = HUN
-controller = HUN 
+owner = LOM
+controller = LOM 
 culture = hungarian
 religion = catholic
 capital = "Fehérvár"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = HUN
+add_core = LOM
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

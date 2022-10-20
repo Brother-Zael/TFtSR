@@ -1,7 +1,7 @@
 #4762 - Wienerwald 
-owner = HAB
-controller = HAB
-add_core = HAB
+owner = BAI
+controller = BAI
+add_core = BAI
 culture = austrian
 religion = catholic
 base_tax = 3

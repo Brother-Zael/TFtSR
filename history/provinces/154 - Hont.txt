@@ -1,6 +1,6 @@
 #154 - Hont (Hont + Bars + Ersekujvar)
-owner = HUN
-controller = HUN 
+owner = LOM
+controller = LOM 
 culture = slovak
 religion = catholic
 capital = "Hont"
@@ -11,7 +11,7 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 #fort_15th = yes #Eger Castle, Orava
-add_core = HUN
+add_core = LOM
 add_core = SLO
 discovered_by = western
 discovered_by = eastern

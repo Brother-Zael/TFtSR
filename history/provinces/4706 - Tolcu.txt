@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
+owner = MGY
+controller = MGY
 culture = bulgarian
 religion = orthodox
 capital = "Tolcu"
@@ -9,8 +9,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = TUR
-add_core = BUL
+add_core = MGY
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #324 - Karaman
-owner = KAR
-controller = KAR
+owner = CIB
+controller = CIB
 culture = turkish
 religion = sunni
 capital = "Karaman"
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 4
 is_city = yes
-add_core = KAR
+add_core = CIB
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

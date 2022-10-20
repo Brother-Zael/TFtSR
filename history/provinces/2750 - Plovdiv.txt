@@ -1,6 +1,6 @@
 #2750 - Plovdiv / Upper Thrace
-owner = TUR
-controller = TUR
+owner = MGY
+controller = MGY
 culture = bulgarian
 religion = orthodox
 capital = "Plovdiv"
@@ -10,8 +10,8 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = TUR
-add_core = BUL
+add_core = MGY
+add_core = SIA
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -31,7 +31,7 @@ MSK = "countries/Moskva.txt"
 NIZ = "countries/NizhnyNovgorod.txt"
 KAZ = "countries/Kazan.txt"
 TAM = "countries/Tambov.txt"
-SAR = "countries/Saratov.txt"
+STV = "countries/Saratov.txt"
 BOL = "countries/Bolgaria.txt"
 RUS	= "countries/Russia.txt"
 
@@ -65,7 +65,7 @@ UKR	= "countries/Ukraine.txt"
 #Balkans
 BAI = "countries/Baimoi.txt"
 LOM = "countries/Lombardii.txt"
-SLO = "countries/Slovakia.txt"   # Placeholder, Change to some Gothic
+SLO = "countries/Slovakia.txt"   # Keep, instead change 2-3 poland tags to gothic culture
 HNY = "countries/Hunyadi.txt"
 ZZK = "countries/Zizka.txt" # Marcommani/Czech cultural union, with Jan Zizka in charge because why not do a bit of trolling.
 SER = "countries/Serbia.txt"

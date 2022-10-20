@@ -1,6 +1,6 @@
 #1076 - Kurgan
-owner = SHY
-controller = SHY
+owner = BSH
+controller = BSH
 capital = "Kurgan"
 culture = siberian
 religion = sunni
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = SIB
-add_core = SHY
+add_core = SBR
+add_core = BSH
 discovered_by = nomad_group
 revolt_risk = 15

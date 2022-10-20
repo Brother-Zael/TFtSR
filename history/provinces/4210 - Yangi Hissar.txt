@@ -1,7 +1,7 @@
 #4210 - Yangi Hissar
-owner = KAS
-controller = KAS
-add_core = KAS
+owner = KSH
+controller = KSH
+add_core = KSH
 culture = uyghur
 religion = sunni
 capital = "Yangi Hissar"

@@ -1,5 +1,5 @@
-owner = EPI
-controller = EPI
+owner = MLG
+controller = MLG
 culture = greek
 religion = orthodox
 capital = "Agios Georgios"
@@ -10,6 +10,8 @@ base_production = 1
 base_manpower = 2
 is_city = yes
 add_core = EPI
+add_core = MLG
+add_core = MAC
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,7 +1,7 @@
 #134 - Wien
-owner = PNR
-controller = PNR
-add_core = PNR
+owner = BAI
+controller = BAI
+add_core = BAI
 culture = austrian
 religion = catholic
 base_tax = 6 

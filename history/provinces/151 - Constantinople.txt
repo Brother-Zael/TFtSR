@@ -1,6 +1,6 @@
 #151 - Constantinople
-owner = BYZ
-controller = BYZ
+owner = MGY
+controller = MGY
 culture = greek
 religion = orthodox
 capital = "Constantinople"
@@ -11,7 +11,9 @@ base_production = 8
 base_manpower = 4
 is_city = yes
 fort_15th = yes 
-add_core = BYZ
+add_core = MAC
+add_core = SOP
+add_core = MGY
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

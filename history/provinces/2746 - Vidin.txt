@@ -1,6 +1,6 @@
 #2746 - Vidin
-owner = TUR
-controller = TUR
+owner = SER
+controller = SER
 culture = bulgarian
 religion = orthodox
 capital = "Vidin"
@@ -10,8 +10,9 @@ base_tax = 2
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = TUR
-add_core = BUL
+add_core = SER
+add_core = OTG
+add_core = SIA
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

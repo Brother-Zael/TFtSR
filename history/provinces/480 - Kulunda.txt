@@ -1,4 +1,8 @@
 #480 - Kulunda
+owner = KLM
+controller = KLM
+add_core = KLM
+add_core = SBR
 culture = kirgiz
 religion = tengri_pagan_reformed
 capital = "Pegaya Orda"

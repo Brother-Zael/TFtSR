@@ -1,6 +1,6 @@
 #147 - Salonica
-owner = TUR
-controller = TUR
+owner = SOP
+controller = SOP
 culture = greek
 religion = orthodox
 capital = "Trikala"
@@ -10,8 +10,8 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 is_city = yes
-add_core = BYZ
-add_core = TUR
+add_core = MAC
+add_core = SOP
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

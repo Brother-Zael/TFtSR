@@ -1,8 +1,8 @@
 #2429 - Agan
-owner = SHY
-controller = SHY
-add_core = SIB
-add_core = SHY
+owner = KLM
+controller = KLM
+add_core = SBR
+add_core = KLM
 culture = ostyaki
 religion = sunni
 capital = "Variegansk"

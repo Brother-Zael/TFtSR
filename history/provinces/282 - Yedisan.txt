@@ -1,6 +1,6 @@
 #282 - Yedisan
-owner = CRI
-controller = CRI
+owner = MGY
+controller = MGY
 culture = crimean
 religion = sunni
 hre = no
@@ -11,8 +11,8 @@ base_manpower = 1
 capital = "Hajibey"
 is_city = yes
 add_local_autonomy = 25
-add_core = CRI
-add_core = ZAZ
+add_core = MGY
+add_core = ZAO
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

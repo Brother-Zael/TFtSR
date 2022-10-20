@@ -1,7 +1,8 @@
 #4688 - Baraba
-owner = SHY
-controller = SHY
-add_core = SHY
+owner = KLM
+controller = KLM
+add_core = KLM
+add_core = SBR
 culture = kirgiz
 religion = tengri_pagan_reformed
 capital = "Baraba"

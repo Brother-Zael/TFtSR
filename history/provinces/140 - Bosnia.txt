@@ -1,6 +1,6 @@
 #140 - Core of Bosnian kingdom, Soli+Usora+Most of Vrhbosna
-owner = BOS # Part of the Bosnian kingdom
-controller = BOS
+owner = OTG # Part of the Bosnian kingdom
+controller = OTG
 culture = bosnian
 religion = orthodox
 capital = "Doboj" #or Srebrenik
@@ -10,6 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
+add_core = OTG
 add_core = BOS
 discovered_by = western
 discovered_by = eastern

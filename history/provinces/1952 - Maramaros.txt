@@ -1,6 +1,6 @@
 #1952 - Máramaros
-owner = HUN
-controller = HUN 
+owner = HNY
+controller = HNY 
 culture = ruthenian
 religion = orthodox
 capital = "Huszt"
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = HUN
+add_core = HNY
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

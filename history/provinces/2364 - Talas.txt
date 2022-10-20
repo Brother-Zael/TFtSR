@@ -1,7 +1,8 @@
 # 2364 - Talas
-owner = CHG
-controller = CHG
-add_core = CHG
+owner = MER
+controller = MER
+add_core = MER
+add_core = KSH
 culture = kirgiz
 religion = sunni
 capital = "Talas"

@@ -1,6 +1,6 @@
 #1966 - Chelyaba
-owner = NOG
-controller = NOG
+owner = BSH
+controller = BSH
 capital = "Chelyaba"
 culture = bashkir
 religion = sunni
@@ -10,8 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = NOG
-add_core = SIB
+add_core = KIP
 add_core = BSH
 discovered_by = nomad_group
 discovered_by = muslim

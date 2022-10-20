@@ -1,6 +1,6 @@
 #149 - Edirne
-owner = TUR
-controller = TUR
+owner = MGY
+controller = MGY
 culture = greek
 religion = orthodox
 capital = "Edirne"
@@ -10,8 +10,7 @@ base_tax = 6
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = BYZ
-add_core = TUR
+add_core = MGY
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

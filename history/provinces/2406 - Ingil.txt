@@ -1,6 +1,6 @@
 #2406 - Ingil
-owner = CRI
-controller = CRI
+owner = MGY
+controller = MGY
 culture = crimean
 religion = sunni
 hre = no
@@ -11,8 +11,7 @@ base_manpower = 1
 capital = "Kyzy-Kermen"
 is_city = yes
 add_local_autonomy = 25
-add_core = CRI
-add_core = ZAZ
+add_core = MGY
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

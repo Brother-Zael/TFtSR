@@ -1,6 +1,6 @@
 #2301 - Kayseri
-owner = KAR
-controller = KAR
+owner = PCH
+controller = PCH
 culture = turkish
 religion = sunni
 capital = "Kayseri"
@@ -10,8 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = KAR
-add_core = ERE
+add_core = PCH
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

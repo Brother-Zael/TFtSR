@@ -1,6 +1,6 @@
 #2298 - Tekke
-owner = TUR
-controller = TUR
+owner = CIB
+controller = CIB
 culture = turkish
 religion = sunni
 capital = "Adalia"
@@ -10,8 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = MEN
-add_core = TUR
+add_core = CIB
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,4 +1,4 @@
-version="1.33.*"
+version="1.34.*"
 tags={
 	"Alternative History"
 	"Balance"
@@ -9,6 +9,16 @@ tags={
 	"Religion"
 	"Map"
 }
+
+replace_path="common/countries"
+replace_path="common/country_tags"
+replace_path="missions"
+replace_path="decisions"
+replace_path="events"
+replace_path="history/diplomacy"
+replace_path="history/countries"
+replace_path="history/provinces"
+
 name="Tales From the Silk Road"
-supported_version="1.33.*"
+supported_version="1.34.*"
 remote_file_id="2840062534"

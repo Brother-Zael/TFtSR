@@ -1,6 +1,6 @@
 #135 - Sopron (Sopron + Vas + Moson + Zala)
-owner = HUN
-controller = HUN 
+owner = OTG
+controller = OTG
 culture = hungarian
 religion = catholic
 capital = "Sopron"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = HUN
+add_core = OTG
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

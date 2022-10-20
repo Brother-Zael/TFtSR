@@ -1,8 +1,7 @@
 #132 - Steiermark
-owner = HAB
-controller = HAB
-add_core = HAB
-add_core = STY
+owner = OTG
+controller = OTG
+add_core = OTG
 culture = austrian
 religion = catholic
 base_tax = 4

@@ -1,6 +1,7 @@
 #1774 - Treviso
 owner = PAP
 controller = PAP
+add_core = PAP
 culture = venetian 
 religion = catholic 
 hre = no

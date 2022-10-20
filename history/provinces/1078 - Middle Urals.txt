@@ -1,4 +1,7 @@
 #1078 - Middle Urals
+owner = SBR
+controller = SBR
+add_core = SBR
 capital = "Neromkar"
 culture = uralic
 religion = tengri_pagan_reformed #Sami Shamanism

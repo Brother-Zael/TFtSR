@@ -1,4 +1,8 @@
 #4687 - Imakia
+owner = KLM
+controller = KLM
+add_core = SBR
+add_core = KLM
 culture = kirgiz
 religion = tengri_pagan_reformed
 capital = "Imakia"

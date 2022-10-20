@@ -1,7 +1,7 @@
 # 2126 - Chuy
-owner = CHG
-controller = CHG
-add_core = CHG
+owner = MER
+controller = MER
+add_core = MER
 culture = kirgiz
 religion = sunni
 capital = "Chuy"
