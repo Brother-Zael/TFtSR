@@ -1,7 +1,7 @@
 #1748 - La Mancha
-owner = CAS		#Enrique III of Castille
-controller = CAS
-add_core = CAS
+owner = HLG		#Enrique III of Castille
+controller = HLG
+add_core = HLG
 culture = andalucian
 religion = catholic
 hre = no

@@ -1,7 +1,7 @@
 #60 - Lausitz
-owner = ANH
-controller = ANH
-add_core = ANH
+owner = VNT
+controller = VNT
+add_core = VNT
 capital = "Bautzen"
 culture = sorbian
 religion = catholic

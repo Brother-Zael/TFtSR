@@ -1,4 +1,7 @@
 #1057 - Udinsky
+controller = LIA
+owner = LIA
+add_core = LIA
 culture = buryat
 religion = tengri_pagan_reformed
 capital = "Udinskoye"

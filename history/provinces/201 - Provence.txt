@@ -1,6 +1,6 @@
 # 201 Provence - Principal cities: Aix-en-Provence, Marseille
-owner = PRO
-controller = PRO 
+owner = TSL
+controller = TSL
 capital = "Aix-en-Provence"
 is_city = yes
 culture = occitain
@@ -10,7 +10,7 @@ base_tax = 7
 base_production = 7
 trade_goods = wine
 base_manpower = 6
-add_core = PRO
+add_core = TSL
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

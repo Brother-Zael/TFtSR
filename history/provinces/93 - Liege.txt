@@ -1,6 +1,6 @@
 # 93 Liège - Principal cities: Liège & Namur
-owner = LIE
-controller = LIE
+owner = DUT
+controller = DUT
 capital = "Liège"
 is_city = yes
 culture = wallonian
@@ -10,7 +10,7 @@ base_tax = 6
 base_production = 6
 trade_goods = glass
 base_manpower = 3
-add_core = LIE
+add_core = DUT
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

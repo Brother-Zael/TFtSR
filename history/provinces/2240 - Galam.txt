@@ -1,4 +1,7 @@
 # No previous file for Galam
+owner = TKR
+controller = TKR
+add_core = TKR
 culture = fulani 
 religion = shamanism #Fetishism
 capital = "Galam"

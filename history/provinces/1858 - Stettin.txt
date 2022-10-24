@@ -1,7 +1,7 @@
 #1858 - Stettin
-owner = STE
-controller = STE
-add_core = STE
+owner = FRL
+controller = FRL
+add_core = FRL
 culture = pommeranian
 religion = catholic
 trade_goods = naval_supplies

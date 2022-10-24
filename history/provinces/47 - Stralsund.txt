@@ -1,7 +1,7 @@
 #47 - Stralsund
-owner = WOL
-controller = WOL
-add_core = WOL
+owner = JOM
+controller = JOM
+add_core = JOM
 culture = pommeranian
 religion = catholic
 hre = yes

@@ -1,7 +1,7 @@
 #738 - Taiwan
-owner = NMY		
-controller = NMY
-add_core = NMY
+owner = GPC		
+controller = GPC
+add_core = GPC
 culture = polynesian
 religion = animism
 capital = "Sakam"

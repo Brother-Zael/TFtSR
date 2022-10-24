@@ -1,7 +1,7 @@
 #44 - Hamburg
-owner = HAM
-controller = HAM
-add_core = HAM
+owner = FRL
+controller = FRL
+add_core = FRL
 culture = lower_saxon
 religion = catholic
 hre = yes

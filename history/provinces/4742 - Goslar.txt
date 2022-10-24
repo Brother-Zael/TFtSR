@@ -1,7 +1,7 @@
 # 4742 - Goslar
-owner = GOS
-controller = GOS
-add_core = GOS
+owner = ANH
+controller = ANH
+add_core = ANH
 culture = saxon
 religion = catholic
 hre = yes

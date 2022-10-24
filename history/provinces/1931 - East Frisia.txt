@@ -1,6 +1,6 @@
 #1931 - East Frisia
-owner = EFR
-controller = EFR
+owner = FRL
+controller = FRL
 culture = frisian
 religion = catholic
 capital = "Emden"
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 3
 is_city = yes
-add_core = EFR
+add_core = FRL
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

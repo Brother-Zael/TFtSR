@@ -1,7 +1,7 @@
 # 4743 - Weimar
-owner = ANH
-controller = ANH
-add_core = ANH
+owner = ALM
+controller = ALM
+add_core = ALM
 culture = saxon
 religion = catholic
 hre = yes

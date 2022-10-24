@@ -1,7 +1,7 @@
 #46 - Rostock
-owner = MKL
-controller = MKL
-add_core = MKL
+owner = JOM
+controller = JOM
+add_core = JOM
 culture = pommeranian
 religion = catholic
 hre = yes

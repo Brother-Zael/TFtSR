@@ -1,7 +1,7 @@
 # 4746 - Stargard
-owner = STE
-controller = STE
-add_core = STE
+owner = FRL
+controller = FRL
+add_core = FRL
 add_core = LUN
 culture = pommeranian
 religion = norse_pagan_reformed

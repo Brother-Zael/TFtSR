@@ -1,5 +1,5 @@
-owner = TRI
-controller = TRI
+owner = ALM
+controller = ALM
 culture = hessian
 religion = catholic
 trade_goods = grain
@@ -8,7 +8,7 @@ base_tax = 4
 base_production = 4
 is_city = yes
 fort_15th = yes #Eltz & Stolzenfels Castles
-add_core = TRI
+add_core = ALM
 base_manpower = 2
 hre = yes
 discovered_by = eastern

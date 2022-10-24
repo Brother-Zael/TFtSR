@@ -1,7 +1,7 @@
 #45 - Lübeck
-owner = HSA
-controller = HSA
-add_core = HSA
+owner = FRL
+controller = FRL
+add_core = FRK
 culture = lower_saxon
 religion = catholic
 hre = yes

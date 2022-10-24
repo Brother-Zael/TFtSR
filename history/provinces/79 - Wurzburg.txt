@@ -1,7 +1,7 @@
 #79 - Würzburg
-owner = WBG
-controller = WBG
-add_core = WBG
+owner = ALM
+controller = ALM
+add_core = ALM
 culture = franconian
 religion = catholic
 base_tax = 4

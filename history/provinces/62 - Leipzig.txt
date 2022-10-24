@@ -2,8 +2,8 @@
 latent_trade_goods = {
 	coal
 }
-owner = EMP
-controller = EMP 
+owner = ANH
+controller = ANH 
 culture = saxon
 religion = catholic
 capital = "Leipzig"
@@ -13,7 +13,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = EMP
+add_core = ANH
+add_core = SAX
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #63 - Erfurt
-owner = SAX
-controller = SAX
+owner = ALM
+controller = ALM
 culture = saxon
 religion = catholic
 capital = "Erfurt"
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = SAX
+add_core = ALM
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

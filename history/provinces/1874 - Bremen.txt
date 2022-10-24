@@ -1,6 +1,6 @@
 #1874 - Bremen
-owner = BRE
-controller = BRE
+owner = FRL
+controller = FRL
 culture = lower_saxon
 religion = catholic
 capital = "Bremen"
@@ -10,7 +10,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 4
 is_city = yes
-add_core = BRE
+add_core = FRL
 fort_15th = yes
 add_local_autonomy = 50
 discovered_by = eastern

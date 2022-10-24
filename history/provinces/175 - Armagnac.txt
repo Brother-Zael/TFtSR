@@ -1,6 +1,6 @@
 # 175 Armagnac - Principal cities: Auch
-owner = BUR
-controller = BUR
+owner = BRD
+controller = BRD
 capital = "Auch"
 is_city = yes
 culture = gascon
@@ -11,7 +11,7 @@ base_production = 5
 trade_goods = wool
 base_manpower = 5
 add_local_autonomy = 25
-add_core = BUR
+add_core = BRD
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #59 - Wittenberg
-owner = SAX
-controller = SAX
+owner = SBI
+controller = SBI
 culture = saxon
 religion = catholic
 capital = "Wittenberg"
@@ -10,6 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
+add_core = SBI
 add_core = SAX
 discovered_by = eastern
 discovered_by = western

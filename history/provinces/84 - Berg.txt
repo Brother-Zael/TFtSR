@@ -1,7 +1,7 @@
 # 84 - Berg
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = ALM
+controller = ALM
+add_core = ALM
 culture = hessian
 religion = catholic
 trade_goods = cloth

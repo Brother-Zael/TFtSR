@@ -1,6 +1,6 @@
 # 4769 - Jülich
-owner = BRG
-controller = BRG
+owner = DOR
+controller = DOR
 culture = hessian
 religion = catholic
 trade_goods = grain
@@ -8,7 +8,7 @@ capital = "Jülich"
 base_tax = 3
 base_production = 3
 is_city = yes
-add_core = BRG
+add_core = DOR
 base_manpower = 2
 hre = yes
 discovered_by = eastern

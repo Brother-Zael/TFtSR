@@ -1,6 +1,6 @@
 # 174 Gascogne - Principal cities: Bordeaux
-owner = BUR
-controller = BUR
+owner = BRD
+controller = BRD
 capital = "Bordeaux"
 is_city = yes
 culture = gascon
@@ -10,7 +10,7 @@ base_tax = 8
 base_production = 8
 trade_goods = wine
 base_manpower = 5
-add_core = BUR
+add_core = BRD
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,8 +1,7 @@
 #213 - Barcelona
-owner = ARA	#Alfons V of Aragon
-controller = ARA
-add_core = ARA
-add_core = CAT
+owner = TSL	#Alfons V of Aragon
+controller = TSL
+add_core = TSL
 culture = catalan
 religion = catholic
 hre = no

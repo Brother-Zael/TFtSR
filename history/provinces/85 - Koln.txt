@@ -1,7 +1,7 @@
 #85 - Köln
-owner = KOL
-controller = KOL
-add_core = KOL
+owner = ALM
+controller = ALM
+add_core = ALM
 culture = hessian
 religion = catholic
 trade_goods = paper

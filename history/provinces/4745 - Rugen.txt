@@ -1,8 +1,7 @@
 # 4745 - Rügen
-owner = WOL
-controller = WOL
-add_core = RUG
-add_core = GOT
+owner = JOM
+controller = JOM
+add_core = JOM
 culture = pommeranian
 religion = norse_pagan_reformed
 hre = yes
@@ -12,7 +11,6 @@ trade_goods = fish
 base_manpower = 1
 capital = "Bergen auf Rügen"
 is_city = yes
-unrest = 8 #pirate independence of thought
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

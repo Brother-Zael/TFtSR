@@ -1,7 +1,7 @@
 # - Wismar
-owner = MKL
-controller = MKL
-add_core = MKL
+owner = FRL
+controller = FRL
+add_core = FRL
 culture = pommeranian
 religion = catholic
 hre = yes

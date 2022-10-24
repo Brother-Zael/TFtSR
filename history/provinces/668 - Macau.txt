@@ -1,6 +1,6 @@
 #668 - Macau
-owner = NMY
-controller = NMY
+owner = GPC
+controller = GPC
 culture = cantonese
 religion = confucianism
 capital = "Macau"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = NMY
+add_core = GPC
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

@@ -1,7 +1,7 @@
 #Demnate
-owner = MOR
-controller = MOR 
-add_core = MOR 
+owner = CAN
+controller = CAN 
+add_core = CAN
 culture = moroccan
 religion = sunni
 capital = "Demnate"

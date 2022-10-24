@@ -1,6 +1,6 @@
 #600 - Ayutthaya
-owner = NMY 
-controller = NMY
+owner = AYU 
+controller = AYU
 culture = central_thai
 religion = buddhism
 capital = "Ayutthaya"
@@ -11,7 +11,7 @@ base_production = 8
 base_manpower = 4
 is_city = yes
 fort_15th = yes
-add_core = NMY
+add_core = AYU
 discovered_by = chinese
 discovered_by = indian
 extra_cost = 16
