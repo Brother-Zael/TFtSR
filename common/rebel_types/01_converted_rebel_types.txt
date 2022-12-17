@@ -26,7 +26,7 @@ pagan_reformed_rebels = {
 
 	area = nation 					# Sticks to provinces of their nation
 	government = theocracy 			# Desires Theocracy
-	religion = animist
+	religion = paganism
 	defection = religion			# Defects to countries of their religion
 	defect_delay = 120				# Held provinces will auto-defect after 18 months, regardless of accept/enforce demands.
 	independence = none				# Does not strive for independence
@@ -109,11 +109,11 @@ pagan_reformed_rebels = {
 		modifier = {
 			factor = 0.0
 			religion = animist
-			owner = { religion = baltic_pagan_reformed }
+			owner = { religion = paganism }
 		}
 		modifier = {
 			factor = 2.0
-			NOT = { religion = baltic_pagan_reformed }
+			NOT = { religion = paganism }
 			any_neighbor_province = {
 	 			religion = animist
 	 			NOT = { has_province_modifier = "forced_conversion" }
@@ -145,7 +145,7 @@ pagan_reformed_rebels = {
 	siege_won_effect = {
 		if = {
 			limit = {
-				religion = animist
+				religion = paganism
 			}
 			add_province_modifier = {
 				name = "religious_violence"
@@ -154,9 +154,9 @@ pagan_reformed_rebels = {
 		}
 		if = {
 			limit = {
-				NOT = { religion = animist }
+				NOT = { religion = paganism }
 			}
-			change_religion = animist
+			change_religion = paganism
 			add_province_modifier = {
 				name = "forced_conversion"
 				duration = 730
@@ -199,7 +199,7 @@ pagan_reformed_rebels = {
 		}
 		if = {
 			limit = {
-				religion = animist
+				religion = paganism
 			}
 			add_country_modifier = {
 				name = "religious_intolerance"
@@ -209,9 +209,9 @@ pagan_reformed_rebels = {
 		if = {
 			limit = {
 				religion_group = pagan
-				NOT = { religion = animist }
+				NOT = { religion = paganism }
 			}
-			change_religion = animist
+			change_religion = paganism
 			force_converted = yes
 		}
 	}

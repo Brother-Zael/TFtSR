@@ -2,7 +2,7 @@
 owner = VOL
 controller = VOL
 culture = russian 
-religion = orthodox
+religion = nestorian
 hre = no
 base_tax = 1
 base_production = 1

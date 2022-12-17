@@ -2,7 +2,7 @@
 owner = VOL # was part of Ustyug principality, annexed by Muscovy in 1474
 controller = VOL
 culture = russian 
-religion = orthodox
+religion = nestorian
 hre = no
 base_tax = 2
 base_production = 2
