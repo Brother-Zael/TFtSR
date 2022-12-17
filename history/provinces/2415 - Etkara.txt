@@ -2,7 +2,7 @@
 owner = SAR
 controller = SAR
 culture = mishary
-religion = sunni
+religion = nestorian
 hre = no
 base_tax = 3 
 base_production = 3

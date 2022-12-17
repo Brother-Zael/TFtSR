@@ -2,7 +2,7 @@
 owner = KIP
 controller = KIP
 culture = circassian
-religion = orthodox
+religion = vajrayana
 capital = "Nalchik"
 trade_goods = wool
 hre = no

@@ -1,8 +1,8 @@
 #4257 - Mezen
-owner = NOV 
-controller = NOV 
+owner = VOL 
+controller = VOL
 culture = novgorodian
-religion = orthodox
+religion = paganism
 hre = no
 base_tax = 1
 base_production = 1
@@ -10,6 +10,6 @@ trade_goods = fish
 base_manpower = 1
 capital = "Okladnikova Sloboda"
 is_city = yes
-add_core = NOV
+add_core = VOL
 discovered_by = eastern
 discovered_by = western

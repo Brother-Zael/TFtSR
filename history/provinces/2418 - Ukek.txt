@@ -2,7 +2,7 @@
 owner = KIP
 controller = KIP
 culture = astrakhani
-religion = sunni
+religion = vajrayana
 hre = no
 base_tax = 2 
 base_production = 2

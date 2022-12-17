@@ -2,7 +2,7 @@
 owner = POZ
 controller = POZ
 culture = polish
-religion = catholic
+religion = paganism
 capital = "Gniezno"
 trade_goods = cloth
 hre = no

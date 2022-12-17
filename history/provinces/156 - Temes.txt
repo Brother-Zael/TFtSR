@@ -2,7 +2,7 @@
 owner = SER
 controller = SER 
 culture = transylvanian
-religion = catholic
+religion = orthodox
 capital = "Temesvár"
 trade_goods = wool
 hre = no

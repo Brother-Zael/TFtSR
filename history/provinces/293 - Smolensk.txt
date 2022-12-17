@@ -2,7 +2,7 @@
 owner = SMO
 controller = SMO
 culture = ryazanian
-religion = orthodox
+religion = paganism
 hre = no
 base_tax = 4
 base_production = 4

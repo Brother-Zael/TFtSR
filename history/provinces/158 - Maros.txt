@@ -2,7 +2,7 @@
 owner = HNY
 controller = HNY 
 culture = transylvanian #Szeklers
-religion = catholic
+religion = orthodox
 capital = "Targu Mures"
 trade_goods = wool
 hre = no

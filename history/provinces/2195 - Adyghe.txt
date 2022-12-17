@@ -2,7 +2,7 @@
 owner = OYG
 controller = OYG
 culture = circassian
-religion = orthodox
+religion = coptic
 capital = "Sochi"
 trade_goods = livestock
 hre = no

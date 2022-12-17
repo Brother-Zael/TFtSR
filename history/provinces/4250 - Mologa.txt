@@ -2,7 +2,7 @@
 owner = MSK
 controller = MSK
 culture = russian
-religion = orthodox
+religion = paganism
 hre = no 
 base_tax = 2
 base_production = 2

@@ -2,7 +2,7 @@
 owner = BOL
 controller = BOL
 culture = nogaybak
-religion = sunni
+religion = nestorian
 capital = "Buzuluk"
 trade_goods = iron
 hre = no

@@ -2,7 +2,7 @@
 owner = OYG
 controller = OYG
 culture = pontic_greek
-religion = orthodox
+religion = coptic
 hre = no
 base_tax = 2 
 base_production = 2

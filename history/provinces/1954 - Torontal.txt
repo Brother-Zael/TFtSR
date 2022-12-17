@@ -2,7 +2,7 @@
 owner = SER
 controller = SER 
 culture = hungarian
-religion = catholic
+religion = orthodox
 capital = "Nagybecskerek"
 trade_goods = livestock
 hre = no

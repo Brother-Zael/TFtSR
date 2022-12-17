@@ -2,7 +2,7 @@
 owner = WRS
 controller = WRS
 culture = polish
-religion = catholic
+religion = nestorian
 hre = no
 trade_goods = livestock
 base_tax = 5

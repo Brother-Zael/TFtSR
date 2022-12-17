@@ -2,7 +2,7 @@
 owner = NIZ
 controller = NIZ
 culture = russian
-religion = orthodox
+religion = nestorian
 hre = no
 base_tax = 3
 base_production = 2

@@ -2,7 +2,7 @@
 owner = PRM
 controller = PRM
 culture = uralic
-religion = orthodox
+religion = paganism
 hre = no
 base_tax = 1 
 base_production = 1

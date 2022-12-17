@@ -2,7 +2,7 @@
 owner = LOM
 controller = LOM 
 culture = hungarian
-religion = catholic
+religion = orthodox
 capital = "Buda"
 trade_goods = grain
 hre = no

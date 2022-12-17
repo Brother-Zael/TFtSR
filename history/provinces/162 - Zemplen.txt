@@ -2,7 +2,7 @@
 owner = SLO
 controller = SLO 
 culture = slovak
-religion = catholic
+religion = orthodox
 capital = "Kassa"
 trade_goods = grain
 hre = no

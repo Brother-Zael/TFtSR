@@ -2,7 +2,7 @@
 owner = SLO
 controller = SLO 
 culture = hungarian
-religion = catholic
+religion = orthodox
 capital = "Debrecen"
 trade_goods = livestock
 hre = no

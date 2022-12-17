@@ -2,7 +2,7 @@
 owner = KAZ
 controller = KAZ
 culture = kazani
-religion = sunni
+religion = nestorian
 capital = "Veda-Suvar"
 trade_goods = grain
 hre = no

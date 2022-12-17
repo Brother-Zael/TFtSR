@@ -2,7 +2,7 @@
 owner = KIP
 controller = KIP
 culture = mishary
-religion = sunni
+religion = nestorian
 capital = "Borisoglebsk"
 trade_goods = livestock
 hre = no

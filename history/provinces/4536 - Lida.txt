@@ -1,7 +1,7 @@
 #4536 - Lida
 owner = VIL
 controller = VIL
-religion = "catholic"
+religion = nestorian
 culture = lithuanian
 capital = "Lyda"
 trade_goods = livestock

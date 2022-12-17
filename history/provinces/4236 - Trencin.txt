@@ -2,7 +2,7 @@
 owner = ZZK
 controller = ZZK 
 culture = slovak
-religion = catholic
+religion = orthodox
 capital = "Trencin"
 trade_goods = iron
 hre = no

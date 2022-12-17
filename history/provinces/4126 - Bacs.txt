@@ -2,7 +2,7 @@
 owner = OTG
 controller = OTG 
 culture = hungarian
-religion = catholic
+religion = orthodox
 capital = "Bács"
 trade_goods = livestock
 hre = no

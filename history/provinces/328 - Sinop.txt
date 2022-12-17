@@ -1,8 +1,8 @@
 #328 - Sinope
 owner = GEO
 controller = GEO
-culture = turkish
-religion = sunni
+culture = pontic_greek
+religion = coptic
 capital = "Sinop"
 trade_goods = naval_supplies
 hre = no

@@ -2,7 +2,7 @@
 owner = ALA
 controller = ALA
 culture = circassian
-religion = orthodox
+religion = zoroastrian
 capital = "Dzaudzhikau"
 trade_goods = wool
 hre = no

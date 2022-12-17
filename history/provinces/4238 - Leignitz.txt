@@ -3,7 +3,7 @@
 owner = POZ
 controller = POZ
 culture = schlesian
-religion = catholic
+religion = hussite
 capital = "Liegnitz"
 trade_goods = glass
 hre = yes

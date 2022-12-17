@@ -2,7 +2,7 @@
 owner = POZ
 controller = POZ
 culture = schlesian
-religion = catholic
+religion = hussite
 capital = "Breslau"
 trade_goods = cloth
 hre = yes

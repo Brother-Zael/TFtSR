@@ -2,7 +2,7 @@
 owner = SMO #Controlled by various small Principalities shifting allegience between Muscovy and Lithuania
 controller = SMO 
 culture = ryazanian
-religion = orthodox
+religion = nestorian
 hre = no
 base_tax = 3
 base_production = 3

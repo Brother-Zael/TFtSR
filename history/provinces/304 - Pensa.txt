@@ -2,7 +2,7 @@
 owner = MSK
 controller = MSK
 culture = kazani
-religion = sunni
+religion = nestorian
 hre = no
 base_tax = 3 
 base_production = 3

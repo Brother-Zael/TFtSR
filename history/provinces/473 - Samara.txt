@@ -2,7 +2,7 @@
 owner = SAR
 controller = SAR
 culture = kazani
-religion = sunni
+religion = nestorian
 capital = "Samara"
 trade_goods = livestock
 hre = no

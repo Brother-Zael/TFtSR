@@ -2,7 +2,7 @@
 owner = KIP
 controller = KIP
 culture = astrakhani
-religion = sunni
+religion = vajrayana
 capital = "Sarai"
 trade_goods = wool
 hre = no

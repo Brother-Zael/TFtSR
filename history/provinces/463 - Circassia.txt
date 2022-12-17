@@ -2,7 +2,7 @@
 owner = OYG
 controller = OYG
 culture = circassian
-religion = orthodox
+religion = tengri_pagan_reformed
 capital = "Adyche"
 trade_goods = livestock
 hre = no

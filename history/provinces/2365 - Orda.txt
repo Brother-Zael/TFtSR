@@ -2,7 +2,7 @@
 owner = KIP
 controller = KIP
 culture = nogaybak
-religion = sunni
+religion = vajrayana
 capital = "Orda"
 trade_goods = livestock
 hre = no

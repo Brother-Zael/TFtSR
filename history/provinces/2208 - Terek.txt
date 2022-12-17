@@ -2,7 +2,7 @@
 owner = TRK
 controller = TRK
 culture = dagestani
-religion = sunni
+religion = zoroastrian
 capital = "Mozdok"
 trade_goods = livestock
 hre = no

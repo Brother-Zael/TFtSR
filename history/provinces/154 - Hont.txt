@@ -2,7 +2,7 @@
 owner = LOM
 controller = LOM 
 culture = slovak
-religion = catholic
+religion = orthodox
 capital = "Hont"
 trade_goods = gold #Schemnitz / Banská Štiavnica
 hre = no

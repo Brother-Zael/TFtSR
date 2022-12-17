@@ -2,7 +2,7 @@
 owner = BSH
 controller = BSH
 culture = khazak
-religion = sunni
+religion = nestorian
 capital = "Tortkara"
 trade_goods = naval_supplies
 hre = no

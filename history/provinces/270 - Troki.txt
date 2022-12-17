@@ -2,8 +2,8 @@
 owner = TWG
 controller = TWG
 add_core = TWG
-religion = "catholic"
-culture = lithuanian
+religion = paganism
+culture = prussian
 capital = "Trakai"
 trade_goods = livestock
 hre = no

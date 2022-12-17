@@ -2,7 +2,7 @@
 owner = OYG
 controller = OYG
 culture = crimean
-religion = sunni
+religion = nestorian
 hre = no
 base_tax = 6
 base_production = 6
