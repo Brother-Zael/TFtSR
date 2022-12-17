@@ -4,7 +4,7 @@
 #
 ####################################
 
-chinese_warlord = {
+tftsr_chinese_warlord = {
 	#government mechanics flags go here
 	potential = {
 			culture_group = east_asian
