@@ -1,9 +1,10 @@
 # 4741 - Halle
-owner = CHR
-controller = CHR
+owner = ANH
+controller = ANH
+add_core = ANH
 add_core = CHR
 culture = saxon
-religion = catholic
+religion = norse_pagan_reformed
 hre = yes
 base_tax = 3
 base_production = 3

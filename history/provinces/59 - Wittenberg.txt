@@ -2,7 +2,7 @@
 owner = SBI
 controller = SBI
 culture = saxon
-religion = catholic
+religion = norse_pagan_reformed
 capital = "Wittenberg"
 trade_goods = wool
 hre = yes

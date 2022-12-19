@@ -2,7 +2,7 @@
 owner = ALM
 controller = ALM
 culture = saxon
-religion = catholic
+religion = norse_pagan_reformed
 capital = "Erfurt"
 trade_goods = dyes #Woad, also a center for glassmaking
 hre = yes

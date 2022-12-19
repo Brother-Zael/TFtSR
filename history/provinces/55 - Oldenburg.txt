@@ -2,7 +2,7 @@
 owner = FRL
 controller = FRL
 culture = hannoverian
-religion = catholic
+religion = norse_pagan_reformed
 capital = "Oldenburg"
 trade_goods = salt
 hre = yes

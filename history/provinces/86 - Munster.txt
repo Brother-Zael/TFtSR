@@ -2,7 +2,7 @@
 owner = TTB
 controller = TTB
 culture = hannoverian
-religion = catholic
+religion = norse_pagan_reformed
 trade_goods = cloth
 capital = "Münster"
 base_tax = 4

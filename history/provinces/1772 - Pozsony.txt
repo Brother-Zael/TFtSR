@@ -2,7 +2,7 @@
 owner = LOM
 controller = LOM
 culture = slovak
-religion = catholic
+religion = hussite
 capital = "Pressburg"
 trade_goods = grain
 hre = no

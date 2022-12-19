@@ -2,7 +2,7 @@
 owner = CHR
 controller = CHR
 culture = lower_saxon
-religion = catholic
+religion = norse_pagan_reformed
 capital = "Braunschweig"
 trade_goods = iron
 hre = yes

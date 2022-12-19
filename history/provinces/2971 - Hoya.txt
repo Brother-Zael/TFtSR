@@ -2,7 +2,7 @@
 owner = FRS
 controller = FRS
 culture = hannoverian
-religion = catholic
+religion = norse_pagan_reformed
 capital = "Hoya"
 trade_goods = livestock
 hre = yes

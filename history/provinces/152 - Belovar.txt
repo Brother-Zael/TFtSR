@@ -2,7 +2,7 @@
 owner = OTG
 controller = OTG
 culture = croatian
-religion = catholic
+religion = hussite
 capital = "Varazdin"
 trade_goods = cloth
 hre = no
