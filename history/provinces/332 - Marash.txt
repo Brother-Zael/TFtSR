@@ -2,7 +2,7 @@
 owner = MRH
 controller = MRH
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Maras"
 trade_goods = wool
 hre = no

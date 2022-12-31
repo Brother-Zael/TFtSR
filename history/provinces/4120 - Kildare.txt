@@ -2,7 +2,7 @@
 owner = KIL
 controller = KIL
 culture = irish
-religion = catholic
+religion = paganism
 hre = no
 base_tax = 3
 base_production = 3

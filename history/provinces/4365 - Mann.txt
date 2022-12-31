@@ -2,7 +2,7 @@
 owner = MNX
 controller = MNX
 culture = highland_scottish
-religion = catholic
+religion = paganism
 hre = no
 base_tax = 1 
 base_production = 1

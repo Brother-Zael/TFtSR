@@ -2,7 +2,7 @@
 owner = HMY
 controller = HMY
 culture = mahri_culture
-religion = coptic
+religion = jewish
 capital = "Suqutra"
 trade_goods = fish
 hre = no

@@ -2,7 +2,7 @@
 owner = WSP
 controller = WSP
 culture = chihan
-religion = confucianism
+religion = daoism
 capital = "Zhending"
 trade_goods = grain
 hre = no

@@ -2,7 +2,7 @@
 owner = BGZ
 controller = BGZ
 culture = tunisian
-religion = sunni
+religion = kharijite
 capital = "Ben Jawad"
 trade_goods = fish
 hre = no

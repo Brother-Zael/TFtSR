@@ -2,7 +2,7 @@
 owner = FAT
 controller = FAT
 culture = al_misr_arabic
-religion = sunni
+religion = kharijite
 capital = "Damanhur"
 trade_goods = salt #Wadi Natrun
 hre = no

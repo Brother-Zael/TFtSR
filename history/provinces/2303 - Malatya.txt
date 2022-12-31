@@ -2,7 +2,7 @@
 owner = AMD
 controller = AMD
 culture = turkish
-religion = shiite
+religion = coptic
 capital = "Malatiya"
 trade_goods = cloth
 hre = no

@@ -2,7 +2,7 @@
 owner = SHR
 controller = SHR 
 culture = dagestani
-religion = shiite
+religion = zoroastrian
 capital = "Derbent"
 trade_goods = fish
 hre = no

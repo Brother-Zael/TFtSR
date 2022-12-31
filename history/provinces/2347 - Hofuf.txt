@@ -2,7 +2,7 @@
 owner = LAK
 controller = LAK
 culture = gulf_arabic
-religion = shiite
+religion = kharijite
 capital = "Hofuf"
 trade_goods = spices #Dates
 hre = no

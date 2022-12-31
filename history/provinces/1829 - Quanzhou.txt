@@ -2,7 +2,7 @@
 owner = CWU
 controller = CWU
 culture = chimin
-religion = confucianism
+religion = legalism
 capital = "Quanzhou"
 trade_goods = tea
 hre = no

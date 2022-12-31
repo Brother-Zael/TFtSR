@@ -2,7 +2,7 @@
 owner = CUT
 controller = CUT
 culture = oriya
-religion = hinduism
+religion = buddhism
 capital = "Balasore"
 trade_goods = cloth
 hre = no

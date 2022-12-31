@@ -2,7 +2,7 @@
 owner = MLG
 controller = MLG
 culture = tunisian
-religion = ibadi
+religion = coptic
 capital = "Djerba"
 trade_goods = grain
 hre = no

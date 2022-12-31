@@ -1,8 +1,8 @@
 #4327 - Jask
-owner = KSH
-controller = KSH
-culture = gulf_arabic
-religion = shiite
+owner = NBK
+controller = NBK
+culture = greek
+religion = nestorian
 capital = "Jask"
 trade_goods = fish
 hre = no
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = KSH
+add_core = NBK
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

@@ -2,7 +2,7 @@
 owner = XIA
 controller = XIA
 culture = xibei
-religion = confucianism
+religion = daoism
 capital = "Fengxiang"
 trade_goods = grain
 hre = no

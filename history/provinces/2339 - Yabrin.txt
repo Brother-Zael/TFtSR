@@ -2,7 +2,7 @@
 owner = ABS
 controller = ABS
 culture = bedouin_arabic
-religion = sunni
+religion = kharijite
 capital = "Yabrin"
 trade_goods = grain
 hre = no

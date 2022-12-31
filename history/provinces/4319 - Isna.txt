@@ -2,7 +2,7 @@
 owner = QUS
 controller = QUS
 culture = al_misr_arabic
-religion = sunni
+religion = kharijite
 capital = "Isna"
 trade_goods = livestock
 hre = no

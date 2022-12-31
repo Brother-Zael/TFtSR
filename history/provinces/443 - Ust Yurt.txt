@@ -2,7 +2,7 @@
 owner = TRN
 controller = TRN
 culture = nogaybak
-religion = sunni
+religion = zoroastrian
 capital = "Ust Yurt"
 trade_goods = livestock
 hre = no

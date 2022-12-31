@@ -2,7 +2,7 @@
 owner = WUL
 controller = WUL
 culture = xiang
-religion = confucianism
+religion = daoism
 capital = "Wulin"
 trade_goods = cotton
 hre = no

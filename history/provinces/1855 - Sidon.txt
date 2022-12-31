@@ -2,7 +2,7 @@
 owner = UMY
 controller = UMY
 culture = al_suryah_arabic
-religion = shiite
+religion = sunni
 capital = "Sayda"
 trade_goods = naval_supplies
 hre = no

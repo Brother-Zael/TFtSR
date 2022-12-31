@@ -2,7 +2,7 @@
 owner = TGN
 controller = TGN
 culture = miao
-religion = animism
+religion = daoism
 capital = "Tongren"
 trade_goods = tea
 hre = no

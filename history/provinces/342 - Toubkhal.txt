@@ -2,7 +2,7 @@
 owner = RHY
 controller = RHY
 culture = moroccan
-religion = sunni
+religion = cathar
 capital = "Rabat"
 trade_goods = grain
 hre = no

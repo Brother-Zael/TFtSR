@@ -2,7 +2,7 @@
 owner = COR
 controller = COR
 culture = irish
-religion = catholic
+religion = paganism
 hre = no
 base_tax = 2
 base_production = 1

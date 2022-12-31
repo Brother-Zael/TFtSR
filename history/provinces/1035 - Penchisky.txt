@@ -1,6 +1,6 @@
 #1035 - Penchisky
 culture = kamchatkan
-religion = tengri_pagan_reformed
+religion = animism
 capital = "Penzhinsky"
 trade_goods = unknown
 hre = no

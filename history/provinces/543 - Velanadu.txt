@@ -2,7 +2,7 @@
 owner = VEL
 controller = VEL
 culture = telegu
-religion = hinduism
+religion = buddhism
 capital = "Masulipatnam"
 trade_goods = gems
 hre = no

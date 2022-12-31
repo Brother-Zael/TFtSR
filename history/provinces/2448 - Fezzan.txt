@@ -2,7 +2,7 @@
 owner = LGN
 controller = LGN 
 culture = tunisian
-religion = sunni
+religion = catholic
 capital = "Murzuk"
 trade_goods = ivory
 hre = no

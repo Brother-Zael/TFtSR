@@ -2,7 +2,7 @@
 owner = CAE
 controller = CAE 
 culture = algerian
-religion = sunni
+religion = fraticelli
 capital = "Al-Djazair"
 trade_goods = grain
 hre = no

@@ -2,7 +2,7 @@
 owner = HPH
 controller = HPH
 culture = khorasani
-religion = sunni
+religion = zoroastrian
 capital = "Nishapur"
 trade_goods = gems #Turquoise
 hre = no

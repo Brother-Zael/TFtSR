@@ -2,7 +2,7 @@
 owner = QIN
 controller = QIN
 culture = tibetan
-religion = vajrayana
+religion = daoism
 capital = "Songqu"
 trade_goods = livestock
 hre = no

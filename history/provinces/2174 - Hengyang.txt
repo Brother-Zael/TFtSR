@@ -2,7 +2,7 @@
 owner = NMY
 controller = NMY
 culture = xiang
-religion = animism
+religion = legalism
 capital = "Hengyang"
 trade_goods = gold
 hre = no

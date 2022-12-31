@@ -2,7 +2,7 @@
 owner = NRG
 controller = NRG
 culture = scottish #Mix of Highland and Lowland Scotts 
-religion = catholic
+religion = norse_pagan_reformed
 hre = no
 base_tax = 3
 base_production = 3

@@ -1,6 +1,6 @@
 #577 - Quetta
-owner = KSH
-controller = KSH
+owner = NBK
+controller = NBK
 culture = baluchi
 religion = sunni
 capital = "Quetta"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = KSH
+add_core = NBK
 add_local_autonomy = 25
 discovered_by = indian
 discovered_by = muslim

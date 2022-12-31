@@ -2,7 +2,7 @@
 owner = KSH
 controller = KSH
 culture = khazak
-religion = sunni
+religion = vajrayana
 capital = "Atakent"
 trade_goods = livestock
 hre = no

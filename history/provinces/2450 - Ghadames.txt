@@ -2,7 +2,7 @@
 owner = EPY
 controller = EPY 
 culture = tunisian
-religion = sunni
+religion = catholic
 capital = "Ghadames"
 trade_goods = spices #Dates
 hre = no

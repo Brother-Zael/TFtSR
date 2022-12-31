@@ -2,7 +2,7 @@
 owner = OPS
 controller = OPS
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Bursa"
 trade_goods = silk
 hre = no

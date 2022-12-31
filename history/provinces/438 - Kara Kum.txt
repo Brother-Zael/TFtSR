@@ -2,7 +2,7 @@
 owner = TRN
 controller = TRN
 culture = turkmeni
-religion = sunni
+religion = zoroastrian
 capital = "Geok-Tepe"
 trade_goods = livestock
 hre = no

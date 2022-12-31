@@ -2,7 +2,7 @@
 owner = NMY
 controller = NMY
 culture = chimin
-religion = confucianism
+religion = legalism
 capital = "Chaochow"
 trade_goods = chinaware
 hre = no

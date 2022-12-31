@@ -2,7 +2,7 @@
 owner = KHT		# The Oirads united much of Mongolia
 controller = KHT
 culture = khalkha
-religion = tengri_pagan_reformed
+religion = nestorian
 capital = "Kherlen"
 trade_goods = livestock
 hre = no

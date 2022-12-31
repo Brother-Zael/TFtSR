@@ -2,7 +2,7 @@
 owner = SBD
 controller = SBD
 culture = persian
-religion = shiite
+religion = nestorian
 capital = "Kerman"
 trade_goods = paper
 hre = no

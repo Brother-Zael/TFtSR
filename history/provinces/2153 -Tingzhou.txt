@@ -2,7 +2,7 @@
 owner = CWU
 controller = CWU
 culture = hakka
-religion = confucianism
+religion = legalism
 capital = "Tingzhou"
 trade_goods = paper
 hre = no

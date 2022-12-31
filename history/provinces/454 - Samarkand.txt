@@ -2,7 +2,7 @@
 owner = KSH
 controller = KSH
 culture = uzbehk
-religion = sunni
+religion = vajrayana
 capital = "Samarkand"
 trade_goods = paper
 hre = no

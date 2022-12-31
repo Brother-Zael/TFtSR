@@ -1,6 +1,6 @@
 #1111 - Arguin
 culture = berber
-religion = sunni
+religion = cathar
 capital = "Arguin"
 trade_goods = unknown
 hre = no

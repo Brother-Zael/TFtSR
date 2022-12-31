@@ -1,6 +1,6 @@
 #385 - Mecca
-owner = UMY
-controller = UMY
+owner = RSH
+controller = RSH
 culture = hejazi_culture
 religion = sunni
 capital = "Makkah"
@@ -10,6 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 is_city = yes
+add_core = RSH
 add_core = UMY
 extra_cost = 10
 discovered_by = muslim

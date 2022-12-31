@@ -2,7 +2,7 @@
 owner = YER
 controller = YER
 culture = azerbaijani
-religion = sunni
+religion = shiite
 capital = "Khoy"
 trade_goods = wool
 hre = no

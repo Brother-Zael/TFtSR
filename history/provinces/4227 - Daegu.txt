@@ -2,7 +2,7 @@
 owner = GYJ
 controller = GYJ
 culture = korean
-religion = confucianism
+religion = mahayana
 capital = "Jinju"
 trade_goods = paper
 hre = no

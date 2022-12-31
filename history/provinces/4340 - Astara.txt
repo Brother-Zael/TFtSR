@@ -2,7 +2,7 @@
 owner = AST
 controller = AST
 culture = azerbaijani
-religion = shiite
+religion = zoroastrian
 capital = "Astara"
 trade_goods = fish
 hre = no

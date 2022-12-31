@@ -2,7 +2,7 @@
 owner = CUT
 controller = CUT
 culture = garjati
-religion = hinduism
+religion = buddhism
 capital = "Mayurbhanj"
 trade_goods = iron
 hre = no

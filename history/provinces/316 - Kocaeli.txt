@@ -2,7 +2,7 @@
 owner = PCH
 controller = PCH
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Izmit"
 trade_goods = grain
 hre = no

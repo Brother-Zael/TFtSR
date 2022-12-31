@@ -2,7 +2,7 @@
 owner = CSH
 controller = CSH
 culture = xiang
-religion = confucianism
+religion = daoism
 capital = "Changsha"
 trade_goods = grain
 hre = no

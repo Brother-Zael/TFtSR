@@ -2,7 +2,7 @@
 owner = NMY
 controller = NMY
 culture = hakka
-religion = confucianism
+religion = legalism
 capital = "Shiukwan"
 trade_goods = iron
 hre = no

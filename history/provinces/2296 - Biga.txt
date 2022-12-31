@@ -2,7 +2,7 @@
 owner = OPS
 controller = OPS
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Biga"
 trade_goods = naval_supplies
 hre = no

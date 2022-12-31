@@ -1,6 +1,6 @@
 #2331 - Jeddah
-owner = UMY
-controller = UMY
+owner = RSH
+controller = RSH
 culture = hejazi_culture
 religion = sunni
 capital = "Jiddah"
@@ -10,6 +10,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 1
 is_city = yes
+add_core = RSH
 add_core = UMY
 discovered_by = muslim
 discovered_by = ottoman

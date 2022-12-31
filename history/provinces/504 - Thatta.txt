@@ -2,7 +2,7 @@
 owner = THT
 controller = THT
 culture = sindhi
-religion = sunni
+religion = nestorian
 capital = "Thatta"
 trade_goods = cloth
 hre = no

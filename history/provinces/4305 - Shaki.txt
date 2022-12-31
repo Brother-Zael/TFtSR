@@ -2,7 +2,7 @@
 owner = SHR
 controller = SHR
 culture = azerbaijani
-religion = shiite
+religion = zoroastrian
 capital = "Shaki"
 trade_goods = wool
 hre = no

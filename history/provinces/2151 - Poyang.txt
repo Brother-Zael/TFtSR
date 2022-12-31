@@ -2,7 +2,7 @@
 owner = CWU
 controller = CWU
 culture = gan
-religion = confucianism
+religion = daoism
 capital = "Poyang"
 trade_goods = chinaware
 hre = no

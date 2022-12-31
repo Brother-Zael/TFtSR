@@ -2,7 +2,7 @@
 owner = CTC
 controller = CTC
 culture = portugese
-religion = catholic
+religion = cathar
 capital = "Coimbra"
 trade_goods = grain
 hre = no

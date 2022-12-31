@@ -2,7 +2,7 @@
 owner = CAE
 controller = CAE
 culture = algerian
-religion = sunni
+religion = catholic
 capital = "Mostaganem"
 trade_goods = grain
 hre = no

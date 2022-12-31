@@ -2,7 +2,7 @@
 owner = ZEU
 controller = ZEU 
 culture = tunisian
-religion = sunni
+religion = catholic
 capital = "Kairwan"
 trade_goods = grain
 hre = no

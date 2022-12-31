@@ -2,7 +2,7 @@
 owner = ANI
 controller = ANI
 culture = al_suryah_arabic
-religion = sunni
+religion = orthodox
 capital = "Antakya"
 trade_goods = cloth
 hre = no

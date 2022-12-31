@@ -2,7 +2,7 @@
 owner = WSP
 controller = WSP
 culture = hubei
-religion = confucianism
+religion = daoism
 capital = "Xiangyang"
 trade_goods = gems #Turquoise
 hre = no

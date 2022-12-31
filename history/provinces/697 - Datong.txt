@@ -2,7 +2,7 @@
 owner = PWM
 controller = PWM
 culture = jin
-religion = confucianism
+religion = daoism
 capital = "Datong"
 trade_goods = iron
 hre = no

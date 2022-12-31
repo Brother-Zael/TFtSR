@@ -2,7 +2,7 @@
 owner = YAZ
 controller = YAZ
 culture = persian
-religion = shiite
+religion = zoroastrian
 capital = "Ardakan"
 trade_goods = incense
 hre = no

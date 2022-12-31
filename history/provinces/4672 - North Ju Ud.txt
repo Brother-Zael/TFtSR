@@ -1,7 +1,7 @@
 owner = PNM
 controller = PNM
 culture = chahar
-religion = vajrayana
+religion = confucianism
 capital = "Josutu"
 trade_goods = livestock
 hre = no

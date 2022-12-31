@@ -2,7 +2,7 @@
 owner = HPH
 controller = HPH
 culture = uzbehk
-religion = sunni
+religion = zoroastrian
 capital = "Termez"
 trade_goods = livestock
 hre = no

@@ -1,10 +1,10 @@
 #237 - Oxfordshire
 #Oxfordshire+Bukinghamshire+Berkshire
-owner = ANI
-controller = ANI
-add_core = ANI
+owner = ANG
+controller = ANG
+add_core = ANG
 culture = english
-religion = catholic
+religion = lollard
 hre = no
 base_tax = 4
 base_production = 4

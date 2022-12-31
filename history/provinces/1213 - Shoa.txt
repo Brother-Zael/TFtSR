@@ -2,7 +2,7 @@
 owner = GON
 controller = GON
 culture = amhara 
-religion = sunni
+religion = coptic
 capital = "Badeqe"
 is_city = yes
 base_manpower = 3

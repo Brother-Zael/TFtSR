@@ -2,7 +2,7 @@
 owner = LAK
 controller = LAK
 culture = al_iraqiya_arabic
-religion = shiite
+religion = sunni
 capital = "Basra"
 trade_goods = salt
 hre = no

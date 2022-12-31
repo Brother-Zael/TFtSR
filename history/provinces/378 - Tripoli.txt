@@ -2,7 +2,7 @@
 owner = UMY
 controller = UMY
 culture = al_suryah_arabic
-religion = shiite
+religion = orthodox
 capital = "Trablos" #Tripoli in the East.
 trade_goods = grain
 hre = no

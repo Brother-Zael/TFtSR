@@ -2,7 +2,7 @@
 owner = LIA
 controller = LIA
 culture = khalkha
-religion = tengri_pagan_reformed
+religion = nestorian
 capital = "Dundgovi"
 trade_goods = livestock
 hre = no

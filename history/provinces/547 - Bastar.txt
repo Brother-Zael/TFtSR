@@ -2,7 +2,7 @@
 owner = RAI
 controller = RAI
 culture = gondi
-religion = hinduism
+religion = buddhism
 capital = "Jagdalpur"
 trade_goods = tropical_wood
 hre = no

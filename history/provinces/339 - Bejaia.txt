@@ -2,7 +2,7 @@
 owner = SIT
 controller = SIT
 culture = berber
-religion = sunni
+religion = fraticelli
 capital = "Bejaia"
 trade_goods = iron
 hre = no

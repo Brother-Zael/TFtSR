@@ -2,7 +2,7 @@
 owner = MDR
 controller = MDR
 culture = moroccan
-religion = sunni
+religion = catholic
 capital = "Safi"
 trade_goods = sugar
 hre = no

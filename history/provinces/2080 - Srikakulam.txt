@@ -2,7 +2,7 @@
 owner = CUT
 controller = CUT
 culture = oriya
-religion = hinduism
+religion = buddhism
 capital = "Srikakulam"
 trade_goods = sugar
 hre = no

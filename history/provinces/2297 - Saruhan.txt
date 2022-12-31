@@ -2,7 +2,7 @@
 owner = SOP
 controller = SOP
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Manisa"
 trade_goods = cotton
 hre = no

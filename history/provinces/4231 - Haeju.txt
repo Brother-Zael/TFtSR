@@ -2,7 +2,7 @@
 owner = BAE
 controller = BAE
 culture = korean
-religion = confucianism
+religion = daoism
 capital = "Haeju"
 trade_goods = naval_supplies
 hre = no

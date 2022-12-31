@@ -2,7 +2,7 @@
 owner = ZAR
 controller = ZAR
 culture = khorasani
-religion = sunni
+religion = shiite
 capital = "Zaranj"
 trade_goods = wool
 hre = no

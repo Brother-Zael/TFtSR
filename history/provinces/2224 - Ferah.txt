@@ -2,7 +2,7 @@
 owner = HPH
 controller = HPH
 culture = khorasani
-religion = sunni
+religion = shiite
 capital = "Ferah"
 trade_goods = livestock
 hre = no

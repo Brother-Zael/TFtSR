@@ -2,7 +2,7 @@
 owner = LGM
 controller = LGM 
 culture = moroccan
-religion = sunni
+religion = catholic
 capital = "Tafilalt"
 trade_goods = gold
 hre = no

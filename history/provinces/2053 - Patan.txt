@@ -2,7 +2,7 @@
 owner = MUL
 controller = MUL
 culture = gujarati
-religion = hinduism
+religion = zoroastrian
 capital = "Patan"
 trade_goods = cloth
 hre = no

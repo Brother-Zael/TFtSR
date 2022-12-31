@@ -1,9 +1,9 @@
 #4022 - Iboina
-owner = KIL
-controller = KIL
-add_core = KIL
+owner = MZQ
+controller = MZQ
+add_core = MZQ
 culture = madagasque #Malagasy
-religion = shamanism #Fetishism
+religion = sunni
 capital = "Majunga"
 trade_goods = slaves
 hre = no

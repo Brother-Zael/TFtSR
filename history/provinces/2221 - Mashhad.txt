@@ -2,7 +2,7 @@
 owner = HPH
 controller = HPH
 culture = khorasani
-religion = shiite
+religion = nestorian
 capital = "Mashhad"
 trade_goods = copper
 hre = no

@@ -2,7 +2,7 @@
 owner = CIB
 controller = CIB
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Ermenek"
 trade_goods = naval_supplies
 hre = no

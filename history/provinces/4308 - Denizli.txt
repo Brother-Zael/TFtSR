@@ -2,7 +2,7 @@
 owner = THR
 controller = THR
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Denizli"
 trade_goods = cloth
 hre = no

@@ -2,7 +2,7 @@
 owner = KHI
 controller = KHI
 culture = khazak
-religion = sunni
+religion = vajrayana
 capital = "Alty-Kuduk"
 trade_goods = fish
 hre = no

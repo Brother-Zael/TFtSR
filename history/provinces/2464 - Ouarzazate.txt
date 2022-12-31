@@ -2,7 +2,7 @@
 owner = LGM
 controller = LGM
 culture = berber
-religion = sunni
+religion = catholic
 capital = "Ouarzazate"
 trade_goods = grain
 hre = no

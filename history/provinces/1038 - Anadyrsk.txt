@@ -1,6 +1,6 @@
 #1038 - Karalveyem
 culture = yukagyr
-religion = tengri_pagan_reformed
+religion = animism
 capital = "Karalveyem"
 trade_goods = unknown
 hre = no

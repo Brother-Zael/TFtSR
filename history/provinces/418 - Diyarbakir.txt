@@ -2,7 +2,7 @@
 owner = AMD
 controller = AMD
 culture = kurdish
-religion = sunni
+religion = shiite
 capital = "Diyar Bekir"
 trade_goods = livestock
 hre = no

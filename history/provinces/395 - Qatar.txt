@@ -2,7 +2,7 @@
 owner = ABS
 controller = ABS
 culture = gulf_arabic
-religion = shiite
+religion = kharijite
 capital = "Qatar"
 trade_goods = gems
 hre = no

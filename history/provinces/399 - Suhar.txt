@@ -2,7 +2,7 @@
 owner = BUY
 controller = BUY
 culture = omani_culture
-religion = ibadi
+religion = kharijite
 capital = "Suhar"
 trade_goods = grain #And pearls
 hre = no

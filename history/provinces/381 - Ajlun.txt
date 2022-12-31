@@ -2,7 +2,7 @@
 owner = UMY
 controller = UMY
 culture = al_suryah_arabic
-religion = sunni
+religion = shiite
 capital = "Ajlun"
 trade_goods = grain
 hre = no

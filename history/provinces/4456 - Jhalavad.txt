@@ -2,7 +2,7 @@
 owner = JHA
 controller = JHA
 culture = saurashtri
-religion = hinduism
+religion = zoroastrian
 capital = "Halwad"
 trade_goods = cotton
 hre = no

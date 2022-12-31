@@ -2,7 +2,7 @@
 owner = KZR
 controller = KZR
 culture = luri
-religion = sunni
+religion = zoroastrian
 capital = "Kazerun"
 trade_goods = wine #and cotton and Dates
 hre = no

@@ -2,7 +2,7 @@
 owner = CIB
 controller = CIB
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Adana"
 trade_goods = cotton
 hre = no

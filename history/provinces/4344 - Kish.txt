@@ -2,7 +2,7 @@
 owner = HPH
 controller = HPH
 culture = uzbehk
-religion = sunni
+religion = vajrayana
 capital = "Shahrisabz" #Renamed by Timur, but both names in use for most our era.
 trade_goods = wool
 hre = no

@@ -2,7 +2,7 @@
 owner = MHZ
 controller = MHZ
 culture = al_iraqiya_arabic
-religion = sunni
+religion = jewish
 capital = "Wasit"
 trade_goods = grain
 hre = no

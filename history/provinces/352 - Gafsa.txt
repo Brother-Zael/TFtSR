@@ -2,7 +2,7 @@
 owner = EPY
 controller = EPY 
 culture = tunisian
-religion = sunni
+religion = catholic
 capital = "Gafsa"
 trade_goods = salt
 hre = no

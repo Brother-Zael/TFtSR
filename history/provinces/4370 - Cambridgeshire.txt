@@ -3,7 +3,7 @@
 owner = SML
 controller = SML
 culture = english
-religion = catholic
+religion = lollard
 hre = no
 base_tax = 3
 base_production = 3

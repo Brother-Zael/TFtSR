@@ -2,7 +2,7 @@
 owner = CWU
 controller = CWU
 culture = wu
-religion = confucianism
+religion = legalism
 capital = "Ningbo"
 trade_goods = naval_supplies
 hre = no

@@ -2,7 +2,7 @@
 owner = KHI
 controller = KHI
 culture = khazak
-religion = sunni
+religion = vajrayana
 capital = "Yasi"
 trade_goods = grain
 base_tax = 1 

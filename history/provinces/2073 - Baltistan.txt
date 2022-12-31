@@ -2,7 +2,7 @@
 owner = KAD
 controller = KAD
 culture = kashmiri #Dardic/Shina and Balti
-religion = buddhism
+religion = vajrayana
 capital = "Skardu"
 trade_goods = wool
 hre = no

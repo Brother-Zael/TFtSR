@@ -2,7 +2,7 @@
 owner = HPH
 controller = HPH
 culture = khorasani
-religion = sunni
+religion = zoroastrian
 capital = "Sarakhs"
 trade_goods = wool
 hre = no

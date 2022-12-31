@@ -2,7 +2,7 @@
 owner = GEO
 controller = GEO
 culture = pontic_greek
-religion = coptic
+religion = orthodox
 capital = "Sinop"
 trade_goods = naval_supplies
 hre = no

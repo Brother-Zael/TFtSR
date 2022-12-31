@@ -2,7 +2,7 @@
 owner = KAD
 controller = KAD
 culture = afghani
-religion = sunni
+religion = vajrayana
 capital = "Peshawar"
 trade_goods = livestock
 hre = no

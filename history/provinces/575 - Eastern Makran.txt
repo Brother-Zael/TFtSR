@@ -1,6 +1,6 @@
 #575 - Eastern Makran
-owner = KSH
-controller = KSH
+owner = NBK
+controller = NBK
 culture = baluchi
 religion = sunni
 capital = "Gwadar"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = KSH
+add_core = NBK
 add_local_autonomy = 25
 discovered_by = east_african
 discovered_by = indian

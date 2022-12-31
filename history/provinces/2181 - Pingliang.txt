@@ -2,7 +2,7 @@
 owner = LNZ
 controller = LNZ
 culture = xibei
-religion = confucianism
+religion = daoism
 capital = "Pingliang"
 trade_goods = livestock
 hre = no

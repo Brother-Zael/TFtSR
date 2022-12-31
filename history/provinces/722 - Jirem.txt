@@ -2,7 +2,7 @@
 owner = YNG
 controller = YNG
 culture = chahar
-religion = vajrayana
+religion = confucianism
 capital = "Jirem"
 trade_goods = livestock
 hre = no

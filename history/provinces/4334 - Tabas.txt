@@ -2,7 +2,7 @@
 owner = YAZ
 controller = YAZ
 culture = khorasani
-religion = sunni
+religion = zoroastrian
 capital = "Tabas"
 trade_goods = wool
 hre = no

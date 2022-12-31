@@ -2,7 +2,7 @@
 owner = RSH
 controller = RSH
 culture = hejazi_culture
-religion = sunni
+religion = kharijite
 capital = "Taif"
 trade_goods = wool
 hre = no

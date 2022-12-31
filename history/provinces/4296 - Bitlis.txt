@@ -2,7 +2,7 @@
 owner = KUR
 controller = KUR
 culture = kurdish
-religion = sunni
+religion = shiite
 capital = "Bitlis"
 trade_goods = wool
 hre = no

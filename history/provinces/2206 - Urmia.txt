@@ -2,7 +2,7 @@
 owner = MOS
 controller = MOS
 culture = kurdish
-religion = sunni
+religion = shiite
 capital = "Urmiyeh"
 trade_goods = wine
 hre = no

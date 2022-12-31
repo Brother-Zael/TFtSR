@@ -2,7 +2,7 @@
 owner = BUY
 controller = BUY
 culture = gulf_arabic
-religion = ibadi
+religion = kharijite
 capital = "Sharjah"
 trade_goods = livestock
 hre = no

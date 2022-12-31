@@ -2,7 +2,7 @@
 owner = NMY
 controller = NMY
 culture = hakka
-religion = confucianism
+religion = legalism
 capital = "Ganzhou"
 trade_goods = grain
 hre = no

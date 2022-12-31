@@ -2,7 +2,7 @@
 owner = THR
 controller = THR
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Aydin"
 trade_goods = salt #Major Ottoman Salt Work
 hre = no

@@ -2,7 +2,7 @@
 owner = PAR
 controller = PAR
 culture = gujarati
-religion = hinduism
+religion = zoroastrian
 capital = "Surat"
 trade_goods = silk
 hre = no

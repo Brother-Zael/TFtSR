@@ -2,7 +2,7 @@
 owner = ABS
 controller = ABS
 culture = gulf_arabic
-religion = sunni
+religion = kharijite
 capital = "Liwa"
 trade_goods = spices #Dates
 hre = no

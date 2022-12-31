@@ -2,7 +2,7 @@
 owner = NMY
 controller = NMY
 culture = gan
-religion = confucianism
+religion = daoism
 capital = "Nanchang"
 trade_goods = paper
 hre = no

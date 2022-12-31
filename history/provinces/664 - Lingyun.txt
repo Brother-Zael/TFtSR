@@ -2,7 +2,7 @@
 owner = LIU
 controller = LIU
 culture = zhuang
-religion = confucianism
+religion = daoism
 capital = "Lingyun"
 trade_goods = tea
 hre = no

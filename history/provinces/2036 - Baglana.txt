@@ -2,7 +2,7 @@
 owner = BID
 controller = BID
 culture = marathi
-religion = hinduism
+religion = zoroastrian
 capital = "Mayuragiri"
 trade_goods = grain	#Millet
 hre = no

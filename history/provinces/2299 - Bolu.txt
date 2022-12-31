@@ -2,7 +2,7 @@
 owner = PCH
 controller = PCH
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Bolu"
 trade_goods = fish
 hre = no

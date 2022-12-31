@@ -2,7 +2,7 @@
 owner = NPL
 controller = NPL
 culture = neapolitan 
-religion = catholic 
+religion = fraticelli 
 hre = no 
 base_tax = 8
 base_production = 8

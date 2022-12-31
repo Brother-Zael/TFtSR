@@ -2,7 +2,7 @@
 owner = YNN
 controller = YNN
 culture = bai
-religion = buddhism
+religion = mahayana
 capital = "Guangnan"
 trade_goods = copper
 hre = no

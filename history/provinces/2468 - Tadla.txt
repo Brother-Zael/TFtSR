@@ -2,7 +2,7 @@
 owner = TNG
 controller = TNG
 culture = moroccan
-religion = sunni
+religion = catholic
 capital = "Tadla"
 trade_goods = copper
 hre = no

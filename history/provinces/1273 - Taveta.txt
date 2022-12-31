@@ -1,10 +1,10 @@
 #1273 - Taveta
-owner = PTE
-controller = PTE
-add_core = PTE
+owner = EWA
+controller = EWA
+add_core = EWA
 culture = bantu #thagiicu
 religion = shamanism #Fetishism
-trade_goods = unknown
+trade_goods = gold
 hre = no
 base_tax = 1 
 base_production = 1

@@ -2,7 +2,7 @@
 owner = SBR
 controller = SBR
 culture = ostyaki
-religion = sunni
+religion = tengri_pagan_reformed
 capital = "Qashliq"
 trade_goods = fur
 hre = no

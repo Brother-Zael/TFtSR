@@ -2,7 +2,7 @@
 owner = CAE
 controller = CAE
 culture = berber
-religion = sunni
+religion = catholic
 capital = "Ouarsenis"
 trade_goods = livestock
 hre = no

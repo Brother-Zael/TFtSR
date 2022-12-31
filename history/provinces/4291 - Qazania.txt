@@ -2,7 +2,7 @@
 owner = QAZ
 controller = QAZ
 culture = al_iraqiya_arabic
-religion = sunni
+religion = shiite
 capital = "Qazaniya"
 trade_goods = cotton
 hre = no

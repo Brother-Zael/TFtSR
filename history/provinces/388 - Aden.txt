@@ -2,7 +2,7 @@
 owner = HMY #Tahirids
 controller = HMY #Tahirids
 culture = yemeni_culture
-religion = sunni
+religion = jewish
 capital = "Aden"
 trade_goods = incense
 hre = no

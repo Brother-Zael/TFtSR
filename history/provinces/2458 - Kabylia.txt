@@ -2,7 +2,7 @@
 owner = SIT
 controller = SIT
 culture = algerian
-religion = sunni
+religion = fraticelli
 capital = "Msila"
 trade_goods = salt
 hre = no

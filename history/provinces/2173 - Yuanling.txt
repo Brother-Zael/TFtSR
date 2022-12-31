@@ -2,7 +2,7 @@
 owner = YLG
 controller = YLG
 culture = miao
-religion = animism
+religion = legalism
 capital = "Yuanling"
 trade_goods = tea
 hre = no

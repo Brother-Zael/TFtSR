@@ -2,7 +2,7 @@
 owner = TUA
 controller = TUA
 culture = irish
-religion = catholic
+religion = paganism
 hre = no
 base_tax = 3
 base_production = 3

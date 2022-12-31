@@ -2,7 +2,7 @@
 owner = SHR
 controller = SHR
 culture = persian
-religion = sunni
+religion = zoroastrian
 capital = "Shiraz"
 trade_goods = wine #and Glass
 hre = no

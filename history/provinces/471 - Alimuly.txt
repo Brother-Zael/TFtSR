@@ -2,7 +2,7 @@
 owner = TRN
 controller = TRN
 culture = nogaybak
-religion = sunni
+religion = vajrayana
 capital = "Alimuly"
 trade_goods = livestock
 hre = no

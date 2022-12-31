@@ -2,7 +2,7 @@
 owner = THR
 controller = THR
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Burdur"
 trade_goods = grain
 hre = no

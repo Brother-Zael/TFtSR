@@ -2,7 +2,7 @@
 owner = BDY
 controller = BDY
 culture = al_misr_arabic
-religion = sunni
+religion = kharijite
 capital = "Marsa Matruh"
 trade_goods = fish
 hre = no

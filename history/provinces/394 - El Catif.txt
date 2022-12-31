@@ -2,7 +2,7 @@
 owner = LAK
 controller = LAK
 culture = gulf_arabic
-religion = shiite
+religion = sunni
 capital = "Al-Qatif"
 trade_goods = fish
 hre = no

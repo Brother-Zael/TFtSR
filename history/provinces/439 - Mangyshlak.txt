@@ -2,7 +2,7 @@
 owner = TRN
 controller = TRN
 culture = nogaybak
-religion = sunni
+religion = zoroastrian
 capital = "Mangyshlak"
 trade_goods = fish
 hre = no

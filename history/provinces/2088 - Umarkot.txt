@@ -2,7 +2,7 @@
 owner = UMR
 controller = UMR
 culture = sindhi
-religion = sunni
+religion = zoroastrian
 capital = "Umarkot"
 trade_goods = wool
 hre = no

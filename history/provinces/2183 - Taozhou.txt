@@ -2,7 +2,7 @@
 owner = QIN
 controller = QIN
 culture = tibetan
-religion = vajrayana
+religion = confucianism
 capital = "Taozhou"
 trade_goods = chinaware
 hre = no

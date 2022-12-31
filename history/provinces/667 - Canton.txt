@@ -2,7 +2,7 @@
 owner = NMY
 controller = NMY
 culture = cantonese
-religion = confucianism
+religion = legalism
 capital = "Canton"
 trade_goods = incense
 hre = no

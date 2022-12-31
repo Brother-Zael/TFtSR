@@ -2,7 +2,7 @@
 owner = DNM
 controller = DNM
 culture = korean
-religion = confucianism
+religion = mahayana
 capital = "Sangju"
 trade_goods = cotton
 hre = no

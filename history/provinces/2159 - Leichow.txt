@@ -2,7 +2,7 @@
 owner = NMY
 controller = NMY
 culture = chimin
-religion = confucianism
+religion = legalism
 capital = "Leichow"
 trade_goods = sugar
 hre = no

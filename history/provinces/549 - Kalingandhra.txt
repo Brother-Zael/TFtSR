@@ -2,7 +2,7 @@
 owner = CUT
 controller = CUT
 culture = telegu
-religion = hinduism
+religion = buddhism
 capital = "Vizianagaram"
 trade_goods = cotton
 hre = no

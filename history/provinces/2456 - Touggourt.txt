@@ -2,7 +2,7 @@
 owner = EPY
 controller = EPY
 culture = algerian
-religion = sunni
+religion = catholic
 capital = "Touggourt"
 trade_goods = spices
 hre = no

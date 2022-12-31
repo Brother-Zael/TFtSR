@@ -2,7 +2,7 @@
 owner = PNR
 controller = PNR
 culture = sicilian 
-religion = catholic 
+religion = fraticelli 
 hre = no 
 base_tax = 5
 base_production = 5

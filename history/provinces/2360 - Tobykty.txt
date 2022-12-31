@@ -2,7 +2,7 @@
 owner = OIR
 controller = OIR
 culture = khazak
-religion = sunni
+religion = tengri_pagan_reformed
 capital = "Tobykty"
 trade_goods = wool
 hre = no

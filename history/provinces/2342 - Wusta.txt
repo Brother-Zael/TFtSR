@@ -2,7 +2,7 @@
 owner = MAH
 controller = MAH
 culture = mahri_culture
-religion = sunni
+religion = ibadi
 capital = "Hasik" #Curia Muria Islands
 trade_goods = incense
 hre = no

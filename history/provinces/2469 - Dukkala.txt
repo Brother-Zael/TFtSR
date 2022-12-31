@@ -2,7 +2,7 @@
 owner = MDR
 controller = MDR
 culture = moroccan
-religion = sunni
+religion = catholic
 capital = "Mazzagan"
 trade_goods = grain
 hre = no

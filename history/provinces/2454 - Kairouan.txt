@@ -2,7 +2,7 @@
 owner = ZEU
 controller = ZEU 
 culture = tunisian
-religion = sunni
+religion = fraticelli
 capital = "El Kef"
 trade_goods = wool
 hre = no

@@ -2,7 +2,7 @@
 owner = SBR
 controller = SBR
 culture = siberian
-religion = sunni
+religion = tengri_pagan_reformed
 capital = "Om"
 trade_goods = fur
 hre = no

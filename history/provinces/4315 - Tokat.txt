@@ -2,7 +2,7 @@
 owner = PCH
 controller = PCH
 culture = turkish
-religion = sunni
+religion = orthodox
 capital = "Tokat"
 trade_goods = cloth
 hre = no

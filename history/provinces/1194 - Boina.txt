@@ -1,9 +1,9 @@
 #1194 - Boina
-owner = KIL
-controller = KIL
-add_core = KIL
+owner = MZQ
+controller = MZQ
+add_core = MZQ
 culture = madagasque #Malagasy
-religion = shamanism #Fetishism
+religion = sunni
 capital = "Besalampy"
 trade_goods = fish
 hre = no

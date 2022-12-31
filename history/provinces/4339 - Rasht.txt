@@ -2,7 +2,7 @@
 owner = GIL
 controller = GIL
 culture = mazandarani
-religion = sunni
+religion = nestorian
 capital = "Rasht"
 trade_goods = silk
 hre = no

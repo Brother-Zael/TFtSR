@@ -2,7 +2,7 @@
 owner = KSH
 controller = KSH
 culture = khazak
-religion = sunni
+religion = vajrayana
 capital = "Sozak"
 trade_goods = salt
 base_tax = 1 

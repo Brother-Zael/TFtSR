@@ -2,7 +2,7 @@
 owner = SHR
 controller = SHR
 culture = dagestani
-religion = sunni
+religion = zoroastrian
 capital = "Kumukh"
 trade_goods = iron
 hre = no

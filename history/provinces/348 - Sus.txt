@@ -2,7 +2,7 @@
 owner = SUS
 controller = SUS
 culture = berber
-religion = sunni
+religion = cathar
 capital = "Taroudant"
 trade_goods = sugar
 hre = no

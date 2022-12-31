@@ -2,7 +2,7 @@
 owner = SUS
 controller = SUS
 culture = berber
-religion = sunni
+religion = cathar
 capital = "Mogador"
 trade_goods = grain
 hre = no

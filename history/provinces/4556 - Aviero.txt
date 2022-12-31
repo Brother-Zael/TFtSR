@@ -2,7 +2,7 @@
 owner = CTC
 controller = CTC
 culture = portugese
-religion = catholic
+religion = cathar
 capital = "Aveiro"
 trade_goods = fish
 hre = no

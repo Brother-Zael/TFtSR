@@ -2,7 +2,7 @@
 owner = ABS
 controller = ABS
 culture = gulf_arabic
-religion = shiite
+religion = kharijite
 capital = "Sila"
 trade_goods = fish
 hre = no

@@ -2,7 +2,7 @@
 owner = YAZ
 controller = YAZ
 culture = khorasani
-religion = shiite
+religion = zoroastrian
 capital = "Damghan"
 trade_goods = wool
 hre = no

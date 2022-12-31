@@ -2,7 +2,7 @@
 owner = TUR # Babur Ibn-Baysunkur
 controller = TUR
 culture = mazandarani
-religion = shiite
+religion = zoroastrian
 capital = "Asatarabad"
 trade_goods = tea
 hre = no

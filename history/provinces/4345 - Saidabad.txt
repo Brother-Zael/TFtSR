@@ -2,7 +2,7 @@
 owner = SBD
 controller = SBD
 culture = persian
-religion = shiite
+religion = nestorian
 capital = "Saidabad"
 trade_goods = livestock
 hre = no

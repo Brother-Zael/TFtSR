@@ -2,7 +2,7 @@
 owner = VEL
 controller = VEL
 culture = telegu
-religion = hinduism
+religion = buddhism
 capital = "Rajahmundry"
 trade_goods = cloth
 hre = no
