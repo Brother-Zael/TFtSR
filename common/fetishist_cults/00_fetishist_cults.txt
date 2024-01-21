@@ -492,12 +492,12 @@ suomenusko_cult = {
 				}
 			}
 		}
-		hostile_attrition = 1
-		garrison_size = 0.5
-		reinforce_speed = 0.2
-		ai_will_do = {
-			factor = 3
-		}
+	}
+	hostile_attrition = 1
+	garrison_size = 0.5
+	reinforce_speed = 0.2
+	ai_will_do = {
+		factor = 3
 	}
 }
 
@@ -515,12 +515,12 @@ slavic_cult = {
 				}
 			}
 		}
-		infantry_power = 0.1
-		global_tax_modifier = 0.33
-		enemy_core_creation = 0.2
-		ai_will_do = {
-			factor = 3
-		}
+	}
+	infantry_power = 0.1
+	global_tax_modifier = 0.33
+	enemy_core_creation = 0.2
+	ai_will_do = {
+		factor = 3
 	}
 }
 
@@ -538,11 +538,11 @@ celtic_cult = {
 				}
 			}
 		}
-		idea_cost = -0.05
-		infantry_cost = -0.1
-		land_morale = 0.1
-		ai_will_do = {
-			factor = 3
-		}
+	}
+	idea_cost = -0.05
+	infantry_cost = -0.1
+	land_morale = 0.1
+	ai_will_do = {
+		factor = 3
 	}
 }

@@ -1,7 +1,7 @@
 owner = KRJ
 controller = KRJ
 culture = sumatran
-religion = hinduism
+religion = zoroastrian
 capital = "Padang"
 trade_goods = grain
 hre = no

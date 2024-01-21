@@ -2,7 +2,7 @@
 owner = PHG
 controller = PHG
 culture = malayan
-religion = sunni
+religion = hinduism
 capital = "Pahang"
 trade_goods = fish
 hre = no

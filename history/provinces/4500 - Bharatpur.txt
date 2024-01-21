@@ -2,7 +2,7 @@
 owner = DLH
 controller = DLH
 culture = rajput
-religion = hinduism
+religion = daoism
 capital = "Bharatpur"
 trade_goods = livestock
 hre = no

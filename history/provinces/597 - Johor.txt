@@ -2,7 +2,7 @@
 owner = SAK
 controller = SAK
 culture = malayan
-religion = sunni
+religion = nestorian
 capital = "Johor"
 trade_goods = chinaware
 hre = no

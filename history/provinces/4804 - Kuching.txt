@@ -1,7 +1,7 @@
 owner = SAM
 controller = SAM
 culture = bornean
-religion = sunni
+religion = hinduism
 capital = "Kuching"
 trade_goods = fish
 hre = no

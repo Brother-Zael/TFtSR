@@ -2,7 +2,7 @@
 owner = MYA
 controller = MYA
 culture = shan
-religion = buddhism
+religion = daoism
 capital = "Yawnghwe"
 trade_goods = cotton
 hre = no

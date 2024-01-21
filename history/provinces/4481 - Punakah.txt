@@ -2,7 +2,7 @@
 owner = SIK
 controller = SIK
 culture = tibetan
-religion = vajrayana
+religion = daoism
 capital = "Punakha"
 trade_goods = wool
 hre = no

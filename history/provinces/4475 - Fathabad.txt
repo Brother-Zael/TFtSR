@@ -2,7 +2,7 @@
 owner = DHK
 controller = DHK
 culture = bengali
-religion = hinduism
+religion = buddhism
 capital = "Fathabad"
 trade_goods = grain #Rice
 hre = no

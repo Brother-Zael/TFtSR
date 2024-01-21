@@ -2,7 +2,7 @@
 owner = GPC
 controller = GPC
 culture = malayan
-religion = sunni
+religion = hinduism
 capital = "Tanjungpinaung"
 trade_goods = naval_supplies
 hre = no

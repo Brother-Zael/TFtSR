@@ -2,7 +2,7 @@
 owner = DHK
 controller = DHK
 culture = bengali
-religion = hinduism
+religion = buddhism
 capital = "Bishnupur"
 trade_goods = naval_supplies
 hre = no

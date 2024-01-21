@@ -2,7 +2,7 @@
 owner = MDL
 controller = MDL
 culture = vindhyan
-religion = hinduism
+religion = vajrayana
 capital = "Bandogarh"
 trade_goods = grain
 hre = no

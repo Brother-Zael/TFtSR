@@ -2,7 +2,7 @@
 owner = PRK
 controller = PRK
 culture = malayan
-religion = sunni
+religion = hinduism
 capital = "Kelang"
 trade_goods = grain
 hre = no

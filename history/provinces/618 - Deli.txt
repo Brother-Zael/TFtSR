@@ -2,7 +2,7 @@
 owner = SAK
 controller = SAK
 culture = sumatran
-religion = sunni
+religion = hinduism
 capital = "Riau"
 trade_goods = spices
 hre = no

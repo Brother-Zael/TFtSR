@@ -2,7 +2,7 @@
 owner = JAR
 controller = JAR
 culture = cham
-religion = animism
+religion = hinduism
 capital = "Jarai"
 trade_goods = tea
 hre = no

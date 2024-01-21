@@ -2,7 +2,7 @@
 owner = DHK
 controller = DHK
 culture = bengali
-religion = hinduism
+religion = buddhism
 capital = "Nasirabad"
 trade_goods = cotton
 hre = no

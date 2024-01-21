@@ -2,7 +2,7 @@
 owner = ASS
 controller = ASS
 culture = chin
-religion = animism
+religion = thulsa
 capital = "Imphal"
 trade_goods = cloth
 hre = no

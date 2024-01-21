@@ -2,7 +2,7 @@
 owner = KBD
 controller = KBD
 culture = avadhi
-religion = hinduism
+religion = daoism
 capital = "Khairabad"
 trade_goods = cloth #Khairabadi
 hre = no

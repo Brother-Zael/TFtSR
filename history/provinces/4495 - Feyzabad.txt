@@ -2,7 +2,7 @@
 owner = FBD
 controller = FBD
 culture = avadhi
-religion = hinduism
+religion = daoism
 capital = "Feyzabad"
 trade_goods = cloth
 hre = no

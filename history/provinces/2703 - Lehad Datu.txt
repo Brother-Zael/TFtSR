@@ -2,7 +2,7 @@
 owner = DAT
 controller = DAT
 culture = bornean
-religion = sunni
+religion = mahayana
 capital = "Lehad Datu"
 trade_goods = spices
 hre = no

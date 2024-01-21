@@ -2,7 +2,7 @@
 owner = AYU
 controller = AYU
 culture = malayan
-religion = sunni
+religion = buddhism
 capital = "Thalang"
 trade_goods = fish
 hre = no

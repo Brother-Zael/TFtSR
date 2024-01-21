@@ -2,7 +2,7 @@
 owner = SAK
 controller = SAK
 culture = sumatran
-religion = sunni
+religion = nestorian
 capital = "Rokan"
 trade_goods = fish
 hre = no

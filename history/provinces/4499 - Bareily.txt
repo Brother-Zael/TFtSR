@@ -2,7 +2,7 @@
 owner = FBD
 controller = FBD
 culture = kanauji
-religion = hinduism
+religion = daoism
 capital = "Bareily"
 trade_goods = cotton #Calicoes
 hre = no

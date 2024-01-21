@@ -2,7 +2,7 @@
 owner = RHA
 controller = RHA
 culture = cham
-religion = animism
+religion = hinduism
 capital = "Rhade"
 trade_goods = copper
 hre = no

@@ -2,7 +2,7 @@
 owner = KLE
 controller = KLE
 culture = chin
-religion = animism
+religion = thulsa
 capital = "Thaungdut"
 trade_goods = grain
 hre = no

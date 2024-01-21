@@ -2,7 +2,7 @@
 owner = ASS
 controller = ASS
 culture = assamese
-religion = hinduism
+religion = buddhism
 capital = "Narayanpur"
 trade_goods = tea
 hre = no

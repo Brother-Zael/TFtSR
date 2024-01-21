@@ -2,7 +2,7 @@
 owner = LAH
 controller = LAH
 culture = panjabi
-religion = hinduism
+religion = vajrayana
 capital = "Sirhind"
 trade_goods = cotton
 hre = no

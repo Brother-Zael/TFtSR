@@ -2,7 +2,7 @@
 owner = PAT
 controller = PAT
 culture = malayan
-religion = sunni
+religion = hinduism
 capital = "Kelantan"
 trade_goods = naval_supplies
 hre = no

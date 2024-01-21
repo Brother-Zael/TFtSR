@@ -2,7 +2,7 @@
 owner = SAM
 controller = SAM
 culture = bornean
-religion = sunni
+religion = hinduism
 capital = "Sigalang"
 trade_goods = gems
 hre = no

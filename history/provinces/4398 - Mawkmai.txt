@@ -2,7 +2,7 @@
 owner = MYA
 controller = MYA
 culture = shan
-religion = animism
+religion = daoism
 capital = "Mawkmai"
 trade_goods = grain
 hre = no

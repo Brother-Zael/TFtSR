@@ -1,7 +1,7 @@
 owner = WAJ
 controller = WAJ
 culture = sulawesi
-religion = animism
+religion = hinduism
 capital = "Wajo"
 trade_goods = spices
 hre = no

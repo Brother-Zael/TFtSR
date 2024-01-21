@@ -2,7 +2,7 @@
 owner = CMI
 controller = CMI
 culture = northern_thai
-religion = buddhism
+religion = hinduism
 capital = "Lamphun"
 trade_goods = grain
 hre = no

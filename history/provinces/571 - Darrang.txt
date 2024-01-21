@@ -2,7 +2,7 @@
 owner = ASS
 controller = ASS
 culture = assamese
-religion = hinduism
+religion = buddhism
 capital = "Koliabar"
 trade_goods = silk
 hre = no

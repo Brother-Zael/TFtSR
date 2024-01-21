@@ -2,7 +2,7 @@
 owner = CHP
 controller = CHP
 culture = khmer
-religion = buddhism
+religion = hinduism
 capital = "Khukhan"
 trade_goods = grain
 hre = no

@@ -2,7 +2,7 @@
 owner = KAN
 controller = KAN
 culture = kashmiri
-religion = hinduism
+religion = vajrayana
 capital = "Jammu"
 trade_goods = silk #
 hre = no

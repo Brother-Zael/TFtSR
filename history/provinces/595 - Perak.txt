@@ -2,7 +2,7 @@
 owner = PRK
 controller = PRK
 culture = malayan
-religion = sunni
+religion = hinduism
 capital = "Perak"
 trade_goods = copper
 hre = no

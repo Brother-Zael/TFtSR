@@ -2,7 +2,7 @@
 owner = JNP
 controller = JNP
 culture = avadhi
-religion = hinduism
+religion = vajrayana
 capital = "Kora"
 trade_goods = cotton
 hre = no

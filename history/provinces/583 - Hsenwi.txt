@@ -2,7 +2,7 @@
 owner = HSW
 controller = HSW
 culture = shan
-religion = buddhism
+religion = animism
 capital = "Hsenwi"
 trade_goods = tropical_wood
 hre = no

@@ -2,7 +2,7 @@
 owner = GDA
 controller = GDA
 culture = bengali
-religion = hinduism
+religion = buddhism
 capital = "Howrah"
 trade_goods = silk
 hre = no

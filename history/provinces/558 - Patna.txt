@@ -2,7 +2,7 @@
 owner = DHK
 controller = DHK
 culture = bihari
-religion = hinduism
+religion = vajrayana
 capital = "Patna"
 trade_goods = paper #And Silk and Saltpetre
 hre = no

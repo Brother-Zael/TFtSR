@@ -2,7 +2,7 @@
 owner = GDA
 controller = GDA
 culture = kochi
-religion = hinduism
+religion = vajrayana
 capital = "Kamatapur"
 trade_goods = grain
 hre = no

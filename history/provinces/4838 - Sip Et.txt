@@ -1,7 +1,7 @@
 owner = CHP
 controller = CHP
 culture = lao
-religion = buddhism
+religion = hinduism
 capital = "Sip Et"
 trade_goods = ivory
 hre = no

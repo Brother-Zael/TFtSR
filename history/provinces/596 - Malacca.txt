@@ -2,7 +2,7 @@
 owner = SAK
 controller = SAK
 culture = malayan
-religion = sunni
+religion = nestorian
 capital = "Malacca"
 trade_goods = spices
 hre = no

@@ -1,7 +1,7 @@
 owner = SAK
 controller = SAK
 culture = sumatran
-religion = sunni
+religion = jewish
 capital = "Rengat"
 trade_goods = fish
 hre = no

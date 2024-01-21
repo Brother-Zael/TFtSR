@@ -2,7 +2,7 @@
 owner = MKU
 controller = MKU
 culture = shan
-religion = buddhism
+religion = animism
 capital = "Mong Kung"
 trade_goods = tropical_wood
 hre = no

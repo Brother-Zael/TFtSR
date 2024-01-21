@@ -2,7 +2,7 @@
 owner = VEL
 controller = VEL
 culture = bengali
-religion = hinduism #A good case could be made that this province was atleast 50% buddhist
+religion = buddhism #A good case could be made that this province was atleast 50% buddhist
 capital = "Chittagong"
 trade_goods = cotton
 hre = no

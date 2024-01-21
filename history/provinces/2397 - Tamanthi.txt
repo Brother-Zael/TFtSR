@@ -2,7 +2,7 @@
 owner = MYA
 controller = MYA
 culture = shan
-religion = animism
+religion = thulsa
 capital = "Tamanthi"
 trade_goods = tea
 hre = no

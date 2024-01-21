@@ -2,7 +2,7 @@
 owner = MKA
 controller = MKA
 culture = kachin
-religion = buddhism
+religion = daoism
 capital = "Mong Kawng"
 trade_goods = gems
 hre = no

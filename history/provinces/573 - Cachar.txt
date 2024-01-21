@@ -2,7 +2,7 @@
 owner = ASS
 controller = ASS
 culture = chin
-religion = hinduism
+religion = buddhism
 capital = "Maibang"
 trade_goods = grain
 hre = no

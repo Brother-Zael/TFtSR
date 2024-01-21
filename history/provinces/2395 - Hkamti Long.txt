@@ -2,7 +2,7 @@
 owner = MKA
 controller = MKA
 culture = kachin
-religion = animism
+religion = thulsa
 capital = "Hkamti Long"
 trade_goods = grain
 hre = no

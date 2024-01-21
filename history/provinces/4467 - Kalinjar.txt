@@ -2,7 +2,7 @@
 owner = MHK
 controller = MHK
 culture = vindhyan
-religion = hinduism
+religion = vajrayana
 capital = "Kalinjar"
 trade_goods = gems #Diamonds
 hre = no

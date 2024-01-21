@@ -2,7 +2,7 @@
 owner = LAH
 controller = LAH
 culture = panjabi
-religion = hinduism
+religion = vajrayana
 capital = "Samana"
 trade_goods = cloth #Samianas
 hre = no

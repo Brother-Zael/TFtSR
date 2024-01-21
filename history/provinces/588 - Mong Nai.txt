@@ -2,7 +2,7 @@
 owner = MNA
 controller = MNA
 culture = shan
-religion = buddhism
+religion = vajrayana
 capital = "Mong Nai"
 trade_goods = cotton
 hre = no

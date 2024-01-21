@@ -2,7 +2,7 @@
 owner = GPC
 controller = GPC
 culture = sumatran
-religion = sunni
+religion = jewish
 capital = "Lingga"
 trade_goods = fish
 hre = no

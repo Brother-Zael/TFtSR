@@ -2,7 +2,7 @@
 owner = DLH
 controller = DLH
 culture = kanauji
-religion = hinduism
+religion = daoism
 capital = "Sambhal"
 trade_goods = cotton #Calicoes
 hre = no

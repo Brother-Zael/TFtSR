@@ -2,7 +2,7 @@
 owner = CMI
 controller = CMI
 culture = northern_thai
-religion = buddhism
+religion = hinduism
 capital = "Chiang Mai"
 trade_goods = ivory 
 hre = no

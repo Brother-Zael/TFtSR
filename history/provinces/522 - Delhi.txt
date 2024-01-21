@@ -2,7 +2,7 @@
 owner = DLH
 controller = DLH
 culture = kanauji
-religion = hinduism
+religion = daoism
 capital = "Delhi"
 trade_goods = silk
 hre = no

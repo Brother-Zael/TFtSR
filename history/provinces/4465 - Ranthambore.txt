@@ -2,7 +2,7 @@
 owner = DLH
 controller = DLH
 culture = rajput
-religion = hinduism
+religion = daoism
 capital = "Ranthambore"
 trade_goods = dyes
 hre = no

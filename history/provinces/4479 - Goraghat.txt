@@ -2,7 +2,7 @@
 owner = DHK
 controller = DHK
 culture = bengali
-religion = hinduism
+religion = vajrayana
 capital = "Goraghat"
 trade_goods = silk
 hre = no

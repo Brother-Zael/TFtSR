@@ -1,6 +1,6 @@
 #2419 - Kanadey
-owner = SAR
-controller = SAR
+owner = STV
+controller = STV
 culture = kazani
 religion = nestorian
 hre = no
@@ -10,7 +10,7 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Kanadey"
 is_city = yes
-add_core = SAR
+add_core = STV
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

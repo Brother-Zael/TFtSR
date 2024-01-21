@@ -2,7 +2,7 @@
 owner = DLH
 controller = DLH
 culture = vindhyan
-religion = hinduism
+religion = daoism
 capital = "Gwalior"
 trade_goods = dyes
 hre = no

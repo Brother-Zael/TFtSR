@@ -2,7 +2,7 @@
 owner = SUK 
 controller = SUK
 culture = central_thai
-religion = buddhism
+religion = hinduism
 capital = "Phitsanulok"
 trade_goods = livestock
 hre = no

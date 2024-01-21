@@ -2,7 +2,7 @@
 owner = GDA
 controller = GDA
 culture = bengali
-religion = hinduism
+religion = buddhism
 capital = "Sonargaon"
 trade_goods = cloth #Muslin
 hre = no

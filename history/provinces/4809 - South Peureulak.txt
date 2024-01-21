@@ -1,7 +1,7 @@
 owner = LKT
 controller = LKT
 culture = acehnese
-religion = sunni
+religion = hinduism
 capital = "Langkat"
 trade_goods = spices
 hre = no

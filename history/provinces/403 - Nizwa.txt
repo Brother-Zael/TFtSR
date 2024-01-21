@@ -1,6 +1,6 @@
 #403 - Nizwa
-owner = NIZ
-controller = NIZ
+owner = NZW
+controller = NZW
 culture = omani_culture
 religion = ibadi
 capital = "Nizwa"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = NIZ
+add_core = NZW
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
