@@ -18,7 +18,6 @@ replace_path="events"
 replace_path="history/diplomacy"
 replace_path="history/countries"
 replace_path="history/provinces"
-replace_path="tutorial"
 
 name="Tales From the Silk Road"
 supported_version="1.36.*"
