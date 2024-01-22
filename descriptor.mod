@@ -12,6 +12,7 @@ tags={
 
 replace_path="common/countries"
 replace_path="common/country_tags"
+replace_path="common/great_projects"
 replace_path="missions"
 replace_path="decisions"
 replace_path="events"

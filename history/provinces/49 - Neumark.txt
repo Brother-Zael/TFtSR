@@ -1,7 +1,7 @@
 #49 - Neumark
-owner = VNT
-controller = VNT
-#add_core = VNT
+owner = VTI
+controller = VTI
+add_core = VTI
 culture = saxon
 religion = norse_pagan_reformed
 hre = yes
@@ -15,4 +15,3 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-add_local_autonomy = 50 #Administrative misshandling, robber barons, privileged cities.

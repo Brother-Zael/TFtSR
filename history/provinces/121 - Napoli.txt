@@ -1,6 +1,6 @@
 #121 - Napoli
-owner = NPL
-controller = NPL
+owner = NEA
+controller = NEA
 culture = neapolitan 
 religion = fraticelli 
 hre = no 
@@ -11,7 +11,7 @@ base_manpower = 6
 capital = "Napoli" 
 is_city = yes	# Estimated
 fort_15th = yes
-add_core = NPL
+add_core = NEA
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

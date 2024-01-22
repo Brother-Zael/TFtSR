@@ -1,7 +1,7 @@
 #60 - Lausitz
-owner = VNT
-controller = VNT
-add_core = VNT
+owner = VTI
+controller = VTI
+add_core = VTI
 capital = "Bautzen"
 culture = sorbian
 religion = norse_pagan_reformed

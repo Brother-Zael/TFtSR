@@ -1,6 +1,6 @@
 # 192 Bourgogne - Principal cities: Dijon
-owner = CAB
-controller = CAB 
+owner = CBL
+controller = CBL 
 capital = "Dijon"
 is_city = yes
 culture = burgundian
@@ -10,7 +10,7 @@ base_tax = 7
 base_production = 7
 trade_goods = wine
 base_manpower = 6
-add_core = CAB
+add_core = CBL
 #fort_15th = yes
 discovered_by = eastern
 discovered_by = western

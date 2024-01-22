@@ -1,7 +1,7 @@
 # 4747 - Dramburg
-owner = VNT
-controller = VNT
-add_core = VNT
+owner = VTI
+controller = VTI
+add_core = VTI
 culture = pommeranian
 religion = norse_pagan_reformed
 hre = yes

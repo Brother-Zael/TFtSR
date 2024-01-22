@@ -130,7 +130,7 @@ christian = {
 				}
 				effect = {
 					add_legitimacy = 10
-					add_adm_points = 50
+					add_adm_power = 50
 				}
 				ai_will_do = {
 					factor = 1

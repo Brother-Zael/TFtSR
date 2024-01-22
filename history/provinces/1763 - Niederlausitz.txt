@@ -1,7 +1,7 @@
 #1763 - Niederlausitz
-owner = VNT
-controller = VNT
-add_core = VNT
+owner = VTI
+controller = VTI
+add_core = VTI
 capital = "Cottbus"
 culture = sorbian
 religion = norse_pagan_reformed
