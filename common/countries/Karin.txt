@@ -6,8 +6,7 @@ graphical_culture = easterngfx
 color = { 24 24 23 } 
 
 historical_idea_groups = {
-	maritime_ideas
-	maritime_ideas
+	defensive_ideas
 }
 
 monarch_names = {

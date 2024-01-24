@@ -281,7 +281,7 @@ QAS = "countries/Qasimids.txt"               # it's the rassids, just a more spe
 NZW = "countries/Nizwa.txt"
 MUS = "countries/Muscat.txt"
 MSR = "countries/Masirah.txt"
-MAH = "countries/Mahra.txt"
+MHR = "countries/Mahra.txt"
 HMY = "countries/Himyarites.txt"
 
 DAW = "countries/Dawasir.txt"                # releasable

@@ -1,7 +1,4 @@
 #1034 - Kamchatka
-owner = KMC
-controller = KMC
-add_core = KMC
 culture = kamchatkan
 religion = animism
 capital = "Kamchatka"

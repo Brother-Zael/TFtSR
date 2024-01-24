@@ -12,7 +12,6 @@ historical_idea_groups = {
 	maritime_ideas
 	influence_ideas
 	trade_ideas
-	maritime_ideas
 	offensive_ideas
 }
 

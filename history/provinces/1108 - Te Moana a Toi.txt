@@ -1,7 +1,4 @@
 #1108 - Te Moana a Toi
-add_core = TEA
-owner = TEA
-controller = TEA
 culture = maori
 religion = animism
 hre = no

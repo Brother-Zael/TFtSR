@@ -9,7 +9,6 @@ historical_idea_groups = {
 	quantity_ideas
 	maritime_ideas
 	offensive_ideas
-	maritime_ideas
 	spy_ideas
 }
 

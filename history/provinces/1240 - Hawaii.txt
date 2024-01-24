@@ -1,7 +1,4 @@
 #1240 - Hawaii
-add_core = HAW
-owner = HAW
-controller = HAW
 culture = polynesian
 religion = animism
 hre = no

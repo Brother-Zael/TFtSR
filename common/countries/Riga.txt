@@ -6,8 +6,7 @@ graphical_culture = easterngfx
 color = { 10 9 9 } 
 
 historical_idea_groups = {
-	maritime_ideas
-	maritime_ideas
+	trade_ideas
 }
 
 historical_units = {

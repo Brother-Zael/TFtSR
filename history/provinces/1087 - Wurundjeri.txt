@@ -1,7 +1,4 @@
 #1087 - Wurundjeri
-add_core = WRU
-owner = WRU
-controller = WRU
 culture = kulin
 religion = dreamtime
 capital = "Wurundjeri"

@@ -1,6 +1,5 @@
 #Bornholm
 add_core = LUN
-add_core = GOT
 owner = LUN
 controller = LUN
 culture = danish

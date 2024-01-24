@@ -1,7 +1,4 @@
 #1086 - Kaurna
-add_core = KAU
-owner = KAU
-controller = KAU
 culture = yura
 religion = dreamtime
 capital = "Kaurna"

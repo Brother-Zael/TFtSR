@@ -12,8 +12,6 @@ historical_idea_groups = {
 	maritime_ideas
 	quality_ideas
 	trade_ideas
-	maritime_ideas
-	maritime_ideas
 }
 
 historical_units = {

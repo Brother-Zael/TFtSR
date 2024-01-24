@@ -9,7 +9,6 @@ historical_idea_groups = {
 	quantity_ideas
 	religious_ideas
 	maritime_ideas
-	maritime_ideas
 }
 
 historical_units = {

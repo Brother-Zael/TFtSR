@@ -1,7 +1,4 @@
 #1085 - Paredarerme
-add_core = PLW
-owner = PLW
-controller = PLW
 culture = palawa
 religion = dreamtime
 capital = "Paredarerme"
