@@ -1,6 +1,4 @@
 #Country Name: Changsha
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 212 225 15 }

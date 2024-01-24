@@ -1,6 +1,7 @@
-government = monarchy
-add_government_reform = iqta
-primary_culture = al_misr_arabic
+government = tribal
+add_government_reform = tribal_despotism
+primary_culture = evenk
 religion = tengri_pagan_reformed
-technology_group = muslim
-capital = 361 # Cairo
+technology_group = nomad_group
+capital = 1049
+government_rank = 1

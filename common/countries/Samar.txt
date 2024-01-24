@@ -1,6 +1,4 @@
 #Country Name: Samar
 #Starting Country
-
-graphical_culture = asiangfx
-
+graphical_culture = polynesiangfx
 color = { 117 115 2 }

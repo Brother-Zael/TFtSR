@@ -1,6 +1,4 @@
 #Country Name: Wulang
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 87 239 112 }

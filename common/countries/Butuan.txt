@@ -1,6 +1,4 @@
 #Country Name: Butuan
 #Starting Country
-
 graphical_culture = polynesiangfx
-
 color = { 97 193 82 }

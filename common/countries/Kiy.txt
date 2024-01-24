@@ -1,6 +1,4 @@
 #Country Name: Kiy
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 2 91 12 }

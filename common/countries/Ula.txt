@@ -1,6 +1,4 @@
 #Country Name: Ula
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 63 101 16 }

@@ -1,6 +1,4 @@
 #Country Name: Uilta
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 153 184 66 }

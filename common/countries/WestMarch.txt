@@ -1,6 +1,4 @@
 #Country Name: West March
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 21 201 1 }

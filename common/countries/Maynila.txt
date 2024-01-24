@@ -1,6 +1,4 @@
 #Country Name: Maynila
 #Starting Country
-
 graphical_culture = polynesiangfx
-
 color = { 207 115 102 }

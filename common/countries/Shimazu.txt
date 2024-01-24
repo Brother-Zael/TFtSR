@@ -1,6 +1,4 @@
 #Country Name: Shimazu
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 234 3 242 }

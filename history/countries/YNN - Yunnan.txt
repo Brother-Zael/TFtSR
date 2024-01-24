@@ -1,6 +1,7 @@
-government = monarchy
-add_government_reform = iqta
-primary_culture = al_misr_arabic
-religion = legalism
-technology_group = muslim
-capital = 361 # Cairo
+government = tribal
+add_government_reform = tribal_kingdom
+primary_culture = bai
+religion = mahayana
+technology_group = chinese
+capital = 662
+government_rank = 2

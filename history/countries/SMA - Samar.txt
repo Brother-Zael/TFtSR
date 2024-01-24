@@ -1,6 +1,7 @@
-government = monarchy
-add_government_reform = iqta
-primary_culture = al_misr_arabic
+government = tribal
+add_government_reform = tribal_confederacy
+primary_culture = filipino
 religion = animism
-technology_group = muslim
-capital = 361 # Cairo
+technology_group = polynesian_tech
+capital = 654
+government_rank = 1

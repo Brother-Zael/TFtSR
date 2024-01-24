@@ -1,6 +1,4 @@
 #Country Name: Bozhou
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 127 139 112 }

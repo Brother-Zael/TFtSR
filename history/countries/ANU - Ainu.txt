@@ -1,6 +1,7 @@
-government = monarchy
-add_government_reform = iqta
-primary_culture = al_misr_arabic
+government = tribal
+add_government_reform = tribal_federation
+primary_culture = ainu
 religion = animism
-technology_group = muslim
-capital = 361 # Cairo
+technology_group = chinese
+capital = 1847
+government_rank = 2

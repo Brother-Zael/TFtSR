@@ -1,6 +1,4 @@
 #Country Name: Khitans
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 153 24 66 }

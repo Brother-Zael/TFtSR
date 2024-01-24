@@ -1,6 +1,4 @@
 #Country Name: Ashikaga
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 213 34 146 }

@@ -1,6 +1,4 @@
 #Country Name: Hoifa
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 13 81 86 }
