@@ -1,7 +1,7 @@
 #Country Name: Nizhny Novgorod
 #Starting Country
 
-graphical_culture = nomdicgfx
+graphical_culture = muslimgfx
 
 color = { 7 7 7 } 
 

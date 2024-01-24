@@ -1,6 +1,6 @@
 #Country Name: Cree
 #Starting Country
 
-graphical_culture = northamericangfx
+graphical_culture = northamericagfx
 
 color = { 35 122 137 }

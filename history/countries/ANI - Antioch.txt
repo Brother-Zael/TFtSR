@@ -3,4 +3,4 @@ add_government_reform = iqta
 primary_culture = al_misr_arabic
 religion = orthodox
 technology_group = muslim
-capital = 361 # Cairo
+capital = 2313

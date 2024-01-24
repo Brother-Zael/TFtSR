@@ -12,7 +12,7 @@ historical_idea_groups = {
 }
 
 monarch_names = {
-	Stylites #1" = 40
+	"Stylites #1" = 40
 }
 
 leader_names = {

@@ -1,6 +1,6 @@
 #Country Name: Ichma
 #Starting Country
 
-graphical_culture = southamericangfx
+graphical_culture = southamericagfx
 
 color = { 215 182 27 }

@@ -8,7 +8,7 @@ hashshashin_ideas = {
 		global_garrison_growth = 0.1
 	}
 	trigger = {
-		superregion = persia_region
+		# superregion = persia_region
 		religion = shiite
 		government = theocracy
 	}

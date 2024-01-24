@@ -1,6 +1,6 @@
 #Country Name: Salish
 #Starting Country
 
-graphical_culture = northamericangfx
+graphical_culture = northamericagfx
 
 color = { 1 184 197 }
