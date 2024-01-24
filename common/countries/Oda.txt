@@ -1,6 +1,4 @@
 #Country Name: Oda
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 172 13 12 }

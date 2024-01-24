@@ -1,6 +1,4 @@
 #Country Name: Wu
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 82 25 115 }

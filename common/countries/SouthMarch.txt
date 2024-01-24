@@ -1,6 +1,4 @@
 #Country Name: South March
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 1 201 21 }

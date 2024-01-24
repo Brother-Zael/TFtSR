@@ -1,6 +1,4 @@
 #Country Name: Guangdong Pirate Confederacy
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 27 135 163 }

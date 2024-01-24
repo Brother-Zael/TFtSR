@@ -1,6 +1,4 @@
 #Country Name: Ogasawara
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 133 134 146 }

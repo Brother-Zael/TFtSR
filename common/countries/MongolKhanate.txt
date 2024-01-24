@@ -1,6 +1,4 @@
 #Country Name: Mongol Khanate
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 23 24 166 }

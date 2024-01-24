@@ -1,6 +1,4 @@
 #Country Name: Ouchi
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 54 33 42 }

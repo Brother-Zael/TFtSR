@@ -1,6 +1,4 @@
 #Country Name: Hangzhou
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 151 151 21 }

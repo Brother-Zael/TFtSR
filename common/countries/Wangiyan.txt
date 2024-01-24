@@ -1,6 +1,4 @@
 #Country Name: Wangiyan
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 113 41 132 }

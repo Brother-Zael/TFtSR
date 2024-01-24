@@ -1,6 +1,7 @@
-government = monarchy
-add_government_reform = iqta
-primary_culture = al_misr_arabic
+government = republic
+add_government_reform = pirate_republic_reform
+primary_culture = cantonese
 religion = confucianism
 technology_group = muslim
-capital = 361 # Cairo
+capital = 738
+government_rank = 2

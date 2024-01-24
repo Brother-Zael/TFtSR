@@ -1,6 +1,4 @@
 #Country Name: Jianchang
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 147 239 142 }

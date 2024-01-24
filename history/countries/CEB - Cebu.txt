@@ -1,13 +1,12 @@
 government = monarchy
-add_government_reform = plutocratic_reform
-government_rank = 1
+add_government_reform = confucian_bureaucracy
+government_rank = 2
 technology_group = chinese
 primary_culture = filipino
-capital = 4352	# Cebu
+capital = 4352# Cebu
 religion = hinduism
-
-1440.1.1 = {
-	monarch = {
+1440.1.1 = { 
+	monarch = { 
 		name = "Bantug"
 		dynasty = "Chola"
 		adm = 3
@@ -15,9 +14,8 @@ religion = hinduism
 		mil = 3
 	}
 }
-
-1480.1.1 = {
-	monarch = {
+1480.1.1 = { 
+	monarch = { 
 		name = "Humabon"
 		dynasty = "Chola"
 		adm = 3
@@ -25,11 +23,9 @@ religion = hinduism
 		mil = 2
 	}
 }
-
 #Humabon converts to Christianity in 1521
-
-1540.1.1 = {
-	monarch = {
+1540.1.1 = { 
+	monarch = { 
 		name = "Tupas"
 		dynasty = "Chola"
 		adm = 4
@@ -37,9 +33,8 @@ religion = hinduism
 		mil = 3
 	}
 }
-
-1565.3.16 = {
-	monarch = {
+1565.3.16 = { 
+	monarch = { 
 		name = "Sikatuna"
 		dynasty = "Chola"
 		adm = 4

@@ -1,6 +1,7 @@
 government = monarchy
-add_government_reform = iqta
-primary_culture = al_misr_arabic
+add_government_reform = daimyo
+primary_culture = jin
 religion = daoism
-technology_group = muslim
-capital = 361 # Cairo
+technology_group = chinese
+capital = 2178
+government_rank = 1

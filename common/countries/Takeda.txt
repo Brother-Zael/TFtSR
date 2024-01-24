@@ -1,6 +1,4 @@
 #Country Name: Takeda
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 234 73 6 }

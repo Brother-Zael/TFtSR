@@ -1,6 +1,4 @@
 #Country Name: Yakuts
 #Starting Country
-
 graphical_culture = asiangfx
-
 color = { 53 124 66 }

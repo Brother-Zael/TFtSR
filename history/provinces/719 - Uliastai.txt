@@ -1,13 +1,12 @@
 #719 - Sayin Noyan
-owner = SKY		# The Oirads united much of Mongolia
+owner = SKY# The Oirads united much of Mongolia
 controller = SKY
 add_core = SKY
 culture = khalkha
 religion = tengri_pagan_reformed
 capital = "Uliastai"
-trade_goods = wool
-hre = no
-base_tax = 3 
+trade_goods = slaves
+base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
