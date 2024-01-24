@@ -1,7 +1,7 @@
 #Country Name: Rum (Tengri or Muslim)
 #Starting Country
 
-graphical_culture = anatoliangfx
+graphical_culture = muslimgfx
 
 color = { 26 26 25 } 
 

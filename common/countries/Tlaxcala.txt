@@ -1,6 +1,6 @@
 #Country Name: Tlaxcala
 #Starting Country
 
-graphical_culture = northamericangfx
+graphical_culture = northamericagfx
 
 color = { 215 124 17 }

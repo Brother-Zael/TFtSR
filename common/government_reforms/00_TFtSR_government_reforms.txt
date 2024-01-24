@@ -8,7 +8,7 @@ tftsr_chinese_warlord = {
 	#government mechanics flags go here
 	potential = {
 			culture_group = east_asian
-			superregion = china_superregion
+			# superregion = china_superregion
 	}
 	icon = "religious_leader"
 	allow_normal_conversion = yes

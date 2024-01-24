@@ -1,7 +1,7 @@
 #45 - Lübeck
 owner = FRL
 controller = FRL
-add_core = FRK
+add_core = FRL
 culture = lower_saxon
 religion = catholic
 hre = yes

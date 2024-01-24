@@ -1,6 +1,6 @@
 #1057 - Udinsky
-controller = LIA
 owner = LIA
+controller = LIA
 add_core = LIA
 culture = buryat
 religion = nestorian

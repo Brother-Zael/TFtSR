@@ -18,8 +18,8 @@ historical_units = {
 }
 
 monarch_names = {
-	Skanderbeg #1" = 40
-	Zogu #1" = 10
+	"Skanderbeg #1" = 40
+	"Zogu #1" = 10
 }
 
 leader_names = {

@@ -1,6 +1,6 @@
 #Country Name: Turkistan
 #Starting Country
 
-graphical_culture = nomadicgfx
+graphical_culture = muslimgfx
 
 color = { 100 100 100 }

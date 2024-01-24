@@ -1,7 +1,7 @@
 #Country Name: Magyar
 #Starting Country
 
-graphical_culture = nomadicgfx
+graphical_culture = muslimgfx
 
 color = { 22 21 21 } 
 

@@ -1,6 +1,6 @@
 #Country Name: Haida
 #Starting Country
 
-graphical_culture = northamericangfx
+graphical_culture = northamericagfx
 
 color = { 211 2 187 }

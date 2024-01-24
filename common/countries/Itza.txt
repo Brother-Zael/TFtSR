@@ -1,6 +1,6 @@
 #Country Name: Itza
 #Starting Country
 
-graphical_culture = northamericangfx
+graphical_culture = northamericagfx
 
 color = { 21 32 47 }

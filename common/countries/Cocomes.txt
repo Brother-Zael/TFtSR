@@ -1,6 +1,6 @@
 #Country Name: Cocomes
 #Starting Country
 
-graphical_culture = northamericangfx
+graphical_culture = northamericagfx
 
 color = { 111 102 21 }
