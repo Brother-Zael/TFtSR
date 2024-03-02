@@ -18,7 +18,7 @@ monarch_names = {
 	Suru-Kül #1" = 0
 	Qara-Bey #1" = 0
 	Tolmač #1" = 0
-	Qap(ğ)an #1" = 0
+	Qapğan #1" = 0
 	Čopan #1" = 0
 }
 
