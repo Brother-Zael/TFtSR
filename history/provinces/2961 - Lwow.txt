@@ -2,8 +2,8 @@
 latent_trade_goods = {
 	coal
 }
-owner = GVL
-controller = GVL
+owner = E18
+controller = E18
 capital= "Lwów"
 culture = ruthenian
 religion = orthodox
@@ -13,7 +13,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 is_city = yes
-add_core = GVL
+add_core = E18
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

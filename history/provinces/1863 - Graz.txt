@@ -1,7 +1,7 @@
 #1863 - Graz
-owner = OTG
-controller = OTG
-add_core = OTG
+owner = E42
+controller = E42
+add_core = E42
 culture = austrian
 religion = hussite
 base_tax = 5 

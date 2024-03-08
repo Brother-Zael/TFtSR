@@ -1,6 +1,6 @@
 #4537 - Nowogrodek
-owner = VIL
-controller = VIL  
+owner = E15
+controller = E15  
 culture = byelorussian
 religion = nestorian
 hre = no
@@ -10,7 +10,7 @@ trade_goods = wool
 base_manpower = 1
 capital = "Navahrudak"
 is_city = yes
-add_core = VIL
+add_core = E15
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

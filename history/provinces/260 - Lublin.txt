@@ -2,8 +2,8 @@
 latent_trade_goods = {
 	coal
 }
-owner = WRS
-controller = WRS
+owner = E19
+controller = E19
 capital= "Lublin"
 culture = polish
 religion = orthodox
@@ -13,7 +13,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = WRS
+add_core = E19
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #322 - Küthaya
-owner = OPS
-controller = OPS
+owner = E60
+controller = E60
 culture = turkish
 religion = orthodox
 capital = "Kütahya"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = OPS
+add_core = E60
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

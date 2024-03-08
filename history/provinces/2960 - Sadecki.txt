@@ -1,6 +1,6 @@
 #262 - Sadecki
-owner = KRA
-controller = KRA
+owner = E20
+controller = E20
 culture = polish
 religion = orthodox
 capital = "Nowy Sacz"
@@ -10,7 +10,7 @@ base_production = 6
 trade_goods = iron
 base_manpower = 2
 is_city = yes
-add_core = KRA
+add_core = E20
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

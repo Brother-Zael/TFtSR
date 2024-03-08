@@ -1,8 +1,8 @@
 #Savolaks, incl. Nyslott(Olofsborg).
 
-owner = KAR
-controller = KAR
-add_core = KAR
+owner = A10
+controller = A10
+add_core = A10
 culture = finnish
 religion = paganism
 hre = no

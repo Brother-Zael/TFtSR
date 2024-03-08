@@ -1,6 +1,6 @@
 #298 - Kursk
-owner = KSK
-controller = KSK 
+owner = E27
+controller = E27 
 culture = ryazanian
 religion = nestorian
 hre = no
@@ -10,7 +10,7 @@ trade_goods = grain
 base_manpower = 1
 capital = "Kursk"
 is_city = yes
-add_core = KSK
+add_core = E27
 add_local_autonomy = 25
 discovered_by = western
 discovered_by = eastern

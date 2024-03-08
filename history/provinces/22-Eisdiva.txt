@@ -1,8 +1,8 @@
 #Oplandene, incl. Hamar
-owner = SML
-controller = SML
-add_core = SML
-add_core = NRG
+owner = A02
+controller = A02
+add_core = A02
+add_core = A16
 culture = norwegian
 religion = norse_pagan_reformed
 hre = no

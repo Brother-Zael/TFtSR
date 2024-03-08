@@ -1,9 +1,9 @@
 #371 - Akureyri
-owner = NRG
-controller = NRG
-add_core = NRG
+owner = A16
+controller = A16
+add_core = A16
 add_core = ICE
-add_core = FNN
+add_core = A01
 culture = icelandic
 religion = norse_pagan_reformed
 hre = no

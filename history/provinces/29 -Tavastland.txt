@@ -1,7 +1,7 @@
 #Tavastland, incl. Tavastehus.
-owner = NYL
-controller = NYL
-add_core = NYL
+owner = A09
+controller = A09
+add_core = A09
 culture = finnish
 religion = paganism
 hre = no

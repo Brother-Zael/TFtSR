@@ -1,6 +1,6 @@
 #4302 - Bayazid
-owner = BAY #Zahids
-controller = BAY
+owner = E70 #Zahids
+controller = E70
 culture = armenian
 religion = coptic
 capital = "Bayazid"
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = BAY
+add_core = E70
 discovered_by = east_african
 discovered_by = western
 discovered_by = muslim

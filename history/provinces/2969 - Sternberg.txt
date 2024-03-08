@@ -1,7 +1,7 @@
 # - Sternberg
-owner = VTI
-controller = VTI
-add_core = VTI
+owner = E24
+controller = E24
+add_core = E24
 culture = saxon
 religion = norse_pagan_reformed
 hre = yes

@@ -1,6 +1,6 @@
 #4262 - Totma
-owner = VOL
-controller = VOL
+owner = E03
+controller = E03
 culture = russian 
 religion = nestorian
 hre = no
@@ -11,7 +11,7 @@ base_manpower = 1
 add_local_autonomy = 50
 capital = "Totma"
 is_city = yes
-add_core = VOL
+add_core = E03
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group

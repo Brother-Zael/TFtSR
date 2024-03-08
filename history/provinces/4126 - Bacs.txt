@@ -1,6 +1,6 @@
 #4126 - Bács (Bacs + Bodrog + parts of Csongrad and Kiskunság)
-owner = OTG
-controller = OTG 
+owner = E42
+controller = E42 
 culture = hungarian
 religion = orthodox
 capital = "Bács"
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = OTG
+add_core = E42
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #2410 - Theodoro
-owner = GEO
-controller = GEO
+owner = E67
+controller = E67
 culture = goths
 religion = orthodox
 hre = no
@@ -10,7 +10,7 @@ trade_goods = wine
 base_manpower = 3
 capital = "Mangul"
 is_city = yes
-add_core = GEO
+add_core = E67
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

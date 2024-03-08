@@ -1,6 +1,6 @@
 #268 - Moldavia
-owner = GVL
-controller = GVL
+owner = E18
+controller = E18
 culture = romanian
 religion = orthodox
 hre = no
@@ -10,7 +10,7 @@ capital = "Suceava"
 is_city = yes
 trade_goods = livestock
 base_manpower = 2
-add_core = GVL
+add_core = E18
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

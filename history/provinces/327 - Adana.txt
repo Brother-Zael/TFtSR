@@ -1,6 +1,6 @@
 #327 - Adana
-owner = CIB
-controller = CIB
+owner = E61
+controller = E61
 culture = turkish
 religion = orthodox
 capital = "Adana"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 4
 is_city = yes
-add_core = CIB
+add_core = E61
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

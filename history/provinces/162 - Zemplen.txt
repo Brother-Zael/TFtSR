@@ -1,6 +1,6 @@
 #162 - Zemplén
-owner = SLO
-controller = SLO 
+owner = E38
+controller = E38 
 culture = slovak
 religion = orthodox
 capital = "Kassa"
@@ -11,7 +11,7 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 fort_15th = yes
-add_core = SLO
+add_core = E38
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

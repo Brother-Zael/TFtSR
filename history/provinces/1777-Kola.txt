@@ -1,7 +1,7 @@
 #Kola
-owner = KDN
-controller = KDN
-add_core = KDN
+owner = A11
+controller = A11
+add_core = A11
 capital = "Kola"
 culture = sapmi
 religion = paganism

@@ -1,6 +1,6 @@
 #4301 - Kartli
-owner = GEO
-controller = GEO
+owner = E67
+controller = E67
 culture = georgian
 religion = coptic
 capital = "Gori"
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = GEO
+add_core = E67
 fort_15th = yes #Gori
 discovered_by = muslim
 discovered_by = ottoman

@@ -1,6 +1,6 @@
 #303 - Saratow
-owner = STV
-controller = STV    
+owner = E09
+controller = E09    
 culture = mishary
 religion = vajrayana
 hre = no
@@ -10,7 +10,7 @@ trade_goods = livestock
 base_manpower = 4
 capital = "Ukek"
 is_city = yes
-add_core = STV
+add_core = E09
 discovered_by = eastern
 discovered_by = western
 discovered_by = ottoman

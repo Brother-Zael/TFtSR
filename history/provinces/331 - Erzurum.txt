@@ -1,6 +1,6 @@
 #331 - Erserum
-owner = KRN
-controller = KRN
+owner = E65
+controller = E65
 culture = armenian
 religion = coptic
 capital = "Erzurum"
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 is_city = yes
-add_core = KRN
+add_core = E65
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

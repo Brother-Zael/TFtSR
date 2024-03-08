@@ -1,6 +1,6 @@
 #259 - Sandomierz
-owner = KRA
-controller = KRA
+owner = E20
+controller = E20
 capital = "Sandomierz"
 culture = polish
 religion = orthodox
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 1
 is_city = yes
-add_core = KRA
+add_core = E20
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #1953 - Szabolcs
-owner = SLO
-controller = SLO 
+owner = E38
+controller = E38 
 culture = hungarian
 religion = orthodox
 capital = "Debrecen"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = SLO
+add_core = E38
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

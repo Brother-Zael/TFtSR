@@ -1,7 +1,7 @@
 #43 - Danzig
-owner = GDS
-controller = GDS
-add_core = GDS
+owner = E23
+controller = E23
+add_core = E23
 capital = "Danzig"
 culture = prussian
 religion = catholic

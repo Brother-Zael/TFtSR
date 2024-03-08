@@ -1,9 +1,9 @@
 #Gotland- Visby etc
 #
-owner = DAN
-controller = DAN
-add_core = DAN
-add_core = UPP
+owner = A13
+controller = A13
+add_core = A13
+add_core = A15
 culture = swedish
 religion = norse_pagan_reformed
 hre = no

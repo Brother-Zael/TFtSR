@@ -1,7 +1,7 @@
 #4261 - Ustyuzhna
-owner = LAD
-controller = LAD
-add_core = LAD
+owner = E02
+controller = E02
+add_core = E02
 culture = novgorodian
 religion = paganism
 hre = no

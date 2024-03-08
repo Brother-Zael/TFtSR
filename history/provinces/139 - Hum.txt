@@ -1,6 +1,6 @@
 #139 - Hum
-owner = BOS
-controller = BOS
+owner = E44
+controller = E44
 culture = bosnian
 religion = catholic
 capital = "Mostar"	# Unofficial capital of Herzegovina
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = BOS
+add_core = E44
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

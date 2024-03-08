@@ -1,7 +1,7 @@
 #Bratsberg Len / Amt
-owner = SML
-controller = SML
-add_core = SML
+owner = A02
+controller = A02
+add_core = A02
 culture = norwegian
 religion = norse_pagan_reformed
 hre = no

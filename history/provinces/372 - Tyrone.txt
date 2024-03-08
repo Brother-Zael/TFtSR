@@ -1,6 +1,6 @@
 #372 - Tyrone
-owner = MNX
-controller = MNX
+owner = A20
+controller = A20
 culture = irish
 religion = paganism
 hre = no
@@ -10,7 +10,7 @@ trade_goods = wool
 base_manpower = 2
 capital = "Dungannon"
 is_city = yes
-add_core = MNX
+add_core = A20
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

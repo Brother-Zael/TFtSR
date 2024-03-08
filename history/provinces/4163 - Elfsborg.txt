@@ -1,7 +1,7 @@
 #Elfsborgs Län
-add_core = BHS
-owner = BHS
-controller = BHS
+add_core = A04
+owner = A04
+controller = A04
 culture = swedish
 religion = norse_pagan_reformed
 hre = no

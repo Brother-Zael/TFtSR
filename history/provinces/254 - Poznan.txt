@@ -1,6 +1,6 @@
 #254 - Poznan
-owner = POZ
-controller = POZ
+owner = E21
+controller = E21
 capital = "Poznan"
 culture = polish
 religion = hussite
@@ -10,7 +10,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 5
 is_city = yes
-add_core = POZ
+add_core = E21
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

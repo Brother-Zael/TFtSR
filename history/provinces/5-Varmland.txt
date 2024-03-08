@@ -1,9 +1,9 @@
 #Värmland
 #
-add_core = VAR
-add_core = UPP
-owner = VAR
-controller = VAR
+add_core = A03
+add_core = A15
+owner = A03
+controller = A03
 culture = swedish
 religion = norse_pagan_reformed
 hre = no

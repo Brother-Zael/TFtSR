@@ -1,7 +1,7 @@
 #4238 - Liegnitz (Liegnitz+Schweidnitz+Jauer+Glatz+Neisse+Münsterberg)
 #Coal
-owner = POZ
-controller = POZ
+owner = E21
+controller = E21
 culture = schlesian
 religion = hussite
 capital = "Liegnitz"
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 is_city = yes 
 base_manpower = 2
-add_core = POZ
+add_core = E21
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

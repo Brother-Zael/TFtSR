@@ -1,6 +1,6 @@
 #282 - Yedisan
-owner = MGY
-controller = MGY
+owner = E51
+controller = E51
 culture = crimean
 religion = tengri_pagan_reformed
 hre = no
@@ -11,8 +11,8 @@ base_manpower = 1
 capital = "Hajibey"
 is_city = yes
 add_local_autonomy = 25
-add_core = MGY
-add_core = ZAO
+add_core = E51
+add_core = E29
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

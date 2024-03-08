@@ -1,6 +1,6 @@
 #377 - Aleppo
-owner = ANI
-controller = ANI
+owner = E62
+controller = E62
 culture = al_suryah_arabic
 religion = sunni
 capital = "Halab"
@@ -10,7 +10,7 @@ base_tax = 9
 base_production = 9
 base_manpower = 4
 is_city = yes
-add_core = ANI
+add_core = E62
 fort_15th = yes
 discovered_by = east_african
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #264 - Breslau (Breslau+Brieg+Öls+Wartenberg+Wohlau/Steinau)
-owner = POZ
-controller = POZ
+owner = E21
+controller = E21
 culture = schlesian
 religion = hussite
 capital = "Breslau"
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 5
 is_city = yes 
 base_manpower = 3
-add_core = POZ
+add_core = E21
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

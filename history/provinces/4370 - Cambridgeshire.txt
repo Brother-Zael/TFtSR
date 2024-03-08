@@ -1,7 +1,7 @@
 #4370 - Cambridgeshire
 #Includes Cambridgeshire+Huntingdonshire+Bedfordshire
-owner = SML
-controller = SML
+owner = A02
+controller = A02
 culture = english
 religion = lollard
 hre = no
@@ -11,7 +11,7 @@ trade_goods = cloth
 base_manpower = 2
 capital = "Cambridge"
 is_city = yes
-add_core = SML
+add_core = A02
 seat_in_parliament = yes
 discovered_by = western
 discovered_by = muslim

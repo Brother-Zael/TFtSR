@@ -1,6 +1,6 @@
 #131 - Zagorje
-owner = OTG
-controller = OTG
+owner = E42
+controller = E42
 culture = croatian
 religion = catholic
 capital = "Zagreb"
@@ -11,7 +11,7 @@ base_production = 3
 base_manpower = 1
 is_city = yes
 fort_15th = yes
-add_core = OTG
+add_core = E42
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

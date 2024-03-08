@@ -1,6 +1,6 @@
 #4542 - Lubnie
-owner = KYV
-controller = KYV
+owner = E30
+controller = E30
 culture = ruthenian
 religion = orthodox
 hre = no
@@ -11,7 +11,7 @@ base_manpower = 1
 capital = "Lubnie"
 is_city = yes
 #add_local_autonomy = 10
-add_core = KYV
+add_core = E30
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

@@ -1,6 +1,6 @@
 #2411 - Mansur
-owner = ZAO
-controller = ZAO
+owner = E29
+controller = E29
 culture = crimean
 religion = nestorian
 hre = no
@@ -10,7 +10,7 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Mansur"
 is_city = yes
-add_core = ZAO
+add_core = E29
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

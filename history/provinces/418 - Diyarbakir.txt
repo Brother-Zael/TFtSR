@@ -1,6 +1,6 @@
 #418 - Diyarbakir
-owner = AMD
-controller = AMD
+owner = E64
+controller = E64
 culture = kurdish
 religion = shiite
 capital = "Diyar Bekir"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = AMD
+add_core = E64
 discovered_by = east_african
 discovered_by = western
 discovered_by = muslim

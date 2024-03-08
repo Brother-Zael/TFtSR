@@ -1,6 +1,6 @@
 #279 - Rowne
-owner = GVL
-controller = GVL
+owner = E18
+controller = E18
 culture = ruthenian
 religion = orthodox
 hre = no
@@ -10,7 +10,7 @@ trade_goods = livestock
 base_manpower = 1
 capital = "Rowne"
 is_city = yes
-add_core = GVL
+add_core = E18
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

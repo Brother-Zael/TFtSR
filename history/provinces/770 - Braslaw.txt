@@ -1,7 +1,7 @@
 #770 - Braslaw
-owner = LIV
-controller = LIV
-add_core = LIV
+owner = E13
+controller = E13
+add_core = E13
 capital = "Breslauja"
 is_city = yes
 culture = lithuanian

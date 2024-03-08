@@ -1,6 +1,6 @@
 #4239 - Belgrade
-owner = OTG
-controller = OTG
+owner = E42
+controller = E42
 culture = serbian
 religion = orthodox
 capital = "Belgrade"
@@ -11,8 +11,8 @@ base_production = 4
 base_manpower = 2
 is_city = yes
 fort_15th = yes
-add_core = OTG
-add_core = SER
+add_core = E42
+add_core = E41
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #1853 - Kastoria
-owner = EPI
-controller = EPI
+owner = E46
+controller = E46
 culture = greek
 religion = orthodox
 capital = "Kastoria"
@@ -10,8 +10,8 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = MAC
-add_core = EPI
+add_core = E48
+add_core = E46
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

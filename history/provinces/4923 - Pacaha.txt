@@ -1,7 +1,7 @@
 # No previous file for Pacaha
-owner = PCH
-controller = PCH
-add_core = PCH
+owner = E69
+controller = E69
+add_core = E69
 is_city = yes
 culture = yoron
 religion = totemism

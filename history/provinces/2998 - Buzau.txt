@@ -1,6 +1,6 @@
 # - Buzau
-owner = MGY
-controller = MGY
+owner = E51
+controller = E51
 culture = romanian
 religion = orthodox
 capital = "Buzau"
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = MGY
+add_core = E51
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

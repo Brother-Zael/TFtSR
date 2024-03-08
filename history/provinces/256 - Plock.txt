@@ -1,6 +1,6 @@
 #256 - Plock
-owner = WRS
-controller = WRS
+owner = E19
+controller = E19
 capital = "Plock"
 is_city = yes
 culture = polish
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 fort_15th = yes
-add_core = WRS
+add_core = E19
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

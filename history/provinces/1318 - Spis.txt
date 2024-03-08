@@ -1,6 +1,6 @@
 #1318 - Spiš
-owner = SLO
-controller = SLO  
+owner = E38
+controller = E38  
 culture = slovak
 religion = orthodox
 capital = "Spiš"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = SLO
+add_core = E38
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

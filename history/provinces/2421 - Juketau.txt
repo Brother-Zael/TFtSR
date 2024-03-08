@@ -1,6 +1,6 @@
 #2421 - Juketau
-owner = BOL
-controller = BOL
+owner = E10
+controller = E10
 culture = kazani
 religion = tengri_pagan_reformed
 hre = no
@@ -10,7 +10,7 @@ trade_goods = grain
 base_manpower = 2
 capital = "Juketau"
 is_city = yes
-add_core = BOL
+add_core = E10
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

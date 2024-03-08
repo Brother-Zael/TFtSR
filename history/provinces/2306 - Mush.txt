@@ -1,6 +1,6 @@
 #2306 - Mush
-owner = KUR
-controller = KUR
+owner = E66
+controller = E66
 culture = armenian
 religion = coptic
 capital = "Mus"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = KUR
+add_core = E66
 discovered_by = east_african
 discovered_by = western
 discovered_by = muslim

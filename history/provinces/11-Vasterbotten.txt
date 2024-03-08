@@ -1,7 +1,7 @@
 #Västerbotten-Ångermanland, from Sundsvall/Härnösand over Umeå to Torneå
-owner = VST
-controller = VST
-add_core = VST
+owner = A08
+controller = A08
+add_core = A08
 culture = swedish
 religion = norse_pagan_reformed
 hre = no

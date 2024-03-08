@@ -1,7 +1,7 @@
 #373 - Meath
-owner = KIL
-controller = KIL
-add_core = KIL
+owner = A28
+controller = A28
+add_core = A28
 culture = irish
 religion = catholic
 hre = no

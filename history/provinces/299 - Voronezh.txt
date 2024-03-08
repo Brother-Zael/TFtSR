@@ -1,6 +1,6 @@
 #299 - Voronezh
-owner = YLT
-controller = YLT
+owner = E28
+controller = E28
 culture = mishary
 religion = nestorian
 hre = no
@@ -10,7 +10,7 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Voronezh"
 is_city = yes
-add_core = YLT
+add_core = E28
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

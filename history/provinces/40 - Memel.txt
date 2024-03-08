@@ -1,7 +1,7 @@
 #40 - Memel
-owner = TWG
-controller = TWG
-add_core = TWG
+owner = E16
+controller = E16
+add_core = E16
 culture = prussian
 religion = paganism
 capital = "Memel"

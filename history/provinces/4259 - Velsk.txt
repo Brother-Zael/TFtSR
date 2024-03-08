@@ -1,8 +1,8 @@
 #4259 - Velsk
 
-owner = LAD
-controller = LAD
-add_core = LAD
+owner = E02
+controller = E02
+add_core = E02
 culture = russian 
 religion = paganism
 hre = no

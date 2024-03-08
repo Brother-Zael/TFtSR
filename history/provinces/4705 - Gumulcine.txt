@@ -1,5 +1,5 @@
-owner = MAC
-controller = MAC
+owner = E48
+controller = E48
 culture = greek
 religion = orthodox
 capital = "Gumulcine"
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 3
 is_city = yes
-add_core = MAC
+add_core = E48
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

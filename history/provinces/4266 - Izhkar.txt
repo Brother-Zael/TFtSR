@@ -1,6 +1,6 @@
 #4266 - Izhkar
-owner = KAZ
-controller = KAZ
+owner = E07
+controller = E07
 capital = "Izhkar"
 culture = uralic
 religion = tengri_pagan_reformed #Sami Shamanism
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 2
 is_city = yes
-add_core = KAZ
+add_core = E07
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group

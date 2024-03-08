@@ -1,6 +1,6 @@
 #1955 - Kholmogory
-owner = VOL 
-controller = VOL 
+owner = E03 
+controller = E03 
 culture = novgorodian
 religion = paganism
 hre = no
@@ -10,7 +10,7 @@ trade_goods = fur
 base_manpower = 1
 capital = "Kholmogory"
 is_city = yes
-add_core = VOL
+add_core = E03
 discovered_by = eastern
 discovered_by = western
 extra_cost = 16

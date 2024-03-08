@@ -1,7 +1,7 @@
 #1771 - Erz
-owner = ZZK
-controller = ZZK
-add_core = ZZK
+owner = E40
+controller = E40
+add_core = E40
 capital = "Litomerice"
 culture = czech
 religion = hussite

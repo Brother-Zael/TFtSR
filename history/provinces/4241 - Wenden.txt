@@ -1,7 +1,7 @@
 #4241 - Wenden
-owner = LIV
-controller = LIV
-add_core = LIV
+owner = E13
+controller = E13
+add_core = E13
 culture = latvian
 religion = nestorian
 capital = "Wenden"

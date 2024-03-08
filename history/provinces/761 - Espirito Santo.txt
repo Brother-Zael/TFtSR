@@ -1,7 +1,7 @@
 #761 - Espirito Santo
-owner = TUA
-controller = TUA
-add_core = TUA
+owner = A25
+controller = A25
+add_core = A25
 culture = ge
 discovered_by = south_american
 religion = animism

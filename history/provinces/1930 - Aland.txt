@@ -1,7 +1,7 @@
 #Åland
-owner = OSL
-controller = OSL
-add_core = OSL
+owner = E12
+controller = E12
+add_core = E12
 culture = swedish
 religion = norse_pagan_reformed
 capital = "Mariehamn"

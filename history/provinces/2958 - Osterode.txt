@@ -1,7 +1,7 @@
 #2958 - Osterode
-owner = PMS
-controller = PMS
-add_core = PMS
+owner = E22
+controller = E22
+add_core = E22
 capital = "Osterode"
 culture = prussian
 religion = paganism

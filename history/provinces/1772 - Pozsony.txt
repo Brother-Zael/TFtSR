@@ -1,6 +1,6 @@
 #1772 - Pozsony
-owner = LOM
-controller = LOM
+owner = E37
+controller = E37
 culture = slovak
 religion = hussite
 capital = "Pressburg"
@@ -10,8 +10,8 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = LOM
-add_core = SLO
+add_core = E37
+add_core = E38
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

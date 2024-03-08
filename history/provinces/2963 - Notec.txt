@@ -1,6 +1,6 @@
 #254 - Notec
-owner = POZ
-controller = POZ
+owner = E21
+controller = E21
 capital = "Naklo"
 culture = polish
 religion = paganism
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = POZ
+add_core = E21
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

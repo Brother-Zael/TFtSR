@@ -1,7 +1,7 @@
 #4035 - Ngindo
-owner = KIL
-controller = KIL
-add_core = KIL
+owner = A28
+controller = A28
+add_core = A28
 culture = makua
 religion = shamanism #Fetishism
 trade_goods = livestock

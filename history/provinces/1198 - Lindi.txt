@@ -1,7 +1,7 @@
 #1198 - Lindi
-owner = KIL
-controller = KIL
-add_core = KIL
+owner = A28
+controller = A28
+add_core = A28
 culture = swahili
 religion = sunni
 capital = "Lindi"

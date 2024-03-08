@@ -1,6 +1,6 @@
 #281 - Podolia
-owner = GVL
-controller = GVL
+owner = E18
+controller = E18
 culture = ruthenian
 religion = orthodox
 hre = no
@@ -11,7 +11,7 @@ base_manpower = 2
 capital = "Kamieniec"
 is_city = yes
 fort_15th = yes
-add_core = GVL
+add_core = E18
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

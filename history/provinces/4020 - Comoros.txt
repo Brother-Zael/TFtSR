@@ -1,7 +1,7 @@
 #4020 - Comoros
-owner = KIL
-controller = KIL
-add_core = KIL
+owner = A28
+controller = A28
+add_core = A28
 culture = madagasque #Malagasy
 religion = sunni
 capital = "Ndzuwani"

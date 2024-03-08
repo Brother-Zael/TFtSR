@@ -1,7 +1,7 @@
 # 4745 - Rügen
-owner = JOM
-controller = JOM
-add_core = JOM
+owner = A06
+controller = A06
+add_core = A06
 culture = pommeranian
 religion = norse_pagan_reformed
 hre = yes

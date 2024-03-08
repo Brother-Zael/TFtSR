@@ -1,6 +1,6 @@
 #4247 - Owrucz, Chernobyl, etc.
-owner = SLU
-controller = SLU  
+owner = E17
+controller = E17  
 culture = ruthenian
 religion = orthodox
 hre = no
@@ -10,7 +10,7 @@ trade_goods = grain
 base_manpower = 1
 capital = "Ovruch"
 is_city = yes
-add_core = SLU
+add_core = E17
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

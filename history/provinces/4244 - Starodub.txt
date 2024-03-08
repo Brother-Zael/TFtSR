@@ -1,6 +1,6 @@
 #4244 - Trubchevsk (Trubchevsk+Starodub+Pochep)
-owner = TRB
-controller = TRB
+owner = E25
+controller = E25
 culture = ryazanian
 religion = nestorian 
 hre = no
@@ -11,7 +11,7 @@ base_manpower = 1
 add_local_autonomy = 50
 capital = "Trubchevsk"
 is_city = yes
-add_core = TRB
+add_core = E25
 discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group

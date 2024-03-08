@@ -1,7 +1,7 @@
 #273 - Latgalia / Inflanty Duchy
-owner = PSK
-controller = PSK
-add_core = PSK
+owner = E01
+controller = E01
+add_core = E01
 culture = latvian
 religion = paganism
 capital = "Dünaburg"

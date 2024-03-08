@@ -1,6 +1,6 @@
 #4536 - Lida
-owner = VIL
-controller = VIL
+owner = E15
+controller = E15
 religion = nestorian
 culture = lithuanian
 capital = "Lyda"
@@ -11,7 +11,7 @@ base_production = 2
 base_manpower = 2 
 is_city = yes
 #fort_15th = yes #Trakai Castles "Little Marienburg"
-add_core = VIL
+add_core = E15
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

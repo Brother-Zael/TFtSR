@@ -1,7 +1,7 @@
 #Ingermanland, incl. Ivangorod, Jama, and Kopore.
-owner = NYL
-controller = NYL
-add_core = NYL
+owner = A09
+controller = A09
+add_core = A09
 culture = novgorodian
 religion = norse_pagan_reformed
 hre = no

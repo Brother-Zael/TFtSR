@@ -1,7 +1,7 @@
 #Riga Bight, incl. the city of Riga, and Dünamünde.
-owner = RIG
-controller = RIG
-add_core = RIG
+owner = E14
+controller = E14
+add_core = E14
 culture = prussian
 religion = nestorian
 hre = no

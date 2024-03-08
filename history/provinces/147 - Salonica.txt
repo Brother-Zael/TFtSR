@@ -1,6 +1,6 @@
 #147 - Salonica
-owner = SOP
-controller = SOP
+owner = E49
+controller = E49
 culture = greek
 religion = orthodox
 capital = "Trikala"
@@ -10,8 +10,8 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 is_city = yes
-add_core = MAC
-add_core = SOP
+add_core = E48
+add_core = E49
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

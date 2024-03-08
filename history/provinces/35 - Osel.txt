@@ -1,7 +1,7 @@
 #Ösel and Dagö, incl. Sonnenburg and Arensburg.
-owner = OSL
-controller = OSL
-add_core = OSL
+owner = E12
+controller = E12
+add_core = E12
 culture = estonian
 religion = norse_pagan_reformed
 hre = no

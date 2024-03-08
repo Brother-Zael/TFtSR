@@ -1,7 +1,7 @@
 #245 - Yorkshire - East Riding
-owner = JOR
-controller = JOR
-add_core = JOR
+owner = A19
+controller = A19
+add_core = A19
 culture = english
 religion = norse_pagan_reformed
 hre = no

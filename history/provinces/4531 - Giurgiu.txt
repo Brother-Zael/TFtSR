@@ -1,6 +1,6 @@
 # Giurgiu
-owner = MGY
-controller = MGY  
+owner = E51
+controller = E51  
 culture = romanian
 religion = orthodox
 capital = "Giurgiu"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = MGY
+add_core = E51
 fort_15th = yes
 discovered_by = western
 discovered_by = eastern

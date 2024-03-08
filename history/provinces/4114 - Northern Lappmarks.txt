@@ -1,8 +1,8 @@
 #Lapland, the far north wastelands.
 
-owner = VST
-controller = VST
-add_core = VST
+owner = A08
+controller = A08
+add_core = A08
 culture = sapmi
 religion = paganism
 hre = no

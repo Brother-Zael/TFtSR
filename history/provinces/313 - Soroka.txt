@@ -1,7 +1,7 @@
 #313 - Soroka
-owner = KDN
-controller = KDN
-add_core = KDN
+owner = A11
+controller = A11
+add_core = A11
 culture = novgorodian
 religion = norse_pagan_reformed
 hre = no

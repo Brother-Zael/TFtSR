@@ -1,6 +1,6 @@
 #2959 - Tarnow
-owner = WRS
-controller = WRS
+owner = E19
+controller = E19
 capital = "Tarnów"
 culture = polish
 religion = orthodox
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = WRS
+add_core = E19
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

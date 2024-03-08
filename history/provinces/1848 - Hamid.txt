@@ -1,6 +1,6 @@
 #1848 - Hamid
-owner = THR
-controller = THR
+owner = E59
+controller = E59
 culture = turkish
 religion = orthodox
 capital = "Burdur"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = THR
+add_core = E59
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

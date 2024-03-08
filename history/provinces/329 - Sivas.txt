@@ -1,6 +1,6 @@
 #329 - Sivas
-owner = PCH
-controller = PCH
+owner = E69
+controller = E69
 culture = turkish
 religion = orthodox
 capital = "Sivas"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = PCH
+add_core = E69
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #289 - Chernigov
-owner = KYV
-controller = KYV  
+owner = E30
+controller = E30  
 culture = ryazanian
 religion = orthodox
 hre = no
@@ -10,7 +10,7 @@ trade_goods = iron
 base_manpower = 1
 capital = "Chernigov"
 is_city = yes
-add_core = KYV
+add_core = E30
 add_local_autonomy = 10
 discovered_by = western
 discovered_by = eastern

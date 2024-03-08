@@ -1,5 +1,5 @@
-owner = ZZK
-controller = ZZK
+owner = E40
+controller = E40
 capital = "Ostrava"
 culture = czech
 religion = hussite
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = ZZK
+add_core = E40
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

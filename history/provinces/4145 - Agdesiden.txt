@@ -1,8 +1,8 @@
 #Agdesiden (incl Lister Len, Mandals Len, Nedenes len and Råbyggelaget len)
-owner = NRG
-controller = NRG
-add_core = NRG
-add_core = SML
+owner = A16
+controller = A16
+add_core = A16
+add_core = A02
 culture = norwegian
 religion = norse_pagan_reformed
 hre = no

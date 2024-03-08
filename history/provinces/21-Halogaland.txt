@@ -1,8 +1,8 @@
 #Hålogaland, incl. Steig, Vågan, Trondenes, Andenes, Alstahaug
 
-owner = FNN
-controller = FNN
-add_core = FNN
+owner = A01
+controller = A01
+add_core = A01
 culture = norwegian
 religion = paganism
 hre = no

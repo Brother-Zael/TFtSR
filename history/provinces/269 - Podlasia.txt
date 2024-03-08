@@ -1,6 +1,6 @@
 #269 - Podlasia
-owner = WRS
-controller = WRS
+owner = E19
+controller = E19
 culture = polish
 religion = nestorian
 hre = no
@@ -10,7 +10,7 @@ base_production = 5
 base_manpower = 3
 capital = "Drohiczyn"
 is_city = yes
-add_core = WRS
+add_core = E19
 #fort_15th = yes
 discovered_by = western
 discovered_by = eastern

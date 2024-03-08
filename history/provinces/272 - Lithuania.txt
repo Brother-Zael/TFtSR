@@ -1,6 +1,6 @@
 #272 Lithuania
-owner = VIL
-controller = VIL
+owner = E15
+controller = E15
 capital = "Vilna"
 is_city = yes
 culture = lithuanian
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 fort_15th = yes #Vilnius Castle Complex
-add_core = VIL
+add_core = E15
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

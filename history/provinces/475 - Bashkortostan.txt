@@ -1,6 +1,6 @@
 #475 - Bashkortostan
-owner = KAZ
-controller = KAZ
+owner = E07
+controller = E07
 culture = bashkir
 religion = tengri_pagan_reformed
 capital = "Bashkort"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = KAZ
+add_core = E07
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman

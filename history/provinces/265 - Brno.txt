@@ -1,6 +1,6 @@
 #265 - Brno
-owner = ZZK
-controller = ZZK
+owner = E40
+controller = E40
 capital = "Brünn"
 culture = czech
 religion = hussite
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 #is_city = yes
-add_core = ZZK
+add_core = E40
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,6 +1,6 @@
 # Winnica / Vinnystia
-owner = ZAO
-controller = ZAO
+owner = E29
+controller = E29
 culture = ruthenian
 religion = orthodox
 hre = no
@@ -12,7 +12,7 @@ capital = "Vinnytsia"
 is_city = yes
 #fort_15th = yes #Bratslav Castle
 add_local_autonomy = 25
-add_core = ZAO
+add_core = E29
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

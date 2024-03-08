@@ -1,6 +1,6 @@
 #2302 - Içel
-owner = CIB
-controller = CIB
+owner = E61
+controller = E61
 culture = turkish
 religion = orthodox
 capital = "Ermenek"
@@ -11,7 +11,7 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 fort_15th = yes
-add_core = CIB
+add_core = E61
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

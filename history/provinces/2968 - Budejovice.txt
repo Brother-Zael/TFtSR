@@ -1,7 +1,7 @@
 # - Budejovice
-owner = ZZK
-controller = ZZK
-add_core = ZZK
+owner = E40
+controller = E40
+add_core = E40
 capital = "Budejovice"
 culture = czech
 religion = hussite

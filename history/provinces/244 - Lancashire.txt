@@ -1,7 +1,7 @@
 #244 - Lancashire
-owner = ANG
-controller = ANG
-add_core = ANG
+owner = A18
+controller = A18
+add_core = A18
 culture = english
 religion = lollard
 hre = no

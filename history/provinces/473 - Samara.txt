@@ -1,6 +1,6 @@
 #473 - Samara
-owner = STV
-controller = STV
+owner = E09
+controller = E09
 culture = kazani
 religion = nestorian
 capital = "Samara"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = STV
+add_core = E09
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group

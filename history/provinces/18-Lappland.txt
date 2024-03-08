@@ -1,8 +1,8 @@
 #Ume, Åsele, Piteå Lappmarks
 
-owner = VST
-controller = VST
-add_core = VST
+owner = A08
+controller = A08
+add_core = A08
 culture = sapmi
 religion = norse_pagan_reformed
 hre = no

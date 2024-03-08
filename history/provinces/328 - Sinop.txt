@@ -1,6 +1,6 @@
 #328 - Sinope
-owner = GEO
-controller = GEO
+owner = E67
+controller = E67
 culture = pontic_greek
 religion = orthodox
 capital = "Sinop"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = GEO
+add_core = E67
 fort_15th = yes
 discovered_by = western
 discovered_by = eastern

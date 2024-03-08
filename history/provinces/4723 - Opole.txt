@@ -1,5 +1,5 @@
-owner = POZ
-controller = POZ
+owner = E21
+controller = E21
 culture = schlesian
 religion = hussite
 hre = yes
@@ -9,7 +9,7 @@ capital = "Opole"
 is_city = yes
 trade_goods = grain
 base_manpower = 2
-add_core = POZ
+add_core = E21
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

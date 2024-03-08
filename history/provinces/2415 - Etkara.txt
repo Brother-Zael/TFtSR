@@ -1,6 +1,6 @@
 #2415 - Etkara
-owner = STV
-controller = STV
+owner = E09
+controller = E09
 culture = mishary
 religion = nestorian
 hre = no
@@ -10,7 +10,7 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Etkara"
 is_city = yes
-add_core = STV
+add_core = E09
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

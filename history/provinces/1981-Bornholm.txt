@@ -1,7 +1,7 @@
 #Bornholm
-add_core = LUN
-owner = LUN
-controller = LUN
+add_core = A05
+owner = A05
+controller = A05
 culture = danish
 religion = norse_pagan_reformed
 hre = no

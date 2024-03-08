@@ -1,6 +1,6 @@
 #2201 - Alania
-owner = ALA
-controller = ALA
+owner = E73
+controller = E73
 culture = circassian
 religion = zoroastrian
 capital = "Dzaudzhikau"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = ALA
+add_core = E73
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

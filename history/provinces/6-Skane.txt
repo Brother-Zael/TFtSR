@@ -1,9 +1,9 @@
 #Skåne
 #
-add_core = LUN
-add_core = DAN
-owner = LUN
-controller = LUN
+add_core = A05
+add_core = A13
+owner = A05
+controller = A05
 culture = danish
 religion = norse_pagan_reformed
 hre = no

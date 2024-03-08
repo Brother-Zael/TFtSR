@@ -1,6 +1,6 @@
 #330 - Trebizond
-owner = GEO
-controller = GEO
+owner = E67
+controller = E67
 culture = pontic_greek
 religion = coptic
 capital = "Trapezous"
@@ -11,7 +11,7 @@ base_production = 4
 base_manpower = 4
 is_city = yes
 fort_15th = yes #Trebizond Castle
-add_core = GEO
+add_core = E67
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

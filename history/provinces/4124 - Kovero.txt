@@ -1,7 +1,7 @@
 #4124 - North Karelia
-owner = KAR
-controller = KAR
-add_core = KAR
+owner = A10
+controller = A10
+add_core = A10
 culture = karelian
 religion = paganism
 hre = no

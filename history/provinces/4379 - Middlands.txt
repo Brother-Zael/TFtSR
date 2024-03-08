@@ -1,6 +1,6 @@
 #4379 - Offaly, Longford, Westmeath, Laois
-owner = KIL
-controller = KIL
+owner = A28
+controller = A28
 culture = irish
 religion = paganism
 hre = no
@@ -10,7 +10,7 @@ trade_goods = livestock
 base_manpower = 1
 capital = "Annaly"
 is_city = yes
-add_core = KIL
+add_core = A28
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

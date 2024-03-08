@@ -1,6 +1,6 @@
 #Turov
-owner = SLU
-controller = SLU 
+owner = E17
+controller = E17 
 culture = byelorussian
 religion = orthodox
 hre = no
@@ -10,7 +10,7 @@ trade_goods = wool
 base_manpower = 1
 capital = "Turov"
 is_city = yes
-add_core = SLU
+add_core = E17
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

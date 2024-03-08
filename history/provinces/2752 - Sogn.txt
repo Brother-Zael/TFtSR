@@ -1,7 +1,7 @@
 #Romsdal
-owner = NRG
-controller = NRG
-add_core = NRG
+owner = A16
+controller = A16
+add_core = A16
 culture = norwegian
 religion = norse_pagan_reformed
 hre = no

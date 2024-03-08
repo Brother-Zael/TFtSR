@@ -1,6 +1,6 @@
 # 4738 - Trieste
-owner = OTG
-controller = OTG
+owner = E42
+controller = E42
 culture = venetian 
 religion = catholic 
 hre = yes
@@ -10,7 +10,7 @@ trade_goods = fish
 base_manpower = 2    
 capital = "Trieste" 
 is_city = yes # Estimated
-add_core = OTG
+add_core = E42
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

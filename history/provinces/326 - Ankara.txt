@@ -1,6 +1,6 @@
 #326 - Ankara
-owner = PCH
-controller = PCH
+owner = E69
+controller = E69
 culture = turkish
 religion = orthodox
 capital = "Ankara"
@@ -11,7 +11,7 @@ base_production = 3
 base_manpower = 3
 is_city = yes
 fort_15th = yes
-add_core = PCH
+add_core = E69
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

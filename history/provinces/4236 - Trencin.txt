@@ -1,6 +1,6 @@
 #4236 - Trencin
-owner = ZZK
-controller = ZZK 
+owner = E40
+controller = E40 
 culture = slovak
 religion = orthodox
 capital = "Trencin"
@@ -11,7 +11,7 @@ base_production = 3
 base_manpower = 1
 is_city = yes
 fort_15th = yes #Trencin Castle
-add_core = ZZK
+add_core = E40
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

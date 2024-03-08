@@ -1,6 +1,6 @@
 #2303 - Malatya
-owner = AMD
-controller = AMD
+owner = E64
+controller = E64
 culture = turkish
 religion = coptic
 capital = "Malatiya"
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = AMD
+add_core = E64
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

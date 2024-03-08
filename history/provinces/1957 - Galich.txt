@@ -1,6 +1,6 @@
 #Galich
-owner = NIZ
-controller = NIZ
+owner = E06
+controller = E06
 capital = "Galich"
 culture = russian
 religion = nestorian
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 5 #Huge Salt Mine
 base_manpower = 2
 is_city = yes
-add_core = NIZ
+add_core = E06
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group

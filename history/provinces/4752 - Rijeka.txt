@@ -1,6 +1,6 @@
 #4752 - Rijeka
-owner = RIJ
-controller = RIJ
+owner = E43
+controller = E43
 culture = croatian
 religion = catholic
 capital = "Rijeka"
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = RIJ
+add_core = E43
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

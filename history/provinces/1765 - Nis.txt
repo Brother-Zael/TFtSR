@@ -1,6 +1,6 @@
 #1765 - Sofia
-owner = BSF
-controller = BSF
+owner = E47
+controller = E47
 culture = bulgarian
 religion = orthodox
 capital = "Sofia"
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = BSF
+add_core = E47
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

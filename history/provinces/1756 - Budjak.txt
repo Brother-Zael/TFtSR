@@ -1,6 +1,6 @@
 #1756 - Budjak
-owner = MGY
-controller = MGY
+owner = E51
+controller = E51
 culture = romanian
 religion = orthodox
 hre = no
@@ -11,7 +11,7 @@ is_city = yes
 trade_goods = wool
 base_manpower = 2
 fort_15th = yes #Akkerman Fortress
-add_core = MGY
+add_core = E51
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

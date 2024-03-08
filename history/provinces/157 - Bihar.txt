@@ -1,6 +1,6 @@
 #157 - Bihar
-owner = HNY
-controller = HNY 
+owner = E39
+controller = E39 
 culture = transylvanian
 religion = orthodox
 capital = "Oradea"
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = HNY
+add_core = E39
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

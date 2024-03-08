@@ -1,6 +1,6 @@
 #141 - Serbia
-owner = SER
-controller = SER
+owner = E41
+controller = E41
 culture = serbian
 religion = orthodox
 capital = "Smederevo"
@@ -11,8 +11,8 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 fort_15th = yes
-add_core = SER
-add_core = OTG
+add_core = E41
+add_core = E42
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

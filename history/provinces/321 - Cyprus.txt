@@ -1,6 +1,6 @@
 #321 - Cyprus
-owner = KNI
-controller = KNI
+owner = E58
+controller = E58
 culture = greek
 religion = orthodox
 capital = "Nicosia"
@@ -11,7 +11,7 @@ base_production = 6
 base_manpower = 3
 is_city = yes
 fort_15th = yes
-add_core = KNI
+add_core = E58
 discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group

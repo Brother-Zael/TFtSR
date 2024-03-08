@@ -1,6 +1,6 @@
 #136 - Split
-owner = DAL
-controller = DAL
+owner = E54
+controller = E54
 culture = dalmatian
 religion = catholic
 capital = "Split"
@@ -11,7 +11,7 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 fort_15th = yes # Klis Fortress
-add_core = DAL
+add_core = E54
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,7 +1,7 @@
 #273 - Livland
-owner = LIV
-controller = LIV
-add_core = LIV
+owner = E13
+controller = E13
+add_core = E13
 culture = latvian
 religion = norse_pagan_reformed
 capital = "Fellin"

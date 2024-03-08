@@ -1,6 +1,6 @@
 #Chelm
-owner = WRS
-controller = WRS  
+owner = E19
+controller = E19  
 culture = ruthenian
 religion = orthodox
 hre = no
@@ -10,7 +10,7 @@ trade_goods = wool
 base_manpower = 1
 capital = "Chelm"
 is_city = yes 
-add_core = WRS
+add_core = E19
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

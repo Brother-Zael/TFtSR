@@ -1,6 +1,6 @@
 #158 - Maros
-owner = HNY
-controller = HNY 
+owner = E39
+controller = E39 
 culture = transylvanian #Szeklers
 religion = orthodox
 capital = "Targu Mures"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = HNY
+add_core = E39
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

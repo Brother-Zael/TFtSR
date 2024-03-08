@@ -1,6 +1,6 @@
 #2202 - Melikates
-owner = YER
-controller = YER
+owner = E68
+controller = E68
 culture = armenian
 religion = zoroastrian
 capital = "Khankendi"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = YER
+add_core = E68
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

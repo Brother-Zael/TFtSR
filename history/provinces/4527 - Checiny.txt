@@ -1,6 +1,6 @@
 #4527 - Checiny
-owner = KRA
-controller = KRA
+owner = E20
+controller = E20
 capital = "Checiny"
 culture = polish
 religion = orthodox
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = KRA
+add_core = E20
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #1773 - Achaea
-owner = MOR
-controller = MOR
+owner = E50
+controller = E50
 culture = greek
 religion = orthodox
 capital = "Nafplio"
@@ -10,8 +10,8 @@ base_tax = 2
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = MOR
-add_core = MAC
+add_core = E50
+add_core = E48
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

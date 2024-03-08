@@ -1,6 +1,6 @@
 #4526 - Gniezno
-owner = POZ
-controller = POZ
+owner = E21
+controller = E21
 culture = polish
 religion = paganism
 capital = "Gniezno"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = POZ
+add_core = E21
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,7 +1,7 @@
 #Nordjylland incl. Aalborg, Hjorring, Thisted, and Viborg
-owner = DAN
-controller = DAN
-add_core = DAN
+owner = A13
+controller = A13
+add_core = A13
 culture = danish
 religion = norse_pagan_reformed
 hre = no

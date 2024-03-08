@@ -2,7 +2,7 @@
 owner = FRL
 controller = FRL
 add_core = FRL
-add_core = LUN
+add_core = A05
 culture = pommeranian
 religion = norse_pagan_reformed
 hre = yes

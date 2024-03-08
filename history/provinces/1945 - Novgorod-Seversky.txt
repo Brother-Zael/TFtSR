@@ -1,6 +1,6 @@
 #Severia
-owner = KSK
-controller = KSK 
+owner = E27
+controller = E27 
 culture = ryazanian
 religion = orthodox
 hre = no
@@ -10,7 +10,7 @@ trade_goods = iron
 base_manpower = 1
 capital = "Novgorod-Seversky"
 is_city = yes
-add_core = KSK
+add_core = E27
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
