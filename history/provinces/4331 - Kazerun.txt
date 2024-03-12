@@ -1,6 +1,6 @@
 #4331 - Kazerun
-owner = KZR
-controller = KZR
+owner = L12
+controller = L12
 culture = luri
 religion = zoroastrian
 capital = "Kazerun"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = KZR
+add_core = L12
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

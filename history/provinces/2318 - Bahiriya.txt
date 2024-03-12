@@ -1,7 +1,7 @@
 #2318 - Bahariya
-owner = BHY
-controller = BHY #Local Badawin in control
-add_core = BHY
+owner = L03
+controller = L03 #Local Badawin in control
+add_core = L03
 culture = al_misr_arabic
 religion = kharijite
 capital = "el Qasr"

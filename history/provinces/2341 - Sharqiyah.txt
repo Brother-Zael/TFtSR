@@ -1,6 +1,6 @@
 #2341 - Sharqiyah
-owner = MSR
-controller = MSR
+owner = L21
+controller = L21
 culture = omani_culture
 religion = ibadi
 capital = "Masirah"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = MSR
+add_core = L21
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

@@ -1,6 +1,6 @@
 #4172 - Jawf
-owner = UMY
-controller = UMY
+owner = L00
+controller = L00
 culture = bedouin_arabic
 religion = sunni
 capital = "Karah"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 is_city = yes
-add_core = UMY
+add_core = L00
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

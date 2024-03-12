@@ -1,6 +1,6 @@
 #400 - Muscat
-owner = MUS
-controller = MUS
+owner = L20
+controller = L20
 culture = omani_culture
 religion = ibadi
 capital = "Masqat"
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 1
 is_city = yes
-add_core = MUS
+add_core = L20
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

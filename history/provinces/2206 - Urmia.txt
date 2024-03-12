@@ -1,6 +1,6 @@
 #2035 - Urmia
-owner = MOS
-controller = MOS
+owner = L06
+controller = L06
 culture = kurdish
 religion = shiite
 capital = "Urmiyeh"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = MOS
+add_core = L06
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

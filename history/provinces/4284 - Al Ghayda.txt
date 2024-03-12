@@ -1,6 +1,6 @@
 #4284 - Al Gaydah
-owner = MHR
-controller = MHR
+owner = L22
+controller = L22
 culture = mahri_culture
 religion = sunni
 capital = "Al Ghaydah"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = MHR
+add_core = L22
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

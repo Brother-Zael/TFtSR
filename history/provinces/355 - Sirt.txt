@@ -1,6 +1,6 @@
 #355 - Sirt
-owner = BGZ
-controller = BGZ
+owner = L05
+controller = L05
 culture = tunisian
 religion = kharijite
 capital = "Ben Jawad"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = BGZ
+add_core = L05
 add_local_autonomy = 25
 discovered_by = western
 discovered_by = muslim

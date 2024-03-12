@@ -1,6 +1,6 @@
 #360 - Qus & Qena
-owner = QUS
-controller = QUS
+owner = L04
+controller = L04
 culture = al_misr_arabic
 religion = sunni
 capital = "Qus"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = QUS
+add_core = L04
 add_local_autonomy = 50 #Under local Tribes controlled by the Mamluks.
 discovered_by = western
 discovered_by = muslim

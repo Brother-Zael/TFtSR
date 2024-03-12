@@ -1,7 +1,7 @@
 #2999 - Hormuz
-owner = BUY
-controller = BUY
-add_core = BUY
+owner = L16
+controller = L16
+add_core = L16
 capital = "Hormuz"
 culture = gulf_arabic
 religion = kharijite

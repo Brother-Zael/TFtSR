@@ -1,6 +1,6 @@
 #388 - Aden
-owner = HMY #Tahirids
-controller = HMY #Tahirids
+owner = L23 #Tahirids
+controller = L23 #Tahirids
 culture = yemeni_culture
 religion = jewish
 capital = "Aden"
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = HMY
+add_core = L23
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

@@ -1,6 +1,6 @@
 #1854 - Negev
-owner = UMY
-controller = UMY
+owner = L00
+controller = L00
 culture = al_suryah_arabic
 religion = shiite
 capital = "Nablus"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = UMY
+add_core = L00
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

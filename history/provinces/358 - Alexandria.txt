@@ -1,6 +1,6 @@
 #358 - Alexandria
-owner = FAT
-controller = FAT
+owner = L01
+controller = L01
 culture = al_misr_arabic
 religion = sunni
 capital = "Al Iskandirya"
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = FAT
+add_core = L01
 fort_15th = yes
 discovered_by = western
 discovered_by = muslim

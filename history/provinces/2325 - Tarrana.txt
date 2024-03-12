@@ -1,6 +1,6 @@
 #2325 - Tarrana
-owner = BDY
-controller = BDY
+owner = L02
+controller = L02
 culture = al_misr_arabic
 religion = kharijite
 capital = "Marsa Matruh"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = BDY
+add_core = L02
 add_local_autonomy = 50
 discovered_by = western
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #4392 - Mardin
-owner = UMY
-controller = UMY
+owner = L00
+controller = L00
 culture = kurdish
 religion = sunni
 capital = "Mardin"
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 3
 is_city = yes
-add_core = UMY
+add_core = L00
 discovered_by = east_african
 discovered_by = western
 discovered_by = muslim

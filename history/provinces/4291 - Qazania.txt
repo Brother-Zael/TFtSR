@@ -1,6 +1,6 @@
 #4391 - Qazaniya
-owner = QAZ
-controller = QAZ
+owner = L09
+controller = L09
 culture = al_iraqiya_arabic
 religion = shiite
 capital = "Qazaniya"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = QAZ
+add_core = L09
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

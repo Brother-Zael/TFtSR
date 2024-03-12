@@ -1,6 +1,6 @@
 #356 - Cyrenaica
-owner = BGZ
-controller = BGZ
+owner = L05
+controller = L05
 culture = al_misr_arabic
 religion = sunni
 capital = "Benghazi"
@@ -11,7 +11,7 @@ base_production = 2
 base_manpower = 2
 add_local_autonomy = 50
 is_city = yes
-add_core = BGZ
+add_core = L05
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

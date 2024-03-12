@@ -1,7 +1,7 @@
 #2321 - Queseer
-owner = FAT
-controller = FAT
-add_core = FAT
+owner = L01
+controller = L01
+add_core = L01
 culture = al_misr_arabic
 religion = sunni
 capital = "Al Qusair"

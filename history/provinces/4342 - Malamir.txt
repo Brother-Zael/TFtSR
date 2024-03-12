@@ -1,6 +1,6 @@
 #4342 - Malamir
-owner = IZE
-controller = IZE
+owner = L11
+controller = L11
 culture = luri
 religion = shiite
 capital = "Malamir"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = IZE
+add_core = L11
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

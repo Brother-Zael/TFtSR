@@ -1,6 +1,6 @@
 #395 - Qatar
-owner = ABS
-controller = ABS
+owner = L15
+controller = L15
 culture = gulf_arabic
 religion = kharijite
 capital = "Qatar"
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = ABS
+add_core = L15
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

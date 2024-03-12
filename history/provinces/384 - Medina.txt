@@ -1,6 +1,6 @@
 #384 - Medina
-owner = UMY
-controller = UMY
+owner = L00
+controller = L00
 culture = hejazi_culture
 religion = sunni
 capital = "Medina"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = UMY
+add_core = L00
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western

@@ -1,6 +1,6 @@
 #2345 - Beihan
-owner = HMY #Tahirids
-controller = HMY #Tahirids
+owner = L23 #Tahirids
+controller = L23 #Tahirids
 culture = yemeni_culture
 religion = shiite
 capital = "Beihan"
@@ -10,8 +10,8 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = HMY #Tahirids
-add_core = HMY
+add_core = L23 #Tahirids
+add_core = L23
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

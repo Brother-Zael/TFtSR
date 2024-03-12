@@ -1,6 +1,6 @@
 #4285 - Al Baraimi Oasis
-owner = BUY
-controller = BUY
+owner = L16
+controller = L16
 culture = omani_culture
 religion = ibadi
 capital = "Ibri"
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 2
 is_city = yes
-add_core = BUY
+add_core = L16
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

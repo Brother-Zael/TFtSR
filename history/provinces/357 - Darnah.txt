@@ -1,6 +1,6 @@
 #357 - Libya
-owner = BDY
-controller = BDY
+owner = L02
+controller = L02
 culture = al_misr_arabic
 religion = sunni
 capital = "Derna"
@@ -11,7 +11,7 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_local_autonomy = 50
-add_core = BDY
+add_core = L02
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

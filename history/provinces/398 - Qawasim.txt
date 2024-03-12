@@ -1,6 +1,6 @@
 #398 - Qawasim
-owner = BUY
-controller = BUY
+owner = L16
+controller = L16
 culture = gulf_arabic
 religion = kharijite
 capital = "Sharjah"
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = BUY
+add_core = L16
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
