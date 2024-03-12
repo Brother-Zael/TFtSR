@@ -1,7 +1,7 @@
 # 65 - München
-owner = RTI
-controller = RTI
-add_core = RTI
+owner = A68
+controller = A68
+add_core = A68
 culture = bavarian
 religion = catholic
 base_tax = 6 

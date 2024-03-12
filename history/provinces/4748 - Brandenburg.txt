@@ -1,7 +1,7 @@
 # 4748 - Brandenburg
-owner = SBI
-controller = SBI
-add_core = SBI
+owner = A72
+controller = A72
+add_core = A72
 culture = saxon
 religion = norse_pagan_reformed
 hre = yes

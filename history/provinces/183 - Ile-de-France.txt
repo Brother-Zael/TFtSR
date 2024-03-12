@@ -1,6 +1,6 @@
 # 183 Île-de-France - Principal cities: Paris
-owner = LTT
-controller = LTT
+owner = A40
+controller = A40
 capital = "Paris"
 is_city = yes
 culture = cosmopolitan_french
@@ -10,7 +10,7 @@ base_tax = 8
 base_production = 8
 trade_goods = paper
 base_manpower = 7
-add_core = LTT
+add_core = A40
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

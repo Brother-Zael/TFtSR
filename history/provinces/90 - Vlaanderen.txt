@@ -1,8 +1,8 @@
 # 90 Vlaanderen - Principal cities: Brugge
 
-owner = OLH
-controller = OLH
-add_core = OLH
+owner = A36
+controller = A36
+add_core = A36
 is_city = yes
 capital = "Brugge"
 culture = flemish

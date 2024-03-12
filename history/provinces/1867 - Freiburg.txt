@@ -1,6 +1,6 @@
 #1867 - Freiburg
-owner = LUG
-controller = LUG
+owner = A50
+controller = A50
 culture = swiss
 religion = catholic
 capital = "Lausanne"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = LUG
+add_core = A50
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

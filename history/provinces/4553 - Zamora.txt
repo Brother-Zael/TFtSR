@@ -1,7 +1,7 @@
 #4553 - Zamora
-owner = AUS		#Juan II of Castille
-controller = AUS
-add_core = AUS
+owner = A84		#Juan II of Castille
+controller = A84
+add_core = A84
 culture = leonese
 religion = catholic
 hre = no

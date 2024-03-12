@@ -1,6 +1,6 @@
-owner = ALM
-controller = ALM
-add_core = ALM
+owner = A74
+controller = A74
+add_core = A74
 capital = "Wiesbaden"
 trade_goods = copper
 hre = yes

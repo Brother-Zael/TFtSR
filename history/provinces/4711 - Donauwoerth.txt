@@ -1,5 +1,5 @@
-owner = RTS
-controller = RTS
+owner = A67
+controller = A67
 capital = "Nördlingen"
 is_city = yes
 culture = swabian
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 trade_goods = grain
-add_core = RTS
+add_core = A67
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

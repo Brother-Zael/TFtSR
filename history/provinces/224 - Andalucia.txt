@@ -1,7 +1,7 @@
 #224 - Andalucía
-owner = TSL	#Juan II of Castille
-controller = TSL
-add_core = TSL
+owner = A96	#Juan II of Castille
+controller = A96
+add_core = A96
 culture = andalucian
 religion = catholic
 hre = no

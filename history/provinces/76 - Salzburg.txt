@@ -1,6 +1,6 @@
 #76 - Salzburg
-owner = NRI
-controller = NRI 
+owner = A70
+controller = A70 
 culture = bavarian
 religion = catholic
 capital = "Salzburg"
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 4
 is_city = yes
-add_core = NRI
+add_core = A70
 center_of_trade = 1
 discovered_by = eastern
 discovered_by = western

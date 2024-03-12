@@ -1,7 +1,7 @@
 #1749 - Cadiz
-owner = TSL		#Enrique III of Castille
-controller = TSL
-add_core = TSL
+owner = A96		#Enrique III of Castille
+controller = A96
+add_core = A96
 culture = andalucian
 religion = catholic
 hre = no

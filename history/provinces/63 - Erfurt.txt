@@ -1,6 +1,6 @@
 #63 - Erfurt
-owner = ALM
-controller = ALM
+owner = A74
+controller = A74
 culture = saxon
 religion = norse_pagan_reformed
 capital = "Erfurt"
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = ALM
+add_core = A74
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -20,6 +20,7 @@ A13	= "countries/Daneland.txt"
 A14	= "countries/Finland.txt"
 A15 = "countries/Uppland.txt"
 A16	= "countries/Norvegr.txt"
+
 A17	= "countries/Scandinavia.txt"
 
 #Russia and Urals
@@ -33,6 +34,7 @@ E07 = "countries/Kazan.txt"
 E08 = "countries/Tambov.txt"
 E09 = "countries/Saratov.txt"
 E10 = "countries/Bolgaria.txt"
+
 E11	= "countries/Russia.txt"
 
 #Eastern Europe (Baltic, Poland, Ruthenia)
@@ -131,78 +133,78 @@ A34	= "countries/GreatBritannia.txt"
 # TO DO LATER
 
 #Gaul & Aquitania 
-NRM = "countries/Normandy.txt"
-OLH = "countries/Olegheim.txt"
-BRI	= "countries/Brittany.txt"
-SUI = "countries/Suindinum.txt"
-GNB = "countries/Genabum.txt"
-LTT = "countries/Lutetia.txt"
-DOR = "countries/Durocortorum.txt"
-GLG = "countries/GallicLegion.txt"
-ARM = "countries/AugustaRauracorum.txt"
-AOD = "countries/Augustodunum.txt"
-LMN = "countries/Limonum.txt"
-BRD = "countries/Burdigala.txt"
-VES = "countries/Vesunna.txt"
-ARG = "countries/Argentomagus.txt"
-CBL = "countries/Cabillonum.txt"
-LUG = "countries/Lugdunum.txt"
-VIE = "countries/Vienna.txt" # This is roman vienna, in gaul, north of modern provence.
-DIV = "countries/Divona.txt"
-TOL = "countries/Tolosa.txt"
-SGN = "countries/Segodunum.txt"
-NRB = "countries/NarboMartius.txt"
-NMS = "countries/Nemausus.txt"
-ARE = "countries/Arelate.txt"
-ASX = "countries/AquaeSextiae.txt"
+A35 = "countries/Normandy.txt"
+A36 = "countries/Olegheim.txt"
+A37	= "countries/Brittany.txt"
+A38 = "countries/Suindinum.txt"
+A39 = "countries/Genabum.txt"
+A40 = "countries/Lutetia.txt"
+A41 = "countries/Durocortorum.txt"
+A42 = "countries/GallicLegion.txt"
+A43 = "countries/AugustaRauracorum.txt"
+A44 = "countries/Augustodunum.txt"
+A45 = "countries/Limonum.txt"
+A46 = "countries/Burdigala.txt"
+A47 = "countries/Vesunna.txt"
+A48 = "countries/Argentomagus.txt"
+A49 = "countries/Cabillonum.txt"
+A50 = "countries/Lugdunum.txt"
+A51 = "countries/Vienna.txt" # This is roman vienna, in gaul, north of modern provence.
+A52 = "countries/Divona.txt"
+A53 = "countries/Tolosa.txt"
+A54 = "countries/Segodunum.txt"
+A55 = "countries/NarboMartius.txt"
+A56 = "countries/Nemausus.txt"
+A57 = "countries/Arelate.txt"
+A58 = "countries/AquaeSextiae.txt"
 
-LGD = "countries/Lugdunensis.txt" # formable of north/northeast gaul
-NBI = "countries/Narbonensis.txt" # formable of the med coast of gaul/tolouse
-AQU = "countries/Aquitania.txt" # formable of the west/sw and pacific coast of gaul.
-GAL = "countries/Gaul.txt" #formable for any independent non-norse roman or barbarian tech for all of gaul. removes from HRE. meb 3-5 religion-dependent mission and the rest for any religion.
-KRK = "countries/Kelterike.txt" # formable for any norse religion for all of gaul.
+A59 = "countries/Lugdunensis.txt" # formable of north/northeast gaul
+A60 = "countries/Narbonensis.txt" # formable of the med coast of gaul/tolouse
+A61 = "countries/Aquitania.txt" # formable of the west/sw and pacific coast of gaul.
+A62 = "countries/Gaul.txt" #formable for any independent non-norse roman or barbarian tech for all of gaul. removes from HRE. meb 3-5 religion-dependent mission and the rest for any religion.
+A63 = "countries/Kelterike.txt" # formable for any norse religion for all of gaul.
 
 #Germania
-GRP = "countries/GermaniaProconsular.txt"
-ART = "countries/Argentorate.txt"
-GRS = "countries/GermaniaSuperior.txt"
-RTS = "countries/RhaetiaSuperior.txt"
-RTI = "countries/RhaetiaInferior.txt"
-NRS = "countries/NoricumSuperior.txt"
-NRI = "countries/NoricumInferior.txt"
-RGM = "countries/Regensmarch.txt"
-SBI = "countries/Suebii.txt"
-CHR = "countries/Cherusci.txt"
-ALM = "countries/Alamannia.txt"
-SAX	= "countries/Saxony.txt"
-ANH = "countries/Anhalt.txt"
+A64 = "countries/GermaniaProconsular.txt"
+A65 = "countries/Argentorate.txt"
+A66 = "countries/GermaniaSuperior.txt"
+A67 = "countries/RhaetiaSuperior.txt"
+A68 = "countries/RhaetiaInferior.txt"
+A69 = "countries/NoricumSuperior.txt"
+A70 = "countries/NoricumInferior.txt"
+A71 = "countries/Regensmarch.txt"
+A72 = "countries/Suebii.txt"
+A73 = "countries/Cherusci.txt"
+A74 = "countries/Alamannia.txt"
+A75	= "countries/Saxony.txt"
+A76 = "countries/Anhalt.txt"
 
-DIU = "countries/Diutiscia.txt" # Non-roman cultural tag for north germany.
-GPM = "countries/GermaniaPrimus.txt" # Formable for roman tech or christians with romano-german or germanic cultures. Roughly analogous to Lotharingia/Middle Frankia.
-RHT = "countries/Rhaetia.txt" # Formable for tags with Rhaetia as primary culture.
-NCM = "countries/Noricum.txt" # Formable for tags with Noric as primary culture, or in the romano-slovene culture group. "Producer of Roman Weaponry"
+A77 = "countries/Diutiscia.txt" # Non-roman cultural tag for north germany.
+A78 = "countries/GermaniaPrimus.txt" # Formable for roman tech or christians with romano-german or germanic cultures. Roughly analogous to Lotharingia/Middle Frankia.
+A79 = "countries/Rhaetia.txt" # Formable for tags with Rhaetia as primary culture.
+A80 = "countries/Noricum.txt" # Formable for tags with Noric as primary culture, or in the romano-slovene culture group. "Producer of Roman Weaponry"
 
-POM	= "countries/Pommerania.txt" #releasable
-SIL	= "countries/Silesia.txt" # releasable
+A81	= "countries/Pommerania.txt" #releasable
+A82	= "countries/Silesia.txt" # releasable
 	
 #Hispania
-BRG = "countries/Brigantium.txt"
-AUS = "countries/Austurica.txt"
-OLS = "countries/Olisipo.txt"
-ALC = "countries/Alcantara.txt"
-CTC = "countries/Celtici.txt"
-EVO = "countries/Evora.txt"
-PXJ = "countries/PaxJulia.txt"
-TDT = "countries/Turdetani.txt"
-SLM = "countries/Salamantica.txt"
-VAC = "countries/Vaccaei.txt"                 # Important Theocracy, maybe change name
-TLT = "countries/Toletum.txt"
-LSS = "countries/Libisosa.txt"
-CRD = "countries/Cordoba.txt"
-TSL = "countries/TheSouthernLeague.txt"
-MLA = "countries/Malaca.txt"
-URC = "countries/Urci.txt"
-CRN = "countries/CartagoNova.txt"
+A83 = "countries/Brigantium.txt"
+A84 = "countries/Austurica.txt"
+A85 = "countries/Olisipo.txt"
+A86 = "countries/Alcantara.txt"
+A87 = "countries/Celtici.txt"
+A88 = "countries/Evora.txt"
+A89 = "countries/PaxJulia.txt"
+A90 = "countries/Turdetani.txt"
+A91 = "countries/Salamantica.txt"
+A92 = "countries/Vaccaei.txt"                 # Important Theocracy, maybe change name
+A93 = "countries/Toletum.txt"
+A94 = "countries/Libisosa.txt"
+A95 = "countries/Cordoba.txt"
+A96 = "countries/TheSouthernLeague.txt"
+A97 = "countries/Malaca.txt"
+A98 = "countries/Urci.txt"
+A99 = "countries/CartagoNova.txt"
 VAL = "countries/Valentia.txt"               # Trade City under TSL?
 SBG = "countries/Segobriga.txt"
 CPM = "countries/Complutum.txt"

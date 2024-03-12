@@ -1,7 +1,7 @@
 # 94 Luxembourg - Principal cities: Luxembourg
-owner = DOR
-controller = DOR
-add_core = DOR 
+owner = A41
+controller = A41
+add_core = A41 
 capital = "Luxemburg"
 is_city = yes
 culture = wallonian
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 5
 trade_goods = iron
 base_manpower = 2
-add_core = DOR
+add_core = A41
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

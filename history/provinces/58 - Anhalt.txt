@@ -1,6 +1,6 @@
 #58 - Anhalt
-owner = ANH
-controller = ANH 
+owner = A76
+controller = A76 
 culture = saxon
 religion = catholic
 capital = "Dessau"
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = ANH
+add_core = A76
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

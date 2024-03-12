@@ -1,6 +1,6 @@
 #231 - Porto
-owner = OLS
-controller = OLS
+owner = A85
+controller = A85
 culture = portugese
 religion = cathar
 capital = "Porto"
@@ -10,7 +10,7 @@ base_tax = 7
 base_production = 7
 base_manpower = 5
 is_city = yes
-add_core = OLS
+add_core = A85
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

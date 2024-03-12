@@ -1,5 +1,5 @@
-owner = DOR
-controller = DOR
+owner = A41
+controller = A41
 culture = hessian
 religion = catholic
 trade_goods = grain
@@ -7,7 +7,7 @@ capital = "Trier"
 base_tax = 5
 base_production = 5
 is_city = yes
-add_core = DOR
+add_core = A41
 base_manpower = 2
 hre = yes
 discovered_by = eastern

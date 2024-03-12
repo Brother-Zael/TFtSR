@@ -1,8 +1,8 @@
 # 88 Artois - Principal cities: Arras, Saint-Omer & Lille
 
-owner = OLH
-controller = OLH
-add_core = OLH
+owner = A36
+controller = A36
+add_core = A36
 capital = "Arras"
 is_city = yes
 culture = wallonian

@@ -1,6 +1,6 @@
 # 200 Languedoc - Principal cities: Montpellier
-owner = NMS
-controller = NMS
+owner = A56
+controller = A56
 capital = "Montpellier"
 is_city = yes
 culture = occitain
@@ -10,7 +10,7 @@ base_tax = 6
 base_production = 5
 trade_goods = cloth
 base_manpower = 5
-add_core = NMS
+add_core = A56
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

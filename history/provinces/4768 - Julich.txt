@@ -1,6 +1,6 @@
 # 4769 - Jülich
-owner = DOR
-controller = DOR
+owner = A41
+controller = A41
 culture = hessian
 religion = catholic
 trade_goods = grain
@@ -8,7 +8,7 @@ capital = "Jülich"
 base_tax = 3
 base_production = 3
 is_city = yes
-add_core = DOR
+add_core = A41
 base_manpower = 2
 hre = yes
 discovered_by = eastern

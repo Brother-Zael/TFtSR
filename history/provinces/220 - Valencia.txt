@@ -1,7 +1,7 @@
 #220 - València
-owner = TSL	#Alfons V of Aragon
-controller = TSL
-add_core = TSL
+owner = A96	#Alfons V of Aragon
+controller = A96
+add_core = A96
 culture = catalan
 religion = catholic
 hre = no

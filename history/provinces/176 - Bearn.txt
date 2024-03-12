@@ -1,6 +1,6 @@
 # 176 Béarn - Principal cities: Pau
-owner = BRD
-controller = BRD
+owner = A46
+controller = A46
 capital = "Pau"
 is_city = yes
 culture = gascon
@@ -10,4 +10,4 @@ base_tax = 4
 base_production = 4
 trade_goods = wool
 base_manpower = 4
-add_core = BRD
+add_core = A46

@@ -1,6 +1,6 @@
 #1871 - Wallis
-owner = LUG
-controller = LUG
+owner = A50
+controller = A50
 culture = swiss
 religion = catholic
 capital = "Sion"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = LUG
+add_core = A50
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

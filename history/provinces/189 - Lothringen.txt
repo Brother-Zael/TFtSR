@@ -1,6 +1,6 @@
 # 189 Lothringen - Principal cities: Nancy
-owner = GLG
-controller = GLG 
+owner = A42
+controller = A42 
 capital = "Nancy"
 is_city = yes
 culture = burgundian
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 5
 trade_goods = iron
 base_manpower = 5
-add_core = GLG
+add_core = A42
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

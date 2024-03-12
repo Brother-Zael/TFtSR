@@ -1,7 +1,7 @@
 #221 - Murcia
-owner = CRN		# Juan II of Castille
-controller = CRN
-add_core = CRN
+owner = A99		# Juan II of Castille
+controller = A99
+add_core = A99
 culture = andalucian
 religion = fraticelli 
 hre = no

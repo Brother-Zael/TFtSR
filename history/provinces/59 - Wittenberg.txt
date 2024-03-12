@@ -1,6 +1,6 @@
 #59 - Wittenberg
-owner = SBI
-controller = SBI
+owner = A72
+controller = A72
 culture = saxon
 religion = norse_pagan_reformed
 capital = "Wittenberg"
@@ -10,8 +10,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = SBI
-add_core = SAX
+add_core = A72
+add_core = A75
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

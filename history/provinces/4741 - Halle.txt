@@ -1,8 +1,8 @@
 # 4741 - Halle
-owner = ANH
-controller = ANH
-add_core = ANH
-add_core = CHR
+owner = A76
+controller = A76
+add_core = A76
+add_core = A73
 culture = saxon
 religion = norse_pagan_reformed
 hre = yes

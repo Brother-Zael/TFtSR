@@ -1,5 +1,5 @@
-owner = RGM
-controller = RGM
+owner = A71
+controller = A71
 capital = "Passau"
 is_city = yes
 culture = bavarian
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 1
 trade_goods = salt
-add_core = RGM
+add_core = A71
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

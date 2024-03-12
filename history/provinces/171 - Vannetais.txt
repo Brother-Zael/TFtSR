@@ -1,6 +1,6 @@
 # 171 - Vannetais
-owner = BRI
-controller = BRI 
+owner = A37
+controller = A37 
 capital = "Vannes"
 is_city = yes
 culture = breton
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 trade_goods = fish
 base_manpower = 3
-add_core = BRI
+add_core = A37
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

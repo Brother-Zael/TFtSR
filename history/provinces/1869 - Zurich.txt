@@ -1,6 +1,6 @@
 #1869 - Zurich
-owner = GRS
-controller = GRS
+owner = A66
+controller = A66
 culture = swiss
 religion = catholic
 capital = "Zürich"
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = GRS
+add_core = A66
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,7 +1,7 @@
 #218 - Badajoz
-owner = EVO		#Juan II of Castille
-controller = EVO
-add_core = EVO
+owner = A88		#Juan II of Castille
+controller = A88
+add_core = A88
 culture = andalucian
 religion = catholic
 hre = no

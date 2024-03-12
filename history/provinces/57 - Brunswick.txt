@@ -1,6 +1,6 @@
 #57 - Brunswick
-owner = CHR
-controller = CHR
+owner = A73
+controller = A73
 culture = lower_saxon
 religion = norse_pagan_reformed
 capital = "Braunschweig"
@@ -11,7 +11,7 @@ base_production = 3
 base_manpower = 3
 is_city = yes
 fort_15th = yes #Strong City Fortifications
-add_core = CHR
+add_core = A73
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

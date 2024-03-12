@@ -1,5 +1,5 @@
-owner = ALM
-controller = ALM
+owner = A74
+controller = A74
 culture = hessian
 religion = catholic
 trade_goods = grain
@@ -8,7 +8,7 @@ base_tax = 4
 base_production = 4
 is_city = yes
 fort_15th = yes #Eltz & Stolzenfels Castles
-add_core = ALM
+add_core = A74
 base_manpower = 2
 hre = yes
 discovered_by = eastern

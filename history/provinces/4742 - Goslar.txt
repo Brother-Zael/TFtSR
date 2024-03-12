@@ -1,7 +1,7 @@
 # 4742 - Goslar
-owner = ANH
-controller = ANH
-add_core = ANH
+owner = A76
+controller = A76
+add_core = A76
 culture = saxon
 religion = catholic
 hre = yes

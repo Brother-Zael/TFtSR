@@ -1,7 +1,7 @@
 # 67 - Franken
-owner = GLG
-controller = GLG
-add_core = GLG
+owner = A42
+controller = A42
+add_core = A42
 culture = franconian
 religion = catholic
 base_tax = 8
@@ -11,7 +11,7 @@ base_manpower = 3
 capital = "Nürnberg"
 is_city = yes
 hre = yes
-add_claim = GLG
+add_claim = A42
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

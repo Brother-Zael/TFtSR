@@ -1,6 +1,6 @@
 # 196 Toulouse - Principal cities: Toulouse
-owner = TOL
-controller = TOL
+owner = A53
+controller = A53
 capital = "Toulouse"
 is_city = yes
 culture = occitain
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 5
 trade_goods = wine
 base_manpower = 5
-add_core = TOL
+add_core = A53
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

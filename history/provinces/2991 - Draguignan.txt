@@ -1,6 +1,6 @@
 # Forcalquier
-owner = ASX
-controller = ASX 
+owner = A58
+controller = A58 
 capital = "Forcalquier"
 is_city = yes
 culture = occitain
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 trade_goods = wool
 base_manpower = 2
-add_core = ASX
+add_core = A58
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

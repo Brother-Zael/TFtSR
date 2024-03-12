@@ -1,7 +1,7 @@
 #72 - Breisgau
-owner = GRS
-controller = GRS
-add_core = GRS
+owner = A66
+controller = A66
+add_core = A66
 culture = swabian
 religion = catholic
 base_tax = 4 

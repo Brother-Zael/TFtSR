@@ -1,8 +1,8 @@
 # 169 Armor
 
-owner = NRM
-controller = NRM
-add_core = NRM
+owner = A35
+controller = A35
+add_core = A35
 capital = "Saint-Malo"
 is_city = yes
 culture = breton

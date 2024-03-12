@@ -1,7 +1,7 @@
 #222 - Almería
-owner = URC		#Mustapha Sa'd King of Granada
-controller = URC
-add_core = URC
+owner = A98		#Mustapha Sa'd King of Granada
+controller = A98
+add_core = A98
 culture = andalucian
 religion = catholic
 hre = no

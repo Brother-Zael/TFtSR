@@ -1,5 +1,5 @@
-owner = CBL
-controller = CBL 
+owner = A49
+controller = A49 
 capital = "Charolles"
 is_city = yes
 culture = burgundian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 trade_goods = salt
 base_manpower = 3
-add_core = CBL
+add_core = A49
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

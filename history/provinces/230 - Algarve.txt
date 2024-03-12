@@ -1,6 +1,6 @@
 #230 - Algarve
-owner = EVO
-controller = EVO
+owner = A88
+controller = A88
 culture = portugese
 religion = catholic
 capital = "Faro"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes 
-add_core = EVO
+add_core = A88
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

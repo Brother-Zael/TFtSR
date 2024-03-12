@@ -1,8 +1,8 @@
 # 89 Picardie - Principal cities: Amiens
 
-owner = OLH
-controller = OLH
-add_core = OLH
+owner = A36
+controller = A36
+add_core = A36
 capital = "Amiens"
 is_city = yes
 culture = cosmopolitan_french

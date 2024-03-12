@@ -1,7 +1,7 @@
 #64 - Landshut
-owner = NRI
-controller = NRI
-add_core = NRI
+owner = A70
+controller = A70
+add_core = A70
 culture = bavarian
 religion = catholic
 base_tax = 5

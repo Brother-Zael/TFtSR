@@ -1,6 +1,6 @@
 # 4710 - Vorarlberg
-owner = RTI
-controller = RTI
+owner = A68
+controller = A68
 capital = "Bregenz"
 is_city = yes
 culture = austrian
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 trade_goods = wool
-add_core = RTI
+add_core = A68
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

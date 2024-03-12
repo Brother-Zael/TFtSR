@@ -1,7 +1,7 @@
 #218 - Badajoz
-owner = TDT		#Juan II of Castille
-controller = TDT
-add_core = TDT
+owner = A90		#Juan II of Castille
+controller = A90
+add_core = A90
 culture = andalucian
 religion = catholic
 hre = no

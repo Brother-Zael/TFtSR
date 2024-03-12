@@ -1,6 +1,6 @@
 #Aviero
-owner = CTC
-controller = CTC
+owner = A87
+controller = A87
 culture = portugese
 religion = cathar
 capital = "Aveiro"
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = CTC
+add_core = A87
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

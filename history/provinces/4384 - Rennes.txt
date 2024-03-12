@@ -1,6 +1,6 @@
 # 4384 Rennes
-owner = BRI
-controller = BRI
+owner = A37
+controller = A37
 capital = "Rennes"
 is_city = yes
 culture = breton
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 trade_goods = cloth
 base_manpower = 4
-add_core = BRI
+add_core = A37
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

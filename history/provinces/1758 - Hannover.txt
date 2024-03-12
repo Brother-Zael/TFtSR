@@ -1,6 +1,6 @@
 #1758 - Hannover
-owner = CHR
-controller = CHR
+owner = A73
+controller = A73
 culture = lower_saxon
 religion = norse_pagan_reformed
 capital = "Hannover"
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 is_city = yes
-add_core = CHR
+add_core = A73
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

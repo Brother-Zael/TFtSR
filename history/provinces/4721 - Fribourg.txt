@@ -1,5 +1,5 @@
-owner = ARM
-controller = ARM
+owner = A43
+controller = A43
 culture = swiss
 religion = catholic
 capital = "Fribourg"
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = ARM
+add_core = A43
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

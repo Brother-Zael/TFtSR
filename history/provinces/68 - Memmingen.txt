@@ -1,7 +1,7 @@
 #68 - Memmingen
-owner = RTI
-controller = RTI
-add_core = RTI
+owner = A68
+controller = A68
+add_core = A68
 culture = swabian
 religion = catholic
 hre = yes

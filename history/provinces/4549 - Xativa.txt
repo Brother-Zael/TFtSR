@@ -1,7 +1,7 @@
 #1750 - Xativa
-owner = CRN		#Martí I of Aragon
-controller = CRN
-add_core = CRN
+owner = A99		#Martí I of Aragon
+controller = A99
+add_core = A99
 culture = catalan
 religion = fraticelli
 hre = no

@@ -2,9 +2,9 @@
 latent_trade_goods = {
 	coal
 }
-owner = BRG		#Juan II of Castille
-controller = BRG
-add_core = BRG
+owner = A83		#Juan II of Castille
+controller = A83
+add_core = A83
 culture = leonese
 religion = cathar
 hre = no

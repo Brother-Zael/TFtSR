@@ -1,6 +1,6 @@
 # 4766 - Verdun
-owner = GLG
-controller = GLG
+owner = A42
+controller = A42
 capital = "Verdun"
 is_city = yes
 culture = burgundian
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 trade_goods = grain
 base_manpower = 3
-add_core = GLG
+add_core = A42
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western
