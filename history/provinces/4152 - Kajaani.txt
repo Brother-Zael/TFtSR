@@ -1,7 +1,7 @@
 #4152 - Kuusamo incl Maanselkä and Kitka
-owner = A07
-controller = A07
-add_core = A07
+owner = W07
+controller = W07
+add_core = W07
 culture = sapmi
 religion = paganism
 hre = no

@@ -1,6 +1,6 @@
 #165 - Bern
-owner = A66
-controller = A66 
+owner = H03
+controller = H03 
 culture = swiss
 religion = catholic
 capital = "Bern"
@@ -11,7 +11,7 @@ base_production = 5
 base_manpower = 3
 is_city = yes
 fort_15th = yes
-add_core = A66
+add_core = H03
 extra_cost = 8
 center_of_trade = 1
 discovered_by = western

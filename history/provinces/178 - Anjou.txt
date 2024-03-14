@@ -1,6 +1,6 @@
 # 178 Anjou - Principal cities: Angers
-owner = A37
-controller = A37 
+owner = W37
+controller = W37 
 capital = "Angers"
 is_city = yes
 culture = cosmopolitan_french
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 5
 trade_goods = cloth
 base_manpower = 5
-add_core = A37
+add_core = W37
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

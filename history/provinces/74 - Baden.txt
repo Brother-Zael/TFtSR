@@ -1,7 +1,7 @@
 #74 - Baden
-owner = A65
-controller = A65
-add_core = A65
+owner = H02
+controller = H02
+add_core = H02
 capital = "Baden"
 trade_goods = wine
 religion = hussite

@@ -1,7 +1,7 @@
 #235 - Kent
-owner = A18
-controller = A18
-add_core = A18
+owner = W18
+controller = W18
+add_core = W18
 culture = english
 religion = lollard
 hre = no

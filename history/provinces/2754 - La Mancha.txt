@@ -1,7 +1,7 @@
 #2754 - La Mancha
-owner = A94		#Juan II of Castille
-controller = A94
-add_core = A94
+owner = W75		#Juan II of Castille
+controller = W75
+add_core = W75
 culture = castillian
 religion = cathar
 hre = no

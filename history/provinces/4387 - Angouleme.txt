@@ -1,6 +1,6 @@
 # 4387 Angoulême
-owner = A42
-controller = A42
+owner = W42
+controller = W42
 capital = "Angoulême"
 is_city = yes
 culture = cosmopolitan_french

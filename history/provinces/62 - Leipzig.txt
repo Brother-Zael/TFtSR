@@ -2,8 +2,8 @@
 latent_trade_goods = {
 	coal
 }
-owner = A76
-controller = A76 
+owner = H13
+controller = H13 
 culture = saxon
 religion = norse_pagan_reformed
 capital = "Leipzig"
@@ -13,8 +13,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = A76
-add_core = A75
+add_core = H13
+add_core = H12
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

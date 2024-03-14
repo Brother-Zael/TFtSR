@@ -1,7 +1,7 @@
 #1750 - Xativa
-owner = A99		#Martí I of Aragon
-controller = A99
-add_core = A99
+owner = W80		#Martí I of Aragon
+controller = W80
+add_core = W80
 culture = catalan
 religion = fraticelli
 hre = no

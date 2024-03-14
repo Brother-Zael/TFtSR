@@ -1,6 +1,6 @@
 # 193 Franche-Comté - Principal cities: Besançon
-owner = A49
-controller = A49
+owner = W49
+controller = W49
 capital = "Besançon"
 is_city = yes
 culture = burgundian
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 4
 trade_goods = salt
 base_manpower = 3
-add_core = A49
+add_core = W49
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

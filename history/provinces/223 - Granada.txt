@@ -1,7 +1,7 @@
 #223 - Granada
-owner = A97		# Mustapha Sa'd King of Granada
-controller = A97
-add_core = A97
+owner = W78		# Mustapha Sa'd King of Granada
+controller = W78
+add_core = W78
 culture = andalucian
 religion = cathar
 hre = no

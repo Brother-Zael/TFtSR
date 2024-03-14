@@ -1,8 +1,8 @@
 #4151 - Most of Kemi Lappmark: Enare/Inari, Sodankylä, Kemikyla, Utsjoki, Kittila, Sombio
 
-owner = A08
-controller = A08
-add_core = A08
+owner = W08
+controller = W08
+add_core = W08
 culture = sapmi
 religion = paganism
 hre = no

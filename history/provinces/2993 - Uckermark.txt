@@ -1,7 +1,7 @@
 #50 - Uckermark + Stargard, etc
-owner = A72
-controller = A72
-add_core = A72
+owner = H09
+controller = H09
+add_core = H09
 culture = pommeranian
 religion = norse_pagan_reformed
 hre = yes

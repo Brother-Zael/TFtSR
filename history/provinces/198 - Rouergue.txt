@@ -1,6 +1,6 @@
 # 198 Rouergue - Principal cities: Rodez
-owner = A54
-controller = A54
+owner = W54
+controller = W54
 capital = "Rodez"
 is_city = yes
 culture = occitain
@@ -11,7 +11,7 @@ base_production = 3
 trade_goods = livestock
 base_manpower = 2
 add_local_autonomy = 25
-add_core = A54
+add_core = W54
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

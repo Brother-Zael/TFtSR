@@ -1,6 +1,6 @@
 #Jämtland+Härjedalen
-owner = A03
-controller = A03
+owner = W03
+controller = W03
 culture = norwegian # They were actually Jämts - the unique blend of Swedish, Norwegian and local tendencies
 religion = norse_pagan_reformed
 hre = no
@@ -11,7 +11,7 @@ base_manpower = 1
 capital = "Frösön"
 add_local_autonomy = 25
 is_city = yes
-add_core = A03
-add_core = A01
+add_core = W03
+add_core = W01
 discovered_by = eastern
 discovered_by = western

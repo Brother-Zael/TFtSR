@@ -1,7 +1,7 @@
 # 4744 - Zwickau
-owner = A75
-controller = A75
-add_core = A75
+owner = H12
+controller = H12
+add_core = H12
 culture = saxon
 religion = catholic
 hre = yes

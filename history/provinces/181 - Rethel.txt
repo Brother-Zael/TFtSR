@@ -1,6 +1,6 @@
 # 181 Rethel
-owner = A41
-controller = A41
+owner = W41
+controller = W41
 capital = "Rethel"
 is_city = yes
 culture = wallonian
@@ -10,8 +10,8 @@ base_tax = 6
 base_production = 6
 trade_goods = cloth
 base_manpower = 2
-add_core = A41 
-add_core = A41
+add_core = W41 
+add_core = W41
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

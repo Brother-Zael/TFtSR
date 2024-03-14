@@ -1,7 +1,7 @@
 #225 - Córdoba
-owner = A95		#Juan II of Castille
-controller = A95
-add_core = A95
+owner = W76		#Juan II of Castille
+controller = W76
+add_core = W76
 culture = andalucian
 religion = catholic
 hre = no

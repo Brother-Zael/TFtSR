@@ -1,7 +1,7 @@
 # 71 - Ansbach
-owner = A67
-controller = A67
-add_core = A67
+owner = H04
+controller = H04
+add_core = H04
 culture = franconian
 religion = catholic
 hre = yes

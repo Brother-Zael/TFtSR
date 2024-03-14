@@ -1,7 +1,7 @@
 #48 - Kolberg
-owner = A05
-controller = A05
-add_core = A05
+owner = W05
+controller = W05
+add_core = W05
 culture = pommeranian
 religion = norse_pagan_reformed
 hre = yes

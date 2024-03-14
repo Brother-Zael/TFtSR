@@ -1,7 +1,7 @@
 #Viborgs län, incl. Viborg, Villmansstrand, and Kivinäbb.
-owner = A09
-controller = A09
-add_core = A09
+owner = W09
+controller = W09
+add_core = W09
 culture = finnish
 religion = paganism
 hre = no

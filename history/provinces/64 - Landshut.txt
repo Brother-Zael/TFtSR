@@ -1,7 +1,7 @@
 #64 - Landshut
-owner = A70
-controller = A70
-add_core = A70
+owner = H07
+controller = H07
+add_core = H07
 culture = bavarian
 religion = catholic
 base_tax = 5

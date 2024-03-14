@@ -2,8 +2,8 @@
 latent_trade_goods = {
 	coal
 }
-owner = A42
-controller = A42 
+owner = W42
+controller = W42 
 capital = "Metz"
 is_city = yes
 culture = burgundian
@@ -13,7 +13,7 @@ base_tax = 6
 base_production = 6
 trade_goods = glass
 base_manpower = 5
-add_core = A42
+add_core = W42
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

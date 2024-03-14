@@ -1,8 +1,8 @@
 #Akershus, incl. Oslo (Christiania), Tönsberg
  
-owner = A02
-controller = A02
-add_core = A02
+owner = W02
+controller = W02
+add_core = W02
 culture = norwegian
 religion = norse_pagan_reformed
 hre = no

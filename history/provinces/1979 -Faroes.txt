@@ -1,6 +1,6 @@
 #1979 - Färöarna
-owner = A16
-controller = A16
+owner = W16
+controller = W16
 culture = icelandic
 religion = norse_pagan_reformed
 hre = no
@@ -10,5 +10,5 @@ base_manpower = 1
 trade_goods = fish
 capital = "Torshavn"
 is_city = yes
-add_core = A16
+add_core = W16
 discovered_by = western

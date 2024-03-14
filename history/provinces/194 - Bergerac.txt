@@ -1,6 +1,6 @@
 # 194 Périgord - Principal cities: Bergerac
-owner = A47
-controller = A47
+owner = W47
+controller = W47
 capital = "Bergerac"
 is_city = yes
 culture = gascon
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 trade_goods = wine
 base_manpower = 3
-add_core = A47
+add_core = W47
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,7 +1,7 @@
 #4788 - Plasencia
-owner = A90		#Enrique III of Castille
-controller = A90
-add_core = A90
+owner = W71		#Enrique III of Castille
+controller = W71
+add_core = W71
 culture = leonese
 religion = cathar
 hre = no

@@ -1,6 +1,6 @@
 # 179 Berry
-owner = A37
-controller = A37
+owner = W37
+controller = W37
 capital = "Bourges"
 is_city = yes
 culture = cosmopolitan_french
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 trade_goods = wine
 base_manpower = 4
-add_core = A37
+add_core = W37
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

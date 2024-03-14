@@ -1,7 +1,7 @@
 #46 - Rostock
-owner = A06
-controller = A06
-add_core = A06
+owner = W06
+controller = W06
+add_core = W06
 culture = pommeranian
 religion = norse_pagan_reformed
 hre = yes

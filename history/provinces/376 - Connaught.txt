@@ -1,6 +1,6 @@
 #376 - Connaught
-owner = A22
-controller = A22
+owner = W22
+controller = W22
 culture = irish
 religion = paganism
 hre = no
@@ -10,7 +10,7 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Galway"
 is_city = yes
-add_core = A22
+add_core = W22
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

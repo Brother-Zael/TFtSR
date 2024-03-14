@@ -1,6 +1,6 @@
 #4378 - Lands of the Mac Carthys
-owner = A26
-controller = A26
+owner = W26
+controller = W26
 culture = irish
 religion = paganism
 hre = no
@@ -11,7 +11,7 @@ base_manpower = 1
 capital = "Killarney"
 fort_15th = yes
 is_city = yes
-add_core = A26
+add_core = W26
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

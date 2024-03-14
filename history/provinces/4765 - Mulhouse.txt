@@ -1,6 +1,6 @@
 # 4765 - Mulhouse. Primary city: Mülhausen
-owner = A65
-controller = A65
+owner = H02
+controller = H02
 capital = "Mülhausen"
 is_city = yes
 culture = swabian
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 trade_goods = cloth
 base_manpower = 2
-add_core = A65
+add_core = H02
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

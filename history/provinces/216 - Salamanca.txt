@@ -1,7 +1,7 @@
 #216 - Salamanca
-owner = A91		#Juan II of Castille
-controller = A91
-add_core = A91
+owner = W72		#Juan II of Castille
+controller = W72
+add_core = W72
 culture = leonese
 religion = catholic
 hre = no

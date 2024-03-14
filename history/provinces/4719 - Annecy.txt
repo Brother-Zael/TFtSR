@@ -1,5 +1,5 @@
-owner = A50
-controller = A50
+owner = W50
+controller = W50
 culture = occitain
 religion = catholic
 hre = yes
@@ -9,7 +9,7 @@ trade_goods = cloth
 base_manpower = 2
 capital = "Bourg-en-Bresse"
 is_city = yes	
-add_core = A50
+add_core = W50
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

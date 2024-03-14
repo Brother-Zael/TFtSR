@@ -1,6 +1,6 @@
 #1873 - Chur
-owner = A68
-controller = A68
+owner = H05
+controller = H05
 culture = swiss
 religion = catholic
 capital = "Chur"
@@ -11,7 +11,7 @@ base_production = 3
 base_manpower = 1
 is_city = yes
 fort_15th = yes
-add_core = A68
+add_core = H05
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

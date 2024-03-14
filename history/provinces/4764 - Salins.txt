@@ -1,6 +1,6 @@
 # 4764 - Salins. Principal cities: Salins, Lons-le-Saunier, Arlay, Pontarlier
-owner = A49
-controller = A49
+owner = W49
+controller = W49
 capital = "Salins"
 is_city = yes
 add_local_autonomy = 30 # The counts of Chalon-Arlay were very dominant in the region
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 3
 trade_goods = salt
 base_manpower = 2
-add_core = A49
+add_core = W49
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

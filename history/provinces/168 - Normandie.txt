@@ -1,8 +1,8 @@
 # 168 Normandie - Principal cities: Caen
 
-owner = A35
-controller = A35
-add_core = A35
+owner = W35
+controller = W35
+add_core = W35
 capital = "Caen"
 is_city = yes
 culture = normand

@@ -1,7 +1,7 @@
 # 1880 - Sundgau
-owner = A43
-controller = A43
-add_core = A43
+owner = W43
+controller = W43
+add_core = W43
 capital = "Altkirch"
 is_city = yes
 culture = swabian

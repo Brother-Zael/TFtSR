@@ -1,9 +1,9 @@
 #Uppland, contains Stockholm, Uppsala & Nyköping.
 #
-add_core = A15
-add_core = A03
-owner = A15
-controller = A15
+add_core = W15
+add_core = W03
+owner = W15
+controller = W15
 culture = swedish
 religion = nestorian
 hre = no

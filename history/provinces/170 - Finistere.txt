@@ -1,8 +1,8 @@
 # 170 Finistère - Principal cities: Brest
 
-owner = A37
-controller = A37
-add_core = A37
+owner = W37
+controller = W37
+add_core = W37
 capital = "Brest"
 is_city = yes
 culture = breton

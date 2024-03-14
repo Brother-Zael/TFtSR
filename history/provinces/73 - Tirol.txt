@@ -1,7 +1,7 @@
 #73 - Tirol
-owner = A68
-controller = A68
-add_core = A68
+owner = H05
+controller = H05
+add_core = H05
 culture = austrian
 religion = catholic
 base_tax = 3

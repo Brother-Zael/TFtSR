@@ -1,6 +1,6 @@
 # 195 Limousin - Principal cities: Limoges
-owner = A39
-controller = A39
+owner = W39
+controller = W39
 capital = "Limoges"
 is_city = yes
 culture = gascon
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 trade_goods = livestock
 base_manpower = 2
-add_core = A39
+add_core = W39
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

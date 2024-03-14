@@ -1,6 +1,6 @@
 #1110 - Agadir
-owner = A96
-controller = A96
+owner = W77
+controller = W77
 culture = berber
 religion = catholic
 capital = "Agadir"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = A96
+add_core = W77
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

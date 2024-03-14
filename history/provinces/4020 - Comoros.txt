@@ -1,7 +1,7 @@
 #4020 - Comoros
-owner = A28
-controller = A28
-add_core = A28
+owner = W28
+controller = W28
+add_core = W28
 culture = madagasque #Malagasy
 religion = sunni
 capital = "Ndzuwani"

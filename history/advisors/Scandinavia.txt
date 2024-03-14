@@ -1,6 +1,6 @@
 ###################################################
 #
-# ADVISORS FOR THE REGION 'A17NDINAVIA'
+# ADVISORS FOR THE REGION 'W17NDINAVIA'
 #
 ###################################################
 #Province list:

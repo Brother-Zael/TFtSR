@@ -1,6 +1,6 @@
 # 201 Provence - Principal cities: Aix-en-Provence, Marseille
-owner = A96
-controller = A96
+owner = W77
+controller = W77
 capital = "Aix-en-Provence"
 is_city = yes
 culture = occitain
@@ -10,7 +10,7 @@ base_tax = 7
 base_production = 7
 trade_goods = wine
 base_manpower = 6
-add_core = A96
+add_core = W77
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

@@ -1,5 +1,5 @@
-owner = A64
-controller = A64
+owner = H01
+controller = H01
 capital = "Rothenburg ob der Tauber"
 is_city = yes
 culture = franconian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 5
 base_manpower = 1
 trade_goods = grain
-add_core = A64
+add_core = H01
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

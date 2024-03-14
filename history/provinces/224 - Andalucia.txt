@@ -1,7 +1,7 @@
 #224 - Andalucía
-owner = A96	#Juan II of Castille
-controller = A96
-add_core = A96
+owner = W77	#Juan II of Castille
+controller = W77
+add_core = W77
 culture = andalucian
 religion = catholic
 hre = no

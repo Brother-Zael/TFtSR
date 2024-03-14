@@ -1,7 +1,7 @@
 #Halland, contains Halmstad, Varberg.
-owner = A05
-controller = A05
-add_core = A05
+owner = W05
+controller = W05
+add_core = W05
 culture = danish
 religion = norse_pagan_reformed
 hre = no

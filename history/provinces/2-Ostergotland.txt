@@ -1,9 +1,9 @@
 #Östergötland, contains Norrköping, Linköping etc.	
 #
-add_core = A15
-add_core = A04
-owner = A15
-controller = A15
+add_core = W15
+add_core = W04
+owner = W15
+controller = W15
 culture = swedish
 religion = nestorian
 hre = no

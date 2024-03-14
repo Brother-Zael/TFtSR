@@ -1,7 +1,7 @@
 #761 - Espirito Santo
-owner = A25
-controller = A25
-add_core = A25
+owner = W25
+controller = W25
+add_core = W25
 culture = ge
 discovered_by = south_american
 religion = animism

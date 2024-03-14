@@ -1,6 +1,6 @@
 #232 - Bragança
-owner = A87
-controller = A87
+owner = W68
+controller = W68
 culture = portugese
 religion = catholic
 capital = "Bragança"
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 is_city = yes
-add_core = A87
+add_core = W68
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

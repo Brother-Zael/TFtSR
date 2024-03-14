@@ -1,8 +1,8 @@
 # 167 Caux - Principal cities: Rouen
 
-owner = A35
-controller = A35
-add_core = A35
+owner = W35
+controller = W35
+add_core = W35
 capital = "Rouen"
 is_city = yes
 culture = normand

@@ -1,6 +1,6 @@
-owner = A74
-controller = A74
-add_core = A74
+owner = H11
+controller = H11
+add_core = H11
 capital = "Kassel"
 trade_goods = glass
 culture = hessian

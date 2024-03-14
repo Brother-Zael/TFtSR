@@ -1,8 +1,8 @@
 #Bergenshus, 
-owner = A16
-controller = A16
-add_core = A16
-add_core = A02
+owner = W16
+controller = W16
+add_core = W16
+add_core = W02
 culture = norwegian
 religion = norse_pagan_reformed
 hre = no

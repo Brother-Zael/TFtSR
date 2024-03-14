@@ -1,7 +1,7 @@
 #1759 - Potsdam
-owner = A72
-controller = A72
-add_core = A72
+owner = H09
+controller = H09
+add_core = H09
 culture = saxon
 religion = norse_pagan_reformed
 hre = yes

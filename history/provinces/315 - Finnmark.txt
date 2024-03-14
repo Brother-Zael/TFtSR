@@ -1,8 +1,8 @@
 #315 - Finnmark
 
-owner = A01
-controller = A01
-add_core = A01
+owner = W01
+controller = W01
+add_core = W01
 culture = norwegian
 religion = paganism
 hre = no

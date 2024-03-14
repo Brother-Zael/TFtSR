@@ -1,6 +1,6 @@
 # 175 Armagnac - Principal cities: Auch
-owner = A46
-controller = A46
+owner = W46
+controller = W46
 capital = "Auch"
 is_city = yes
 culture = gascon
@@ -11,7 +11,7 @@ base_production = 5
 trade_goods = wool
 base_manpower = 5
 add_local_autonomy = 25
-add_core = A46
+add_core = W46
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,10 +1,10 @@
 #Hälsingland-Gästrikland-Medelpad, from Gävle to Näs
 #
-add_core = A15
-add_core = A03
-add_core = A08
-owner = A15
-controller = A15
+add_core = W15
+add_core = W03
+add_core = W08
+owner = W15
+controller = W15
 culture = swedish
 religion = norse_pagan_reformed
 hre = no

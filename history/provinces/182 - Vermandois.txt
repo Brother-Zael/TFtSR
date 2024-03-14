@@ -1,7 +1,7 @@
 # 182 Valois - Principal cities: Compiègne + Soissons
 
-owner = A36
-controller = A36
+owner = W36
+controller = W36
 capital = "Soissons"
 is_city = yes
 culture = cosmopolitan_french
@@ -12,7 +12,7 @@ base_production = 5
 trade_goods = livestock
 base_manpower = 4
 #fort_15th = yes
-add_core = A36
+add_core = W36
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

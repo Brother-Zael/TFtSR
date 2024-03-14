@@ -1,7 +1,7 @@
 #215 - Valladolid
-owner = A92		#Juan II of Castille
-controller = A92
-add_core = A92
+owner = W73		#Juan II of Castille
+controller = W73
+add_core = W73
 culture = castillian
 religion = catholic
 hre = no

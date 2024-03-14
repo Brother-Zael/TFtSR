@@ -1,6 +1,6 @@
 # 4111 - Vendée
-owner = A37
-controller = A37
+owner = W37
+controller = W37
 capital = "Luçon"
 is_city = yes
 culture = cosmopolitan_french
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 trade_goods = salt
 base_manpower = 3
-add_core = A37
+add_core = W37
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

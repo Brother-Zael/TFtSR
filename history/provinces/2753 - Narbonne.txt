@@ -1,6 +1,6 @@
 # Narbonne - Principal cities: Narbonne
-owner = A55
-controller = A55
+owner = W55
+controller = W55
 capital = "Narbonne"
 is_city = yes
 culture = occitain
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 5
 trade_goods = wine
 base_manpower = 3
-add_core = A55
+add_core = W55
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

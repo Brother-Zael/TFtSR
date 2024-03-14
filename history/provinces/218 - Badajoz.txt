@@ -1,7 +1,7 @@
 #218 - Badajoz
-owner = A90		#Juan II of Castille
-controller = A90
-add_core = A90
+owner = W71		#Juan II of Castille
+controller = W71
+add_core = W71
 culture = andalucian
 religion = catholic
 hre = no

@@ -1,7 +1,7 @@
 #Eastern Jutland, incl. Vejle, Skanderborg, Kolding, and Fredericia.
-owner = A13
-controller = A13
-add_core = A13
+owner = W13
+controller = W13
+add_core = W13
 culture = danish
 religion = norse_pagan_reformed
 hre = no

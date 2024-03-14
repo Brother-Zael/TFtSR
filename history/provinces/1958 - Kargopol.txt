@@ -1,8 +1,8 @@
 #Kargopol
 
-owner = A11
-controller = A11
-add_core = A11
+owner = W11
+controller = W11
+add_core = W11
 culture = novgorodian
 religion = paganism
 hre = no

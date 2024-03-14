@@ -1,6 +1,6 @@
 #4150 - Alto Alentejo
-owner = A88
-controller = A88
+owner = W69
+controller = W69
 culture = portugese
 religion = catholic
 capital = "Évora"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = A88
+add_core = W69
 fort_15th = yes
 discovered_by = western
 discovered_by = muslim

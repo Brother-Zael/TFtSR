@@ -1,7 +1,7 @@
 #4774 - Fulda
-owner = A74
-controller = A74
-add_core = A74
+owner = H11
+controller = H11
+add_core = H11
 culture = hessian
 religion = norse_pagan_reformed
 base_tax = 2

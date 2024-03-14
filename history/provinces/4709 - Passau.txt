@@ -1,5 +1,5 @@
-owner = A71
-controller = A71
+owner = H08
+controller = H08
 capital = "Passau"
 is_city = yes
 culture = bavarian
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 1
 trade_goods = salt
-add_core = A71
+add_core = H08
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

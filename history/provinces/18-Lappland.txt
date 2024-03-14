@@ -1,8 +1,8 @@
 #Ume, Åsele, Piteå Lappmarks
 
-owner = A08
-controller = A08
-add_core = A08
+owner = W08
+controller = W08
+add_core = W08
 culture = sapmi
 religion = norse_pagan_reformed
 hre = no

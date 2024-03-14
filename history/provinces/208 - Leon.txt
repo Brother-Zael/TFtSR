@@ -1,7 +1,7 @@
 #208 - León
-owner = A84		#Juan II of Castille
-controller = A84
-add_core = A84
+owner = W65		#Juan II of Castille
+controller = W65
+add_core = W65
 culture = leonese
 religion = catholic
 hre = no

@@ -1,5 +1,5 @@
-owner = A70
-controller = A70
+owner = H07
+controller = H07
 capital = "Freising"
 is_city = yes
 culture = bavarian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 trade_goods = grain #Weihenstephaner beer
-add_core = A70
+add_core = H07
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -2,8 +2,8 @@
 latent_trade_goods = {
 	coal
 }
-owner = A74
-controller = A74
+owner = H11
+controller = H11
 culture = hannoverian
 religion = norse_pagan_reformed
 trade_goods = wool
@@ -13,7 +13,7 @@ base_production = 3
 base_manpower = 1
 hre = yes
 is_city = yes
-add_core = A74
+add_core = H11
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

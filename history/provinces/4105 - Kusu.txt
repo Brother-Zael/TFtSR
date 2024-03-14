@@ -1,6 +1,6 @@
-owner = A27
-controller = A27
-add_core = A27
+owner = W27
+controller = W27
+add_core = W27
 culture = luba
 religion = shamanism #Fetishism
 capital = "Kusu"

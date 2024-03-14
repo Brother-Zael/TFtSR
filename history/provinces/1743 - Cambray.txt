@@ -3,9 +3,9 @@ latent_trade_goods = {
 	coal
 }
 
-owner = A36
-controller = A36
-add_core = A36
+owner = W36
+controller = W36
+add_core = W36
 capital = "Cambray"
 is_city = yes
 culture = wallonian

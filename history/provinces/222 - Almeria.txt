@@ -1,7 +1,7 @@
 #222 - Almería
-owner = A98		#Mustapha Sa'd King of Granada
-controller = A98
-add_core = A98
+owner = W79		#Mustapha Sa'd King of Granada
+controller = W79
+add_core = W79
 culture = andalucian
 religion = catholic
 hre = no

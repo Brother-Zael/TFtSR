@@ -1,7 +1,7 @@
 # 87 Calais - Principal cities: Calais
 
-owner = A36
-controller = A36
+owner = W36
+controller = W36
 capital = "Calais"
 culture = wallonian
 religion = norse_pagan_reformed
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 5
 trade_goods = fish
 base_manpower = 3
-add_core = A36
+add_core = W36
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

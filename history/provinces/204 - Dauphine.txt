@@ -1,6 +1,6 @@
 # 204 Dauphiné - Principal cities: Grenoble
-owner = A50
-controller = A50
+owner = W50
+controller = W50
 capital = "Grenoble"
 is_city = yes
 culture = occitain
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 3
 trade_goods = wool
 base_manpower = 3
-add_core = A50
+add_core = W50
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

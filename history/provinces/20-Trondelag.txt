@@ -1,9 +1,9 @@
 #Tröndelag, incl. Trondheim, Frosta, Röros, Steinviksholm
-owner = A02
-controller = A02
-add_core = A02
-add_core = A01
-add_core = A16
+owner = W02
+controller = W02
+add_core = W02
+add_core = W01
+add_core = W16
 culture = norwegian
 religion = norse_pagan_reformed
 hre = no

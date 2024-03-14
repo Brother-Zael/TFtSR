@@ -1,8 +1,8 @@
 #1861 - Derby
 #Leicestershire+Rutland+Northamptonshire
-owner = A19
-controller = A19
-add_core = A19
+owner = W19
+controller = W19
+add_core = W19
 culture = english
 religion = lollard
 hre = no

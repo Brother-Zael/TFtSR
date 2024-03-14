@@ -1,7 +1,7 @@
 # - Ingolstadt + Neuburg
-owner = A69
-controller = A69
-add_core = A69
+owner = H06
+controller = H06
+add_core = H06
 culture = bavarian
 religion = catholic
 base_tax = 5 

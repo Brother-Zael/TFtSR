@@ -1,6 +1,6 @@
 # 187 Barrois - Principal cities: Verdun
-owner = A43
-controller = A43
+owner = W43
+controller = W43
 capital = "Bar-le-Duc"
 is_city = yes
 culture = burgundian
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 4
 trade_goods = cloth
 base_manpower = 3
-add_core = A43
+add_core = W43
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

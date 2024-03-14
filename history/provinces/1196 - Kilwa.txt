@@ -1,7 +1,7 @@
 #1196 - Kilwa
-owner = A28
-controller = A28
-add_core = A28
+owner = W28
+controller = W28
+add_core = W28
 culture = swahili
 religion = sunni
 capital = "Kilwa Kisiwani"

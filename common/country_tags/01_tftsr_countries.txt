@@ -4,24 +4,24 @@ PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
 
 #Scandinavia
-A01 = "countries/Finnmark.txt"
-A02 = "countries/Smalenene.txt"
-A03 = "countries/Varmland.txt"
-A04 = "countries/Bohuslan.txt"
-A05 = "countries/Lund.txt"
-A06 = "countries/Jomsvikings.txt"
-A07 = "countries/Osterbotten.txt"
-A08 = "countries/Vasterbotten.txt"
-A09 = "countries/Nylaand.txt"
-A10 = "countries/Karelia.txt"
-A11 = "countries/Kildin.txt"
-A12	= "countries/Sweden.txt"
-A13	= "countries/Daneland.txt"
-A14	= "countries/Finland.txt"
-A15 = "countries/Uppland.txt"
-A16	= "countries/Norvegr.txt"
+W01 = "countries/Finnmark.txt"
+W02 = "countries/Smalenene.txt"
+W03 = "countries/Varmland.txt"
+W04 = "countries/Bohuslan.txt"
+W05 = "countries/Lund.txt"
+W06 = "countries/Jomsvikings.txt"
+W07 = "countries/Osterbotten.txt"
+W08 = "countries/Vasterbotten.txt"
+W09 = "countries/Nylaand.txt"
+W10 = "countries/Karelia.txt"
+W11 = "countries/Kildin.txt"
+W12	= "countries/Sweden.txt"
+W13	= "countries/Daneland.txt"
+W14	= "countries/Finland.txt"
+W15 = "countries/Uppland.txt"
+W16	= "countries/Norvegr.txt"
 
-A17	= "countries/Scandinavia.txt"
+W17	= "countries/Scandinavia.txt"
 
 #Russia and Urals
 E01 = "countries/Pskov.txt"
@@ -110,86 +110,86 @@ E73 = "countries/Alania.txt"
 E74 = "countries/Rum.txt"
 
 #British Isles
-A18 = "countries/Angland.txt"
-A19 = "countries/Jorvik.txt"
-A20 = "countries/Manx.txt"
-A21 = "countries/Lallans.txt"
-A22 = "countries/Connacht.txt"
-A23 = "countries/Sligo.txt"
-A24 = "countries/Mhí.txt"
-A25 = "countries/Tuadhmhumhain.txt"
-A26 = "countries/Cork.txt"
-A27 = "countries/Lublin.txt"
-A28 = "countries/Kildare.txt"
-A29 = "countries/Tirconnell.txt"
-A30 = "countries/Highlands.txt"
+W18 = "countries/Angland.txt"
+W19 = "countries/Jorvik.txt"
+W20 = "countries/Manx.txt"
+W21 = "countries/Lallans.txt"
+W22 = "countries/Connacht.txt"
+W23 = "countries/Sligo.txt"
+W24 = "countries/Mhí.txt"
+W25 = "countries/Tuadhmhumhain.txt"
+W26 = "countries/Cork.txt"
+W27 = "countries/Lublin.txt"
+W28 = "countries/Kildare.txt"
+W29 = "countries/Tirconnell.txt"
+W30 = "countries/Highlands.txt"
 
-A31	= "countries/Britannia.txt"
-A32	= "countries/Ireland.txt"
-A33	= "countries/Scotland.txt"
-A34	= "countries/GreatBritannia.txt"
+W31	= "countries/Britannia.txt"
+W32	= "countries/Ireland.txt"
+W33	= "countries/Scotland.txt"
+W34	= "countries/GreatBritannia.txt"
 
 #Colonies
 # TO DO LATER
 
 #Gaul & Aquitania 
-A35 = "countries/Normandy.txt"
-A36 = "countries/Olegheim.txt"
-A37	= "countries/Brittany.txt"
-A38 = "countries/Suindinum.txt"
-A39 = "countries/Genabum.txt"
-A40 = "countries/Lutetia.txt"
-A41 = "countries/Durocortorum.txt"
-A42 = "countries/GallicLegion.txt"
-A43 = "countries/AugustaRauracorum.txt"
-A44 = "countries/Augustodunum.txt"
-A45 = "countries/Limonum.txt"
-A46 = "countries/Burdigala.txt"
-A47 = "countries/Vesunna.txt"
-A48 = "countries/Argentomagus.txt"
-A49 = "countries/Cabillonum.txt"
-A50 = "countries/Lugdunum.txt"
-A51 = "countries/Vienna.txt" # This is roman vienna, in gaul, north of modern provence.
-A52 = "countries/Divona.txt"
-A53 = "countries/Tolosa.txt"
-A54 = "countries/Segodunum.txt"
-A55 = "countries/NarboMartius.txt"
-A56 = "countries/Nemausus.txt"
-A57 = "countries/Arelate.txt"
-A58 = "countries/AquaeSextiae.txt"
+W35 = "countries/Normandy.txt"
+W36 = "countries/Olegheim.txt"
+W37	= "countries/Brittany.txt"
+W38 = "countries/Suindinum.txt"
+W39 = "countries/Genabum.txt"
+W40 = "countries/Lutetia.txt"
+W41 = "countries/Durocortorum.txt"
+W42 = "countries/GallicLegion.txt"
+W43 = "countries/AugustaRauracorum.txt"
+W44 = "countries/Augustodunum.txt"
+W45 = "countries/Limonum.txt"
+W46 = "countries/Burdigala.txt"
+W47 = "countries/Vesunna.txt"
+W48 = "countries/Argentomagus.txt"
+W49 = "countries/Cabillonum.txt"
+W50 = "countries/Lugdunum.txt"
+W51 = "countries/Vienna.txt" # This is roman vienna/vienne, in gaul, north of modern provence.
+W52 = "countries/Divona.txt"
+W53 = "countries/Tolosa.txt"
+W54 = "countries/Segodunum.txt"
+W55 = "countries/NarboMartius.txt"
+W56 = "countries/Nemausus.txt"
+W57 = "countries/Arelate.txt"
+W58 = "countries/AquaeSextiae.txt"
 
-A59 = "countries/Lugdunensis.txt" # formable of north/northeast gaul
-A60 = "countries/Narbonensis.txt" # formable of the med coast of gaul/tolouse
-A61 = "countries/Aquitania.txt" # formable of the west/sw and pacific coast of gaul.
-A62 = "countries/Gaul.txt" #formable for any independent non-norse roman or barbarian tech for all of gaul. removes from HRE. meb 3-5 religion-dependent mission and the rest for any religion.
-A63 = "countries/Kelterike.txt" # formable for any norse religion for all of gaul.
+W59 = "countries/Lugdunensis.txt" # formable of north/northeast gaul
+W60 = "countries/Narbonensis.txt" # formable of the med coast of gaul/tolouse
+W61 = "countries/Aquitania.txt" # formable of the west/sw and pacific coast of gaul.
+W62 = "countries/Gaul.txt" #formable for any independent non-norse roman or barbarian tech for all of gaul. removes from HRE. meb 3-5 religion-dependent mission and the rest for any religion.
+W63 = "countries/Kelterike.txt" # formable for any norse religion for all of gaul.
 
 #Germania
-A64 = "countries/GermaniaProconsular.txt"
-A65 = "countries/Argentorate.txt"
-A66 = "countries/GermaniaSuperior.txt"
-A67 = "countries/RhaetiaSuperior.txt"
-A68 = "countries/RhaetiaInferior.txt"
-A69 = "countries/NoricumSuperior.txt"
-A70 = "countries/NoricumInferior.txt"
-A71 = "countries/Regensmarch.txt"
-A72 = "countries/Suebii.txt"
-A73 = "countries/Cherusci.txt"
-A74 = "countries/Alamannia.txt"
-A75	= "countries/Saxony.txt"
-A76 = "countries/Anhalt.txt"
+H01 = "countries/GermaniaProconsular.txt"
+H02 = "countries/Argentorate.txt"
+H03 = "countries/GermaniaSuperior.txt"
+H04 = "countries/RhaetiaSuperior.txt"
+H05 = "countries/RhaetiaInferior.txt"
+H06 = "countries/NoricumSuperior.txt"
+H07 = "countries/NoricumInferior.txt"
+H08 = "countries/Regensmarch.txt"
+H09 = "countries/Suebii.txt"
+H10 = "countries/Cherusci.txt"
+H11 = "countries/Alamannia.txt"
+H12	= "countries/Saxony.txt"
+H13 = "countries/Anhalt.txt"
 
-A77 = "countries/Diutiscia.txt" # Non-roman cultural tag for north germany.
-A78 = "countries/GermaniaPrimus.txt" # Formable for roman tech or christians with romano-german or germanic cultures. Roughly analogous to Lotharingia/Middle Frankia.
-A79 = "countries/Rhaetia.txt" # Formable for tags with Rhaetia as primary culture.
-A80 = "countries/Noricum.txt" # Formable for tags with Noric as primary culture, or in the romano-slovene culture group. "Producer of Roman Weaponry"
+H14 = "countries/Diutiscia.txt" # Non-roman cultural tag for north germany.
+H15 = "countries/GermaniaPrimus.txt" # Formable for roman tech or christians with romano-german or germanic cultures. Roughly analogous to Lotharingia/Middle Frankia.
+H16 = "countries/Rhaetia.txt" # Formable for tags with Rhaetia as primary culture.
+H17 = "countries/Noricum.txt" # Formable for tags with Noric as primary culture, or in the romano-slovene culture group. "Producer of Roman Weaponry"
 
-A81	= "countries/Pommerania.txt" #releasable
-A82	= "countries/Silesia.txt" # releasable
+H18	= "countries/Pommerania.txt" #releasable
+H19	= "countries/Silesia.txt" # releasable
 	
 #Hispania
-A83 = "countries/Brigantium.txt"
-A84 = "countries/Austurica.txt"
+W64 = "countries/Brigantium.txt"
+W65 = "countries/Austurica.txt"
 A85 = "countries/Olisipo.txt"
 A86 = "countries/Alcantara.txt"
 A87 = "countries/Celtici.txt"

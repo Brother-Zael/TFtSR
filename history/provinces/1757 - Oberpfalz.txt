@@ -1,7 +1,7 @@
 #1757 - Oberpfalz
-owner = A71
-controller = A71
-add_core = A71
+owner = H08
+controller = H08
+add_core = H08
 culture = bavarian
 religion = catholic
 base_tax = 3

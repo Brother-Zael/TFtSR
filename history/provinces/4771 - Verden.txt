@@ -1,6 +1,6 @@
 #4771 - Verden
-owner = A73
-controller = A73
+owner = H10
+controller = H10
 culture = lower_saxon
 religion = norse_pagan_reformed
 capital = "Verden"
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 3
 is_city = yes
-add_core = A73
+add_core = H10
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

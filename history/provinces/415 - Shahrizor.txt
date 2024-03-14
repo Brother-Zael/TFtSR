@@ -1,6 +1,6 @@
 #415 - Sharazor
-owner = A63
-controller = A63
+owner = W63
+controller = W63
 culture = kurdish
 religion = sunni
 capital = "Kirkuk"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = A63
+add_core = W63
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

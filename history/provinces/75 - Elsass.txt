@@ -1,6 +1,6 @@
 # 75 Elsass - Principal cities: Strasbourg
-owner = A65
-controller = A65 
+owner = H02
+controller = H02 
 capital = "Straﬂburg"
 is_city = yes
 culture = swabian
@@ -10,7 +10,7 @@ base_tax = 6
 base_production = 6
 trade_goods = paper
 base_manpower = 4
-add_core = A65
+add_core = H02
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

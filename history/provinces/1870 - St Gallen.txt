@@ -1,6 +1,6 @@
 #1870 - St Gallen
-owner = A66
-controller = A66
+owner = H03
+controller = H03
 culture = swiss
 religion = catholic
 capital = "St Gallen"
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = A66
+add_core = H03
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

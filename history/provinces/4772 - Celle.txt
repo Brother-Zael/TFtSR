@@ -1,7 +1,7 @@
 #4772 - Celle
-owner = A73
-controller = A73
-add_core = A73
+owner = H10
+controller = H10
+add_core = H10
 culture = lower_saxon
 religion = norse_pagan_reformed
 capital = "Celle"

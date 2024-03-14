@@ -1,7 +1,7 @@
 #Finnish Lappland - Rovaniemi
-owner = A07
-controller = A07
-add_core = A07
+owner = W07
+controller = W07
+add_core = W07
 culture = finnish #Probably also a large Sami population.
 religion = norse_pagan_reformed
 hre = no

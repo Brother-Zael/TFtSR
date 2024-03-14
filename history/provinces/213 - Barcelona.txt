@@ -1,7 +1,7 @@
 #213 - Barcelona
-owner = A96	#Alfons V of Aragon
-controller = A96
-add_core = A96
+owner = W77	#Alfons V of Aragon
+controller = W77
+add_core = W77
 culture = catalan
 religion = catholic
 hre = no

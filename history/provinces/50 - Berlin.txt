@@ -1,8 +1,8 @@
 # NB: If changing the ID for this province, code (CPowerSpending::OnExecute) also has to change for achievement_tear_down_this_wall to work.
 #50 - Brandenburg
-owner = A72
-controller = A72
-add_core = A72
+owner = H09
+controller = H09
+add_core = H09
 culture = saxon
 religion = norse_pagan_reformed
 hre = yes

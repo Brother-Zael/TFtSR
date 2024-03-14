@@ -1,7 +1,7 @@
 #219 - Toledo
-owner = A93		#Juan II of Castille
-controller = A93
-add_core = A93
+owner = W74		#Juan II of Castille
+controller = W74
+add_core = W74
 culture = castillian
 religion = cathar
 hre = no
