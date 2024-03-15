@@ -1,8 +1,8 @@
 # No previous file for Puruaran
 culture = purepecha
-owner = TAR
-controller = TAR
-add_core = TAR
+owner = W92
+controller = W92
+add_core = W92
 is_city = yes
 religion = nahuatl
 capital = "Puruaran"

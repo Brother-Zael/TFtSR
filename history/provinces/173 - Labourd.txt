@@ -1,6 +1,6 @@
 # 173 Labourd - Principal cities: Bayonne (can't change file name)
-owner = CNT
-controller = CNT
+owner = W87
+controller = W87
 capital = "Bayonne"
 is_city = yes
 culture = basque
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 trade_goods = wine
 base_manpower = 4
-add_core = CNT
+add_core = W87
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

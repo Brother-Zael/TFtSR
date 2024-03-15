@@ -1,6 +1,6 @@
 #4231 - Haeju
-owner = BAE
-controller = BAE
+owner = W98
+controller = W98
 culture = korean
 religion = daoism
 capital = "Haeju"
@@ -10,6 +10,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = BAE
+add_core = W98
 discovered_by = chinese
 discovered_by = nomad_group

@@ -1,7 +1,7 @@
 #210 - Navarra
-owner = CNT		#Juan I de Navarra
-controller = CNT
-add_core = CNT
+owner = W87		#Juan I de Navarra
+controller = W87
+add_core = W87
 culture = basque
 religion = catholic
 hre = no

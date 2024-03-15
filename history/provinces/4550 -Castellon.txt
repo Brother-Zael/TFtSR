@@ -1,7 +1,7 @@
 #1750 - Castellon
-owner = TAR		#Martí I of Aragon
-controller = TAR
-add_core = TAR
+owner = W92		#Martí I of Aragon
+controller = W92
+add_core = W92
 culture = catalan
 religion = catholic
 hre = no

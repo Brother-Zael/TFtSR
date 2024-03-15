@@ -1,6 +1,6 @@
 # 197 Roussillon - Principal cities: Perpignan
-owner = EMR
-controller = EMR
+owner = W93
+controller = W93
 capital = "Perpignan"
 is_city = yes
 culture = catalan
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 trade_goods = wine
 base_manpower = 2
-add_core = EMR
+add_core = W93
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

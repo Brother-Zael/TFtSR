@@ -1,7 +1,7 @@
 #2751 - Cuenca
-owner = SBG		#Juan II of Castille
-controller = SBG
-add_core = SBG
+owner = W82		#Juan II of Castille
+controller = W82
+add_core = W82
 culture = castillian
 religion = catholic
 hre = no

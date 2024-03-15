@@ -1,7 +1,7 @@
 #2755 - Soria
-owner = SEG		#Juan II of Castille
-controller = SEG
-add_core = SEG
+owner = W85		#Juan II of Castille
+controller = W85
+add_core = W85
 culture = castillian
 religion = catholic
 hre = no

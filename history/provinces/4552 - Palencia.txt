@@ -1,7 +1,7 @@
 #4552 - Palencia
-owner = HLG		#Juan II of Castille
-controller = HLG
-add_core = HLG
+owner = W88		#Juan II of Castille
+controller = W88
+add_core = W88
 culture = castillian
 religion = catholic
 hre = no

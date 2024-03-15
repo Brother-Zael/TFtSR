@@ -1,6 +1,6 @@
 #4232 - Ganggye
-owner = BAE
-controller = BAE
+owner = W98
+controller = W98
 culture = korean
 religion = confucianism
 capital = "Ganggye"
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = BAE
+add_core = W98
 add_local_autonomy = 35
 fort_15th = yes
 discovered_by = chinese

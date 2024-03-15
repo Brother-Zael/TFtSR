@@ -1,7 +1,7 @@
 #217 - Madrid
-owner = CPM		#Juan II of Castille
-controller = CPM
-add_core = CPM
+owner = W83		#Juan II of Castille
+controller = W83
+add_core = W83
 culture = castillian
 religion = catholic
 hre = no

@@ -1,7 +1,7 @@
 #209 - Vizcaya
-owner = CNT		#Juan II de Castilla
-controller = CNT
-add_core = CNT
+owner = W87		#Juan II de Castilla
+controller = W87
+add_core = W87
 culture = basque
 religion = catholic
 hre = no

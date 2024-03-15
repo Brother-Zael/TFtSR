@@ -1,7 +1,7 @@
 #214 - Aragón
-owner = AZL		# Alfons V of Aragon
-controller = AZL
-add_core = AZL
+owner = W90		# Alfons V of Aragon
+controller = W90
+add_core = W90
 culture = aragonese
 religion = catholic
 hre = no

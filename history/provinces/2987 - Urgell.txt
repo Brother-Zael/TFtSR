@@ -1,7 +1,7 @@
 # - Urgell
-owner = EMR		#Alfons V of Aragon
-controller = EMR
-add_core = EMR
+owner = W93		#Alfons V of Aragon
+controller = W93
+add_core = W93
 culture = catalan
 religion = cathar
 hre = no

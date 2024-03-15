@@ -1,7 +1,7 @@
 #1748 - La Mancha
-owner = HLG		#Enrique III of Castille
-controller = HLG
-add_core = HLG
+owner = W88		#Enrique III of Castille
+controller = W88
+add_core = W88
 culture = andalucian
 religion = catholic
 hre = no

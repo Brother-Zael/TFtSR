@@ -1,7 +1,7 @@
 #4789 - Segovia
-owner = SGV		#Juan II of Castille
-controller = SGV
-add_core = SGV
+owner = W84		#Juan II of Castille
+controller = W84
+add_core = W84
 culture = castillian
 religion = catholic
 hre = no

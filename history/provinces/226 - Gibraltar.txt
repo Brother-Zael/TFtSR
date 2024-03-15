@@ -1,7 +1,7 @@
 #226 - Gibraltar
-owner = HLG		# Mustapha Sa'd King of Granada
-controller = HLG
-add_core = HLG
+owner = W88		# Mustapha Sa'd King of Granada
+controller = W88
+add_core = W88
 culture = andalucian
 religion = catholic
 hre = no

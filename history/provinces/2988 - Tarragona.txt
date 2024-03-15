@@ -1,7 +1,7 @@
 # - Tarragona
-owner = TAR	#Alfons V of Aragon
-controller = TAR
-add_core = TAR
+owner = W92	#Alfons V of Aragon
+controller = W92
+add_core = W92
 culture = catalan
 religion = catholic
 hre = no

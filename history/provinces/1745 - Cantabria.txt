@@ -1,7 +1,7 @@
 #1745 - Cantabria
-owner = CNT		#Enrique III of Castille
-controller = CNT
-add_core = CNT
+owner = W87		#Enrique III of Castille
+controller = W87
+add_core = W87
 culture = castillian
 religion = catholic
 hre = no

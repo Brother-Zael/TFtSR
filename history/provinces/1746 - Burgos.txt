@@ -1,7 +1,7 @@
 #1746 - Burgos
-owner = CLU		#Juan II of Castille
-controller = CLU
-add_core = CLU
+owner = W86		#Juan II of Castille
+controller = W86
+add_core = W86
 culture = castillian
 religion = catholic
 hre = no
