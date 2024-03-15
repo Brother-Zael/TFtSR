@@ -1,7 +1,7 @@
 # No previous file for Atrakwaye
-add_core = SUS
-owner = SUS
-controller = SUS
+add_core = A04
+owner = A04
+controller = A04
 is_city = yes
 culture = susquehannock
 religion = totemism

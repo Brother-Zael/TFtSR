@@ -1,7 +1,7 @@
 #Demnate
-owner = CAN
-controller = CAN 
-add_core = CAN
+owner = A05
+controller = A05 
+add_core = A05
 culture = moroccan
 religion = cathar
 capital = "Demnate"

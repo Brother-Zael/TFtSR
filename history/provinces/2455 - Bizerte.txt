@@ -1,6 +1,6 @@
 # - Bizerte
-owner = ZEU
-controller = ZEU
+owner = A09
+controller = A09
 culture = tunisian
 religion = fraticelli
 capital = "Bizerte"
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 1
 is_city = yes
-add_core = ZEU
+add_core = A09
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western

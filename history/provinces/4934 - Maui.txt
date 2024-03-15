@@ -1,7 +1,7 @@
 #4934 - Maui
-add_core = MAU
-owner = MAU
-controller = MAU
+add_core = A18
+owner = A18
+controller = A18
 culture = polynesian
 religion = animism
 hre = no

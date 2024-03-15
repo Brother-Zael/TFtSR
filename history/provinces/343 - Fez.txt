@@ -1,6 +1,6 @@
 #343 - Fez
-owner = TNG
-controller = TNG 
+owner = A00
+controller = A00 
 culture = moroccan
 religion = catholic
 capital = "Fez"
@@ -11,7 +11,7 @@ base_production = 5
 base_manpower = 3
 is_city = yes
 fort_15th = yes
-add_core = TNG
+add_core = A00
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

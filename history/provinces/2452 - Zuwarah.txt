@@ -1,6 +1,6 @@
 # - Zuwarah
-owner = SRT
-controller = SRT 
+owner = A11
+controller = A11 
 culture = tunisian
 religion = coptic
 capital = "Zuwarah"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = SRT
+add_core = A11
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

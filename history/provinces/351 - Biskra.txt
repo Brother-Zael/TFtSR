@@ -1,6 +1,6 @@
 #351 - Biskra
-owner = SIT
-controller = SIT 
+owner = A08
+controller = A08 
 culture = berber
 religion = fraticelli
 capital = "Biskra"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = SIT
+add_core = A08
 add_local_autonomy = 25
 discovered_by = western
 discovered_by = muslim

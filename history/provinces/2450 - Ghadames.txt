@@ -1,6 +1,6 @@
 # - Ghadames
-owner = EPY
-controller = EPY 
+owner = A10
+controller = A10 
 culture = tunisian
 religion = catholic
 capital = "Ghadames"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = EPY
+add_core = A10
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #345 - Safi
-owner = MDR
-controller = MDR
+owner = A02
+controller = A02
 culture = moroccan
 religion = catholic
 capital = "Safi"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = MDR
+add_core = A02
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

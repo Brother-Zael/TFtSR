@@ -1,6 +1,6 @@
 #340 - Constantine
-owner = SIT
-controller = SIT 
+owner = A08
+controller = A08 
 culture = berber
 religion = fraticelli
 capital = "Constantine"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = SIT
+add_core = A08
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

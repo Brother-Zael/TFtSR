@@ -1,6 +1,6 @@
 # - Kairwan
-owner = ZEU
-controller = ZEU 
+owner = A09
+controller = A09 
 culture = tunisian
 religion = catholic
 capital = "Kairwan"
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 5
 base_manpower = 1
 is_city = yes
-add_core = ZEU
+add_core = A09
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

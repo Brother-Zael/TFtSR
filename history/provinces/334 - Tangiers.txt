@@ -1,6 +1,6 @@
 #334 - Tangiers
-owner = TNG
-controller = TNG 
+owner = A00
+controller = A00 
 culture = moroccan
 religion = catholic
 capital = "Tangier"
@@ -11,7 +11,7 @@ base_production = 3
 base_manpower = 1
 is_city = yes
 fort_15th = yes
-add_core = TNG
+add_core = A00
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

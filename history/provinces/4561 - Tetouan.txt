@@ -1,6 +1,6 @@
 # Tetouan
-owner = TNG
-controller = TNG 
+owner = A00
+controller = A00 
 culture = moroccan
 religion = catholic
 capital = "Tetouan"
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = TNG
+add_core = A00
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #344 - Marrakech
-owner = MDR
-controller = MDR 
+owner = A02
+controller = A02 
 culture = moroccan
 religion = catholic
 capital = "Marrakech"
@@ -11,7 +11,7 @@ base_production = 5
 base_manpower = 2
 is_city = yes
 fort_15th = yes
-add_core = MDR
+add_core = A02
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

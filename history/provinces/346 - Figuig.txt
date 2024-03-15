@@ -1,6 +1,6 @@
 #346 - Tafilalt
-owner = LGM
-controller = LGM 
+owner = A06
+controller = A06 
 culture = moroccan
 religion = catholic
 capital = "Tafilalt"
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = LGM
+add_core = A06
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

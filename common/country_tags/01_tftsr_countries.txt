@@ -303,27 +303,27 @@ L36 = "countries/Mesopotamia.txt"            # Formable for non-muslims within c
 L37 = "countries/Arabia.txt"                 # Formable for any in levantine culture group.
 
 #Maghreb
-TNG = "countries/Tingitana.txt"
-SAL = "countries/SalaColonia.txt"
-MDR = "countries/Mogador.txt"
-RHY = "countries/Rhysaddir.txt"
-SUS = "countries/Sus.txt"
-CAN = "countries/Canarii.txt"                # tribe in atlas mountains
-LGM = "countries/LegioMauretania.txt"
-CAE = "countries/Caesarae.txt"
-SIT = "countries/Sitifensis.txt"
-ZEU = "countries/Zeugitana.txt"
-EPY = "countries/Empyria.txt"
-SRT = "countries/Syrtica.txt"
-LGN = "countries/LegioNumidia.txt"
+A00 = "countries/Tingitana.txt"
+A01 = "countries/SalaColonia.txt"
+A02 = "countries/Mogador.txt"
+A03 = "countries/Rhysaddir.txt"
+A04 = "countries/Sus.txt"
+A05 = "countries/Canarii.txt"                # tribe in atlas mountains
+A06 = "countries/LegioMauretania.txt"
+A07 = "countries/Caesarae.txt"
+A08 = "countries/Sitifensis.txt"
+A09 = "countries/Zeugitana.txt"
+A10 = "countries/Empyria.txt"
+A11 = "countries/Syrtica.txt"
+A12 = "countries/LegioNumidia.txt"
 
-GRM = "countries/Garamantes.txt"             # releasable
-MSL = "countries/Musulamii.txt"              # releasable
-MRS = "countries/Maurisii.txt"               # releasable
+A13 = "countries/Garamantes.txt"             # releasable
+A14 = "countries/Musulamii.txt"              # releasable
+A15 = "countries/Maurisii.txt"               # releasable
 
-AFR = "countries/Africa.txt"                 # Formable
-CSP = "countries/CaesaraeProconsularis.txt"  # Formable
-MAU = "countries/Mauretania.txt"             # Formable
+A16 = "countries/Africa.txt"                 # Formable
+A17 = "countries/CaesaraeProconsularis.txt"  # Formable
+A18 = "countries/Mauretania.txt"             # Formable
 
 #Central Asia/Steppes
 OYG = "countries/Uyghurs.txt"

@@ -1,6 +1,6 @@
 # - Rabat
-owner = RHY
-controller = RHY
+owner = A03
+controller = A03
 culture = moroccan
 religion = cathar
 capital = "Rabat"
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = RHY
+add_core = A03
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,6 +1,6 @@
 # - Ouargla
-owner = LGN
-controller = LGN
+owner = A12
+controller = A12
 culture = berber
 religion = catholic
 capital = "Ouargla"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = LGN
+add_core = A12
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western

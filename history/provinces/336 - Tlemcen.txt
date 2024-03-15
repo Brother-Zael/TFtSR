@@ -1,6 +1,6 @@
 #336 - Tlemcen
-owner = CAE
-controller = CAE 
+owner = A07
+controller = A07 
 culture = berber
 religion = catholic
 capital = "Tlemcen"
@@ -11,7 +11,7 @@ base_production = 5
 base_manpower = 3
 is_city = yes
 fort_15th = yes #Tlemcen Fortifications, site of many long sieges - Controls this area.
-add_core = CAE
+add_core = A07
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

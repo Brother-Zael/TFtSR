@@ -1,6 +1,6 @@
 #341 - Tunis
-owner = ZEU
-controller = ZEU 
+owner = A09
+controller = A09 
 culture = tunisian
 religion = catholic
 capital = "Tunis"
@@ -10,7 +10,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 2
 is_city = yes
-add_core = ZEU
+add_core = A09
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
