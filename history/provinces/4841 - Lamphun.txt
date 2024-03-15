@@ -1,6 +1,6 @@
 #1817 - Nan
-owner = CMI
-controller = CMI
+owner = M15
+controller = M15
 culture = northern_thai
 religion = hinduism
 capital = "Lamphun"
@@ -10,6 +10,6 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = CMI
+add_core = M15
 discovered_by = chinese
 discovered_by = indian

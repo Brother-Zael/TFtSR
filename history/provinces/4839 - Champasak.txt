@@ -1,5 +1,5 @@
-owner = CHP
-controller = CHP
+owner = M21
+controller = M21
 culture = lao
 religion = hinduism
 capital = "Champasak"
@@ -9,6 +9,6 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = CHP
+add_core = M21
 discovered_by = chinese
 discovered_by = indian

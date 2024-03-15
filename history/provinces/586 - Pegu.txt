@@ -1,6 +1,6 @@
 #586 - Pegu
-owner = PGU
-controller = PGU
+owner = M25
+controller = M25
 culture = mon
 religion = buddhism
 capital = "Pegu"
@@ -11,7 +11,7 @@ base_production = 4
 base_manpower = 3
 fort_15th = yes
 is_city = yes
-add_core = PGU
+add_core = M25
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

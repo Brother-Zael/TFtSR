@@ -1,6 +1,6 @@
 #583 - Hsenwi
-owner = HSW
-controller = HSW
+owner = M11
+controller = M11
 culture = shan
 religion = animism
 capital = "Hsenwi"
@@ -10,6 +10,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = HSW
+add_core = M11
 discovered_by = chinese
 discovered_by = indian

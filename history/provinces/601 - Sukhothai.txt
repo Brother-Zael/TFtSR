@@ -1,6 +1,6 @@
 #601 - Sukhothai
-owner = SUK
-controller = SUK
+owner = M26
+controller = M26
 culture = central_thai
 religion = buddhism
 capital = "Sukhothai"
@@ -11,6 +11,6 @@ base_production = 6
 base_manpower = 3
 is_city = yes
 fort_15th = yes
-add_core = SUK
+add_core = M26
 discovered_by = chinese
 discovered_by = indian

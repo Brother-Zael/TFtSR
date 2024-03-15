@@ -1,6 +1,6 @@
 #2400 - Hsipaw
-owner = HSI
-controller = HSI
+owner = M07
+controller = M07
 culture = shan
 religion = buddhism
 capital = "Hsipaw"
@@ -10,6 +10,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = HSI
+add_core = M07
 discovered_by = chinese
 discovered_by = indian

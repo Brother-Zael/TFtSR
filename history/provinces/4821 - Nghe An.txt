@@ -1,5 +1,5 @@
-owner = TRA
-controller = TRA
+owner = M31
+controller = M31
 culture = vietnamese
 religion = mahayana
 capital = "Nghe An"
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = TRA
+add_core = M31
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

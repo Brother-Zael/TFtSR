@@ -1,6 +1,6 @@
 #2399 - Pagan
-owner = AVA
-controller = AVA
+owner = M00
+controller = M00
 culture = burmese
 religion = buddhism
 capital = "Pagan"
@@ -10,6 +10,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = AVA
+add_core = M00
 discovered_by = chinese
 discovered_by = indian

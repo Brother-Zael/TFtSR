@@ -1,6 +1,6 @@
 #585 - Toungoo
-owner = PGU
-controller = PGU
+owner = M25
+controller = M25
 culture = burmese
 religion = buddhism
 capital = "Toungoo"
@@ -10,6 +10,6 @@ base_tax = 5
 base_production = 5
 base_manpower = 4
 is_city = yes
-add_core = PGU
+add_core = M25
 discovered_by = chinese
 discovered_by = indian

@@ -1,6 +1,6 @@
 #600 - Ayutthaya
-owner = AYU 
-controller = AYU
+owner = M27 
+controller = M27
 culture = central_thai
 religion = buddhism
 capital = "Ayutthaya"
@@ -11,7 +11,7 @@ base_production = 8
 base_manpower = 4
 is_city = yes
 fort_15th = yes
-add_core = AYU
+add_core = M27
 discovered_by = chinese
 discovered_by = indian
 extra_cost = 16

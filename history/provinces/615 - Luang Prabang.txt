@@ -1,6 +1,6 @@
 #615 - Luang Prabang
-owner = VNT
-controller = VNT
+owner = M13
+controller = M13
 culture = lao
 religion = animism
 capital = "Xieng Tong"
@@ -10,6 +10,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = VNT
+add_core = M13
 discovered_by = chinese
 discovered_by = indian

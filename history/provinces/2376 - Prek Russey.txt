@@ -1,6 +1,6 @@
 #2376 - Prek Russey
-owner = KHM
-controller = KHM
+owner = M28
+controller = M28
 culture = khmer
 religion = buddhism
 capital = "Prek Russey"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = KHM
+add_core = M28
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #2389 - Phra Bang
-owner = SUK
-controller = SUK
+owner = M26
+controller = M26
 culture = central_thai
 religion = buddhism
 capital = "Phra Bang"
@@ -10,6 +10,6 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = SUK
+add_core = M26
 discovered_by = chinese
 discovered_by = indian

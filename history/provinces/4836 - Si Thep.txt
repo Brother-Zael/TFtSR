@@ -1,6 +1,6 @@
 #592 - Ratchaburi
-owner = CHP
-controller = CHP
+owner = M21
+controller = M21
 culture = khmer
 religion = hinduism
 capital = "Si Thep"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = CHP
+add_core = M21
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #588 - Mong Nai
-owner = MNA
-controller = MNA
+owner = M09
+controller = M09
 culture = shan
 religion = vajrayana
 capital = "Mong Nai"
@@ -10,6 +10,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = MNA
+add_core = M09
 discovered_by = chinese
 discovered_by = indian

@@ -1,6 +1,6 @@
 #2382 - Savanh Nakhone
-owner = SVK
-controller = SVK
+owner = M19
+controller = M19
 culture = lao
 religion = animism
 capital = "Luang Namtha"
@@ -10,6 +10,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = SVK
+add_core = M19
 discovered_by = chinese
 discovered_by = indian

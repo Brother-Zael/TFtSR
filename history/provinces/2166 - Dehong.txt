@@ -1,7 +1,7 @@
 # 2166 - Dehong
-owner = HSW
-controller = HSW
-add_core = HSW
+owner = M11
+controller = M11
+add_core = M11
 culture = shan
 religion = daoism
 capital = "Dehong"

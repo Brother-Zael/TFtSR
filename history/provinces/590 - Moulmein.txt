@@ -1,6 +1,6 @@
 #590 - Moulmein
-owner = PGU
-controller = PGU
+owner = M25
+controller = M25
 culture = mon
 religion = buddhism
 capital = "Martaban"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = PGU
+add_core = M25
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

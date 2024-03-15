@@ -1,6 +1,6 @@
 #4406 - Mong Kung
-owner = MKU
-controller = MKU
+owner = M08
+controller = M08
 culture = shan
 religion = animism
 capital = "Mong Kung"
@@ -10,6 +10,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = MKU
+add_core = M08
 discovered_by = chinese
 discovered_by = indian

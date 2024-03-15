@@ -1,6 +1,6 @@
 #4404 - Minsin
-owner = MYA
-controller = MYA
+owner = M06
+controller = M06
 culture = kachin
 religion = thulsa
 capital = "Minsin"
@@ -10,6 +10,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = MYA
+add_core = M06
 discovered_by = chinese
 discovered_by = indian

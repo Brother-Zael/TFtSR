@@ -1,6 +1,6 @@
 #580 - Kale
-owner = KLE
-controller = KLE
+owner = M01
+controller = M01
 culture = chin
 religion = thulsa
 capital = "Kale"
@@ -10,6 +10,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = KLE
+add_core = M01
 discovered_by = chinese
 discovered_by = indian

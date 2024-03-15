@@ -1,6 +1,6 @@
 #614 - Vientiane
-owner = VNT
-controller = VNT
+owner = M13
+controller = M13
 culture = lao
 religion = buddhism
 capital = "Vientiane"
@@ -15,4 +15,4 @@ discovered_by = chinese
 discovered_by = indian
 extra_cost = 8
 center_of_trade = 1
-add_core = VNT
+add_core = M13

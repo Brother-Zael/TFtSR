@@ -1,6 +1,6 @@
 #610 - Thanh Hoa
-owner = NMV
-controller = NMV
+owner = M32
+controller = M32
 culture = vietnamese
 religion = mahayana
 capital = "Minh Quang"
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = NMV
+add_core = M32
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

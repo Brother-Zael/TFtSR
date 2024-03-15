@@ -1,6 +1,6 @@
 #604 - Oudong
-owner = AYU
-controller = AYU
+owner = M27
+controller = M27
 culture = khmer
 religion = buddhism
 capital = "Oudong"
@@ -10,6 +10,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = AYU
+add_core = M27
 discovered_by = chinese
 discovered_by = indian

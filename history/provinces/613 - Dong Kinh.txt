@@ -1,6 +1,6 @@
 #613 - Dong Kinh
-owner = NMV
-controller = NMV
+owner = M32
+controller = M32
 culture = vietnamese
 religion = mahayana
 capital = "Dong Kinh"
@@ -11,7 +11,7 @@ base_production = 7
 base_manpower = 4
 fort_15th = yes
 is_city = yes
-add_core = NMV
+add_core = M32
 extra_cost = 8
 center_of_trade = 1
 discovered_by = chinese

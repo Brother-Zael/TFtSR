@@ -1,6 +1,6 @@
 #587 - Kengtung
-owner = HSW
-controller = HSW
+owner = M11
+controller = M11
 culture = shan
 religion = animism
 capital = "Kengtung"
@@ -10,6 +10,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 is_city = yes
-add_core = HSW
+add_core = M11
 discovered_by = chinese
 discovered_by = indian

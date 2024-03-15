@@ -1,6 +1,6 @@
 #584 - Ava
-owner = AVA
-controller = AVA
+owner = M00
+controller = M00
 culture = burmese
 religion = buddhism
 capital = "Ava"
@@ -11,7 +11,7 @@ base_production = 6
 base_manpower = 4
 fort_15th = yes
 is_city = yes
-add_core = AVA
+add_core = M00
 discovered_by = chinese
 discovered_by = indian
 extra_cost = 16

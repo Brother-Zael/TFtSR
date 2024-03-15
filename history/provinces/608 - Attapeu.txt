@@ -1,5 +1,5 @@
-owner = ATU
-controller = ATU
+owner = M20
+controller = M20
 culture = lao
 religion = animism
 capital = "Attapeu"
@@ -9,6 +9,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = ATU
+add_core = M20
 discovered_by = chinese
 discovered_by = indian
