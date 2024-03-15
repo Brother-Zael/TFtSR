@@ -1,6 +1,6 @@
 # 2985 - Capitanata
-owner = CPT
-controller = CPT
+owner = H32
+controller = H32
 culture = neapolitan 
 religion = catholic 
 hre = no 
@@ -10,7 +10,7 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Foggia"
 is_city = yes
-add_core = CPT
+add_core = H32
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

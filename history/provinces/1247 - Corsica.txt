@@ -1,6 +1,6 @@
 #1247 - Corsica
-owner = CRS
-controller = CRS
+owner = H27
+controller = H27
 culture = sardinian
 religion = catholic
 capital = "Bastia"
@@ -10,7 +10,7 @@ base_production = 3
 trade_goods = naval_supplies
 base_manpower = 2
 is_city = yes
-add_core = CRS
+add_core = H27
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

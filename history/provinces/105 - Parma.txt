@@ -1,6 +1,6 @@
 #105 - Parma
-owner = PRA
-controller = PRA
+owner = H20
+controller = H20
 culture = romagnan 
 religion = catholic 
 hre = yes 
@@ -10,7 +10,7 @@ trade_goods = livestock
 base_manpower = 4 
 capital = "Parma" 
 is_city = yes	# Estimated 
-add_core = PRA
+add_core = H20
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

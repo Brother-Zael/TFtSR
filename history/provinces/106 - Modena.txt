@@ -1,6 +1,6 @@
 #106 - Modena
-owner = BOM
-controller = BOM
+owner = H22
+controller = H22
 culture = romagnan 
 religion = catholic 
 hre = yes 
@@ -10,7 +10,7 @@ trade_goods = livestock
 base_manpower = 2  
 capital = "Modena" 
 is_city = yes
-add_core = BOM
+add_core = H22
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

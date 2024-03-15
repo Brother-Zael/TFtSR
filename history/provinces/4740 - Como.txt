@@ -1,7 +1,7 @@
 #4740 - Como
 
-owner = EMP
-controller = EMP
+owner = H00
+controller = H00
 culture = lombard
 religion = catholic
 hre = yes

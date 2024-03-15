@@ -1,6 +1,6 @@
 # 4733 - Molise
-owner = NEA
-controller = NEA
+owner = H31
+controller = H31
 culture = neapolitan 
 religion = fraticelli 
 hre = no 
@@ -10,7 +10,7 @@ trade_goods = paper
 base_manpower = 2
 capital = "Campobasso"
 is_city = yes
-add_core = NEA
+add_core = H31
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

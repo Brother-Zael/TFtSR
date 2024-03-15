@@ -1,6 +1,6 @@
 #142 - Corfu
-owner = BRN
-controller = BRN
+owner = H33
+controller = H33
 culture = greek
 religion = orthodox
 capital = "Corfu"
@@ -11,7 +11,7 @@ base_production = 1
 base_manpower = 3
 is_city = yes
 fort_15th = yes
-add_core = BRN
+add_core = H33
 add_core = E46
 discovered_by = western
 discovered_by = eastern

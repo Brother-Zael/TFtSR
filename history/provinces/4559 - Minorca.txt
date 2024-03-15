@@ -1,7 +1,7 @@
 #Minorca
-owner = MLG		# Alfons V of Aragon
-controller = MLG
-add_core = MLG
+owner = H35		# Alfons V of Aragon
+controller = H35
+add_core = H35
 culture = catalan
 religion = catholic
 hre = no

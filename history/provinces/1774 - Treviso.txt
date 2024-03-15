@@ -1,7 +1,7 @@
 #1774 - Treviso
-owner = PAP
-controller = PAP
-add_core = PAP
+owner = H26
+controller = H26
+add_core = H26
 culture = venetian 
 religion = catholic 
 hre = no

@@ -1,6 +1,6 @@
 # 4731 - Spoleto
-owner = SPL
-controller = SPL
+owner = H30
+controller = H30
 culture = umbrian 
 religion = catholic 
 hre = no
@@ -10,7 +10,7 @@ trade_goods = livestock
 base_manpower = 1
 capital = "Spoleto" 
 is_city = yes
-add_core = SPL
+add_core = H30
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

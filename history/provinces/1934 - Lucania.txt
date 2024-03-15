@@ -1,6 +1,6 @@
 #1934 - Lucania
-owner = PNR
-controller = PNR
+owner = H34
+controller = H34
 culture = neapolitan 
 religion = fraticelli 
 hre = no 
@@ -10,7 +10,7 @@ trade_goods = livestock
 base_manpower = 1
 capital = "Potenza"
 is_city = yes 
-add_core = PNR
+add_core = H34
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

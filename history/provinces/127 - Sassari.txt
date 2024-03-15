@@ -1,6 +1,6 @@
 #127 - Sardinia
-owner = SAR
-controller = SAR
+owner = H28
+controller = H28
 culture = sardinian 
 religion = fraticelli 
 hre = no 
@@ -10,7 +10,7 @@ trade_goods = fish
 base_manpower = 2
 capital = "Sassari" 
 is_city = yes 
-add_core = SAR
+add_core = H28
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

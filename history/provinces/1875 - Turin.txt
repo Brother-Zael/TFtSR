@@ -1,6 +1,6 @@
 #1875 - Cuneo (can't change filename)
-owner = EMP
-controller = EMP
+owner = H00
+controller = H00
 culture = piedmontese
 religion = catholic
 hre = yes
@@ -11,7 +11,7 @@ base_manpower = 4
 fort_15th = yes #Cittadellla of Alessandria
 capital = "Cuneo"
 is_city = yes		# Estimated
-add_core = EMP
+add_core = H00
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

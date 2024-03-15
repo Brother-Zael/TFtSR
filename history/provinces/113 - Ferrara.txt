@@ -1,6 +1,6 @@
 #113 - Ferrara
-owner = BOF
-controller = BOF
+owner = H24
+controller = H24
 culture = romagnan 
 religion = catholic 
 hre = yes 
@@ -11,7 +11,7 @@ base_manpower = 2
 capital = "Ferrara" 
 is_city = yes
 fort_15th = yes
-add_core = BOF
+add_core = H24
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

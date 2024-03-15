@@ -5,6 +5,6 @@ war_goal = {
 }
 
 1820.11.1 = {
-	add_attacker = EMP
+	add_attacker = H00
 	add_defender = W07
 }

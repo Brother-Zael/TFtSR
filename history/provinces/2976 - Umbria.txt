@@ -1,6 +1,6 @@
 # 2976 - Perugia, formerly Umbria
-owner = ARI
-controller = ARI
+owner = H29
+controller = H29
 culture = umbrian 
 religion = catholic 
 hre = no
@@ -10,7 +10,7 @@ trade_goods = wine
 base_manpower = 1
 capital = "Perugia" 
 is_city = yes
-add_core = ARI
+add_core = H29
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

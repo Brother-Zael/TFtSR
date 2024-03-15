@@ -1,6 +1,6 @@
 # 4730 - Bologna
-owner = BOB
-controller = BOB
+owner = H23
+controller = H23
 culture = romagnan 
 religion = catholic 
 hre = no
@@ -10,7 +10,7 @@ trade_goods = cloth
 base_manpower = 3
 capital = "Bologna"
 is_city = yes
-add_core = BOB
+add_core = H23
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

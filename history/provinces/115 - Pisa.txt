@@ -1,6 +1,6 @@
 #115 - Pisa
-owner = PRA
-controller = PRA
+owner = H20
+controller = H20
 culture = tuscan
 religion = catholic
 hre = yes
@@ -10,7 +10,7 @@ trade_goods = wine
 base_manpower = 3
 capital = "Pisa"
 is_city = yes	# Estimated
-add_core = PRA
+add_core = H20
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = MLG
-controller = MLG
+owner = H35
+controller = H35
 culture = greek
 religion = orthodox
 capital = "Agios Georgios"
@@ -10,7 +10,7 @@ base_production = 1
 base_manpower = 2
 is_city = yes
 add_core = E46
-add_core = MLG
+add_core = H35
 add_core = E48
 discovered_by = western
 discovered_by = eastern

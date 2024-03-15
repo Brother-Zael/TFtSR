@@ -1,6 +1,6 @@
 #122 - Apulia
-owner = BRN
-controller = BRN
+owner = H33
+controller = H33
 culture = neapolitan 
 religion = catholic 
 hre = no 
@@ -10,7 +10,7 @@ trade_goods = wine
 base_manpower = 2
 capital = "Taranto"
 is_city = yes 
-add_core = BRN
+add_core = H33
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

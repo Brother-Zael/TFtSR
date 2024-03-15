@@ -1,7 +1,7 @@
 # - Albenga
-owner = EMP
-controller = EMP
-add_core = EMP
+owner = H00
+controller = H00
+add_core = H00
 culture = ligurian
 religion = catholic
 hre = yes

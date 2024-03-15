@@ -1,6 +1,6 @@
 #2981 - Montferrat
-owner = EMP
-controller = EMP
+owner = H00
+controller = H00
 culture = piedmontese
 religion = catholic
 hre = yes
@@ -10,7 +10,7 @@ trade_goods = wine
 base_manpower = 2
 capital = Montferrat
 is_city = yes
-add_core = EMP
+add_core = H00
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

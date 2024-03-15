@@ -1,6 +1,6 @@
 # Urbino
-owner = FAU
-controller = FAU
+owner = H25
+controller = H25
 culture = umbrian 
 religion = catholic 
 hre = no 
@@ -10,7 +10,7 @@ trade_goods = grain
 base_manpower = 2
 capital = "Urbino" 
 is_city = yes
-add_core = FAU
+add_core = H25
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

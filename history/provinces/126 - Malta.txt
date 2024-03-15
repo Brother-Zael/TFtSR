@@ -1,6 +1,6 @@
 #126 - Malta
-owner = MLG
-controller = MLG
+owner = H35
+controller = H35
 culture = maltese 
 religion = catholic 
 hre = no 
@@ -10,7 +10,7 @@ trade_goods = fish
 base_manpower = 2
 capital = "Mdina" 
 is_city = yes
-add_core = MLG
+add_core = H35
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

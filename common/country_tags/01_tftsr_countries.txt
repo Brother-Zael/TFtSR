@@ -228,27 +228,27 @@ W99 = "countries/Lusitania.txt"              # Formable for SW region (Portugal 
 W00	= "countries/Hispania.txt"               # Formable of all spain. Empire rank and removed from HRE.
 
 #Italia
-EMP = "countries/Imperator.txt"              # Reformable
-PRA = "countries/Praetorians.txt"
-VEN = "countries/Venezia.txt"
-BOM = "countries/Mutina.txt"                 # Bishophric of Modena
-BOB = "countries/Bononia.txt"	             # Bishophric of Bononia
-BOF = "countries/ForumAlieni.txt"			 # Bishophric Forum Alieni
-FAU = "countries/TheUnity.txt"               # "Firenze and Urbinas"
-PAP	= "countries/Papal.txt"
-CRS = "countries/Corsica.txt"                # vassal of pope
-SAR = "countries/Sardinia.txt"
-ARI = "countries/Ariminum.txt"
-SPL = "countries/Spoletum.txt"               # Trade League with Ariminum
-NEA = "countries/Neapolis.txt"               # Archbishopric?
-CPT = "countries/Capitanata.txt"             # Bishop vassal of Ariminum
-BRN = "countries/Brundisium.txt"
-PNR = "countries/Panormus.txt"               # Archbishophric? that converted to catharism
-MLG = "countries/LegioMare.txt"
+H00 = "countries/Imperator.txt"              # Reformable
+H20 = "countries/Praetorians.txt"
+H21 = "countries/Venezia.txt"
+H22 = "countries/Mutina.txt"                 # Bishophric of Modena
+H23 = "countries/Bononia.txt"	             # Bishophric of Bononia
+H24 = "countries/ForumAlieni.txt"			 # Bishophric Forum Alieni
+H25 = "countries/TheUnity.txt"               # "Firenze and Urbinas"
+H26	= "countries/Papal.txt"
+H27 = "countries/Corsica.txt"                # vassal of pope
+H28 = "countries/Sardinia.txt"
+H29 = "countries/Ariminum.txt"
+H30 = "countries/Spoletum.txt"               # Trade League with Ariminum
+H31 = "countries/Neapolis.txt"               # Archbishopric?
+H32 = "countries/Capitanata.txt"             # Bishop vassal of Ariminum
+H33 = "countries/Brundisium.txt"
+H34 = "countries/Panormus.txt"               # Archbishophric? that converted to catharism
+H35 = "countries/LegioMare.txt"
 
-ITA	= "countries/Italia.txt"
-SIC	= "countries/Sicily.txt"                 # Secular formable. kingdom rank while staying in empire as reward from pope for killing cathars
-HLR = "countries/HolyRomanEmpire.txt"
+H36	= "countries/Italia.txt"
+H37	= "countries/Sicily.txt"                 # Secular formable. kingdom rank while staying in empire as reward from pope for killing cathars
+H38 = "countries/HolyRomanEmpire.txt"
 
 #Low Countries
 DRS = "countries/Dorestadt.txt"              # Amsterdam before it was cool

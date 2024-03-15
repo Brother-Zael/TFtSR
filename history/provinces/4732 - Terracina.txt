@@ -1,6 +1,6 @@
 #4732 - Terracina
-owner = NEA
-controller = NEA
+owner = H31
+controller = H31
 culture = umbrian 
 religion = catholic 
 hre = no
@@ -10,7 +10,7 @@ trade_goods = fish
 base_manpower = 1		# Pontine Marshes
 capital = "Terracina"
 is_city = yes
-add_core = NEA
+add_core = H31
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

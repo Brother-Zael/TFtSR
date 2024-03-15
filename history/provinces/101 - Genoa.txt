@@ -1,7 +1,7 @@
 #101 - Liguria
-owner = PRA
-controller = PRA
-add_core = PRA
+owner = H20
+controller = H20
+add_core = H20
 culture = ligurian
 religion = catholic
 hre = yes

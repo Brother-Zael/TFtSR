@@ -1,6 +1,6 @@
 #163 - Crete
-owner = MLG
-controller = MLG
+owner = H35
+controller = H35
 culture = greek
 religion = orthodox
 capital = "Heraklion"
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = MLG
+add_core = H35
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

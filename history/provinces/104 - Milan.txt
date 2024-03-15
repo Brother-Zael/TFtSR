@@ -1,6 +1,6 @@
 #104 - Milano
-owner = EMP
-controller = EMP
+owner = H00
+controller = H00
 culture = lombard
 religion = catholic
 hre = yes
@@ -11,7 +11,7 @@ base_manpower = 6
 fort_15th = yes #Sforza Castle
 capital = "Milano"
 is_city = yes	# Estimated
-add_core = EMP
+add_core = H00
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

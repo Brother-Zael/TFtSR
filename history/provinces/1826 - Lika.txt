@@ -1,6 +1,6 @@
 #1826 - Lika
-owner = VEN
-controller = VEN
+owner = H21
+controller = H21
 culture = croatian
 religion = catholic
 capital = "Senj"
@@ -14,4 +14,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-add_core = VEN
+add_core = H21

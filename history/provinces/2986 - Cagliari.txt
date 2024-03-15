@@ -2,8 +2,8 @@
 latent_trade_goods = {
 	coal
 }
-owner = PRA
-controller = PRA
+owner = H20
+controller = H20
 culture = sardinian 
 religion = catholic 
 hre = no 
@@ -13,7 +13,7 @@ trade_goods = copper
 base_manpower = 1
 capital = "Cagliari" 
 is_city = yes # Estimated 
-add_core = PRA
+add_core = H20
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

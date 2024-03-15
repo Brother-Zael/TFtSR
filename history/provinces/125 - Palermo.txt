@@ -1,6 +1,6 @@
 #125 - Palermo
-owner = PNR
-controller = PNR
+owner = H34
+controller = H34
 culture = sicilian 
 religion = fraticelli 
 hre = no 
@@ -10,7 +10,7 @@ trade_goods = wine
 base_manpower = 3
 capital = "Palermo"
 is_city = yes
-add_core = PNR
+add_core = H34
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

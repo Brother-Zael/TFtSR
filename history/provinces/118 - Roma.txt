@@ -1,6 +1,6 @@
 #118 - Roma
-owner = PAP
-controller = PAP
+owner = H26
+controller = H26
 culture = umbrian 
 religion = catholic 
 hre = no
@@ -11,7 +11,7 @@ base_manpower = 7
 capital = "Roma"
 is_city = yes
 fort_15th = yes #Castel Sant'Angelo
-add_core = PAP
+add_core = H26
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
