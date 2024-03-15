@@ -1,8 +1,8 @@
 # No previous file for Mani
 culture = yucatec
-owner = XIU
-controller = XIU
-add_core = XIU
+owner = U28
+controller = U28
+add_core = U28
 is_city = yes
 religion = mesoamerican_religion
 capital = "Ceh Pech"

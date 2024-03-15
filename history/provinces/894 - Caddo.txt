@@ -1,7 +1,7 @@
 #894 - Caddo
-add_core = CAD
-owner = CAD
-controller = CAD
+add_core = U30
+owner = U30
+controller = U30
 culture = caddo
 religion = totemism
 capital = "Caddo"

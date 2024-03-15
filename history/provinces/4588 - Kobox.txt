@@ -1,6 +1,6 @@
 # No previous file for Kobox
-owner = ITZ
-controller = ITZ
+owner = U18
+controller = U18
 culture = putun
 religion = mesoamerican_religion
 capital = "Kobox"
@@ -10,5 +10,5 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = ITZ
+add_core = U18
 discovered_by = mesoamerican

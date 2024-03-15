@@ -1,7 +1,7 @@
 #917 - Cahokia
-owner = CAH
-controller = CAH
-add_core = CAH
+owner = U15
+controller = U15
+add_core = U15
 is_city = yes
 culture = illini
 religion = totemism

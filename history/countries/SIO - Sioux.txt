@@ -7,7 +7,7 @@ technology_group = north_american
 capital = 2517
 
 federation = { 
-	name = "SIO_federation_name" 
+	name = "U35_federation_name" 
 	members = { WCY LAK }
 }
 

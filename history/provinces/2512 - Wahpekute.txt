@@ -1,5 +1,5 @@
 # No previous file for Wahpekute
-tribal_owner = SIO
+tribal_owner = U35
 culture = dakota
 religion = totemism
 capital = "Wahpekute"

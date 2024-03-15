@@ -1,8 +1,8 @@
 # No previous file for Apatzingan
 culture = purepecha
-owner = CLM
-controller = CLM
-add_core = CLM
+owner = U13
+controller = U13
+add_core = U13
 is_city = yes
 religion = nahuatl
 capital = "Apatzingan"

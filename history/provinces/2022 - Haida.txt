@@ -1,7 +1,7 @@
 # 2022 - Haida
-owner = HDA
-controller = HDA
-add_core = HDA
+owner = U17
+controller = U17
+add_core = U17
 is_city = yes
 culture = haida
 religion = totemism 

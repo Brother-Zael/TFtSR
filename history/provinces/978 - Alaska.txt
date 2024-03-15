@@ -1,7 +1,7 @@
 #978 - Alaska
-owner = KEN
-controller = KEN
-add_core = KEN
+owner = U37
+controller = U37
+add_core = U37
 culture = aleutian
 religion = confucianism
 capital = "Alaska"

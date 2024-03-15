@@ -10,5 +10,5 @@ base_manpower = 1
 native_size = 10
 native_ferocity = 2 
 native_hostileness = 3 
-tribal_owner = HDA
+tribal_owner = U17
 discovered_by = north_american

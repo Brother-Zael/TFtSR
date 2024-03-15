@@ -1,6 +1,6 @@
 #847 - Mixtec
-owner = MIX 
-controller = MIX
+owner = U21 
+controller = U21
 culture = mixtec 
 religion = nahuatl
 capital = "Totopec" 
@@ -10,4 +10,4 @@ base_tax = 3
 base_production = 3
 base_manpower = 1 
 is_city = yes
-add_core = MIX
+add_core = U21

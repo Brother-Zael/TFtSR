@@ -1,6 +1,6 @@
 # No previous file for Xocotla
-owner = TLX
-controller = TLX
+owner = U25
+controller = U25
 culture = aztek
 religion = nahuatl
 capital = "Xocotla"
@@ -10,5 +10,5 @@ base_tax = 4
 base_production = 4
 base_manpower = 1
 is_city = yes
-add_core = TLX
+add_core = U25
 discovered_by = mesoamerican

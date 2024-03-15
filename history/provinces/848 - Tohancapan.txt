@@ -1,6 +1,6 @@
 #848 - Tohancapan
-owner = TOT
-controller = TOT
+owner = U26
+controller = U26
 culture = totonac
 religion = nahuatl
 capital = "Tohancapan"
@@ -10,5 +10,5 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = TOT
+add_core = U26
 discovered_by = mesoamerican

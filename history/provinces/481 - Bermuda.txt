@@ -1,7 +1,7 @@
 #481 - Bermuda
-owner = VNR
-controller = VNR
-add_core = VNR
+owner = U11
+controller = U11
+add_core = U11
 capital = "Bermuda"
 trade_goods = unknown
 hre = no

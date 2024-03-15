@@ -1,6 +1,6 @@
 #849 - Tlapanec
-owner = TLA
-controller = TLA
+owner = U24
+controller = U24
 culture = tlapanec
 religion = nahuatl
 capital = "Acapulco"
@@ -10,6 +10,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 1
 is_city = yes
-add_core = TLA
+add_core = U24
 extra_cost = 8
 center_of_trade = 1

@@ -1,6 +1,6 @@
 #846 - Yucatan
-owner = COC 
-controller = COC
+owner = U16 
+controller = U16
 culture = yucatec
 religion = mesoamerican_religion
 capital = "Sotuta" 
@@ -10,6 +10,6 @@ base_tax = 4
 base_production = 4 
 base_manpower = 1 
 is_city = yes
-add_core = COC
+add_core = U16
 discovered_by = mesoamerican
 add_province_triggered_modifier = mayan_chichen_itza

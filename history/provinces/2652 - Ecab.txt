@@ -1,8 +1,8 @@
 # No previous file for Ecab
 culture = yucatec
-owner = COC
-controller = COC
-add_core = COC
+owner = U16
+controller = U16
+add_core = U16
 is_city = yes
 religion = mesoamerican_religion
 capital = "Ecab"

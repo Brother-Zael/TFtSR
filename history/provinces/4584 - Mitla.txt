@@ -1,6 +1,6 @@
 # No previous file for Mitla
-owner = MIX
-controller = MIX
+owner = U21
+controller = U21
 culture = zapotek
 religion = nahuatl
 capital = "Mitla"
@@ -10,5 +10,5 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = MIX
+add_core = U21
 discovered_by = mesoamerican
