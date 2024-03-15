@@ -1,6 +1,6 @@
-owner = KIK
-controller = KIK
-add_core = KIK
+owner = R41
+controller = R41
+add_core = R41
 culture = luba
 religion = shamanism #Fetishism
 capital = "Kanongesha"

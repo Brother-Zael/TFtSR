@@ -1,7 +1,7 @@
 #Bushubi
-owner = UBH
-controller = UBH
-add_core = UBH
+owner = R53
+controller = R53
+add_core = R53
 culture = rwandan
 religion = shamanism #Fetishism
 capital = "Bushubi"

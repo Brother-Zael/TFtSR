@@ -1,7 +1,7 @@
 #4030 - Bara
-owner = SKA #Really divided by various minor entities, eventually rendering vassalage to the Betsileo.
-controller = SKA
-add_core = SKA
+owner = R55 #Really divided by various minor entities, eventually rendering vassalage to the Betsileo.
+controller = R55
+add_core = R55
 culture = madagasque
 religion = shamanism #Fetishism
 capital = "Bara"

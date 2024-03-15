@@ -1,7 +1,7 @@
 #4029 - Antanosy
-owner = MHF
-controller = MHF
-add_core = MHF
+owner = R58
+controller = R58
+add_core = R58
 culture = madagasque
 religion = sunni
 capital = "Antanosy"

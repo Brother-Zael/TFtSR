@@ -1,8 +1,8 @@
 #Buganda
 
-owner = BUG
-controller = BUG
-add_core = BUG
+owner = R48
+controller = R48
+add_core = R48
 culture = ganda
 religion = shamanism #Fetishism
 capital = "Kitala" #Should really change with each monarch

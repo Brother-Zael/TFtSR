@@ -1,8 +1,8 @@
 #Karagwe
 
-owner = KRW
-controller = KRW
-add_core = KRW
+owner = R50
+controller = R50
+add_core = R50
 culture = ganda
 religion = shamanism #Fetishism
 capital = "Karagwe"

@@ -1,7 +1,7 @@
 #4031 - Antsalova
-owner = SKA
-controller = SKA
-add_core = SKA
+owner = R55
+controller = R55
+add_core = R55
 culture = madagasque
 religion = shamanism #Fetishism
 capital = "Antsalova"

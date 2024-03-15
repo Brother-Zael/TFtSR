@@ -1,7 +1,7 @@
 #4027 - Betsileo
-owner = SKA #Had not yet formed a unified state, would submit to the Imerina in the early 18th century.
-controller = SKA
-add_core = SKA
+owner = R55 #Had not yet formed a unified state, would submit to the Imerina in the early 18th century.
+controller = R55
+add_core = R55
 culture = madagasque
 religion = shamanism #Fetishism
 capital = "Betsileo"

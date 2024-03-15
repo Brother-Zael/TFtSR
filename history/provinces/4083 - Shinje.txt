@@ -1,6 +1,6 @@
-owner = KSJ
-controller = KSJ
-add_core = KSJ
+owner = R37
+controller = R37
+add_core = R37
 culture = mbangala
 religion = shamanism #Fetishism
 capital = "Shinje"

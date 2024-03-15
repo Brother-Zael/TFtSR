@@ -1,8 +1,8 @@
 #Rwanda
 
-owner = RWA
-controller = RWA
-add_core = RWA
+owner = R46
+controller = R46
+add_core = R46
 culture = rwandan
 religion = shamanism #Fetishism
 capital = "Nduga"

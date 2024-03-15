@@ -1,7 +1,7 @@
 #4023 - Tsimihety
-owner = MIR
-controller = MIR
-add_core = MIR
+owner = R54
+controller = R54
+add_core = R54
 culture = madagasque
 religion = shamanism #Fetishism
 capital = "Tsimihety"

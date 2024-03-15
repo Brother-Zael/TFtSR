@@ -1,7 +1,7 @@
 #4021 - Antankara
-owner = BTS
-controller = BTS
-add_core = BTS
+owner = R56
+controller = R56
+add_core = R56
 culture = madagasque #Malagasy
 religion = ibadi
 capital = "Ambilobe"

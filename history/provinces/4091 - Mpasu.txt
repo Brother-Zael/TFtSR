@@ -1,6 +1,6 @@
-owner = LND
-controller = LND
-add_core = LND
+owner = R39
+controller = R39
+add_core = R39
 culture = lunda
 religion = shamanism #Fetishism
 capital = "Mpasu"

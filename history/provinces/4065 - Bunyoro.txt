@@ -1,8 +1,8 @@
 #Bunyoro
 
-owner = BNY
-controller = BNY
-add_core = BNY
+owner = R51
+controller = R51
+add_core = R51
 culture = ganda
 religion = shamanism #Fetishism
 capital = "Mugenyi"
