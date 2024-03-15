@@ -1,7 +1,7 @@
 # 4775 - Bielefeld
-owner = FRS
-controller = FRS
-add_core = FRS
+owner = H40
+controller = H40
+add_core = H40
 culture = hannoverian
 religion = catholic
 trade_goods = cloth #linen

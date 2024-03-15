@@ -1,7 +1,7 @@
 # 95 Breda - Principal cities: Breda
-owner = DRS
-controller = DRS
-add_core = DRS
+owner = H39
+controller = H39
+add_core = H39
 is_city = yes
 capital = "Breda"
 culture = dutch

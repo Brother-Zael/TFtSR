@@ -251,14 +251,14 @@ H37	= "countries/Sicily.txt"                 # Secular formable. kingdom rank wh
 H38 = "countries/HolyRomanEmpire.txt"
 
 #Low Countries
-DRS = "countries/Dorestadt.txt"              # Amsterdam before it was cool
-FRS = "countries/Friesland.txt"
-FRL = "countries/FrisianLeague.txt"
-TTB = "countries/Teutobergii.txt"            # germano-roman culture pagan death cult remnants of battle at teutoberg forest, which was a lot more close in this timeline.
-DUT = "countries/Dutchland.txt"              # not colonial in this timeline, only dev to the moooon. Let others bring trade and they siphon off it.
+H39 = "countries/Dorestadt.txt"              # Amsterdam before it was cool
+H40 = "countries/Friesland.txt"
+H41 = "countries/FrisianLeague.txt"
+H42 = "countries/Teutobergii.txt"            # germano-roman culture pagan death cult remnants of battle at teutoberg forest, which was a lot more close in this timeline.
+H43 = "countries/Dutchland.txt"              # not colonial in this timeline, only dev to the moooon. Let others bring trade and they siphon off it.
 
-FRR = "countries/FrisianRepublic.txt"             # Netherlands but norse pagans with slightly more raiding and slightly less trading. but still a lot of both.
-FRI = "countries/Frisia.txt"                 # Formable. Jomsvikings of the west, seeking to expand norse faith
+H44 = "countries/FrisianRepublic.txt"             # Netherlands but norse pagans with slightly more raiding and slightly less trading. but still a lot of both.
+H45 = "countries/Frisia.txt"                 # Formable. Jomsvikings of the west, seeking to expand norse faith
 
 #Arabia
 L00 = "countries/Umayyad.txt"				 # Maybe swap role with Abbasids

@@ -1,7 +1,7 @@
 # 1742 - Upper Guelders
-owner = DUT
-controller = DUT
-add_core = DUT
+owner = H43
+controller = H43
+add_core = H43
 is_city = yes
 capital = "Roermond"
 culture = flemish

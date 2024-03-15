@@ -1,6 +1,6 @@
 # 98 Utrecht - Principal cities: Utrecht
-owner = DRS
-controller = DRS 
+owner = H39
+controller = H39 
 capital = "Utrecht"
 is_city = yes
 culture = dutch
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 5
 trade_goods = cloth
 base_manpower = 2
-add_core = DRS
+add_core = H39
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

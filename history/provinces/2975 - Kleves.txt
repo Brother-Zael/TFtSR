@@ -1,6 +1,6 @@
-owner = DRS
-controller = DRS
-add_core = DRS
+owner = H39
+controller = H39
+add_core = H39
 culture = hessian
 religion = norse_pagan_reformed
 trade_goods = cloth

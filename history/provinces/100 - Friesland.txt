@@ -1,6 +1,6 @@
 # 100 Friesland - Principal cities: Leeuwarden & Harlingen 
-owner = FRS
-controller = FRS
+owner = H40
+controller = H40
 capital = "Leeuwarden"
 is_city = yes
 culture = frisian
@@ -10,7 +10,7 @@ base_tax = 6
 base_production = 6
 trade_goods = livestock 
 base_manpower = 2
-add_core = FRS
+add_core = H40
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

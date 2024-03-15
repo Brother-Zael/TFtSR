@@ -1,7 +1,7 @@
 # 97 - North Holland - Principal cities: Amsterdam, Haarlem
-owner = FRS
-controller = FRS
-add_core = FRS
+owner = H40
+controller = H40
+add_core = H40
 capital = "Amsterdam"
 is_city = yes
 culture = dutch

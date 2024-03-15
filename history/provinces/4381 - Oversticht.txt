@@ -1,6 +1,6 @@
 # 4381 - Oversticht
-owner = FRS
-controller = FRS 
+owner = H40
+controller = H40 
 capital = "Zwolle"
 is_city = yes
 culture = dutch
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 trade_goods = livestock
 base_manpower = 2
-add_core = FRS
+add_core = H40
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

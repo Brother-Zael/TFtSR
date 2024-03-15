@@ -1,6 +1,6 @@
 # 91 Hainaut - Principal cities: Mons & Tournai
-owner = DUT
-controller = DUT
+owner = H43
+controller = H43
 capital = "Mons"
 is_city = yes
 culture = wallonian
@@ -10,7 +10,7 @@ base_tax = 6
 base_production = 6
 trade_goods = cloth
 base_manpower = 3
-add_core = DUT
+add_core = H43
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

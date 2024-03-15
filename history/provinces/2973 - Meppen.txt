@@ -1,6 +1,6 @@
 # Meppen
-owner = FRS
-controller = FRS
+owner = H40
+controller = H40
 culture = hannoverian
 religion = norse_pagan_reformed
 trade_goods = cloth
@@ -10,7 +10,7 @@ base_production = 3
 base_manpower = 1
 is_city = yes
 hre = yes
-add_core = FRS
+add_core = H40
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

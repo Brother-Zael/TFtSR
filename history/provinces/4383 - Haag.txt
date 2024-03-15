@@ -1,7 +1,7 @@
 # 4383 South Holland - Principal cities: Den Haag, Delft, Leiden
-owner = DRS
-controller = DRS
-add_core = DRS
+owner = H39
+controller = H39
+add_core = H39
 capital = "'s-Gravenhage"
 is_city = yes
 culture = dutch

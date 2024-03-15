@@ -1,8 +1,8 @@
 # 69 - Dortmund
 culture = hannoverian
-owner = TTB
-controller = TTB
-add_core = TTB
+owner = H42
+controller = H42
+add_core = H42
 capital = "Dortmund"
 religion = hussite
 trade_goods = cloth

@@ -2,8 +2,8 @@
 latent_trade_goods = {
 	coal
 }
-owner = DUT
-controller = DUT
+owner = H43
+controller = H43
 culture = hessian
 religion = catholic
 trade_goods = grain
@@ -11,7 +11,7 @@ capital = "Aachen"
 base_tax = 6
 base_production = 6
 is_city = yes
-add_core = DUT
+add_core = H43
 base_manpower = 2
 hre = yes
 discovered_by = eastern

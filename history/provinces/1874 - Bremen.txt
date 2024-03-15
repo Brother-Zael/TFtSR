@@ -1,6 +1,6 @@
 #1874 - Bremen
-owner = FRL
-controller = FRL
+owner = H41
+controller = H41
 culture = lower_saxon
 religion = norse_pagan_reformed
 capital = "Bremen"
@@ -10,7 +10,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 4
 is_city = yes
-add_core = FRL
+add_core = H41
 fort_15th = yes
 add_local_autonomy = 50
 discovered_by = eastern

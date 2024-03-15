@@ -1,6 +1,6 @@
 # 99 Gelre - Principal cities: Arnhem & Nijmegen
-owner = DRS
-controller = DRS 
+owner = H39
+controller = H39 
 capital = "Arnhem"
 is_city = yes
 culture = dutch
@@ -10,7 +10,7 @@ base_tax = 6
 base_production = 6
 trade_goods = livestock
 base_manpower = 3
-add_core = DRS
+add_core = H39
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

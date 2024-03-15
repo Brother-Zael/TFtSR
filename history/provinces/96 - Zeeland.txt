@@ -1,7 +1,7 @@
 # 96 Zeeland - Principal cities: Middelburg, Vlissingen & Zierikzee
-owner = DRS
-controller = DRS
-add_core = DRS
+owner = H39
+controller = H39
+add_core = H39
 is_city = yes
 capital = "Middelburg"
 culture = dutch

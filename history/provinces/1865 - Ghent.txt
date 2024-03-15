@@ -1,7 +1,7 @@
 # 1865 - Ghent
-owner = DRS
-controller = DRS
-add_core = DRS
+owner = H39
+controller = H39
+add_core = H39
 is_city = yes
 capital = "Ghent"
 culture = flemish

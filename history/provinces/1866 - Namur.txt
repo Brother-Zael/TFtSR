@@ -2,8 +2,8 @@
 latent_trade_goods = {
 	coal
 }
-owner = DUT
-controller = DUT
+owner = H43
+controller = H43
 capital = "Namur"
 is_city = yes
 culture = wallonian
@@ -13,7 +13,7 @@ base_tax = 7
 base_production = 7
 trade_goods = iron
 base_manpower = 3
-add_core = DUT
+add_core = H43
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western

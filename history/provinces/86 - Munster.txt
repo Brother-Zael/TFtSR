@@ -1,6 +1,6 @@
 # 86 - Munster
-owner = TTB
-controller = TTB
+owner = H42
+controller = H42
 culture = hannoverian
 religion = norse_pagan_reformed
 trade_goods = cloth
@@ -11,7 +11,7 @@ base_manpower = 4
 fort_15th = yes
 is_city = yes
 hre = yes
-add_core = TTB
+add_core = H42
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
