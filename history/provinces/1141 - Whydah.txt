@@ -1,7 +1,7 @@
 #1141 - Whydah
-owner = BEN
-controller = BEN
-add_core = BEN
+owner = A20
+controller = A20
+add_core = A20
 culture = fon
 religion = shamanism #Fetishism
 capital = "Whydah"

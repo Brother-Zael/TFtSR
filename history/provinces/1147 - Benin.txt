@@ -1,7 +1,7 @@
 #1147 - Benin
-owner = BEN
-controller = BEN
-add_core = BEN
+owner = A20
+controller = A20
+add_core = A20
 culture = yorumba
 religion = shamanism #Fetishism
 capital = "Oredo"

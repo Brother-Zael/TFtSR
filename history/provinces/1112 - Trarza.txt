@@ -1,7 +1,7 @@
 #1112 - Trarza
-owner = JLF
-controller = JLF
-add_core = JLF
+owner = A29
+controller = A29
+add_core = A29
 is_city = yes
 culture = senegambian
 capital = "Awlil"

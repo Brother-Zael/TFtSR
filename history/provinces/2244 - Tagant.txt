@@ -1,7 +1,7 @@
 # No previous file for Tagant
-owner = TGT
-controller = TGT
-add_core = TGT
+owner = A34
+controller = A34
+add_core = A34
 culture = fulani 
 religion = shamanism #Fetishism
 capital = "Kiffa"

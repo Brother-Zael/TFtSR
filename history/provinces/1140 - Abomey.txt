@@ -1,7 +1,7 @@
 #1140 - Abomey
-owner = OYO #Early kingdom of Allada/Ardra
-controller = OYO
-add_core = OYO
+owner = A26 #Early kingdom of Allada/Ardra
+controller = A26
+add_core = A26
 is_city = yes
 culture = fon
 religion = shamanism #Fetishism

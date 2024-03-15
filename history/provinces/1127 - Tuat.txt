@@ -1,7 +1,7 @@
 #1127 - Tuat
-owner = TMB
-controller = TMB # under Tuareg rule to 1468
-add_core = TMB
+owner = A48
+controller = A48 # under Tuareg rule to 1468
+add_core = A48
 culture = tuareg
 capital = "Tawat"
 religion = kharijite

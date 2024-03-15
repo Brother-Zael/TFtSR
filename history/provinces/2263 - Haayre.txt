@@ -1,7 +1,7 @@
 # No previous file for Haayre
-owner = JNN
-controller = JNN
-add_core = JNN
+owner = A41
+controller = A41
+add_core = A41
 is_city = yes
 culture = bozo 
 religion = shamanism #Fetishism

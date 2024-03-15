@@ -1,8 +1,8 @@
 #1137 - Wagadugi
 #Senior of the Mossi Kingdoms centered here
-owner = YAT
-controller = YAT
-add_core = YAT
+owner = A50
+controller = A50
+add_core = A50
 is_city = yes
 culture = mossi #mossi
 religion = shamanism #Fetishism

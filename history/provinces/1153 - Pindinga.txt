@@ -1,7 +1,7 @@
 #1153 - Pindinga
-owner = PDG
-controller = PDG
-add_core = PDG
+owner = A55
+controller = A55
+add_core = A55
 is_city = yes
 culture = nupe  
 religion = shamanism #Fetishism

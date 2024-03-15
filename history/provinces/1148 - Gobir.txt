@@ -1,7 +1,7 @@
 #1148 - Gobir
-owner = AIR
-controller = AIR
-add_core = AIR
+owner = A35
+controller = A35
+add_core = A35
 culture = hausa
 is_city = yes
 base_manpower = 3

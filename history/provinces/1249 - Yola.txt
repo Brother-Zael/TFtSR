@@ -1,7 +1,7 @@
 #1249 - Yola
-owner = YOL
-controller = YOL
-add_core = YOL
+owner = A53
+controller = A53
+add_core = A53
 culture = jukun
 religion = shamanism #Fetishism
 capital = "Kwararafa"

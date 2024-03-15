@@ -1,7 +1,7 @@
 # 2247 - Hodh
-owner = TMB
-controller = TMB # under Tuareg rule to 1468
-add_core = TMB
+owner = A48
+controller = A48 # under Tuareg rule to 1468
+add_core = A48
 is_city = yes
 culture = tuareg 
 religion = catholic

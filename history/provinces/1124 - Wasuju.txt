@@ -1,6 +1,6 @@
 #1124 - Wasuju
-owner = MAL
-controller = MAL
+owner = A21
+controller = A21
 culture = mali
 is_city = yes
 base_manpower = 8
@@ -10,7 +10,7 @@ trade_goods = grain
 hre = no
 base_tax = 4 
 base_production = 4
-add_core = MAL
+add_core = A21
 discovered_by = sub_saharan
 extra_cost = 8
 center_of_trade = 1

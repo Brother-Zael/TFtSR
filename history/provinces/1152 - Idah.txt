@@ -1,7 +1,7 @@
 #1152 - Idah
-owner = BEN
-controller = BEN
-add_core = BEN
+owner = A20
+controller = A20
+add_core = A20
 is_city = yes
 culture = nupe
 religion = shamanism #Fetishism

@@ -1,7 +1,7 @@
 # No previous file for Marghi
-owner = YOL
-controller = YOL
-add_core = YOL
+owner = A53
+controller = A53
+add_core = A53
 is_city = yes
 culture = kanuri 
 religion = shamanism #Fetishism

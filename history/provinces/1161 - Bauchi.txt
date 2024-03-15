@@ -1,7 +1,7 @@
 #1161 - Bauchi
-owner = KSN
-controller = KSN
-add_core = KSN
+owner = A45
+controller = A45
+add_core = A45
 culture = jukun
 religion = shamanism #Fetishism
 capital = "Bauchi"

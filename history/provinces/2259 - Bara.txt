@@ -1,6 +1,6 @@
-owner = SAH
-controller = SAH
-add_core = SAH
+owner = A36
+controller = A36
+add_core = A36
 is_city = yes
 culture = bambara 
 religion = shamanism #Fetishism

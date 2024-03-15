@@ -1,7 +1,7 @@
 #1115 - Brakna
-owner = BRK
-controller = BRK
-add_core = BRK
+owner = A32
+controller = A32
+add_core = A32
 culture = fulani
 capital = "Aligh"
 religion = shamanism #Fetishism

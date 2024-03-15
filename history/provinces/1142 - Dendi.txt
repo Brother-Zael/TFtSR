@@ -1,7 +1,7 @@
 #1142 - Dendi
-owner = TMB
-controller = TMB
-add_core = TMB
+owner = A48
+controller = A48
+add_core = A48
 culture = songhai
 is_city = yes
 base_manpower = 1

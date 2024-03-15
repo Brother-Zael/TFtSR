@@ -1,6 +1,6 @@
 #1130 - Tadimekket
-owner = TMB
-controller = TMB
+owner = A48
+controller = A48
 culture = tuareg
 is_city = yes
 base_manpower = 1
@@ -10,5 +10,5 @@ trade_goods = wool
 hre = no
 base_tax = 1 
 base_production = 1
-add_core = TMB 
+add_core = A48 
 discovered_by = sub_saharan

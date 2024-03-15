@@ -1,7 +1,7 @@
 #1135 - Yatenga
-owner = YAT
-controller = YAT
-add_core = YAT
+owner = A50
+controller = A50
+add_core = A50
 is_city = yes
 culture = mossi
 religion = shamanism #Fetishism

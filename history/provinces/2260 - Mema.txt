@@ -1,7 +1,7 @@
 # No previous file for Mema
-owner = MSS
-controller = MSS
-add_core = MSS
+owner = A31
+controller = A31
+add_core = A31
 is_city = yes
 culture = bambara 
 religion = catholic

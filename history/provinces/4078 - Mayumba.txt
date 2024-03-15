@@ -1,6 +1,6 @@
-owner = LOA
-controller = LOA
-add_core = LOA
+owner = A30
+controller = A30
+add_core = A30
 culture = kongolese
 religion = shamanism #Fetishism
 capital = "Mayumba"

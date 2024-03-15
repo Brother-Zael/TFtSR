@@ -1,6 +1,6 @@
 #1114 - Gabu
-owner = MAL
-controller = MAL
+owner = A21
+controller = A21
 culture = senegambian
 is_city = yes
 base_manpower = 2
@@ -10,7 +10,7 @@ trade_goods = ivory
 hre = no
 base_tax = 3 
 base_production = 3
-add_core = MAL 
-add_core = MAL #Subject province within the empire
+add_core = A21 
+add_core = A21 #Subject province within the empire
 discovered_by = sub_saharan
 add_local_autonomy = 50

@@ -1,7 +1,7 @@
 # No previous file for Dallol
-owner = TMB
-controller = TMB
-add_core = TMB
+owner = A48
+controller = A48
+add_core = A48
 is_city = yes
 culture = songhai 
 religion = shamanism #Fetishism

@@ -1,7 +1,7 @@
 # No previous file for Tekrur
-owner = TKR		
-controller = TKR
-add_core = TKR
+owner = A33		
+controller = A33
+add_core = A33
 culture = fulani
 religion = shamanism #Fetishism
 capital = "Tekrur"

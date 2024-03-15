@@ -1,6 +1,6 @@
 # No previous file for Baghena
-owner = MSS
-controller = MSS
+owner = A31
+controller = A31
 is_city = yes
 culture = soninke 
 religion = catholic
@@ -13,5 +13,5 @@ native_size = 40
 native_ferocity = 4
 native_hostileness = 9
 base_manpower = 1
-add_core = MSS
+add_core = A31
 discovered_by = sub_saharan

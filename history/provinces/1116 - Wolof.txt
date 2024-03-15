@@ -1,6 +1,6 @@
 #1116 - Wolof
-owner = JLF
-controller = JLF
+owner = A29
+controller = A29
 culture = senegambian
 is_city = yes
 base_manpower = 2
@@ -10,5 +10,5 @@ trade_goods = slaves
 hre = no
 base_tax = 3 
 base_production = 3
-add_core = JLF
+add_core = A29
 discovered_by = sub_saharan

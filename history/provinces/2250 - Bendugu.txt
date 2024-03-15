@@ -1,7 +1,7 @@
 # No previous file for Bendugu
-owner = MAL
-controller = MAL
-add_core = MAL
+owner = A21
+controller = A21
+add_core = A21
 is_city = yes
 culture = bozo 
 religion = shamanism #Fetishism

@@ -1,7 +1,7 @@
 #1154 - Zazzau
-owner = ZAZ
-controller = ZAZ
-add_core = ZAZ
+owner = A51
+controller = A51
+add_core = A51
 culture = hausa
 is_city = yes
 base_manpower = 3

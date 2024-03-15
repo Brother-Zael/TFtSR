@@ -1,7 +1,7 @@
 # No previous file for Muniyo
-owner = AIR
-controller = AIR
-add_core = AIR
+owner = A35
+controller = A35
+add_core = A35
 is_city = yes
 culture = kanuri 
 religion = coptic
