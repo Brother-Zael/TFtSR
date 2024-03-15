@@ -1,7 +1,7 @@
 #743 - Essequibo
-owner = ARW
-controller = ARW
-add_core = ARW
+owner = U41
+controller = U41
+add_core = U41
 culture = guajiro
 discovered_by = south_american
 religion = animism

@@ -1,6 +1,6 @@
 #832 - Tunja
-owner = MCA
-controller = MCA
+owner = U39
+controller = U39
 culture = muisca
 religion = inti
 capital = "Tunja"
@@ -10,6 +10,6 @@ hre = no
 base_tax = 5 
 base_production = 5
 base_manpower = 2
-add_core = MCA
+add_core = U39
 discovered_by = south_american
 discovered_by = andean

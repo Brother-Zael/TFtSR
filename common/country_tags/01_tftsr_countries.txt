@@ -776,13 +776,14 @@ U36 = "countries/Cree.txt"
 U37 = "countries/Kenai.txt"                    # chinese explorer tag in N. America. Royal family that escaped yellow turbans
 
 #South American Additions
-CSU = "countries/Cusco.txt"
-MCA = "countries/Muisca.txt"
-GUA = "countries/Guarani.txt"
-ARW = "countries/Arawak.txt"
-CAB = "countries/Carib.txt"
-ICM = "countries/Ichma.txt"
-KES = "countries/KeseSuwo.txt"					# Mali colony. Mandinke for "Good Home"... I think. probably butchered the grammar
+U38 = "countries/Cusco.txt"
+U39 = "countries/Muisca.txt"
+U40 = "countries/Guarani.txt"
+U41 = "countries/Arawak.txt"
+U42 = "countries/Carib.txt"
+U43 = "countries/Ichma.txt"
+
+C00 = "countries/KeseSuwo.txt"					# Mali colony. Mandinke for "Good Home"... I think. probably butchered the grammar
 
 #Golden Century Mesoamerican Tags   TO ADD LATER IF NEEDED
 #MAT = "countries/Matlatzinca.txt"

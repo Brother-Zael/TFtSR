@@ -1,7 +1,7 @@
 #807 - Abancay
-owner = CSU
-controller = CSU
-add_core = CSU
+owner = U38
+controller = U38
+add_core = U38
 culture = inca
 religion = inti
 capital = "Abancay"

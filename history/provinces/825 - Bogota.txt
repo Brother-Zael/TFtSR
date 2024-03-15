@@ -1,6 +1,6 @@
 #825 - Bogota
-owner = MCA
-controller = MCA
+owner = U39
+controller = U39
 culture = muisca
 discovered_by = south_american
 discovered_by = andean
@@ -12,6 +12,6 @@ hre = no
 base_tax = 6 
 base_production = 6
 base_manpower = 2
-add_core = MCA
+add_core = U39
 extra_cost = 8
 center_of_trade = 1

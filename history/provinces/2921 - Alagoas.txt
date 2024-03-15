@@ -1,7 +1,7 @@
 # - Alagoas
-owner = KES
-controller = KES
-add_core = KES
+owner = C00
+controller = C00
+add_core = C00
 culture = tupinamba
 discovered_by = south_american
 religion = shamanism
