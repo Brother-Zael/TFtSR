@@ -1,6 +1,6 @@
 #4335 - Kashan
-owner = TUR
-controller = TUR
+owner = P03
+controller = P03
 culture = persian
 religion = shiite
 capital = "Kashan"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = TUR
+add_core = P03
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

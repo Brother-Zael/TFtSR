@@ -1,6 +1,6 @@
 #4334 - Tabas
-owner = YAZ
-controller = YAZ
+owner = P04
+controller = P04
 culture = khorasani
 religion = zoroastrian
 capital = "Tabas"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = YAZ
+add_core = P04
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

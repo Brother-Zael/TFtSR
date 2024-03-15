@@ -1,6 +1,6 @@
 #575 - Eastern Makran
-owner = NBK
-controller = NBK
+owner = P10
+controller = P10
 culture = baluchi
 religion = sunni
 capital = "Chabahar"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = NBK
+add_core = P10
 add_local_autonomy = 50
 discovered_by = east_african
 discovered_by = indian

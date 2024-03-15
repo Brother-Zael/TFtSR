@@ -1,6 +1,6 @@
 #416 - Azerbaijan
-owner = TUR
-controller = TUR
+owner = P03
+controller = P03
 culture = azerbaijani
 religion = shiite
 capital = "Tabriz"
@@ -10,7 +10,7 @@ base_tax = 7
 base_production = 7
 base_manpower = 3
 is_city = yes
-add_core = TUR
+add_core = P03
 fort_15th = yes
 discovered_by = muslim
 discovered_by = ottoman

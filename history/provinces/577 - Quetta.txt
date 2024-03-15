@@ -1,6 +1,6 @@
 #577 - Quetta
-owner = NBK
-controller = NBK
+owner = P10
+controller = P10
 culture = baluchi
 religion = sunni
 capital = "Quetta"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = NBK
+add_core = P10
 add_local_autonomy = 25
 discovered_by = indian
 discovered_by = muslim

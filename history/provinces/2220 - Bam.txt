@@ -1,6 +1,6 @@
 #2220 - Bam
-owner = NBK
-controller = NBK
+owner = P10
+controller = P10
 culture = greek
 religion = nestorian
 capital = "Bam"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = NBK
+add_core = P10
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

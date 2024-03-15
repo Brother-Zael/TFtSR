@@ -340,28 +340,28 @@ Y09 = "countries/Kalmyk.txt"
 Y10 = "countries/MongolEmpire.txt"
 
 #Iran
-ARD = "countries/Ardabil.txt"
-AST = "countries/Astara.txt"
-GIL = "countries/Gilan.txt"
-TUR = "countries/Turkistan.txt"
-YAZ = "countries/Yazd.txt"
-ISF = "countries/Isfahan.txt"
-SHR = "countries/Shiraz.txt"
-SRF = "countries/Siraf.txt"
-SBD = "countries/Saidabad.txt"
-ZAR = "countries/Zaranj.txt"
-NBK = "countries/NeoBaktria.txt"
-HPH = "countries/Hephthalites.txt"
-NSH = "countries/Nishapur.txt"               # vassal of Hephthalites
+P00 = "countries/Ardabil.txt"
+P01 = "countries/Astara.txt"
+P02 = "countries/Gilan.txt"
+P03 = "countries/Turkistan.txt"
+P04 = "countries/Yazd.txt"
+P05 = "countries/Isfahan.txt"
+P06 = "countries/Shiraz.txt"
+P07 = "countries/Siraf.txt"
+P08 = "countries/Saidabad.txt"
+P09 = "countries/Zaranj.txt"
+P10 = "countries/NeoBaktria.txt"
+P11 = "countries/Hephthalites.txt"
+P12 = "countries/Nishapur.txt"               # vassal of Hephthalites
 
-MRV = "countries/Merv.txt"                   # Releasable
-AFG = "countries/Afghanistan.txt"            # Releasable
-KHO = "countries/Khorosan.txt"               # Releasable (Capital is Herat)
-QOM = "countries/Qom.txt"                    # Releasable
-BVD = "countries/Bavandids.txt"              # Releasable
+P13 = "countries/Merv.txt"                   # Releasable
+P14 = "countries/Afghanistan.txt"            # Releasable
+P15 = "countries/Khorosan.txt"               # Releasable (Capital is Herat)
+P16 = "countries/Qom.txt"                    # Releasable
+P17 = "countries/Bavandids.txt"              # Releasable
 
-PER = "countries/Persia.txt"                 # Formable by roman or greek tech persian culture group tags
-IRA	= "countries/Iranshahr.txt"              # Formable by any non-roman non-greek persian culture group tag
+P18 = "countries/Persia.txt"                 # Formable by roman or greek tech persian culture group tags
+P19	= "countries/Iranshahr.txt"              # Formable by any non-roman non-greek persian culture group tag
 
 #Americas
 AZT = "countries/Aztec.txt"

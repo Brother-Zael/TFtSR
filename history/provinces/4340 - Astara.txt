@@ -1,6 +1,6 @@
 #4340 - Astara
-owner = AST
-controller = AST
+owner = P01
+controller = P01
 culture = azerbaijani
 religion = zoroastrian
 capital = "Astara"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = AST
+add_core = P01
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern

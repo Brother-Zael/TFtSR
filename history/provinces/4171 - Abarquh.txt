@@ -1,6 +1,6 @@
 #4171 - Abarquh
-owner = ISF
-controller = ISF
+owner = P05
+controller = P05
 culture = persian
 religion = nestorian
 capital = "Abarquh"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = ISF
+add_core = P05
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian

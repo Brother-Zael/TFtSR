@@ -1,6 +1,6 @@
 #430 - Bushehr
-owner = SRF
-controller = SRF
+owner = P07
+controller = P07
 culture = persian
 religion = shiite
 capital = "Bushehr"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = SRF
+add_core = P07
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman

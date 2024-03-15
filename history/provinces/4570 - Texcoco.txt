@@ -1,7 +1,7 @@
 # No previous file for Texcoco
-owner = AZT
-controller = AZT
-add_core = AZT
+owner = U00
+controller = U00
+add_core = U00
 culture = aztek 
 religion = nahuatl
 capital = "Texcoco" 
