@@ -363,18 +363,6 @@ P17 = "countries/Bavandids.txt"              # Releasable
 P18 = "countries/Persia.txt"                 # Formable by roman or greek tech persian culture group tags
 P19	= "countries/Iranshahr.txt"              # Formable by any non-roman non-greek persian culture group tag
 
-#Americas
-AZT = "countries/Aztec.txt"
-CHE = "countries/Cherokee.txt"
-CHM = "countries/Chimu.txt"
-CRE = "countries/Creek.txt"
-HUR = "countries/Huron.txt"
-IRO = "countries/Iroquois.txt"
-SHA = "countries/Shawnee.txt"
-ZAP = "countries/Zapotec.txt"
-INC = "countries/Inca.txt"
-MAY = "countries/Maya.txt"
-
 #West Africa
 ASH = "countries/Ashanti.txt"
 BEN = "countries/Benin.txt"
@@ -744,6 +732,18 @@ NPL	= "countries/Nepal.txt"           # Nepalese culture formable
 PAL = "countries/Pala.txt"			  # Pala princes reformable
 GSN = "countries/Gondistan.txt"		  # Gond culture formable
 PUN = "countries/Punjab.txt"
+
+#Americas
+U00 = "countries/Aztec.txt"
+U01 = "countries/Cherokee.txt"
+U02 = "countries/Chimu.txt"
+U03 = "countries/Creek.txt"
+U04 = "countries/Huron.txt"
+U05 = "countries/Iroquois.txt"
+U06 = "countries/Shawnee.txt"
+U07 = "countries/Zapotec.txt"
+U08 = "countries/Inca.txt"
+U09 = "countries/Maya.txt"
 
 #North American Additions
 VIN = "countries/Vinland.txt"		  # Vinland Saga but really

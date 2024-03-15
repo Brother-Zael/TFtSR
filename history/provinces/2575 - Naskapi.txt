@@ -1,7 +1,7 @@
 # No previous file for Naskapi
-owner = VIN
-controller = VIN
-add_core = VIN
+owner = U10
+controller = U10
+add_core = U10
 culture = innu
 religion = norse_pagan_reformed
 capital = "Naskapi"
