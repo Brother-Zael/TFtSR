@@ -1,6 +1,6 @@
 #286 - Azow
-owner = OYG
-controller = OYG
+owner = Y00
+controller = Y00
 culture = crimean
 religion = nestorian
 hre = no
@@ -10,7 +10,7 @@ trade_goods = slaves
 base_manpower = 3
 capital = "Tana"
 is_city = yes
-add_core = OYG
+add_core = Y00
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #284 - Crimea
-owner = OYG
-controller = OYG
+owner = Y00
+controller = Y00
 culture = crimean
 religion = nestorian
 hre = no
@@ -11,7 +11,7 @@ base_manpower = 6
 capital = "Qirq-Yer"
 is_city = yes
 fort_15th = yes #Qirq-Yer Fortress
-add_core = OYG
+add_core = Y00
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

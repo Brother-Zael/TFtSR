@@ -1,7 +1,7 @@
 #2428 - Yugan
-owner = SBR
-controller = SBR
-add_core = SBR
+owner = Y02
+controller = Y02
+add_core = Y02
 culture = ostyaki
 religion = tengri_pagan_reformed
 capital = "Yugan"

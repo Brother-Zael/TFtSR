@@ -1,8 +1,8 @@
 # 2120 - Ili
-owner = MER
-controller = MER
-add_core = MER
-add_core = OIR
+owner = Y04
+controller = Y04
+add_core = Y04
+add_core = Y03
 culture = uyghur
 religion = nestorian
 capital = "Ili"

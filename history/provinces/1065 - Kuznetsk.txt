@@ -2,9 +2,9 @@
 latent_trade_goods = {
 	coal
 }
-owner = KLM
-controller = KLM
-add_core = KLM
+owner = Y09
+controller = Y09
+add_core = Y09
 culture = kirgiz
 religion = tengri_pagan_reformed
 capital = "Kuznetsk"

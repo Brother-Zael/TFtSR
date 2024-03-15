@@ -1,7 +1,7 @@
 #459 - Taraz
-owner = MER
-controller = MER
-add_core = MER
+owner = Y04
+controller = Y04
+add_core = Y04
 culture = khazak
 religion = nestorian
 capital = "Taraz"

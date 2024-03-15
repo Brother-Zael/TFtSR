@@ -1,7 +1,7 @@
 # 4684 - Dzhemenika
-owner = OIR
-controller = OIR
-add_core = OIR
+owner = Y03
+controller = Y03
+add_core = Y03
 culture = oirats
 religion = tengri_pagan_reformed
 capital = "Dzhemenika"

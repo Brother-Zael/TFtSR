@@ -1,7 +1,7 @@
 #739 - Kashgar
-owner = KSH
-controller = KSH
-add_core = KSH
+owner = Y07
+controller = Y07
+add_core = Y07
 culture = uyghur
 religion = vajrayana
 capital = "Kashgar"

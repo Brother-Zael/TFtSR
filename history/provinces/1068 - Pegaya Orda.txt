@@ -1,7 +1,7 @@
 #1068 - Pegaya Orda
-owner = KLM
-controller = KLM
-add_core = KLM
+owner = Y09
+controller = Y09
+add_core = Y09
 culture = ostyaki
 religion = tengri_pagan_reformed
 capital = "Ket"

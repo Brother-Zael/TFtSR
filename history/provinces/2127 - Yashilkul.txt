@@ -1,7 +1,7 @@
 # 2127 - Yashilkul
-owner = KSH
-controller = KSH
-add_core = KSH
+owner = Y07
+controller = Y07
+add_core = Y07
 culture = uzbehk
 religion = vajrayana
 capital = "Yashilkul"

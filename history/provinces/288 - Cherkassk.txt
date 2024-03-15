@@ -1,6 +1,6 @@
 #288 - Cherkassk
-owner = KIP
-controller = KIP
+owner = Y01
+controller = Y01
 culture = mishary
 religion = vajrayana
 hre = no
@@ -10,7 +10,7 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Cherkassk"
 is_city = yes
-add_core = KIP
+add_core = Y01
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,7 +1,7 @@
 # 2126 - Chuy
-owner = MER
-controller = MER
-add_core = MER
+owner = Y04
+controller = Y04
+add_core = Y04
 culture = kirgiz
 religion = tengri_pagan_reformed
 capital = "Chuy"

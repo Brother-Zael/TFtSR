@@ -1,6 +1,6 @@
 #437 - Atak
-owner = TRN
-controller = TRN
+owner = Y06
+controller = Y06
 culture = turkmeni
 religion = zoroastrian
 capital = "Nisa"
@@ -10,7 +10,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = TRN
+add_core = Y06
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
