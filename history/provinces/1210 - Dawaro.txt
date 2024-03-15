@@ -1,7 +1,7 @@
 #1210 - Dawaro
-owner = ORO
-controller = ORO
-add_core = ORO
+owner = R05
+controller = R05
+add_core = R05
 culture = harari 
 religion = coptic
 capital = "Gende Belo"

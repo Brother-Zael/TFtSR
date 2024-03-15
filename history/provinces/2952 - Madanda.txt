@@ -1,7 +1,7 @@
 # - Madanda
-owner = ZUL
-controller = ZUL
-add_core = ZUL
+owner = R27
+controller = R27
+add_core = R27
 culture = shona
 religion = shamanism
 capital = "Madanda"

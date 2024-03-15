@@ -1,7 +1,7 @@
 #1211 - Harer
-owner = HAR
-controller = HAR
-add_core = HAR
+owner = R07
+controller = R07
+add_core = R07
 culture = harari
 religion = sunni
 capital = "Harer"

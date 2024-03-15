@@ -1,7 +1,7 @@
 #4051 - Ewaso Ngiro
-owner = EWA
-controller = EWA
-add_core = EWA
+owner = R19
+controller = R19
+add_core = R19
 culture = somali
 religion = shamanism
 capital = "Ewaso Ngiro"

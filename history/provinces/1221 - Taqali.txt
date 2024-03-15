@@ -1,7 +1,7 @@
 #1221 - Kordofan
-owner = DAR
-controller = DAR
-add_core = DAR
+owner = R06
+controller = R06
+add_core = R06
 religion = coptic
 culture = nubian
 religion = shamanism #Fetishism

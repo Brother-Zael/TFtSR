@@ -1,7 +1,7 @@
 #1223 - Gojjam
-owner = GON
-controller = GON
-add_core = GON
+owner = R02
+controller = R02
+add_core = R02
 culture = amhara 
 religion = coptic
 capital = "Debre Asbo"

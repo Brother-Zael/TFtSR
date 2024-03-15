@@ -1,7 +1,7 @@
 #2758 - Illubabor
-owner = GON
-controller = GON
-add_core = GON
+owner = R02
+controller = R02
+add_core = R02
 culture = sidamo
 religion = coptic
 capital = "Illubabor"

@@ -2,7 +2,7 @@
 culture = tunjur 
 religion = shamanism #Fetishism
 capital = "Medowa"
-add_core = DAR
+add_core = R06
 native_size = 50
 native_ferocity = 4
 native_hostileness = 9 

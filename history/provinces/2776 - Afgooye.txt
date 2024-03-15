@@ -1,7 +1,7 @@
 #2776 - Afgooye
-owner = BAR
-controller = BAR
-add_core = BAR
+owner = R15
+controller = R15
+add_core = R15
 culture = somali
 religion = sunni
 capital = "Afgooye"

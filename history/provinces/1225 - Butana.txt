@@ -1,7 +1,7 @@
 #1225 - Butana
-owner = BEJ
-controller = BEJ
-add_core = BEJ
+owner = R10
+controller = R10
+add_core = R10
 culture = nubian 
 religion = shiite
 capital = "Qarri"

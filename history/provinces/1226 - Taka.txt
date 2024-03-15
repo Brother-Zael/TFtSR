@@ -1,7 +1,7 @@
 #1226 - Taka
-owner = BEJ
-controller = BEJ
-add_core = BEJ
+owner = R10
+controller = R10
+add_core = R10
 culture = beja 
 religion = shiite
 capital = "Qoz Rajab"

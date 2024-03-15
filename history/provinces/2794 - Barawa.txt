@@ -1,7 +1,7 @@
 #2794 - Barawa
-owner = PTE
-controller = PTE
-add_core = PTE
+owner = R22
+controller = R22
+add_core = R22
 culture = somali
 religion = coptic
 capital = "Barawa"

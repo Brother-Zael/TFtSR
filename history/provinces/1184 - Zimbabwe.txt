@@ -1,7 +1,7 @@
 #1184 - Zimbabwe
-owner = ZIM
-controller = ZIM
-add_core = ZIM
+owner = R24
+controller = R24
+add_core = R24
 culture = shona
 religion = shamanism
 capital = "Zimbabwe"

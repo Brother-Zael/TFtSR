@@ -1,7 +1,7 @@
 #Makua
-owner = MZQ
-controller = MZQ
-add_core = MZQ
+owner = R29
+controller = R29
+add_core = R29
 culture = makua
 religion = shamanism #Fetishism
 capital = "Makua"

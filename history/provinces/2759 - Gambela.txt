@@ -1,7 +1,7 @@
 #2759 - Gambela
-owner = NER
-controller = NER
-add_core = NER
+owner = R04
+controller = R04
+add_core = R04
 culture = sidamo 
 religion = shamanism #Fetishism
 capital = "Gambela"

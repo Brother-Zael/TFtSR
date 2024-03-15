@@ -1,7 +1,7 @@
 #1206 - Qardho
-owner = BSA
-controller = BSA
-add_core = BSA
+owner = R17
+controller = R17
+add_core = R17
 culture = somali
 religion = sunni
 capital = "Qardho"

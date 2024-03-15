@@ -1,7 +1,7 @@
 #1181 - Natal
-owner = ZUL
-controller = ZUL
-add_core = ZUL
+owner = R27
+controller = R27
+add_core = R27
 culture = nguni
 religion = shamanism #Fetishism
 capital = "Magulu"

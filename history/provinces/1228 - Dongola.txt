@@ -2,9 +2,9 @@
 culture = nubian 
 religion = coptic
 capital = "Dunqula"
-owner = MAK
-controller = MAK
-add_core = MAK
+owner = R00
+controller = R00
+add_core = R00
 is_city = yes
 trade_goods = grain
 base_manpower = 2

@@ -1,7 +1,7 @@
 #1203 - Malindi
-owner = MLI
-controller = MLI
-add_core = MLI
+owner = R20
+controller = R20
+add_core = R20
 culture = swahili
 religion = sunni
 capital = "Malindi"

@@ -1,7 +1,7 @@
 #1218 - Sidamo
-owner = ORO
-controller = ORO
-add_core = ORO
+owner = R05
+controller = R05
+add_core = R05
 culture = sidamo 
 religion = shamanism
 capital = "Irgalem"

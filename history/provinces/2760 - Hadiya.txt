@@ -1,7 +1,7 @@
 #2760 - Hadiya
-owner = HAD
-controller = HAD
-add_core = HAD
+owner = R12
+controller = R12
+add_core = R12
 culture = sidamo 
 religion = coptic
 capital = "Angacha"

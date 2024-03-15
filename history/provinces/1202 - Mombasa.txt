@@ -1,7 +1,7 @@
 #1202 - Mombasa
-owner = MBA
-controller = MBA
-add_core = MBA
+owner = R18
+controller = R18
+add_core = R18
 culture = swahili
 religion = sunni
 capital = "Mombasa"

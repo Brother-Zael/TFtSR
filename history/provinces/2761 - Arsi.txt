@@ -1,7 +1,7 @@
 #2761 - Arsi
-owner = HAD
-controller = HAD
-add_core = HAD
+owner = R12
+controller = R12
+add_core = R12
 culture = amhara 
 religion = coptic
 capital = "Assela"

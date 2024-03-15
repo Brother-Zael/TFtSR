@@ -1,7 +1,7 @@
 #1207 - Ogaden
-owner = AFD
-controller = AFD
-add_core = AFD
+owner = R14
+controller = R14
+add_core = R14
 culture = somali
 religion = coptic
 capital = "Bale"

@@ -1,7 +1,7 @@
 #Kalonga
-owner = ZIM
-controller = ZIM
-add_core = ZIM
+owner = R24
+controller = R24
+add_core = R24
 culture = nyasa
 religion = shamanism #Fetishism
 capital = "Manthimba"

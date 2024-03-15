@@ -1,7 +1,7 @@
 #1225 - Butana
-owner = SEM
-controller = SEM
-add_core = SEM
+owner = R09
+controller = R09
+add_core = R09
 culture = nubian 
 religion = jewish
 capital = "Al-Qadarif"

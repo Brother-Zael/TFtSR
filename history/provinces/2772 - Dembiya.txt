@@ -1,7 +1,7 @@
 #2772 - Dembiya
-owner = SEM
-controller = SEM
-add_core = SEM
+owner = R09
+controller = R09
+add_core = R09
 culture = amhara 
 religion = jewish
 capital = "Gorgora"
