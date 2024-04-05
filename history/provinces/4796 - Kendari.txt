@@ -1,6 +1,6 @@
-owner = MKS
-controller = MKS
-add_core = MKS
+owner = J14
+controller = J14
+add_core = J14
 culture = sulawesi
 religion = animism
 capital = "Kendari"

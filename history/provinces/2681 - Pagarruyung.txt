@@ -1,7 +1,7 @@
 #2681 - Pagarruyung
-owner = PGR
-controller = PGR
-add_core = PGR
+owner = J10
+controller = J10
+add_core = J10
 culture = sumatran
 religion = zoroastrian
 capital = "Pagarruyung"

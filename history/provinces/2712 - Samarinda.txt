@@ -1,6 +1,6 @@
 #2712 - Samarinda
-owner = SMR
-controller = SMR
+owner = J21
+controller = J21
 culture = bornean
 religion = hinduism
 capital = "Samarinda"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = SMR
+add_core = J21
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

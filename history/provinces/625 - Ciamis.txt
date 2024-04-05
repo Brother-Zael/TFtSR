@@ -1,7 +1,7 @@
 #625 - Ciamis
-owner = KTA
-controller = KTA
-add_core = KTA
+owner = J16
+controller = J16
+add_core = J16
 culture = sundanese
 religion = hinduism
 capital = "Ciamis"

@@ -1,7 +1,7 @@
 #637 - Api-Api
-owner = BEI
-controller = BEI
-add_core = BEI
+owner = J13
+controller = J13
+add_core = J13
 culture = bornean
 religion = hinduism
 capital = "Api-Api"

@@ -1,5 +1,5 @@
-owner = KDH
-controller = KDH
+owner = J00
+controller = J00
 culture = malayan
 religion = sunni
 capital = "Pengang"
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = KDH
+add_core = J00
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

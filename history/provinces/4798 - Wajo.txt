@@ -1,5 +1,5 @@
-owner = WAJ
-controller = WAJ
+owner = J27
+controller = J27
 culture = sulawesi
 religion = hinduism
 capital = "Wajo"
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = WAJ
+add_core = J27
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

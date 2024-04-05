@@ -1,6 +1,6 @@
 #638 - Kutai
-owner = KTI
-controller = KTI
+owner = J20
+controller = J20
 culture = bornean
 religion = hinduism
 capital = "Kutai"
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = KTI
+add_core = J20
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

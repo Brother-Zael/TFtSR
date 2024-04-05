@@ -1,6 +1,6 @@
 #641 - Makassar
-owner = MKS
-controller = MKS
+owner = J14
+controller = J14
 culture = sulawesi
 religion = animism
 capital = "Makassar"
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 6
 base_manpower = 3
 is_city = yes
-add_core = MKS
+add_core = J14
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

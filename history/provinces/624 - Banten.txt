@@ -1,7 +1,7 @@
 #624 - Banten
-owner = SUN
-controller = SUN
-add_core = SUN
+owner = J09
+controller = J09
+add_core = J09
 culture = sundanese
 religion = hinduism
 capital = "Banten"

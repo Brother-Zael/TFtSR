@@ -1,5 +1,5 @@
-owner = SAK
-controller = SAK
+owner = J04
+controller = J04
 culture = sumatran
 religion = hinduism
 capital = "Deli"
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = SAK
+add_core = J04
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

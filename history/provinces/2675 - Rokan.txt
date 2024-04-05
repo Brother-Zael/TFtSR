@@ -1,6 +1,6 @@
 #2675 - Rokan
-owner = SAK
-controller = SAK
+owner = J04
+controller = J04
 culture = sumatran
 religion = nestorian
 capital = "Rokan"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = SAK
+add_core = J04
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

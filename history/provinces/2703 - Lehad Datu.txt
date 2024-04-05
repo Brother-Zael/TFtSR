@@ -1,6 +1,6 @@
 #2703 - Lehad Datu
-owner = DAT
-controller = DAT
+owner = J18
+controller = J18
 culture = bornean
 religion = mahayana
 capital = "Lehad Datu"
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = DAT
+add_core = J18
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

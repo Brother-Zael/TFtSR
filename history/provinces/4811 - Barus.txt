@@ -1,5 +1,5 @@
-owner = KRJ
-controller = KRJ
+owner = J11
+controller = J11
 culture = sumatran
 religion = sunni
 capital = "Barus"
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = KRJ
+add_core = J11
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

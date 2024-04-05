@@ -1,7 +1,7 @@
 # Cirebon
-owner = MAJ
-controller = MAJ
-add_core = MAJ
+owner = J15
+controller = J15
+add_core = J15
 culture = sundanese
 religion = hinduism
 capital = "Cirebon"

@@ -2,9 +2,9 @@
 latent_trade_goods = {
 	coal
 }
-owner = BKL
-controller = BKL
-add_core = BKL
+owner = J08
+controller = J08
+add_core = J08
 culture = sumatran
 religion = hinduism
 capital = "Bengkulu"

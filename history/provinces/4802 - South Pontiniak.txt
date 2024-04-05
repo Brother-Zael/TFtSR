@@ -1,6 +1,6 @@
-owner = PLB
-controller = PLB
-add_core = PLB
+owner = J07
+controller = J07
+add_core = J07
 culture = bornean
 religion = hinduism
 capital = "Pontiniak"

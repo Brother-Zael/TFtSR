@@ -1,7 +1,7 @@
 #2715 - Palopo
-owner = WAJ
-controller = WAJ
-add_core = WAJ
+owner = J27
+controller = J27
+add_core = J27
 culture = sulawesi
 religion = hinduism
 capital = "Palopo"

@@ -1,7 +1,7 @@
 #629 - Demak
-owner = MAJ
-controller = MAJ
-add_core = MAJ
+owner = J15
+controller = J15
+add_core = J15
 culture = javanese
 religion = hinduism
 capital = "Demak"

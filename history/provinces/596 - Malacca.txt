@@ -1,6 +1,6 @@
 #596 - Malacca
-owner = SAK
-controller = SAK
+owner = J04
+controller = J04
 culture = malayan
 religion = nestorian
 capital = "Malacca"
@@ -10,7 +10,7 @@ base_tax = 7
 base_production = 7
 base_manpower = 3
 is_city = yes
-add_core = SAK
+add_core = J04
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

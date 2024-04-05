@@ -1,5 +1,5 @@
-owner = LKT
-controller = LKT
+owner = J05
+controller = J05
 culture = acehnese
 religion = hinduism
 capital = "Langkat"
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = LKT
+add_core = J05
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

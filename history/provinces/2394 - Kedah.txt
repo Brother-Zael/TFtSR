@@ -1,6 +1,6 @@
 #2394 - Kedah
-owner = KDH
-controller = KDH
+owner = J00
+controller = J00
 culture = malayan
 religion = sunni
 capital = "Kedah"
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = KDH
+add_core = J00
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

@@ -1,6 +1,6 @@
 #636 - Brunei
-owner = BEI
-controller = BEI
+owner = J13
+controller = J13
 culture = bornean
 religion = hinduism
 capital = "Brunei"
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = BEI
+add_core = J13
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

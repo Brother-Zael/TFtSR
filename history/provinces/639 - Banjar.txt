@@ -1,7 +1,7 @@
 #639 - Banjar
-owner = SMP
-controller = SMP
-add_core = SMP
+owner = J22
+controller = J22
+add_core = J22
 culture = bornean
 religion = hinduism
 capital = "Banjar"

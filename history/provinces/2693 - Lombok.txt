@@ -1,7 +1,7 @@
 #2693 - Lombok
-owner = LBK
-controller = LBK 
-add_core = LBK
+owner = J29
+controller = J29 
+add_core = J29
 culture = nusa_tenggara
 religion = animism
 capital = "Lombok"
